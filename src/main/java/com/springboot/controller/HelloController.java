@@ -22,4 +22,9 @@ public class HelloController {
     public String sayHello(){
         return "say"+name;
     }
+
+    @RequestMapping
+    public String index() {
+        return "index";
+    }
 }
