@@ -1,0 +1,39 @@
+第11章　公共子项目119
+11.1　命令行工具：Spring Boot CLI119
+11.1.1　安装Spring Boot CLI119
+11.1.2　使用Spring Cloud CLI120
+11.1.3　加解密122
+11.2　注册中心：Spring Cloud ZooKeeper122
+11.2.1　安装ZooKeeper122
+11.2.2　基于ZooKeeper服务发现122
+11.2.3　相关配置124
+11.2.4　节点监听126
+11.3　注册中心：Spring Cloud Consul127
+11.3.1　安装Consul127
+11.3.2　基于Consul注册服务127
+11.4　小结128
+第 11章 服务注册和发现Consul 160
+11．1 什么是Consul 160
+11．1．1 基本术语 160
+11．1．2 Consul的特点和功能 161
+11．1．3 Consul的原理 161
+11．1．4 Consul的基本架构 161
+11．1．5 Consul服务注册发现流程 163
+11．2 Consul与Eureka比较 163
+11．3 下载和安装Consul 164
+11．4 使用Spring Cloud Consul进行服务注册和发现 165
+11．4．1 服务提供者consul-provider 165
+11．4．2 服务消费者consul-provider 167
+11．5 使用Spring Cloud Consul Config做服务配置中心 168
+11．6 动态刷新配置 170
+11．7 总结 171
+第13章　服务治理：Spring Cloud Consul和Spring Cloud ZooKeeper　　186
+13.1　服务治理简介　　186
+13.2　Spring Cloud Consul的使用　　186
+13.2.1　Consul的安装与部署　　187
+13.2.2　Spring Cloud集成Consul　　189
+13.3　Spring Cloud ZooKeeper的使用　　190
+13.3.1　ZooKeeper的安装和部署　　191
+13.3.2　Spring Cloud集成ZooKeeper　　191
+13.4　小结　　193
+

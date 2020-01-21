@@ -1,0 +1,35 @@
+第 16章 使用Spring Cloud OAuth2保护微服务系统 230
+16．1 什么是OAuth2 230
+16．2 如何使用Spring OAuth2 231
+16．2．1 OAuth2 Provider 231
+16．2．2 OAuth2 Client 235
+16．3 案例分析 236
+16．3．1 编写Eureka Server 237
+16．3．2 编写Uaa授权服务 237
+16．3．3 编写service-hi资源服务 244
+16．4 总结 250
+
+第14章　使用Spring Cloud OAuth2
+保护微服务系统 195
+14.1　什么是OAuth2 195
+14.2　如何使用Spring OAuth2 196
+14.2.1　OAuth2 Provider 196
+14.2.2　OAuth2 Client 200
+14.3　案例分析 201
+14.3.1　编写Eureka Server 202
+14.3.2　编写Uaa授权服务 202
+14.3.3　编写service-hi资源服务 209
+14.4　总结 215
+第 17章 使用Spring Security OAuth2和JWT保护微服务系统 251
+17．1 JWT简介 251
+17．1．1 什么是JWT 251
+17．1．2 JWT的结构 252
+17．1．3 JWT的应用场景 253
+17．1．4 如何使用JWT 253
+17．2 案例分析 253
+17．2．1 案例架构设计 253
+17．2．2 编写主Maven工程 254
+17．2．3 编写Eureka Server 256
+17．2．4 编写Uaa授权服务 256
+17．2．5 编写user-service资源服务 262
+17．3 总结 270

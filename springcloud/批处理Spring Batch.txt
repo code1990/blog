@@ -1,0 +1,22 @@
+第9 章 Spring Boot 企业级开发  340
+9.1 安全控制Spring Security  340
+9.1.1 Spring Security 快速入门 340
+9.1.2 Spring Boot 的支持  347
+9.1.3 实战  348
+9.2 批处理Spring Batch  362
+9.2.1 Spring Batch 快速入门  362
+9.2.2 Spring Boot 的支持  370
+9.2.3 实战  371
+9.3 异步消息  385
+9.3.1 企业级消息代理  386
+9.3.2 Spring 的支持 386
+9.3.3 Spring Boot 的支持  386
+9.3.4 JMS 实战  387
+9.3.5 AMQP 实战 391
+9.4 系统集成Spring Integration  395
+9.4.1 Spring Integration 快速入门  395
+9.4.2 Message  395
+9.4.3 Channel  395
+9.4.4 Message EndPoint 398
+9.4.5 Spring Integration Java DSL  400
+9.4.6 实战  400
