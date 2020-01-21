@@ -1,0 +1,106 @@
+第3章  Spring Boot配置  20
+3.1  配置文件  21
+3.1.1  默认配置文件  21
+3.1.2  指定配置文件  22
+3.1.3  yml文件  22
+3.1.4  使用profile指定配置  23
+3.2  Web配置  24
+3.2.1  Servlet配置  24
+3.2.2  Listener配置  25
+3.2.3  Filter配置  26
+3.2.4  构建可部署的war包  26
+3.2.5  JSP配置  28
+3.3  其他配置  30
+3.3.1  服务器常用配置  30
+3.3.2  响应压缩  30
+3.3.3  SSL配置  32
+3.3.4  使用其他服务器  32
+3.3.5  服务器访问日志  33
+3.3.6  banner配置  34
+3.4  自定义配置  35
+3.4.1  @Value注解  35
+3.4.2  定义属性映射对象  36
+3.4.3  使用配置  37
+3.4.4  属性自动识别  38
+3.5  本章小结  39
+第2章  Spring Boot核心  19
+2.1  Spring Boot的启动类与核心注解@SpringBootApplication  20
+2.2  Spring Boot基本配置介绍  21
+2.2.1  关闭某个自动配置  21
+2.2.2  定制启动banner  22
+2.2.3  应用的全局配置文件  23
+2.2.4  Spring Boot的依赖模块  24
+2.3  Spring Boot自动配置原理  25
+2.3.1  源码分析  25
+2.3.2  spring.factories分析  27
+2.3.3  Spring Boot Web开发的自动配置  29
+2.4  本章小结  30
+第 4 章  深入 Spring Boot . 69
+4.1  Spring Boot 介绍 .... 69
+4.2  Spring Boot 的“魔法” .. 69
+4.2.1  加载自动配置 ... 69
+4.2.2  实现自动配置 ... 71
+4.3  Spring Boot 的配置  73
+4.3.1  应用配置 ..... 74
+4.3.2  修改默认配置 ... 76
+4.3.3  外部配置 ..... 79
+4.4  日志和报告  91
+4.4.1  日志 . 91
+4.4.2  报告 . 93
+4.5  多线程任务和计划任务 .. 94
+4.5.1  Task Executor .... 94
+4.5.2  Task Scheduler .. 97
+4.6  Gradle 插件  99
+4.6.1  依赖 . 99
+4.6.2  Spring Boot Starter .... 100
+4.6.3  插件任务 ... 100
+4.7  自定义Starter . 100
+4.7.1  包装技术库 ..... 101
+4.7.2  Starter 的结构 . 103
+4.7.3  autoconfigure 模块 .... 105
+4.7.4  Starter 模块 ..... 107
+4.7.5  使用 Starter ..... 108
+4.8  Spring Boot Actuator .. 110
+4.8.1  常用端点 ... 110
+4.8.2  自定义 . 119
+4.8.3  使用 Prometheus 和Grafana 监控指标 ... 124
+4.9  小结 .... 128
+第3章　深入理解Spring Boot自动配置 23
+3.1　传统的SSM开发过程 23
+3.2　Spring Boot自动配置原理 26
+3.2.1　Java配置 26
+3.2.2　条件化Bean 27
+3.2.3　组合注解 32
+3.3　Spring Boot自动配置过程 33
+3.3.1　@EnableAutoConfiguration注解 33
+3.3.2　spring.factories文件 34
+3.3.3　获取候选配置类 35
+3.4　FreeMarkerAutoConfiguration实例分析 35
+3.4.1　spring-boot-starter-freemarker工程 35
+3.4.2　spring-boot-autoconfigure工程 37
+3.5　本章小结 39
+第7章　Spring Boot配置
+7.1　配置Spring Boot
+7.1.1　服务器配置
+7.1.2　使用其他Web服务器
+7.1.3　配置启动信息
+7.1.4　配置浏览器显示ico
+7.2　日志配置
+7.3　读取应用配置
+7.3.1　Environment
+7.3.2　@Value
+7.3.3　@ConfigurationProperties
+7.4　Spring Boot自动装配
+7.4.1　@Configuration和@Bean
+7.4.2　Bean条件装配
+7.4.3　Class条件装配
+7.4.4　Environment装配
+7.4.5　其他条件装配
+7.4.6　联合多个条件
+7.4.7　Condition接口
+7.4.8　制作Starter
+第8章　部署Spring Boot应用
+8.1　以jar文件运行
+8.2　以war方式部署
+8.3　多环境部署
+8.4　@Profile注解

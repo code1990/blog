@@ -1,0 +1,20 @@
+第12章 Spring Boot打包部署  303
+12.1 使用IDE启动  303
+12.1.1 运行Spring Boot应用程序  303
+12.1.2 IntelliJ IDEA启动多实例  304
+12.2 使用Maven启动  305
+12.3 JAR形式启动  305
+12.3.1 使用命令将Spring Boot应用程序打成JAR  305
+12.3.2 IntelliJ IDEA打JAR包  306
+12.4 War形式启动  307
+12.4.1 创建项目  307
+12.4.2 打War包部署到Tomcat  308
+12.5 使用Docker构建Spring Boot项目  308
+12.5.1 Docker简介  309
+12.5.2 安装Docker  309
+12.5.3 Dockerfile  309
+12.5.4 运行Docker镜像  310
+12.6 使用Jenkins自动化部署SpringBoot应用  311
+12.6.1 Jenkins简介  311
+12.6.2 Spring Boot应用使用Jenkins  311
+12.7 小结  317

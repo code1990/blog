@@ -1,0 +1,28 @@
+第4章  Spring Boot的注解  40
+4.1  Spring的常用注解  41
+4.1.1  bean定义  41
+4.1.2  依赖注入  42
+4.1.3  使用Primary注解  44
+4.1.4  Scope注解  45
+4.1.5  方法注入  46
+4.1.6  AOP注解  47
+4.1.7  ComponentScan注解  49
+4.2  高级Spring注解  50
+4.2.1  限定注解  50
+4.2.2  自定义限定注解  51
+4.2.3  自定义bean的生命周期  52
+4.3  Spring MVC的常用注解  54
+4.3.1  Controller注解  54
+4.3.2  RequestMapping注解  55
+4.3.3  PathVariable注解  56
+4.3.4  MatrixVariable注解  56
+4.3.5  RequestParam注解  57
+4.3.6  文件上传  58
+4.3.7  RestController注解  58
+4.4  Spring Boot的条件注解  59
+4.4.1  类条件注解  59
+4.4.2  项目依赖问题  60
+4.4.3  其他条件注解  61
+4.4.4  自定义条件注解  61
+4.4.5  Spring Boot的自动配置  62
+4.5  本章小结  63

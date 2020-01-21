@@ -1,0 +1,80 @@
+第9章　Testing单元测试
+9.1　JUnit介绍
+9.1.1　JUnit的相关概念
+9.1.2　JUnit测试
+9.1.3　Assert
+9.1.4　Suite
+9.2　Spring Boot单元测试
+9.2.1　测试范围依赖
+9.2.2　Spring Boot测试脚手架
+9.2.3　测试Service
+9.2.4　测试MVC
+9.2.5　完成MVC请求模拟
+9.2.6　比较MVC的返回结果
+9.2.7　JSON比较
+9.3　Mockito
+9.3.1　模拟对象
+9.3.2　模拟方法参数
+9.3.3　模拟方法返回值
+9.4　面向数据库应用的单元测试
+9.4.1　@Sql
+9.4.2　XLSUnit
+9.4.3　XLSUnit的基本用法
+
+第9章　Testing单元测试
+9.1　JUnit介绍
+9.1.1　JUnit的相关概念
+9.1.2　JUnit测试
+9.1.3　Assert
+9.1.4　Suite
+9.2　Spring Boot单元测试
+9.2.1　测试范围依赖
+9.2.2　Spring Boot测试脚手架
+9.2.3　测试Service
+9.2.4　测试MVC
+9.2.5　完成MVC请求模拟
+9.2.6　比较MVC的返回结果
+9.2.7　JSON比较
+9.3　Mockito
+9.3.1　模拟对象
+9.3.2　模拟方法参数
+9.3.3　模拟方法返回值
+9.4　面向数据库应用的单元测试
+9.4.1　@Sql
+9.4.2　XLSUnit
+9.4.3　XLSUnit的基本用法
+第2章  初试Spring Boot  7
+2.1  Spring Boot介绍  8
+2.1.1  Spring Boot简介  8
+2.1.2  starter模块  8
+2.2  构建第一个Spring Boot程序  9
+2.2.1  新建Maven项目  9
+2.2.2  编写启动类  10
+2.2.3  编写控制器  11
+2.2.4  开发环境的热部署  12
+2.3  运行单元测试  12
+2.3.1 测试Web服务  12
+2.3.2  模拟Web测试  13
+2.3.3  测试业务组件  13
+2.3.4  模拟业务组件  14
+2.4  发布与调用REST服务  15
+2.4.1  REST  15
+2.4.2  发布REST服务  15
+2.4.3  使用RestTemplate调用服务  16
+2.4.4  使用Feign调用服务  18
+2.5  本章小结  19
+第5章  Spring Boot的热部署与单元测试  142
+5.1  使用spring-boot-devtools进行热部署  143
+示例：使用spring-boot-devtools实现热部署  143
+5.2  Spring Boot的单元测试  147
+示例：使用Spring Boot的单元测试  147
+5.3  本章小结  155
+第19章　Spring Boot应用的测试 340
+19.1　准备工作 340
+19.2　分层测试 340
+19.2.1　dao层测试 341
+19.2.2　service层测试 342
+19.2.3　使用Mockito测试service层代码 342
+19.2.4　controller层测试 344
+19.2.5　JSON接口测试 346
+19.3　本章小结 347

@@ -1,0 +1,42 @@
+第8章 Spring Boot的监控之旅  185
+8.1 使用actuator监控  185
+8.1.1 actuator是什么  185
+8.1.2 如何使用actuator  185
+8.1.3 actuator监控介绍  186
+8.1.4 保护HTTP端点  188
+8.1.5 健康信息  190
+8.1.6 自定义应用程序信息  192
+8.1.7 自定义管理端点路径  192
+8.2 使用Admin监控  193
+8.2.1 什么是Spring Boot Admin  193
+8.2.2 设置Spring Boot Admin Server  193
+8.2.3 Spring Cloud Eureka  194
+8.2.4 Spring Boot Admin Client的使用  197
+8.2.5 安全验证  202
+8.2.6 JMX-bean管理  203
+8.2.7 通知  203
+8.3 Prometheus Grafana监控  207
+8.3.1 Prometheus的安装  207
+8.3.2 Grafana的安装  208
+8.3.3 Spring Boot项目使用Prometheus  208
+8.3.4 Prometheus配置  210
+8.3.5 启动Grafana  211
+8.4 小结  213
+第18章　Spring Boot应用的监控：Actuator与Admin 308
+18.1　Actuator简介 308
+18.2　启用Actuator 309
+18.3　揭秘端点 311
+18.3.1　常用的Actuator端点 311
+18.3.2　启用和禁用端点 317
+18.4　自定义Actuator端点 318
+18.4.1　Endpoint接口 319
+18.4.2　实现Endpoint接口 320
+18.4.3　继承AbstractEndpoint抽象类 321
+18.4.4　实现健康指标接口HealthIndicator 323
+18.4.5　实现度量指标接口PublicMetrics 324
+18.4.6　统计方法执行数据 328
+18.5　使用Admin 331
+18.5.1　Admin简介 331
+18.5.2　创建Admin Server项目 334
+18.5.3　在客户端使用Admin Server 335
+18.6　本章小结 339

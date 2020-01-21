@@ -1,0 +1,91 @@
+第7章 Spring Boot的安全之旅  165
+7.1 使用Shiro安全管理  165
+7.1.1 什么是Shiro  165
+7.1.2 使用Shiro做权限控制  167
+7.2 使用Spring Security  177
+7.2.1 Spring Security简介  177
+7.2.2 使用Spring Security做权限控制  178
+7.3 小结  184
+第6章  Spring Boot的Security安全控制  156
+6.1  Spring Security是什么  157
+6.2  Spring Security入门  157
+6.2.1  Security适配器  157
+6.2.2  用户认证  158
+6.2.3  用户授权  158
+6.2.4  Spring Security核心类  160
+6.2.5  Spring Security的验证机制  161
+6.2.6  Spring Boot的支持  161
+示例：简单Spring Boot Security应用  162
+6.3  企业项目中的Spring Security操作  173
+示例：基于JPA的Spring Boot Security操作  173
+示例：基于MyBatis的Spring Boot
+Security操作  180
+示例：基于JDBC的Spring Boot Security操作  183
+6.4  本章小结  185
+第10 章 集成 Spring Security..... 206
+10.1 基于角色的权限管理  207
+10.2 Spring Security 概述 .. 210
+10.3 Spring Security 与 Spring Boot 集成 . 218
+10.4 Spring Security 实战 .. 219
+第10章　Spring Boot集成Spring Security安全开发 193
+10.1　Spring Security简介 193
+10.2　Spring Security核心组件 194
+10.3　项目实战 201
+10.3.1　初阶Security：默认认证用户名密码 201
+10.3.2　中阶Security：内存用户名密码认证 204
+10.3.3　角色权限控制 206
+10.3.4　进阶Security：基于数据库的用户和角色权限 211
+10.4　本章小结 225
+第 7 章  安全控制 . 267
+7.1  Spring Security 的应用 .. 267
+7.1.1  Spring Boot 的自动配置 . 267
+7.1.2  开启Web 安全配置 . 268
+7.1.3  定制Web 安全配置 . 268
+7.1.4  Authentication . 269
+7.1.5  Authorization ... 281
+7.1.6  Spring Data 集成 . 294
+7.2  Spring Security 实战 .. 295
+7.3  OAuth 2.0 . 301
+7.3.1  OAuth 2.0 Authorization Server .. 301
+7.3.2  OAuth 2.0 Resource Server ... 310
+7.3.3  OAuth 2.0 Client . 317
+7.4  小结 .... 322
+第6章　Spring Boot SSO 123
+6.1　模块化设计 123
+6.2　登录认证模块 124
+6.2.1　使用OAuth2 124
+6.2.2　创建数字证书 125
+6.2.3　认证服务端配置 125
+6.3　安全配置模块 128
+6.4　SSO客户端 129
+6.4.1　客户端配置 129
+6.4.2　登录登出设计 130
+6.5　共享资源服务 132
+6.5.1　提供共享资源接口 133
+6.5.2　使用共享资源 134
+6.5.3　查询登录用户的详细信息 135
+6.6　运行与发布 136
+6.7　小结 138
+第5章　Spring Boot安全设计 96
+5.1　依赖配置管理 96
+5.2　安全策略配置 97
+5.2.1　权限管理规则 98
+5.2.2　登录成功处理器 99
+5.2.3　防攻击策略 100
+5.2.4　记住登录状态 102
+5.3　登录认证设计 103
+5.3.1　用户实体建模 103
+5.3.2　用户身份验证 104
+5.3.3　登录界面设计 106
+5.3.4　验证码验证 108
+5.4　权限管理设计 109
+5.4.1　权限管理配置 109
+5.4.2　权限管理过滤器 110
+5.4.3　权限配置资源管理器 111
+5.4.4　权限管理决断器 112
+5.5　根据权限设置链接 113
+5.6　运行与发布 116
+5.6.1　系统初始化 116
+5.6.2　系统运行与发布 118
+5.7　小结 119
+第二部分　分布式应用开发

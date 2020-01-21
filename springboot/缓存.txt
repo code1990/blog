@@ -1,0 +1,32 @@
+第5章 Spring Boot的缓存之旅  122
+5.1 使用Spring Cache  122
+5.1.1 Spring Cache简介  122
+5.1.2 配置Spring Cache依赖  124
+5.1.3 测试运行  125
+5.1.4 验证缓存  126
+5.2 使用Redis  127
+5.2.1 Redis简介  127
+5.2.2 项目配置  127
+5.2.3 测试运行  129
+5.2.4 使用Redis缓存  130
+5.3 使用Memcached  132
+5.3.1 Memcached简介  132
+5.3.2 配置Memcached依赖  132
+5.3.3 使用Memcached缓存  137
+5.3.4 Redis与Memcached的区别  138
+5.4 小结  138
+第15章　使用Spring Session集成Redis实现Session共享 273
+15.1　Spring Session简介 273
+15.2　Redis简介 275
+15.2.1　Redis是什么 275
+15.2.2　安装Redis 275
+15.2.3　设置Redis密码 276
+15.2.4　Redis数据类型 277
+15.2.5　Spring Boot集成Redis 279
+15.3　项目实战 281
+15.4　本章小结 285
+第14章　Spring Boot缓存 263
+14.1　Spring Cache简介 263
+14.2　Cache注解 264
+14.3　项目实战 266
+14.4　本章小结 272

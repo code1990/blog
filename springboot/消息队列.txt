@@ -1,0 +1,14 @@
+第9章 Spring Boot的消息之旅  214
+9.1 RabbitMQ消息队列  214
+9.1.1 RabbitMQ介绍  214
+9.1.2 RabbitMQ的几种角色  215
+9.1.3 RabbitMQ的几种模式  216
+9.1.4 Spring Boot使用RabbitMQ  218
+9.2 Kafka消息队列  226
+9.2.1 Kafka介绍  226
+9.2.2 Spring Boot使用Kafka  228
+9.3 RocketMQ消息队列  230
+9.3.1 RocketMQ介绍  230
+9.3.2 Spring Boot使用RocketMQ  231
+9.4 消息队列对比  236
+9.5 小结  238

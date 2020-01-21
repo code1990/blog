@@ -1,0 +1,229 @@
+第5章　数据库访问
+5.1　配置数据源
+5.2　Spring JDBC Template
+5.2.1　查询
+5.2.2　修改
+5.2.3　JdbcTemplate增强
+5.3　BeetlSQL介绍
+5.3.1　BeetlSQL功能概览
+5.3.2　添加Maven依赖
+5.3.3　配置BeetlSQL
+5.3.4　SQLManager
+5.3.5　使用SQL文件
+5.3.6　Mapper
+5.3.7　使用实体
+5.4　SQLManager内置CRUD
+5.4.1　内置的插入API
+5.4.2　内置的更新（删除）API
+5.4.3　内置的查询API
+5.4.4　代码生成方法
+5.5　使用sqlId
+5.5.1　md文件命名
+5.5.2　md文件构成
+5.5.3　调用sqlId
+5.5.4　翻页查询
+5.5.5　TailBean
+5.5.6　ORM查询
+5.5.7　其他API
+5.5.8　Mapper详解
+5.6　BeetlSQL的其他功能
+5.6.1　常用函数和标签
+5.6.2　主键设置
+5.6.3　BeetlSQL注解
+5.6.4　NameConversion
+5.6.5　锁
+第6章　Spring Data JPA
+6.1　集成Spring Data JPA
+6.1.1　集成数据源
+6.1.2　配置JPA支持
+6.1.3　创建Entity
+6.1.4　简化Entity
+6.2　Repository
+6.2.1　CrudRepository
+6.2.2　PagingAndSortingRepository
+6.2.3　JpaRepository
+6.2.4　持久化Entity
+6.2.5　Sort
+6.2.6　Pageable和Page
+6.2.7　基于方法名字查询
+6.2.8　@Query查询
+6.2.9　使用JPA Query
+6.2.10　Example查询
+第2章　在Spring Boot中使用数据库 24
+2.1　使用MySQL 24
+2.1.1　MySQL依赖配置 25
+2.1.2　实体建模 25
+2.1.3　实体持久化 27
+2.1.4　MySQL测试 29
+2.2　使用Redis 33
+2.2.1　Redis依赖配置 33
+2.2.2　创建Redis服务类 34
+2.2.3　Redis测试 36
+2.3　使用MongoDB 38
+2.3.1　MongoDB依赖配置 38
+2.3.2　文档建模 39
+2.3.3　文档持久化 40
+2.3.4　MongoDB测试 41
+2.4　使用Neo4j 43
+2.4.1　Neo4j依赖配置 43
+2.4.2　节点和关系实体建模 43
+2.4.3　节点实体持久化 45
+2.4.4　Neo4j测试 46
+2.5　小结 49
+
+
+第5章　数据库访问
+5.1　配置数据源
+5.2　Spring JDBC Template
+5.2.1　查询
+5.2.2　修改
+5.2.3　JdbcTemplate增强
+5.3　BeetlSQL介绍
+5.3.1　BeetlSQL功能概览
+5.3.2　添加Maven依赖
+5.3.3　配置BeetlSQL
+5.3.4　SQLManager
+5.3.5　使用SQL文件
+5.3.6　Mapper
+5.3.7　使用实体
+5.4　SQLManager内置CRUD
+5.4.1　内置的插入API
+5.4.2　内置的更新（删除）API
+5.4.3　内置的查询API
+5.4.4　代码生成方法
+5.5　使用sqlId
+5.5.1　md文件命名
+5.5.2　md文件构成
+5.5.3　调用sqlId
+5.5.4　翻页查询
+5.5.5　TailBean
+5.5.6　ORM查询
+5.5.7　其他API
+5.5.8　Mapper详解
+5.6　BeetlSQL的其他功能
+5.6.1　常用函数和标签
+5.6.2　主键设置
+5.6.3　BeetlSQL注解
+5.6.4　NameConversion
+5.6.5　锁
+
+第6章　Spring Data JPA
+6.1　集成Spring Data JPA
+6.1.1　集成数据源
+6.1.2　配置JPA支持
+6.1.3　创建Entity
+6.1.4　简化Entity
+6.2　Repository
+6.2.1　CrudRepository
+6.2.2　PagingAndSortingRepository
+6.2.3　JpaRepository
+6.2.4　持久化Entity
+6.2.5　Sort
+6.2.6　Pageable和Page
+6.2.7　基于方法名字查询
+6.2.8　@Query查询
+6.2.9　使用JPA Query
+6.2.10　Example查询
+
+第 6 章  数据访问 . 215
+6.1   Spring Data Repository . 215
+6.1.1  DDD 与 Spring Data Repository . 215
+6.1.2  查询方法 ... 218
+6.2  关系数据库——Spring Data JPA .... 218
+6.2.1  JPA、Hibernate 和Spring Data JPA .. 218
+6.2.2  环境准备 ... 218
+6.2.3  自动配置 ... 220
+6.2.4  定义聚合 ... 221
+6.2.5  定义聚合 Repository  224
+6.2.6  查询 ..... 226
+6.2.7  事件监听 ... 238
+6.2.8  领域事件 ... 242
+6.2.9  审计功能 ... 245
+6.2.10  Web 支持  246
+6.2.11  数据库初始化 ... 248
+6.3  NoSQL——Spring Data Elasticsearch ... 252
+6.3.1  Elascticsearch 简介 ... 252
+6.3.2  环境准备 ... 252
+6.3.3  自动配置 ... 253
+6.3.4  定义聚合 ... 254
+6.3.5  定义聚合 Repository  255
+6.3.6  查询 ..... 256
+6.4  数据缓存 .. 261
+6.4.1  Spring Boot 与缓存... 261
+6.4.2  环境准备 ... 262
+6.4.3  使用缓存注解 . 264
+6.5  小结 .... 266
+
+第4章 Spring Boot的数据库之旅  49
+4.1 使用数据库  49
+4.1.1 使用MySQL数据库  49
+4.1.2 使用SQL Server数据库  50
+4.1.3 使用Oracle数据库  51
+4.1.4 使用MongoDB数据库  55
+4.1.5 使用Neo4j数据库  56
+4.1.6 使用Redis数据库  57
+4.1.7 使用Memcached数据库  58
+4.2 使用JDBC操作数据库  58
+4.2.1 JDBC依赖配置  59
+4.2.2 配置数据库信息  59
+4.2.3 创建实体类  60
+4.2.4 使用Controller进行测试  60
+4.3 使用JPA操作数据库  68
+4.3.1 JPA介绍  68
+4.3.2 JPA依赖配置  68
+4.3.3 配置文件  69
+4.3.4 创建实体对象  69
+4.3.5 创建数据操作层  71
+4.3.6 简单测试运行  73
+4.3.7 JPA扩展学习  74
+4.3.8 基于WebFlux的使用  75
+4.4 使用MyBatis操作数据库  80
+4.4.1 MyBatis简介  80
+4.4.2 MyBatis依赖配置  80
+4.4.3 配置文件  80
+4.4.4 基于XML的使用  82
+4.4.5 基于注解使用  85
+4.4.6 测试运行  85
+4.4.7 Mybatis-Generator插件学习  87
+4.4.8 PageHelper插件  96
+4.4.9 Mybatis-Plus插件  97
+4.5 配置多数据源  101
+4.5.1 多数据源情况分析  102
+4.5.2 配置多数据源  102
+4.5.3 基于JPA使用多数据源  105
+4.5.4 基于MyBatis使用多数据  106
+4.6 使用Druid数据库连接池  108
+4.6.1 Druid简介  108
+4.6.2 配置Druid  109
+4.6.3 操作数据库  114
+4.6.4 Druid监控页面介绍  115
+4.7 小结  121
+第5 章 数据持久化.. 107
+5.1 JPA 概述 ... 108
+5.2 Spring Data JPA .... 127
+5.3 Spring Data JPA 与 Hibernate、Spring Boot 集成 ... 143
+5.4 数据持久化实战 .... 147
+第4章  Spring Boot的数据访问  79
+4.1  Hibernate/JPA/Spring Data JPA的概念  80
+4.1.1  对象/关系数据库映射（ORM）  80
+4.1.2  基本映射方式  81
+4.1.3  流行的ORM框架简介  82
+4.2  Spring Data JPA  83
+4.2.1  Spring Data核心数据访问接口  83
+示例：CrudRepository接口访问数据  84
+示例：PagingAndSortingRepository接口访问数据  91
+4.2.2  Spring Data JPA开发  99
+示例：简单条件查询  100
+示例：关联查询和@Query查询  105
+示例：@NamedQuery查询  114
+示例：Specification查询  118
+4.3  Spring Boot使用JdbcTemplate  128
+示例：JdbcTemplate访问数据  128
+4.4  Spring Boot整合MyBatis  135
+示例：Spring Boot整合MyBatis开发  135
+4.5  本章小结  141
+第15 章 文件服务器实现.. 285
+15.1 文件服务器的需求分析 . 286
+15.2 MongoDB 简介 ... 286
+15.3 MongoDB 与 Spring Boot 集成 .. 291
+15.4 文件服务器的实现 .... 293
