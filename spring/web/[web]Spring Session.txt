@@ -1,0 +1,10 @@
+第15章　使用Spring Session集成Redis实现Session共享 273
+15.1　Spring Session简介 273
+15.2　Redis简介 275
+15.2.1　Redis是什么 275
+15.2.2　安装Redis 275
+15.2.3　设置Redis密码 276
+15.2.4　Redis数据类型 277
+15.2.5　Spring Boot集成Redis 279
+15.3　项目实战 281
+15.4　本章小结 285

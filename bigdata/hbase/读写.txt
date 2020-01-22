@@ -1,0 +1,16 @@
+第6章　HBase读写流程  93
+6.1　HBase写入流程  93
+6.1.1　写入流程的三个阶段  93
+6.1.2　Region写入流程  96
+6.1.3　MemStore Flush  98
+6.2　BulkLoad功能  104
+6.2.1　BulkLoad核心流程  104
+6.2.2　BulkLoad基础案例  105
+6.3　HBase读取流程  107
+6.3.1　Client-Server读取交互逻辑  108
+6.3.2　Server端Scan框架体系  109
+6.3.3　过滤淘汰不符合查询条件的HFile  112
+6.3.4　从HFile中读取待查找Key  112
+6.4　深入理解Coprocessor  115
+6.4.1　Coprocessor分类  116
+6.4.2　Coprocessor加载  118

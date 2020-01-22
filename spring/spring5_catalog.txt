@@ -1,0 +1,2920 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5核心原理与30个类手写实战
+第1篇  Spring内功心法
+第1章　软件架构设计原则	2
+1.1  开闭原则	2
+1.2  依赖倒置原则	4
+1.3  单一职责原则	7
+1.4  接口隔离原则	10
+1.5  迪米特原则	12
+1.6  里氏替换原则	14
+1.7  合成复用原则	19
+1.8  设计原则总结	20
+第2章　Spring中常用的设计模式	21
+2.1  为什么要从设计模式开始	21
+2.1.1  写出优雅的代码	22
+2.1.2  更好地重构项目	24
+2.1.3  经典框架都在用设计模式解决问题	36
+2.2  工厂模式详解	36
+2.2.1  工厂模式的由来	36
+2.2.2  简单工厂模式	37
+2.2.3  工厂方法模式	41
+2.2.4  抽象工厂模式	43
+2.2.5  利用工厂模式重构的实践案例	47
+2.3  单例模式详解	53
+2.3.1  单例模式的应用场景	53
+2.3.2  饿汉式单例模式	53
+2.3.3  懒汉式单例模式	54
+2.3.4  反射破坏单例	60
+2.3.5  序列化破坏单例	61
+2.3.6  注册式单例模式	68
+2.3.7  线程单例实现ThreadLocal	74
+2.3.8  单例模式小结	75
+2.4  原型模式详解	75
+2.4.1  原型模式的应用场景	75
+2.4.2  浅克隆	77
+2.4.3  深克隆	79
+2.4.4  克隆破坏单例模式	81
+2.4.5  clone()方法的源码	82
+2.5  代理模式详解	82
+2.5.1  代理模式的应用场景	82
+2.5.2  静态代理	83
+2.5.3  动态代理	88
+2.5.4  代理模式与Spring	107
+2.5.5  静态代理和动态代理的本质区别	108
+2.5.6  代理模式的优缺点	109
+2.6  委派模式详解	109
+2.6.1  委派模式的定义及应用场景	109
+2.6.2  委派模式在源码中的体现	111
+2.7  策略模式详解	114
+2.7.1  策略模式的应用场景	114
+2.7.2  用策略模式实现选择支付方式的业务场景	114
+2.7.3  策略模式在JDK源码中的体现	122
+2.7.4  策略模式的优缺点	125
+2.7.5  委派模式与策略模式综合应用	125
+2.8  模板模式详解	129
+2.8.1  模板模式的应用场景	129
+2.8.2  利用模板模式重构JDBC操作业务场景	132
+2.8.3  模板模式在源码中的体现	136
+2.8.4  模板模式的优缺点	138
+2.9  适配器模式详解	139
+2.9.1  适配器模式的应用场景	139
+2.9.2  重构第三方登录自由适配的业务场景	141
+2.9.3  适配器模式在源码中的体现	149
+2.9.4  适配器模式的优缺点	153
+2.10  装饰者模式详解	153
+2.10.1  装饰者模式的应用场景	153
+2.10.2  装饰者模式和适配器模式对比	163
+2.10.3  装饰者模式在源码中的应用	163
+2.10.4  装饰者模式的优缺点	165
+2.11  观察者模式详解	165
+2.11.1  观察者模式的应用场景	165
+2.11.2  观察者模式在源码中的应用	175
+2.11.3  基于Guava API轻松落地观察者模式	176
+2.11.4  观察者模式的优缺点	177
+2.12  各设计模式的总结与对比	177
+2.12.1  GoF 23种设计模式简介	177
+2.12.2  设计模式之间的关联关系	178
+2.12.3  Spring中常用的设计模式	182
+2.13  Spring中的编程思想总结	183
+第2篇  Spring环境预热
+第3章　Spring的前世今生	186
+3.1  一切从Bean开始	187
+3.2  Spring的设计初衷	188
+3.3  BOP编程伊始	188
+3.4  理解BeanFactory	189
+3.5  AOP编程理念	189
+第4章　Spring 5系统架构	191
+4.1  核心容器	192
+4.2  AOP和设备支持	192
+4.3  数据访问与集成	193
+4.4  Web组件	194
+4.5  通信报文	194
+4.6  集成测试	194
+4.7  集成兼容	194
+4.8  各模块之间的依赖关系	194
+第5章　Spring版本命名规则	196
+5.1  常见软件的版本命名	196
+5.2  语义化版本命名通行规则	197
+5.3  商业软件中常见的修饰词	197
+5.4  软件版本号使用限定	198
+5.5  Spring版本命名规则	199
+第6章　Spring源码下载及构建技巧	200
+6.1  Spring 5源码下载	200
+6.2  基于Gradle的源码构建技巧	201
+6.3  Gradle构建过程中的坑	207
+第3篇  Spring核心原理
+第7章　用300行代码手写提炼Spring核心原理	210
+7.1  自定义配置	210
+7.1.1  配置application.properties文件	210
+7.1.2  配置web.xml文件	210
+7.1.3  自定义注解	211
+7.1.4  配置注解	212
+7.2  容器初始化	213
+7.2.1  实现1.0版本	213
+7.2.2  实现2.0版本	216
+7.2.3  实现3.0版本	223
+7.3  运行效果演示	227
+第8章　一步一步手绘Spring IoC运行时序图	228
+8.1  Spring核心之IoC容器初体验	228
+8.1.1  再谈IoC与DI	228
+8.1.2  Spring核心容器类图	229
+8.1.3  Web IoC容器初体验	232
+8.2  基于XML的IoC容器的初始化	237
+8.2.1  寻找入口	238
+8.2.2  获得配置路径	238
+8.2.3  开始启动	240
+8.2.4  创建容器	242
+8.2.5  载入配置路径	243
+8.2.6  分配路径处理策略	244
+8.2.7  解析配置文件路径	247
+8.2.8  开始读取配置内容	249
+8.2.9  准备文档对象	250
+8.2.10  分配解析策略	251
+8.2.11  将配置载入内存	252
+8.2.12  载入<bean>元素	257
+8.2.13  载入<property>元素	261
+8.2.14  载入<property>子元素	264
+8.2.15  载入<list>子元素	266
+8.2.16  分配注册策略	267
+8.2.17  向容器注册	267
+8.3  基于注解的IoC初始化	270
+8.3.1  注解的前世今生	270
+8.3.2  定位Bean扫描路径	271
+8.3.3  读取注解的元数据	273
+8.3.4  扫描指定包并解析为BeanDefinition	277
+8.3.5  注册注解BeanDefinition	283
+8.4  IoC容器初始化小结	285
+第9章　一步一步手绘Spring DI运行时序图	287
+9.1  Spring自动装配之依赖注入	287
+9.1.1  依赖注入发生的时间	287
+9.1.2  寻找获取Bean的入口	288
+9.1.3  开始实例化	293
+9.1.4  选择Bean实例化策略	297
+9.1.5  执行Bean实例化	299
+9.1.6  准备依赖注入	301
+9.1.7  解析属性依赖注入规则	306
+9.1.8  注入赋值	310
+9.2  Spring IoC容器中那些鲜为人知的细节	314
+9.2.1  关于延时加载	314
+9.2.2  关于FactoryBean和BeanFactory	317
+9.2.3  再述autowiring	322
+第10章　一步一步手绘Spring AOP运行时序图	326
+10.1  Spring AOP初体验	326
+10.1.1  再述Spring AOP应用场景	326
+10.1.2  AOP中必须明白的几个概念	327
+10.1.3  使用Spring AOP的两种方式	329
+10.1.4  切入点表达式的配置规则	333
+10.2  Spring AOP源码分析	334
+10.2.1  寻找入口	334
+10.2.2  选择代理策略	338
+10.2.3  调用代理方法	341
+10.2.4  触发通知	347
+第11章　一步一步手绘Spring MVC运行时序图	352
+11.1  初探Spring MVC请求处理流程	352
+11.2  Spring MVC九大组件	353
+11.2.1  HandlerMapping	353
+11.2.2  HandlerAdapter	353
+11.2.3  HandlerExceptionResolver	354
+11.2.4  ViewResolver	354
+11.2.5  RequestToViewNameTranslator	354
+11.2.6  LocaleResolver	354
+11.2.7  ThemeResolver	355
+11.2.8  MultipartResolver	355
+11.2.9  FlashMapManager	355
+11.3  Spring MVC源码分析	355
+11.3.1  初始化阶段	356
+11.3.2  运行调用阶段	359
+11.4  Spring MVC优化建议	367
+第4篇  Spring手写实战
+第12章　环境准备	370
+12.1  IDEA集成Lombok插件	370
+12.1.1  安装插件	370
+12.1.2  配置注解处理器	373
+12.1.3  使用插件	374
+12.2  从Servlet到ApplicationContext	375
+12.3  准备基础配置	376
+12.3.1  application.properties配置	377
+12.3.2  pom.xml配置	377
+12.3.3  web.xml配置	378
+12.3.4  GPDispatcherServlet	378
+第13章　IoC顶层结构设计	380
+13.1  Annotation（自定义配置）模块	380
+13.1.1  @GPService	380
+13.1.2  @GPAutowired	381
+13.1.3  @GPController	381
+13.1.4  @GPRequestMapping	382
+13.1.5  @GPRequestParam	382
+13.2  core（顶层接口）模块	382
+13.2.1  GPFactoryBean	382
+13.2.2  GPBeanFactory	383
+13.3  beans（配置封装）模块	383
+13.3.1  GPBeanDefinition	383
+13.3.2  GPBeanWrapper	384
+13.4  context（IoC容器）模块	385
+13.4.1  GPAbstractApplicationContext	385
+13.4.2  GPDefaultListableBeanFactory	385
+13.4.3  GPApplicationContext	385
+13.4.4  GPBeanDefinitionReader	388
+13.4.5  GPApplicationContextAware	391
+第14章　完成DI模块的功能	392
+14.1  从getBean()方法开始	393
+14.2  GPBeanPostProcessor	395
+第15章　完成MVC模块的功能	396
+15.1  MVC顶层设计	396
+15.1.1  GPDispatcherServlet	396
+15.1.2  GPHandlerMapping	402
+15.1.3  GPHandlerAdapter	403
+15.1.4  GPModelAndView	406
+15.1.5  GPViewResolver	406
+15.1.6  GPView	407
+15.2  业务代码实现	409
+15.2.1  IQueryService	409
+15.2.2  QueryService	410
+15.2.3  IModifyService	410
+15.2.4  ModifyService	411
+15.2.5  MyAction	412
+15.2.6  PageAction	413
+15.3  定制模板页面	414
+15.3.1  first.html	414
+15.3.2  404.html	414
+15.3.3  500.html	415
+15.4  运行效果演示	415
+第16章　完成AOP代码织入	417
+16.1  基础配置	417
+16.2  完成AOP顶层设计	418
+16.2.1  GPJoinPoint	418
+16.2.2  GPMethodInterceptor	419
+16.2.3  GPAopConfig	419
+16.2.4  GPAdvisedSupport	420
+16.2.5  GPAopProxy	422
+16.2.6  GPCglibAopProxy	423
+16.2.7  GPJdkDynamicAopProxy	423
+16.2.8  GPMethodInvocation	425
+16.3  设计AOP基础实现	427
+16.3.1  GPAdvice	427
+16.3.2  GPAbstractAspectJAdvice	427
+16.3.3  GPMethodBeforeAdvice	428
+16.3.4  GPAfterReturningAdvice	429
+16.3.5  GPAfterThrowingAdvice	430
+16.3.6  接入getBean()方法	430
+16.4  织入业务代码	432
+16.4.1  LogAspect	432
+16.4.2  IModifyService	433
+16.4.3  ModifyService	434
+16.5  运行效果演示	435
+第5篇  Spring数据访问
+第17章　数据库事务原理详解	438
+17.1  从Spring事务配置说起	438
+17.2  事务的基本概念	439
+17.3  事务的基本原理	439
+17.4  Spring事务的传播属性	440
+17.5  数据库事务隔离级别	441
+17.6  Spring中的事务隔离级别	441
+17.7  事务的嵌套	442
+17.8  Spring事务API架构图	444
+17.9  浅谈分布式事务	444
+第18章　Spring JDBC源码初探	446
+18.1  异常处理	447
+18.2  config模块	448
+18.3  core模块	450
+18.4  DataSource	456
+18.5  object模块	457
+18.6  JdbcTemplate	458
+18.7  NamedParameterJdbcTemplate	458
+第19章　基于Spring JDBC手写ORM框架	459
+19.1  实现思路概述	459
+19.1.1  从ResultSet说起	459
+19.1.2  为什么需要ORM框架	464
+19.2  搭建基础架构	467
+19.2.1  Page	467
+19.2.2  ResultMsg	470
+19.2.3  BaseDao	471
+19.2.4  QueryRule	473
+19.2.5  Order	479
+19.3  基于Spring JDBC实现关键功能	480
+19.3.1  ClassMappings	480
+19.3.2  EntityOperation	483
+19.3.3  QueryRuleSqlBuilder	488
+19.3.4  BaseDaoSupport	498
+19.4  动态数据源切换的底层原理	507
+19.4.1  DynamicDataSource	508
+19.4.2  DynamicDataSourceEntry	509
+19.5  运行效果演示	510
+19.5.1  创建Member实体类	510
+19.5.2  创建Order实体类	511
+19.5.3  创建MemberDao	512
+19.5.4  创建OrderDao	512
+19.5.5  修改db.properties文件	514
+19.5.6  修改application-db.xml文件	515
+19.5.7  编写测试用例	516
+第6篇  Spring经验分享
+第20章　Spring 5新特性总结	520
+20.1  升级到Java SE 8和Java EE 7	520
+20.2  反应式编程模型	521
+20.3  使用注解进行编程	521
+20.4  函数式编程	522
+20.5  使用 REST 端点执行反应式编程	523
+20.6  支持HTTP/2	523
+20.7  Kotlin和Spring WebFlux	523
+20.8  使用Lambda表达式注册Bean	524
+20.9  Spring Web MVC 支持最新的 API	524
+20.10  使用JUnit 5执行条件和并发测试	525
+20.11  包清理和弃用	526
+20.12  Spring核心和容器的一般更新	526
+20.13  我如何看Spring 5	527
+第21章　关于Spring的经典高频面试题	528
+21.1  什么是Spring框架，Spring框架有哪些主要模块	528
+21.2  使用Spring框架能带来哪些好处	528
+21.3  什么是控制反转（IoC），什么是依赖注入	529
+21.4  在Java中依赖注入有哪些方式	529
+21.5  BeanFactory和ApplicationContext有什么区别	530
+21.6  Spring提供几种配置方式来设置元数据	530
+21.7  如何使用XML配置方式配置Spring	531
+21.8  Spring提供哪些配置形式	532
+21.9  怎样用注解的方式配置Spring	533
+21.10  请解释Spring Bean的生命周期	534
+21.11  Spring Bean作用域的区别是什么	535
+21.12  什么是Spring Inner Bean	535
+21.13  Spring中的单例Bean是线程安全的吗	536
+21.14  请举例说明如何在Spring中注入一个Java集合	536
+21.15  如何向Spring Bean中注入java.util.Properties	537
+21.16  请解释Spring Bean的自动装配	538
+21.17  自动装配有哪些局限性	538
+21.18  请解释各种自动装配模式的区别	539
+21.19  请举例解释@Required注解	539
+21.20  请举例说明@Qualifier注解	540
+21.21  构造方法注入和设值注入有什么区别	540
+21.22  Spring中有哪些不同类型的事件	541
+21.23  FileSystemResource和ClassPathResource有什么区别	542
+21.24  Spring中用到了哪些设计模式	542
+21.25  在Spring中如何更有效地使用JDBC	543
+21.26  请解释Spring中的IoC容器	543
+21.27  在Spring中可以注入null或空字符串吗	543
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5核心原理与30个类手写实战
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5 开发大全
+目录
+第1章Spring 5 概述
+1.1 Spring 与 Java EE
+1.1.1Java 平台发展简史
+1.1.2Java EE 现状
+重点1.1.3Spring 与 Java EE 的关系
+1.2 Spring 简史
+1.2.1挑衅 EJB
+1.2.2化繁为简
+难点1.2.3Spring 设计哲学
+重点1.2.4面向未来的 Spring
+1.3 Spring 5 的新特性
+1.3.1基准升级
+1.3.2兼容 JDK 9
+1.3.3响应式编程模型
+1.3.4函数式编程
+1.3.5多语言的支持
+1.3.6支持 HTTP/2
+1.3.7清理了代码
+1.3.8更强的测试套件
+1.4 快速开启第一个 Spring 应用
+实战1.4.1Hello World项目概述
+重点1.4.2使用 Maven
+重点1.4.3使用 Gradle
+重点1.4.4创建服务类
+1.4.5创建打印器
+1.4.6创建应用主类
+1.4.7运行
+1.5 Gradle 与 Maven 的抉择
+1.5.1Maven 概述
+1.5.2Gradle 概述
+1.5.3Gradle 与 Maven 对比
+第2章Spring 框架核心概念
+2.1 Spring 框架总览
+重点2.1.1Spring 的狭义与广义
+2.1.2Spring 框架概述
+难点2.1.3Spring 框架常用模块
+2.1.4Spring 设计模式
+2.2 IoC 容器
+难点2.2.1依赖注入与控制反转
+难点2.2.2IoC 容器和 bean
+重点2.2.3配置元数据
+重点2.2.4实例化容器
+2.2.5使用容器
+2.2.6bean 的命名
+2.2.7实例化 bean 的方式
+重点2.2.8注入方式
+重点2.2.9实战：依赖注入的例子
+2.2.10依赖注入的详细配置
+难点2.2.11使用 depends-on
+2.2.12延迟加载 bean
+重点2.2.13自动装配
+2.2.14方法注入
+难点2.2.15bean scope
+重点2.2.16singleton bean 与 prototype bean
+2.2.17request、session、application 及 websocket scope
+2.2.18自定义 scope
+2.2.19实战：自定义 scope 的例子
+2.2.20自定义 bean 的生命周期
+难点
+2.2.21bean 定义继承
+难点
+2.2.22容器扩展点
+2.2.23实战：容器扩展的例子
+重点2.2.24基于注解的配置
+2.2.25基于注解的配置与基于 XML 的配置
+重点2.2.26类路径扫描及组件管理
+2.2.27JSR-330 规范注解
+重点2.2.28基于 Java 的容器配置
+重点2.2.29环境抽象
+2.2.30国际化
+2.2.31事件与监听器
+2.3 AOP 编程
+2.3.1AOP 概述
+重点2.3.2AOP 核心概念
+2.3.3Spring AOP
+难点2.3.4AOP 代理
+2.3.5使用 @AspectJ
+2.3.6实战：使用 @AspectJ 的例子
+重点2.3.7基于 XML 的 AOP
+2.3.8实战：基于 XML 的 AOP 例子
+2.3.9如何选择 AOP 类型
+难点2.3.10理解代理机制
+2.3.11创建 @AspectJ 代理
+2.4 资源处理
+重点2.4.1常用资源接口
+2.4.2内置资源接口实现
+2.4.3ResourceLoader
+重点2.4.4ResourceLoaderAware
+2.4.5资源作为依赖
+2.5 Bean 验证
+重点2.5.1Bean 验证概述
+2.5.2Validator 接口
+2.6 表达式语言 SpEL
+2.6.1SpEL 概述
+难点2.6.2表达式接口
+2.6.3对于 bean 定义的支持
+重点2.6.4常用表达式
+2.6.5实战：使用 SpEL 的例子
+2.7 数据缓冲器和编解码器
+2.7.1数据缓冲器
+2.7.2编解码器
+2.8 空安全
+2.8.1空安全概述
+2.8.2如何使用
+第3章测试
+3.1 测试概述
+3.1.1传统的测试所面临的问题
+3.1.2如何破解测试面临的问题
+3.2 测试的类型和范围
+3.2.1测试类型
+3.2.2测试范围
+3.2.3测试比例
+3.3 如何进行微服务的测试
+3.3.1微服务的单元测试
+3.3.2mock 与 stub 的区别
+3.3.3微服务的集成测试
+3.3.4微服务的系统测试
+第4章单元测试
+4.1 Mock 对象
+重点4.1.1Environment
+4.1.2JNDI
+重点4.1.3Servlet API
+新功能4.1.4Spring Web Reactive
+4.2 测试工具类
+4.2.1测试工具
+4.2.2测试 Spring MVC
+第5章集成测试
+5.1 集成测试概述
+难点5.1.1上下文管理与缓存
+重点5.1.2测试夹具的依赖注入
+重点5.1.3事务管理
+重点5.1.4集成测试类
+测试5.1.5JDBC
+5.2 测试相关的注解
+5.2.1@BootstrapWith
+5.2.2@ContextConfiguration
+5.2.3@WebAppConfiguration
+5.2.4@ContextHierarchy
+5.2.5@ActiveProfiles
+5.2.6@TestPropertySource
+5.2.7@DirtiesContext
+5.2.8@TestExecutionListeners
+5.2.9@Commit
+5.2.10@Rollback
+5.2.11@BeforeTransaction
+5.2.12@AfterTransaction
+5.2.13@Sql
+5.2.14@SqlConfig
+5.2.15@SqlGroup
+5.2.16标准注解
+5.2.17Spring JUnit 4 注解
+新功能5.2.18Spring JUnit Jupiter 注解
+5.2.19元注解
+难点5.3 Spring TestContext 框架
+5.3.1Spring TestContext 框架概述
+5.3.2核心抽象
+5.3.3引导 TestContext
+5.3.4TestExecutionListener 配置
+难点5.3.5上下文管理
+5.3.6测试夹具的依赖注入
+难点5.3.7如何测试 request bean 和 session bean
+重点5.3.8事务管理
+5.3.9执行 SQL 脚本
+新功能5.3.10并行测试
+新功能5.3.11SpringExtension 测试类
+5.4 Spring MVC Test 框架
+5.4.1服务端测试概述
+难点5.4.2选择测试策略
+重点5.4.3设置测试功能
+重点5.4.4执行请求
+难点5.4.5定义期望
+5.4.6注册过滤器
+5.4.7脱离容器的测试
+5.4.8实战：服务端测试的例子
+5.4.9HtmlUnit 集成
+5.4.10客户端 REST 测试
+5.4.11实战：客户端 REST 测试的例子
+★新功能  5.5 WebTestClient
+5.5.1WebTestClient 概述
+5.5.2设置 WebTestClient
+5.5.3如何编写测试用例
+5.5.4处理空内容
+5.5.5处理 JSON
+5.5.6处理流式响应
+第6章事务管理
+6.1 事务管理概述
+6.1.1Spring 事务管理优势
+难点6.1.2Spring 事务模型
+6.2 通过事务实现资源同步
+6.2.1高级别的同步方法
+6.2.2低级别的同步方法
+6.2.3TransactionAwareDataSourceProxy
+6.3 声明式事务管理
+重点6.3.1声明式事务管理
+6.3.2实战：声明式事务管理的例子
+重点6.3.3事务回滚
+6.3.4配置不同的事务策略
+重点6.3.5@Transactional 详解
+重点6.3.6事务传播机制
+6.4 编程式事务管理
+6.4.1编程式事务管理概述
+6.4.2声明式事务管理和编程式事务管理
+6.5 事件中的事务
+第7章DAO
+7.1 DAO 概述
+7.2 DAO 常用异常类
+7.3 DAO 常用注解
+第8章基于 JDBC 的数据访问
+8.1 Spring JDBC 概述
+8.1.1不同的 JDBC 访问方式
+8.1.2Spring JDBC 包
+8.2 JDBC 核心类
+重点8.2.1JdbcTemplate
+8.2.2实战：使用 JdbcTemplate 的例子
+8.2.3NamedParameterJdbcTemplate
+8.2.4SQLExceptionTranslator
+重点8.2.5执行语句
+重点8.2.6运行查询
+重点8.2.7更新数据
+8.2.8检索自动生成的主键
+8.3 控制数据库连接
+8.4 批处理
+8.4.1使用 JdbcTemplate 实现批处理
+8.4.2批量更新 List
+8.4.3多个批次更新
+8.5 SimpleJdbc 类
+8.5.1使用 SimpleJdbcInsert 插入数据
+8.5.2使用 SimpleJdbcInsert 检索自动生成的主键
+8.5.3使用 SqlParameterSource
+8.5.4使用 SimpleJdbcCall
+8.6 JDBC 转为对象模型
+8.6.1SqlQuery
+8.6.2MappingSqlQuery
+8.6.3SqlUpdate
+8.6.4StoredProcedure
+8.6.5实战：JDBC 转为对象模型的例子
+8.7 内嵌数据库
+重点8.7.1使用内嵌数据库的好处
+8.7.2使用 Spring XML 创建内存数据库
+8.7.3编程方式创建内存数据库
+8.7.4实战：使用内存数据库进行测试的例子
+8.8 初始化 DataSource
+第9章基于 ORM 的数据访问
+9.1 Spring ORM 概述
+9.2 ORM 集成注意事项
+重点9.2.1资源与事务管理
+难点9.2.2异常处理
+9.3 集成 Hibernate
+重点9.3.1设置 SessionFactory
+9.3.2基于 Hibernate 的 DAO
+重点9.3.3声明式事务
+重点9.3.4编程事务
+9.3.5事务管理策略
+9.4 JPA
+9.4.1设置 JPA 不同方式
+重点9.4.2基于 JPA 的 DAO
+9.4.3JPA 事务
+重点9.4.4JpaDialect
+9.4.5JTA 事务管理
+第10章XML 与对象的转换
+10.1 XML 解析概述
+10.2 XML 的序列化与反序列化
+10.2.1序列化接口 Marshaller
+10.2.2反序列化接口 Unmarshaller
+10.2.3XML 解析异常类
+重点10.2.4如何使用 XML 的序列化与反序列化
+10.2.5XML 配置命名空间
+10.3 常用 XML 解析工具
+10.3.1JAXB
+10.3.2Castor
+10.3.3JiBX
+10.3.4XStream
+10.3.5实战：使用 JAXB 解析 XML 的例子
+第11章Spring Web MVC
+11.1 Spring Web MVC 概述
+11.2 DispatcherServlet
+11.2.1DispatcherServlet 概述
+重点11.2.2上下文层次结构
+11.2.3特定的 bean
+重点11.2.4框架配置
+11.2.5容器配置
+11.2.6处理流程
+11.2.7拦截
+11.2.8视图解析
+11.2.9语言环境
+重点11.2.10Multipart 请求
+11.3 过滤器
+11.3.1HTTP PUT 表单
+11.3.2转发头
+11.3.3ShallowEtagHeaderFilter
+11.3.4CORS
+11.4 控制器
+11.4.1控制器概述
+重点11.4.2声明控制器
+重点11.4.3请求映射
+重点11.4.4处理器方法
+重点11.4.5模型方法
+11.4.6绑定器方法
+11.5 URI 处理
+11.5.1URI 链接
+11.5.2链接到控制器
+11.5.3视图中的链接
+11.6 异常处理
+11.6.1异常处理概述
+11.6.2@ExceptionHandler
+11.6.3框架异常处理
+11.6.4REST API 异常
+11.6.5注解异常
+11.6.6容器错误页面
+11.7 异步请求
+难点11.7.1异步请求处理流程
+11.7.2异常处理
+11.7.3异步拦截器
+难点11.7.4流式响应
+重点11.7.5Server-Sent Events
+11.7.6发送原生数据
+新功能11.7.7响应式返回值
+11.7.8配置
+11.8 CORS 处理
+重点11.8.1CORS 概述
+重点11.8.2@CrossOrigin
+11.8.3全局 CORS 配置
+11.8.4自定义CORS
+11.8.5CORS 过滤器
+11.9 HTTP 缓存
+11.9.1HTTP 缓存概述
+重点11.9.2缓存控制
+重点11.9.3静态资源
+11.9.4控制器缓存
+11.10 MVC 配置
+11.10.1启用 MVC 配置
+11.10.2类型转换
+11.10.3验证
+重点 11.10.4拦截器
+11.10.5内容类型
+重点11.10.6消息转换器
+重点11.10.7视图控制器
+重点11.10.8视图解析器
+重点11.10.9静态资源
+11.10.10DefaultServletHttpRequestHandler
+难点11.10.11路径匹配
+11.11 视图处理
+重点11.11.1常用视图技术
+11.11.2文档视图
+11.11.3Feed 视图
+★新功能  11.12 HTTP/2
+11.12.1TLS 的考虑
+11.12.2容器配置
+实战11.13 基于 Spring Web MVC 的 REST 接口
+11.13.1系统概述
+难点11.13.2接口设计
+重点11.13.3系统配置
+重点11.13.4后台编码实现
+重点11.13.5应用配置
+11.13.6运行
+第12章REST 客户端
+12.1 RestTemplate
+★新功能  12.2 WebClient
+实战12.3 基于 RestTemplate 的天气预报服务
+重点12.3.1系统配置
+重点12.3.2后台编码实现
+12.3.3运行
+第13章WebSocket
+13.1 WebSocket 概述
+13.1.1HTTP和WebSocket
+重点13.1.2理解 WebSocket 使用场景
+13.2 WebSocket 常用 API
+重点13.2.1WebSocketHandler
+13.2.2WebSocket 握手
+13.2.3部署
+重点13.2.4配置
+13.2.5跨域处理
+13.3 SockJS
+13.3.1SockJS 概述
+13.3.2启用 SockJS
+13.3.3心跳
+13.3.4客户端断开连接
+13.3.5CORS 处理
+13.3.6SockJsClient
+13.4 STOMP
+13.4.1STOMP 概述
+13.4.2启用 STOMP
+重点13.4.3消息流程
+13.4.4处理器方法
+重点13.4.5发送消息
+13.4.6内嵌 Broker和外部 Broker
+重点13.4.7连接到 Broker
+13.4.8认证
+重点13.4.9用户目的地
+13.4.10事件和拦截
+13.4.11STOMP 客户端
+13.4.12WebSocket Scope
+难点13.4.13性能优化
+13.5 基于 STOMP 的聊天室
+实战13.5.1聊天室项目的概述
+重点13.5.2设置 Broker
+重点13.5.3服务端编码
+重点13.5.4客户端编码
+13.5.5运行
+第14章Spring WebFlux
+★新功能  14.1 响应式编程概述
+14.1.1响应式编程简述
+重点14.1.2Spring WebFlux 与 Spring MVC 的区别
+重点14.1.3响应式 API
+难点14.1.4响应式编程模型
+★新功能  14.2 Spring 中的响应式编程
+重点14.2.1HttpHandler
+重点14.2.2WebHandler API
+14.2.3编码器和解码器
+★新功能  14.3 DispatcherHandler
+重点14.3.1Spring WebFlux 常用 bean
+14.3.2配置
+14.3.3执行
+★新功能  14.4 控制器
+重点14.4.1@Controller
+重点14.4.2请求映射
+重点14.4.3处理器方法
+★新功能  14.5 常用函数
+重点14.5.1HandlerFunction
+重点14.5.2RouterFunction
+14.5.3运行服务器
+14.5.4HandlerFilterFunction
+★新功能  14.6 WebFlux 相关配置
+重点14.6.1启用 WebFlux
+难点14.6.2配置 WebFlux
+重点14.6.3数据转换
+重点14.6.4数据验证
+重点14.6.5内容类型解析器
+重点14.6.6HTTP 消息编码器和解码器
+重点14.6.7视图解析器
+重点14.6.8静态资源
+重点14.6.9路径匹配
+★新功能  14.7 CORS 处理
+重点14.7.1CORS 概述
+重点14.7.2@CrossOrigin
+14.7.3全局CORS 配置
+14.7.4自定义CORS
+14.7.5CORS 过滤器
+第15章响应式编程中的 WebClient
+★新功能  重点 15.1 retrieve() 方法
+★新功能  重点 15.2 exchange() 方法
+★新功能  15.3 请求主体
+重点15.3.1处理 Form 表单数据
+重点15.3.2处理文件上传数据
+★新功能  15.4 生成器
+★新功能  15.5 过滤器
+★新功能 实战 15.6 基于 WebClient 的文件上传、下载
+15.6.1应用的概述
+重点15.6.2文件上传的编码实现
+重点15.6.3文件下载的编码实现
+15.6.4运行
+第16章响应式编程中的 WebSocket
+16.1 WebSocket 概述
+16.2 WebSocket 常用 API
+重点16.2.1WebSocketHandler
+16.2.2WebSocket 握手
+重点16.2.3配置
+16.2.4跨域处理
+★新功能  16.3 WebSocketClient
+第17章常用集成模式
+17.1 Spring 集成模式概述
+17.2 使用 RMI
+重点17.2.1使用 RmiServiceExporter 暴露服务
+重点17.2.2客户端访问服务
+17.3 使用 Hessian
+重点17.3.1编写 DispatcherServlet
+重点17.3.2使用 HessianServiceExporter 暴露 bean
+重点17.3.3客户端访问服务
+17.3.4在 Hessian 中使用基本认证
+17.4 使用 HTTP
+重点17.4.1暴露服务
+重点17.4.2客户端访问服务
+17.5 Web 服务
+重点17.5.1暴露基于 JAX-WS 的 Web 服务
+重点17.5.2访问服务
+17.6 JMS
+17.6.1JMS 概述
+重点17.6.2服务端配置
+重点17.6.3客户端配置
+17.7 REST 服务
+重点17.7.1RestTemplate
+17.7.2HTTP 消息转换器
+第18章EJB 集成
+18.1 EJB 集成概述
+18.2 EJB 集成的实现
+18.2.1访问本地 SLSB
+18.2.2访问远程 SLSB
+第19章JMS 集成
+19.1 JMS 集成概述
+19.2 Spring JMS
+重点19.2.1JmsTemplate
+重点19.2.2连接管理
+重点19.2.3目的地管理
+19.2.4消息监听器容器
+重点19.2.5事务管理
+19.3 发送消息
+19.3.1使用消息转换器
+19.3.2回调
+19.4 接收消息
+19.4.1同步接收
+重点19.4.2异步接收
+19.4.3SessionAwareMessageListener
+19.4.4MessageListenerAdapter
+19.4.5处理事务
+重点
+19.5 JCA 消息端点
+19.6 基于注解的监听器
+19.6.1启用基于注解的监听器
+重点19.6.2编程式端点注册
+重点19.6.3基于注解的端点方法签名
+19.6.4响应管理
+19.7 JMS 命名空间
+难点19.8 基于 JMS 的消息发送、接收
+19.8.1项目概述
+19.8.2配置
+19.8.3编码实现
+19.8.4运行
+第20章JMX 集成
+20.1 JMX 集成概述
+20.2 bean 转为 JMX
+重点20.2.1创建 MBeanServer
+20.2.2重用 MBeanServer
+20.2.3延迟实例化 MBean
+20.2.4MBean 自动注册
+重点20.2.5控制注册行为
+20.3 bean 的控制管理
+20.3.1MBeanInfoAssembler
+重点20.3.2注解
+20.3.3AutodetectCapableMBeanInfoAssembler
+重点20.3.4定义管理接口
+20.3.5MethodNameBasedMBeanInfoAssembler
+20.4 通知
+20.4.1注册监听器
+20.4.2发布通知
+第21章JCA CCI 集成
+21.1 JCA CCI 集成概述
+21.2 配置 CCI
+21.2.1连接器配置
+21.2.2ConnectionFactory 配置
+21.2.3配置连接
+21.3 使用 CCI 进行访问
+21.3.1记录转换
+重点21.3.2CciTemplate
+21.3.3DAO
+21.3.4自动输出记录生成
+21.4 CCI 访问对象建模
+21.4.1MappingRecordOperation
+21.4.2MappingCommAreaOperation
+21.5 CCI 中的事务处理
+第22章使用 E-mail
+22.1 使用 E-mail 概述
+22.2 实现发送 E-mail
+重点22.2.1MailSender 和 SimpleMailMessage 的基本用法
+重点22.2.2JavaMailSender 和 MimeMessagePreparator 的用法
+22.3 使用 MimeMessageHelper
+难点22.3.1发送附件和内联资源
+重点22.3.2使用模板创建 E-mail 内容
+实战22.4   实现 E-mail 服务器
+22.4.1项目概述
+22.4.2E-mail 服务器编码实现
+22.4.3格式化 E-mail 内容
+22.4.4运行
+第23章任务执行与调度
+23.1 任务执行与调度概述
+23.2 TaskExecutor
+23.2.1TaskExecutor 类型
+23.2.2使用 TaskExecutor
+23.3 TaskScheduler
+23.3.1Trigger 接口
+23.3.2实现
+23.4 任务调度及异步执行
+23.4.1启用调度注解
+重点23.4.2@Scheduled
+重点23.4.3@Async
+23.4.4@Async 的异常处理
+23.4.5命名空间
+23.5 使用 Quartz Scheduler
+23.5.1使用 JobDetailFactoryBean
+23.5.2使用 MethodInvokingJobDetailFactoryBean
+实战23.6  基于 Quartz Scheduler 的天气预报系统
+23.6.1项目概述
+23.6.2后台编码实现
+23.6.3运行
+第24章缓存
+24.1 缓存概述
+24.2 声明式缓存注解
+重点24.2.1@Cacheable
+重点24.2.2@CachePut
+重点24.2.3@CacheEvict
+重点24.2.4@Caching
+24.2.5@CacheConfig
+重点24.2.6启用缓存
+24.2.7使用自定义缓存
+24.3 JCache 注解
+24.3.1JCache 注解概述
+24.3.2与 Spring 缓存注解的差异
+24.4 基于 XML 的声明式缓存
+24.5 配置缓存存储
+24.5.1基于 JDK 的缓存
+24.5.2基于 Ehcache 的缓存
+24.5.3基于 Caffeine 的缓存
+24.5.4基于 GemFire 的缓存
+24.5.5基于 JSR-107 的缓存
+实战 24.6 基于缓存的天气预报系统
+24.6.1项目概述
+24.6.2后台编码实现
+24.6.3缓存配置
+24.6.4运行
+第25章Spring Boot
+25.1 从单块架构到微服务架构
+25.1.1单块架构的概念
+重点25.1.2单块架构的优缺点
+难点25.1.3将单块架构进化为微服务架构
+25.2 微服务设计原则
+难点25.2.1拆分足够“微”
+重点25.2.2轻量级通信
+难点25.2.3领域驱动原则
+重点25.2.4单一职责原则
+重点25.2.5DevOps 及两个比萨原则
+重点25.2.6不限于技术栈
+重点25.2.7可独立部署
+25.3 Spring Boot 概述
+难点25.3.1Spring Boot 产生的背景
+重点25.3.2Spring Boot 的目标
+重点25.3.3Spring Boot 与其他 Spring 应用的关系
+重点25.3.4Starter
+实战25.4 开启第一个 Spring Boot 项目
+25.4.1通过 Spring Initializr 初始化一个 Spring Boot 原型
+25.4.2用 Gradle 编译项目
+25.4.3探索项目
+第26章Spring Cloud
+★新功能  26.1 Spring Cloud 概述
+26.1.1Spring Cloud 简介
+26.1.2Spring Cloud 与 Spring Boot 的关系
+★新功能  26.2 Spring Cloud 入门配置
+重点26.2.1Maven 配置
+重点26.2.2Gradle 配置
+重点26.2.3声明式方法
+★新功能  26.3 Spring Cloud 的子项目介绍
+26.3.1Spring Cloud 子项目的组成
+重点26.3.2Spring Cloud 组件的版本
+★新功能 实战  26.4 实现微服务的注册与发现
+26.4.1服务发现的意义
+重点26.4.2集成 Eureka Server
+重点26.4.3集成 Eureka Client
+重点26.4.4实现服务的注册与发现
+附录
+附录A  EJB 规范摘要
+A1EJB 2.1 规范目标
+A2EJB 3.2 规范目标
+附录B  Bean Validation 内置约束
+附录C	提升 Gradle 的构建速度
+附录D	本书所采用的技术及相关版本
+参考文献
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5 开发大全
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5企业级开发实战
+目录
+第一篇 Spring基础篇
+第1章 环境搭建  3
+1.1 Spring介绍  3
+1.1.1 Spring设计目标  3
+1.1.2 Spring各个子模块  3
+1.1.3 Spring使用场景  4
+1.1.4 Spring与Spring MVC的关系  5
+1.1.5 Spring 5高级特性  5
+1.2 环境准备  5
+1.2.1 安装JDK  5
+1.2.2 安装IntelliJ IDEA  6
+1.2.3 安装Apache Maven  6
+1.2.4 安装Apache Tomcat  7
+1.3 快速搭建Spring 5项目  8
+1.3.1 使用IntelliJ IDEA创建Spring 5 Spring MVC项目  8
+1.3.2 测试部署  9
+1.4 小结  9
+第2章 Spring IoC容器原理  10
+2.1 IoC容器揭秘  10
+2.1.1 IoC的概念  10
+2.1.2 依赖倒置原则  11
+2.1.3 依赖注入  16
+2.2 Spring IoC的实现方式  17
+2.2.1 XML方式实现  17
+2.2.2 通过注解方式实现  20
+2.3 Spring IoC实现原理解析  21
+2.3.1 BeanFactory代码解析  21
+2.3.2 ApplicationContext代码解析  22
+2.3.3 BeanDefinition代码解析  23
+2.3.4 Spring IoC代码分析  23
+2.4 Spring IoC容器中Bean的生命周期  44
+2.5 小结  52
+第3章 Spring AOP揭秘  53
+3.1 AOP前置知识  53
+3.1.1 JDK动态代理  53
+3.1.2 CGLIB动态代理  56
+3.1.3 AOP联盟  58
+3.2 AOP概述  58
+3.2.1 AOP基本概念  58
+3.2.2 Spring AOP相关概念  59
+3.3 Spring AOP实现  60
+3.3.1 基于JDK动态代理实现  60
+3.3.2 基于CGLIB动态代理实现  65
+3.4 基于Spring AOP的实战  70
+3.4.1 增强类型  70
+3.4.2 前置增强  71
+3.4.3 后置增强  73
+3.4.4 环绕增强  74
+3.4.5 异常抛出增强  75
+3.4.6 引介增强  75
+3.4.7 切入点类型  77
+3.5 Spring集成AspectJ实战  78
+3.5.1 使用AspectJ方式配置Spring AOP  78
+3.5.2 AspectJ各种切点指示器  81
+3.5.3 args()与“@args()”  81
+3.5.4 @annotation()  87
+3.5.5 execution  89
+3.5.6 target()与“@target()”  90
+3.5.7 this()  92
+3.5.8 within()与“@within()”  95
+3.6 Spring AOP的实现原理  98
+3.6.1 设计原理  99
+3.6.2 JdkDynamicAopProxy  106
+3.6.3 CglibAopProxy  110
+3.7 小结  115
+第二篇 Spring 5新特性篇
+第4章 Spring 5新特性概述  117
+4.1 Spring 5.0新特性  117
+4.1.1 运行环境  117
+4.1.2 删除的代码  118
+4.1.3 核心修改  118
+4.1.4 核心容器更新  118
+4.1.5 Spring Web MVC更新  118
+4.1.6 Spring WebFlux  119
+4.1.7 对Kotlin的支持  119
+4.1.8 测试改进  120
+4.2 Spring 5.1新特性  121
+4.2.1 核心修改  121
+4.2.2 核心容器更新  121
+4.2.3 Web修改  121
+4.2.4 Spring Web MVC更新  121
+4.2.5 Spring WebFlux更新  122
+4.2.6 Spring Messaging更新  122
+4.2.7 Spring ORM更新  122
+4.2.8 测试更新  122
+第5章 Java 8新特性概述  123
+5.1 Lambda表达式  123
+5.1.1 Lambda表达式初探  123
+5.1.2 Lambda表达式作用域  125
+5.1.3 在线程中使用Lambda表达式  126
+5.1.4 在集合中使用Lambda表达式  127
+5.1.5 在Stream中使用Lambda表达式  128
+5.2 接口默认方法  129
+5.3 小结  132
+第6章 Spring WebFlux响应式编程  133
+6.1 传统的编程模型  133
+6.2 响应式编程模型  134
+6.3 Reactor  135
+6.3.1 Flux与Mono  135
+6.3.2 subscribe()  137
+6.3.3 操作符（Operator）  139
+6.3.4 线程模型  144
+6.4 Spring WebFlux  146
+6.4.1 基于注解的WebFlux开发方式  146
+6.4.2 基于函数式的WebFlux开发方式  147
+6.5 小结  152
+第7章 WebClient响应式客户端  153
+7.1 RestTemplate调试Spring MVC  153
+7.2 WebClient调试Spring WebFlux  156
+7.3 小结  158
+第8章 Spring 5结合Kotlin编程  159
+8.1 Kotlin简介  159
+8.1.1 Kotlin的特性  159
+8.1.2 Kotlin基本数据类型  161
+8.1.3 Kotlin开发环境搭建  161
+8.1.4 在Kotlin中定义常量与变量  162
+8.1.5 字符串模板  162
+8.1.6 NULL检查机制  163
+8.1.7 For循环和区间  163
+8.1.8 定义函数  166
+8.1.9 类和对象  167
+8.1.10 Kotlin与Java互操作  169
+8.2 Spring 5集成Kotlin  170
+8.3 小结  172
+第9章 Spring 5更多新特性  173
+9.1 Resource接口  173
+9.2 HTTP 2  174
+9.2.1 HTTP的现状  174
+9.2.2 HTTP 2的新特性  174
+9.2.3 多路复用与长连接的区别  175
+9.3 JUnit 5  176
+9.3.1 JUnit 5简介  176
+9.3.2 JUnit 5快速体验  176
+9.3.3 JUnit 5常用注解  178
+9.4 小结  179
+第三篇 Spring系统集成篇
+第10章 Spring集成Log4j2  181
+10.1 Log4j2配置详解  181
+10.2 Log4j2日志级别  184
+10.3 Log4j2实战演练  185
+10.4 小结  188
+第11章 Spring集成Spring MVC  189
+11.1 Spring MVC快速体验  189
+11.1.1 web.xml配置  189
+11.1.2 创建Spring MVC的配置 文件  190
+11.1.3 创建Spring MVC的视图 文件  190
+11.1.4 创建控制器  191
+11.1.5 测试运行  191
+11.2 Spring MVC视图呈现  192
+11.2.1 FreeMarker视图的实现  192
+11.2.2 XML视图的实现  193
+11.2.3 JSON视图的实现  195
+11.3 Spring MVC拦截器  196
+11.4 Spring MVC代码解析  198
+11.5 小结  225
+第12章 Spring集成MyBatis  226
+12.1 Spring、Spring MVC和MyBatis集成 快速体验  226
+12.2 MyBatis代码解析  236
+12.3 小结  243
+第13章 Spring事务管理  244
+13.1 事务的特性  244
+13.2 事务的隔离级别  244
+13.2.1 READ_UNCOMMITTED  245
+13.2.2 READ_COMMITTED  245
+13.2.3 REPEATABLE_READ  246
+13.2.4 SERIALIZABLE  246
+13.3 JDBC方式使用事务  247
+13.4 Spring事务管理快速体验  248
+13.5 Spring事务隔离级别  254
+13.6 Spring事务传播行为  255
+13.7 Spring事务代码分析  255
+13.8 小结  263
+第14章 Spring集成Redis  264
+14.1 Redis单节点安装  264
+14.2 Redis支持的数据类型  266
+14.2.1 Redis String类型的使用 方式  266
+14.2.2 Redis Hash类型的使用 方式  271
+14.2.3 Redis List类型的使用 方式  274
+14.2.4 Redis Set类型的使用 方式  277
+14.2.5 Redis SortedSet类型的使用 方式  280
+14.3 Redis持久化策略  284
+14.3.1 Redis RDB持久化  284
+14.3.2 Redis AOF持久化  285
+14.4 Redis主从复制模式  287
+14.4.1 Redis一主一从拓扑结构  289
+14.4.2 Redis一主多从拓扑结构  289
+14.4.3 Redis树形拓扑结构  290
+14.4.4 Redis主从架构的缺点  291
+14.5 Redis哨兵模式  291
+14.5.1 Redis哨兵模式简介  291
+14.5.2 Redis哨兵定时监控任务  292
+14.5.3 主观下线和客观下线  294
+14.5.4 Redis哨兵选举领导者  295
+14.5.5 故障转移  295
+14.5.6 Redis哨兵模式安装部署  296
+14.6 Redis集群模式  302
+14.6.1 Redis集群模式数据共享  303
+14.6.2 Redis集群中的主从复制  303
+14.6.3 Redis集群中的一致性 问题  303
+14.6.4 Redis集群架构  304
+14.6.5 Redis集群容错  304
+14.6.6 Redis集群环境搭建  305
+14.7 Spring、MyBatis和Redis集成快速 体验  313
+14.8 Redis缓存穿透和雪崩  323
+14.8.1 Redis缓存穿透  323
+14.8.2 Redis缓存雪崩  326
+14.9 小结  329
+第15章 Spring集成ZooKeeper  330
+15.1 ZooKeeper集群安装  330
+15.2 ZooKeeper总体架构  336
+15.2.1 ZooKeeper选举机制  336
+15.2.2 ZooKeeper数据模型  338
+15.3 Spring集成ZooKeeper快速体验  342
+15.4 ZooKeeper发布订阅  346
+15.4.1 NodeCache  346
+15.4.2 PathChildrenCache  349
+15.4.3 TreeCache  352
+15.5 ZooKeeper分布式锁  356
+15.6 小结  361
+第16章 Spring集成Kafka  362
+16.1 Kafka集群安装  362
+16.2 Kafka总体架构  365
+16.3 Spring集成Kafka快速体验  374
+16.4 小结  377
+第17章 Spring集成Mycat  379
+17.1 Mycat分库分表  379
+17.2 Mycat分库分表实战  381
+17.3 Spring MyBatis Mycat快速体验  386
+17.4 小结  397
+第18章 Spring集成Sharding-JDBC  398
+18.1 Spring集成Sharding-JDBC快速 体验  398
+18.2 Sharding-JDBC强制路由  407
+18.3 Sharding-JDBC分布式主键  408
+18.4 小结  413
+第19章 Spring集成Dubbo  414
+19.1 远程过程调用协议  414
+19.2 Spring集成Dubbo快速体验  415
+19.3 Dubbo代码分析  419
+19.4 小结  452
+附录A 设计模式  453
+A.1 工厂模式  453
+A.2 抽象工厂模式  456
+A.3 单例模式  462
+A.4 建造者模式  463
+A.5 原型模式  468
+A.6 适配器模式  472
+A.7 桥接模式  476
+A.8 标准模式  477
+A.9 组合模式  481
+A.10 装饰器模式  483
+A.11 外观模式  486
+A.12 享元模式  489
+A.13 代理模式  491
+A.14 责任链模式  493
+A.15 命令模式  496
+A.16 解释器模式  499
+A.17 迭代器模式  502
+A.18 中介者模式  504
+A.19 备忘录模式  506
+A.20 观察者模式  509
+A.21 状态 模 式  511
+A.22 空对象模式  513
+A.23 策略模式  516
+A.24 模板模式  519
+A.25 拦截过滤器模式  522
+参考文献  365
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5企业级开发实战
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5高级编程（第5版）
+目录
+第1章 Spring介绍  1
+1.1 什么是Spring  1
+1.1.1 Spring框架的演变  1
+1.1.2 翻转控制或依赖注入  5
+1.1.3 依赖注入的演变  6
+1.1.4 除了依赖注入  7
+1.2 Spring项目  10
+1.2.1 Spring的起源  10
+1.2.2 Spring社区  10
+1.2.3 Spring工具套件  11
+1.2.4 Spring Security项目  11
+1.2.5 Spring Boot  11
+1.2.6 Spring批处理和集成  11
+1.2.7 许多其他项目  11
+1.3 Spring的替代品  12
+1.3.1 JBoss Seam框架  12
+1.3.2 Google Guice  12
+1.3.3 PicoContainer  12
+1.3.4 JEE 7容器  12
+1.4 小结  12
+第2章 入门  13
+2.1 获取Spring框架  13
+2.1.1 快速入门  13
+2.1.2 在GitHub中查找Spring  14
+2.1.3 使用正确的JDK  14
+2.2 了解Spring打包  14
+2.2.1 为自己的应用程序选择模块  15
+2.2.2 在Maven存储库上访问Spring模块  15
+2.2.3 使用Gradle访问Spring模块  16
+2.2.4 使用Spring文档  17
+2.2.5 将Spring放入Hello World中  17
+2.2.6 构建示例Hello World应用程序  17
+2.2.7 用Spring重构  20
+2.3 小结  22
+第3章 在Spring中引入IoC和DI  23
+3.1 控制反转和依赖注入  23
+3.2 控制反转的类型  23
+3.2.1 依赖拉取  24
+3.2.2 上下文依赖查找  24
+3.2.3 构造函数依赖注入  25
+3.2.4 setter依赖注入  25
+3.2.5 注入与查找  25
+3.2.6 setter注入与构造函数注入  26
+3.3 Spring中的控制反转  28
+3.4 Spring中的依赖注入  28
+3.4.1 bean和BeanFactory  28
+3.4.2 BeanFactory实现  29
+3.4.3 ApplicationContext  30
+3.5 配置ApplicationContext  30
+3.5.1 设置Spring配置选项  30
+3.5.2 基本配置概述  30
+3.5.3 声明Spring组件  31
+3.5.4 使用方法注入  53
+3.5.5 了解bean命名  60
+3.5.6 了解bean实例化模式  66
+3.6 解析依赖项  69
+3.7 自动装配bean  71
+3.8 设置bean继承  77
+3.9 小结  79
+第4章 详述Spring配置和Spring Boot  80
+4.1 Spring对应用程序可移植性的影响  80
+4.2 管理bean生命周期  81
+4.3 挂钩到bean的创建  82
+4.3.1 在创建bean时执行方法  82
+4.3.2 实现InitializingBean接口  84
+4.3.3 使用JSR-250 @PostConstruct注解  86
+4.4 使用@Bean声明一个初始化方法  88
+4.5 挂钩到bean的销毁  89
+4.5.1 在bean被销毁时执行一个方法  89
+4.5.2 实现DisposableBean接口  91
+4.5.3 使用JSR-250 @PreDestroy注解  92
+4.6 使用@Bean声明销毁方法  93
+4.7 了解解析的顺序  94
+4.8 让Spring感知bean  94
+4.8.1 使用BeanNameAware接口  95
+4.8.2 使用ApplicationContextAware接口  96
+4.9 使用FactoryBean  97
+4.10 直接访问FactoryBean  100
+4.11 使用factory-bean和factory-method属性  101
+4.12 JavaBean PropertyEditor  102
+4.12.1 使用内置的PropertyEditor  102
+4.12.2 创建自定义PropertyEditor  106
+4.13 更多的Spring ApplicationContext配置  108
+4.13.1 使用MessageSource进行国际化  108
+4.13.2 在独立的应用程序中使用MessageSource  110
+4.13.3 应用程序事件  111
+4.14 访问资源  112
+4.15 使用Java类进行配置  113
+4.15.1 Java中的ApplicationContext配置  113
+4.15.2 Spring混合配置  119
+4.15.3 Java或XML配置？  121
+4.16 配置文件  121
+4.17 使用Java配置来配置Spring配置文件  123
+4.18 Environment和PropertySource抽象  125
+4.19 使用JSR-330注解进行配置  128
+4.20 使用Groovy进行配置  130
+4.21 Spring Boot  132
+4.22 小结  135
+第5章 Spring AOP  136
+5.1 AOP概念  137
+5.2 AOP的类型  137
+5.2.1 使用静态AOP  137
+5.2.2 使用动态AOP  137
+5.2.3 选择AOP类型  138
+5.3 Spring中的AOP  138
+5.3.1 AOP Alliance  138
+5.3.2 AOP中的Hello World示例  138
+5.4 Spring AOP架构  139
+5.4.1 Spring中的连接点  139
+5.4.2 Spring中的切面  140
+5.4.3 关于ProxyFactory类  140
+5.4.4 在Spring中创建通知  140
+5.4.5 通知的接口  141
+5.4.6 创建前置通知  141
+5.4.7 通过使用前置通知保护方法访问  142
+5.4.8 创建后置返回通知  145
+5.4.9 创建环绕通知  147
+5.4.10 创建异常通知  148
+5.4.11 选择通知类型  150
+5.5 在Spring中使用顾问和切入点  150
+5.5.1 Pointcut接口  151
+5.5.2 可用的切入点实现  152
+5.5.3 使用DefaultPointcutAdvisor  152
+5.5.4 使用StaticMethodMatcherPointcut创建静态切入点  153
+5.5.5 使用DyanmicMethodMatcherPointcut创建动态切入点  155
+5.5.6 使用简单名称匹配  157
+5.5.7 用正则表达式创建切入点  158
+5.5.8 使用AspectJ切入点表达式创建切入点  159
+5.5.9 创建注解匹配切入点  160
+5.5.10 便捷的Advisor实现  161
+5.6 了解代理  161
+5.6.1 使用JDK动态代理  162
+5.6.2 使用CGLIB代理  162
+5.6.3 比较代理性能  163
+5.6.4 选择要使用的代理  165
+5.7 切入点的高级使用  166
+5.7.1 使用控制流切入点  166
+5.7.2 使用组合切入点  168
+5.7.3 组合和切入点接口  170
+5.7.4 切入点小结  170
+5.8 引入入门  170
+5.8.1 引入的基础知识  171
+5.8.2 使用引入进行对象修改检测  172
+5.8.3 引入小结  175
+5.9 AOP的框架服务  175
+5.9.1 以声明的方式配置AOP  175
+5.9.2 使用ProxyFactoryBean  176
+5.9.3 使用aop名称空间  180
+5.10 使用@AspectJ样式注解  184
+5.11 AspectJ集成  189
+5.11.1 关于AspectJ  189
+5.11.2 使用单例切面  189
+5.12 小结  191
+第6章 Spring JDBC支持  192
+6.1 介绍Lambda表达式  192
+6.2 示例代码的示例数据模型  193
+6.3 研究JDBC基础结构  196
+6.4 Spring JDBC基础结构  199
+6.5 数据库连接和数据源  200
+6.6 嵌入数据库支持  203
+6.7 在DAO类中使用DataSource  204
+6.8 异常处理  206
+6.9 JdbcTemplate类  207
+6.9.1 在DAO类中初始化JdbcTemplate  207
+6.9.2 通过NamedParameterJdbcTemplate使用命名参数  209
+6.9.3 使用RowMapper检索域对象  210
+6.10 使用ResultSetExtractor检索嵌套域对象  211
+6.11 建模JDBC操作的Spring类  213
+6.12 使用MappingSqlQuery查询数据  215
+6.13 插入数据并检索生成的键  220
+6.14 使用BatchSqlUpdate进行批处理操作  221
+6.15 使用SqlFunction调用存储函数  225
+6.16 Spring Data项目：JDBC Extensions  226
+6.17 使用JDBC的注意事项  226
+6.18 Spring Boot JDBC  227
+6.19 小结  229
+第7章 在Spring中使用Hibernate  230
+7.1 示例代码的示例数据模型  230
+7.2 配置Hibernate的SessionFactory  232
+7.3 使用Hibernate注解的ORM映射  234
+7.3.1 简单的映射  235
+7.3.2 一对多映射  238
+7.3.3 多对多映射  239
+7.4 Hibernate会话接口  240
+7.4.1 使用Hibernate查询语言查询数据  241
+7.4.2 使用延迟获取进行简单查询  241
+7.4.3 使用关联获取进行查询  243
+7.5 插入数据  245
+7.6 更新数据  248
+7.7 删除数据  249
+7.8 配置Hibernate以便从实体生成表  250
+7.9 注解方法或字段？  252
+7.10 使用Hibernate时的注意事项  254
+7.11 小结  254
+第8章 在Spring中使用JPA 2进行数据访问  255
+8.1 JPA 2.1介绍  255
+8.1.1 示例代码的示例数据模型  256
+8.1.2 配置JPA的EntityManagerFactory  256
+8.1.3 使用JPA注解进行ORM映射  258
+8.2 使用JPA执行数据库操作  259
+8.2.1 使用Java持久化查询语言来查询数据  260
+8.2.2 查询非类型化结果  266
+8.3 使用构造函数表达式查询自定义结果类型  267
+8.3.1 插入数据  269
+8.3.2 更新数据  271
+8.3.3 删除数据  272
+8.4 使用本地查询  273
+8.5 使用简单的本地查询  273
+8.6 使用SQL ResultSet映射进行本地查询  274
+8.7 Spring Data JPA介绍  278
+8.7.1 添加Spring Data JPA库依赖项  279
+8.7.2 使用Spring Data JPA Repository抽象进行数据库操作  279
+8.8 使用JpaRepository  283
+8.9 带有自定义查询的Spring Data JPA  284
+8.10 通过使用Hibernate Envers保存实体版本  293
+8.10.1 为实体版本控制添加表  293
+8.10.2 为实体版本控制配置EntityManagerFactory  294
+8.10.3 启用实体版本控制和历史检索  296
+8.10.4 测试实体版本控制  297
+8.11 Spring Boot JPA  298
+8.12 使用JPA时的注意事项  302
+8.13 小结  302
+第9章 事务管理  303
+9.1 研究Spring事务抽象层  303
+9.2 PlatformTransactionManager的实现  304
+9.3 分析事务属性  305
+9.3.1 TransactionDefinition接口  305
+9.3.2 TransactionStatus接口  306
+9.4 示例代码的示例数据模型和基础结构  307
+9.4.1 创建一个带有依赖项的简单Spring JPA项目  307
+9.4.2 示例数据模型和通用类  308
+9.4.3 使用AOP配置进行事务管理  315
+9.5 使用编程式事务  316
+9.6 使用Spring实现全局事务  318
+9.6.1 实现JTA示例的基础结构  318
+9.6.2 使用JTA实现全局事务  319
+9.6.3 Spring Boot JTA  325
+9.6.4 使用JTA事务管理器的注意事项  328
+9.7 小结  329
+第10章 使用类型转换和格式化进行验证  330
+10.1 依赖项  330
+10.2 Spring类型转换系统  331
+10.3 使用PropertyEditors从字符串进行转换  331
+10.4 Spring类型转换介绍  333
+10.4.1 实现自定义转换器  333
+10.4.2 配置ConversionService  334
+10.4.3 任意类型之间的转换  335
+10.5 Spring中的字段格式化  338
+10.5.1 实现自定义格式化器  338
+10.5.2 配置ConversionServiceFactoryBean  339
+10.6 Spring中的验证  340
+10.6.1 使用Spring Validator接口  340
+10.6.2 使用JSR-349 Bean Validation  342
+10.6.3 在Spring中配置Bean Validation支持  343
+10.6.4 创建自定义验证器  344
+10.7 使用AssertTrue进行自定义验证  346
+10.8 自定义验证的注意事项  347
+10.9 决定使用哪种验证API  347
+10.10 小结  347
+第11章 任务调度  348
+11.1 任务调度示例的依赖项  348
+11.2 Spring中的任务调度  349
+11.2.1 Spring TaskScheduler抽象介绍  349
+11.2.2 研究示例任务  350
+11.2.3 使用注解进行任务调度  355
+11.2.4 Spring中异步任务的执行  357
+11.3 Spring中任务的执行  359
+11.4 小结  360
+第12章 使用Spring远程处理  361
+12.1 使用示例的数据模型  362
+12.2 为JPA后端添加必需的依赖项  363
+12.3 实现和配置SingerService  364
+12.3.1 实现SingerService  364
+12.3.2 配置SingerService  365
+12.3.3 公开服务  367
+12.3.4 调用服务  368
+12.4 在Spring中使用JMS  369
+12.4.1 在Spring中实现JMS监听器  371
+12.4.2 在Spring中发送JMS消息  372
+12.5 Spring Boot Artemis启动器  373
+12.6 在Spring中使用RESTful-WS  375
+12.6.1 RESTful Web服务介绍  375
+12.6.2 为示例添加必需的依赖项  376
+12.6.3 设计Singer RESTful Web服务  376
+12.6.4 使用Spring MVC展示REST样式的Web服务  376
+12.7 配置Castor XML  377
+12.7.1 实现SingerController  378
+12.7.2 配置Spring Web应用程序  380
+12.7.3 使用curl测试RESTful-WS  382
+12.7.4 使用RestTemplate访问RESTful-WS  383
+12.7.5 使用Spring Security来保护RESTful-WS  386
+12.8 使用Spring Boot开发RESTful-WS  389
+12.9 在Spring中使用AMQP  392
+12.10 小结  397
+第13章 Spring测试  398
+13.1 测试类别介绍  398
+13.2 使用Spring测试注解  399
+13.3 实施逻辑单元测试  400
+13.3.1 添加所需的依赖项  400
+13.3.2 单元测试Spring MVC控制器  401
+13.4 实现集成测试  403
+13.4.1 添加所需的依赖项  403
+13.4.2 配置用于服务层测试的配置文件  403
+13.4.3 Java配置版本  404
+13.4.4 实施基础结构类  405
+13.4.5 对服务层进行单元测试  408
+13.4.6 丢弃DbUnit  410
+13.5 实现前端单元测试  413
+13.6 小结  413
+第14章 Spring中的脚本支持  414
+14.1 在Java中使用脚本支持  414
+14.2 Groovy介绍  415
+14.2.1 动态类型化  416
+14.2.2 简化的语法  416
+14.2.3 闭包  417
+14.3 与Spring一起使用Groovy  418
+14.3.1 开发Singer对象域  418
+14.3.2 实现规则引擎  418
+14.3.3 将规则工厂实现为Spring可刷新bean  420
+14.3.4 测试年龄分类规则  421
+14.3.5 内联动态语言代码  423
+14.4 小结  424
+第15章 应用程序监控  425
+15.1 Spring中的JMX支持  425
+15.2 将Spring bean导出为JMX  425
+15.3 使用Java VisualVM进行JMX监控  426
+15.4 监视Hibernate统计信息  428
+15.5 使用了Spring Boot的JMX  429
+15.6 小结  431
+第16章 Web应用程序  432
+16.1 实现示例的服务层  433
+16.1.1 对示例使用数据模型  433
+16.1.2 实现DAO层  435
+16.1.3 实现服务层  435
+16.2 配置SingerService  436
+16.3 MVC和Spring MVC介绍  437
+16.3.1 MVC介绍  438
+16.3.2 Spring MVC介绍  438
+16.3.3 Spring MVC WebApplicationContext层次结构  439
+16.3.4 Spring MVC请求生命周期  439
+16.3.5 Spring MVC配置  440
+16.3.6 在Spring MVC中创建第一个视图  442
+16.3.7 配置DispatcherServlet  443
+16.3.8 实现SingerController  444
+16.3.9 实现歌手列表视图  445
+16.3.10 测试歌手列表视图  445
+16.4 理解Spring MVC项目结构  445
+16.5 实现国际化(il8n)  446
+16.5.1 在DispatcherServlet配置中配置国际化  446
+16.5.2 为国际化支持而修改歌手列表视图  448
+16.6 使用主题和模板  448
+16.7 使用Apache Tiles查看模板  450
+16.7.1 设计模板布局  450
+16.7.2 实现页面布局组件  451
+16.8 在Spring MVC中配置Tiles  453
+16.9 实现歌手信息视图  454
+16.9.1 将URL映射到视图  454
+16.9.2 实现显示歌手视图  454
+16.9.3 实现编辑歌手视图  456
+16.9.4 实现添加歌手视图  459
+16.9.5 启用JSR-349(bean验证)  460
+16.10 使用jQuery和jQuery UI  462
+16.10.1 jQuery和jQuery UI介绍  462
+16.10.2 在视图中使用jQuery和jQuery UI  462
+16.10.3 使用CKEditor进行富文本编辑  463
+16.10.4 使用jqGrid实现具有分页支持的数据网格  464
+16.10.5 在歌手列表视图中启用jqGrid  464
+16.10.6 在服务器端启用分页  466
+16.11 处理文件上传  468
+16.11.1 配置文件上传支持  468
+16.11.2 修改视图以支持文件上传  469
+16.11.3 修改控制器以支持文件上传  470
+16.12 用Spring Security保护Web应用程序  471
+16.12.1 配置Spring安全性  471
+16.12.2 将登录功能添加到应用程序中  473
+16.12.3 使用注解来保护控制器方法  475
+16.13 使用Spring Boot创建Spring Web应用程序  475
+16.14 设置DAO层  476
+16.14.1 设置服务层  477
+16.14.2 设置Web层  478
+16.14.3 设置Spring安全性  479
+16.15 创建Thymeleaf视图  479
+16.16 使用Thymeleaf扩展  482
+16.17 小结  486
+第17章 WebSocket  487
+17.1 WebSocket介绍  487
+17.2 与Spring一起使用WebSocket  487
+17.3 使用WebSocket API  488
+17.4 使用STOMP发送消息  496
+17.5 小结  500
+第18章 Spring项目：批处理、集成和XD等  501
+18.1 Spring Batch  502
+18.2 JSR-352  507
+18.3 Spring Boot Batch  509
+18.4 Spring Integration  512
+18.5 Spring XD  516
+18.6 Spring框架的五个最显著的功能  517
+18.6.1 功能性Web框架  518
+18.6.2 Java 9 互操作性  526
+18.6.3 JDK模块化  526
+18.6.4 使用Java 9和Spring WebFlux进行反应式编程  528
+18.6.5 Spring支持JUnit 5 Jupiter  529
+18.7 小结  536
+附录A 设置开发环境  537
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring 5高级编程（第5版）
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring响应式微服务
+第1章  直面响应式微服务架构	1
+1.1  响应式系统核心概念	1
+1.1.1  从传统编程方法到响应式编程方法	1
+1.1.2  响应式宣言与响应式系统	4
+1.2  剖析微服务架构	6
+1.2.1  分布式系统与微服务架构	6
+1.2.2  服务拆分与集成	8
+1.2.3  微服务架构的核心组件	11
+1.2.4  微服务架构技术体系	13
+1.3  构建响应式微服务架构	15
+1.3.1  响应式微服务架构设计原则	15
+1.3.2  整合响应式编程与微服务架构	18
+1.4  全书架构	19
+1.5  本章小结	20
+第2章  响应式编程模型与Reactor框架	21
+2.1  响应式编程模型	21
+2.1.1  流	22
+2.1.2  背压	24
+2.1.3  响应式流	25
+2.2  Reactor框架	28
+2.2.1  响应式编程实现技术概述	28
+2.2.2  引入Reactor框架	31
+2.3  创建Flux和Mono	34
+2.3.1  创建Flux	34
+2.3.2  创建Mono	37
+2.4  Flux和Mono操作符	39
+2.4.1  转换操作符	39
+2.4.2  过滤操作符	43
+2.4.3  组合操作符	46
+2.4.4  条件操作符	49
+2.4.5  数学操作符	52
+2.4.6  Observable工具操作符	54
+2.4.7  日志和调试操作符	56
+2.5  Reactor框架中的背压机制	58
+2.6  本章小结	60
+第3章  构建响应式RESTful服务	61
+3.1  使用Spring Boot 2.0构建微服务	61
+3.1.1  Spring Boot基本特性	61
+3.1.2  基于Spring Boot的第一个RESTful服务	63
+3.1.3  使用Actuator组件强化服务	67
+3.2  使用Spring WebFlux构建响应式服务	80
+3.2.1  使用Spring Initializer初始化响应式Web应用	80
+3.2.2  对比响应式Spring WebFlux与传统Spring WebMvc	82
+3.2.3  使用注解编程模型创建响应式RESTful服务	84
+3.2.4  使用函数式编程模型创建响应式RESTful服务	88
+3.3  本章小结	93
+第4章  构建响应式数据访问组件	94
+4.1  Spring Data数据访问模型	94
+4.1.1  Spring Data抽象	95
+4.1.2  集成Spring Data JPA	98
+4.1.3  集成Spring Data Redis	100
+4.1.4  集成Spring Data Mongodb	103
+4.2  响应式数据访问模型	104
+4.2.1  Spring Reactive Data抽象	105
+4.2.2  创建响应式数据访问层组件	107
+4.3  响应式Mongodb	108
+4.3.1  初始化Reactive Mongodb运行环境	109
+4.3.2  创建Reactive Mongodb Repository	112
+4.3.3  使用CommandLineRunner初始化Mongodb数据	113
+4.3.4  在Service层中调用Reactive MongodbRepository	114
+4.4  响应式Redis	117
+4.4.1  初始化Reactive Redis运行环境	117
+4.4.2  创建Reactive Redis Repository	121
+4.4.3  在Service层中调用Reactive Repository	122
+4.5  本章小结	123
+第5章  构建响应式消息通信组件	124
+5.1  消息通信系统简介	125
+5.2  使用Spring Cloud Stream构建消息通信系统	126
+5.2.1  Spring Cloud Stream基本架构	126
+5.2.2  Spring Cloud Stream中的Binder组件	130
+5.2.3  使用Source组件实现消息发布者	135
+5.2.4  使用@StreamListener注解实现消息消费者	137
+5.3  引入Reactive Spring Cloud Stream实现响应式 消息通信系统	139
+5.3.1  Reactive Spring Cloud Stream组件	139
+5.3.2  Reactive Spring Cloud Stream示例	141
+5.4  本章小结	147
+第6章  构建响应式微服务架构	148
+6.1  使用Spring Cloud创建响应式微服务架构	148
+6.1.1  服务治理	149
+6.1.2  负载均衡	154
+6.1.3  服务容错	161
+6.1.4  服务网关	166
+6.1.5  服务配置	173
+6.1.6  服务监控	177
+6.2  使用WebClient实现响应式服务调用	182
+6.2.1  创建和配置WebClient	182
+6.2.2  使用WebClient访问服务	183
+6.3  本章小结	187
+第7章  测试响应式微服务架构	188
+7.1  初始化测试环境	189
+7.1.1  引入spring-boot-starter-test组件	189
+7.1.2  解析基础类测试注解	190
+7.1.3  编写第一个测试用例	191
+7.2  测试Reactor组件	192
+7.3  测试响应式Repository层组件	194
+7.3.1  测试内嵌式Mongodb	194
+7.3.2  测试真实MongoDB	197
+7.4　测试响应式Service层组件	199
+7.5  测试响应式Controller层组件	201
+7.6  本章小结	204
+第8章  响应式微服务架构演进案例分析	205
+8.1  PrescriptionSystem案例简介	205
+8.2  传统微服务架构实现案例	207
+8.2.1  构建基础设施类服务	207
+8.2.2  构建Medicine服务	213
+8.2.3  构建Card服务	219
+8.2.4  构建Prescription服务	224
+８.3  响应式微服务架构演进案例	237
+8.3.1  更新基础设施类服务	237
+8.3.2  更新数据访问方式	241
+8.3.3  更新事件通信方式	246
+8.4  本章小结	266
+参考文献	267
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring响应式微服务
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>从企业级开发到云原生微服务：Spring Boot实战
+目录
+第 1 章  初识 Spring Boot ............................................................................................... 1
+1.1  Spring Boot 概述 ............................................................................................................ 1  1.2  快速建立 Spring Boot 应用 ........................................................................................... 2
+1.2.1  安装 Java ............................................................................................................. 2
+1.2.2  使用 Spring Initializr ........................................................................................... 2
+1.2.3  第一段代码 ......................................................................................................... 3
+1.3  体验 Spring Boot ............................................................................................................ 4  1.3.1  Spring Boot 的应用结构 ..................................................................................... 4
+1.3.2  build.gradle .......................................................................................................... 5
+1.3.3  QuickStartApplication ......................................................................................... 5
+1.3.4  application.properties .......................................................................................... 6
+1.4  小结 ................................................................................................................................ 6
+第 2 章  函数式编程 ........................................................................................................ 7
+2.1  了解函数式编程 ............................................................................................................ 7
+2.2  Lambda 表达式 .............................................................................................................. 7
+2.2.1  了解Lambda 表达式 .......................................................................................... 7
+2.2.2  把 Lambda 表达式作为参数 .............................................................................. 8
+2.3  函数接口 ........................................................................................................................ 9
+2.3.1  Predicate ............................................................................................................ 10
+2.3.2  Function ............................................................................................................. 12
+2.3.3  Consumer .......................................................................................................... 14
+2.3.4  Supplier ............................................................................................................. 14
+2.3.5  Operator ............................................................................................................. 15
+2.3.6  Comparator ........................................................................................................ 15
+2.3.7  自定义函数接口 ............................................................................................... 16
+2.4  方法引用 ...................................................................................................................... 16
+2.4.1  构造器方法引用 ............................................................................................... 16
+2.4.2  静态方法引用 ................................................................................................... 17
+2.4.3  实例方法引用 ................................................................................................... 18
+2.4.4  引用特定类的任意对象的方法 ....................................................................... 18
+2.5  Stream ........................................................................................................................... 18
+2.5.1  Stream 简介 ....................................................................................................... 19
+2.5.2  获得 Stream ....................................................................................................... 19
+2.5.3  中间操作 ........................................................................................................... 20
+2.5.4  终结操作 ........................................................................................................... 23
+2.6  Optional ........................................................................................................................ 27
+2.6.1  获得Optional .................................................................................................... 28
+2.6.2  Optional 的用法 ................................................................................................ 28
+2.7小结......................................................................................................................29
+第 3 章  Spring 5.X 基础 ............................................................................................... 30
+3.1  IoC 容器 ....................................................................................................................... 30
+3.2  Spring Bean 的配置 ..................................................................................................... 31
+3.2.1  注解配置（@Component） ............................................................................. 31
+3.2.2  Java 配置（@Configuration 和@Bean） ........................................................ 31
+3.2.3  依赖注入（Dependency Injection） ................................................................ 32
+3.2.4  运行检验（CommandLineRunner） ............................................................... 37
+3.2.5  Bean 的 Scope ................................................................................................... 38
+3.2.6  Bean 的生命周期 .............................................................................................. 40
+3.2.7  应用环境 ........................................................................................................... 43
+3.2.8  条件配置（@Conditional） ............................................................................ 46
+3.2.9  开启配置（@Enable*和@Import） ................................................................ 47
+3.3  对 Bean 的处理（BeanPostProcessor） ...................................................................... 53
+3.4  Spring Aware 容器 ....................................................................................................... 54
+3.5  Bean 之间的事件通信 ................................................................................................. 57
+3.6  Spring EL ...................................................................................................................... 59
+3.7  AOP .............................................................................................................................. 61
+3.8  注解工作原理 .............................................................................................................. 64
+3.8.1  BeanPostProcessor ............................................................................................ 64
+3.8.2  BeanFactoryPostProcessor ................................................................................ 66
+3.8.3  使用AOP .......................................................................................................... 68
+3.8.4  组合元注解 ....................................................................................................... 68
+3.9小结......................................................................................................................68
+第 4 章  深入 Spring Boot ............................................................................................. 69
+4.1  Spring Boot 介绍 .......................................................................................................... 69
+4.2  Spring Boot 的“魔法” .................................................................................................. 69
+4.2.1  加载自动配置 ................................................................................................... 69
+4.2.2  实现自动配置 ................................................................................................... 71
+4.3  Spring Boot 的配置 ...................................................................................................... 73
+4.3.1  应用配置 ........................................................................................................... 74
+4.3.2  修改默认配置 ................................................................................................... 76
+4.3.3  外部配置 ........................................................................................................... 79
+4.4  日志和报告 .................................................................................................................. 91
+4.4.1  日志 ................................................................................................................... 91
+4.4.2  报告 ................................................................................................................... 93
+4.5  多线程任务和计划任务 .............................................................................................. 94
+4.5.1  Task Executor .................................................................................................... 94
+4.5.2  Task Scheduler .................................................................................................. 97
+4.6  Gradle 插件 .................................................................................................................. 99
+4.6.1  依赖 ................................................................................................................... 99
+4.6.2  Spring Boot Starter .......................................................................................... 100
+4.6.3  插件任务 ......................................................................................................... 100
+4.7  自定义Starter ............................................................................................................. 100
+4.7.1  包装技术库 ..................................................................................................... 101
+4.7.2  Starter 的结构 ................................................................................................. 103
+4.7.3  autoconfigure 模块 .......................................................................................... 105
+4.7.4  Starter 模块 ..................................................................................................... 107
+4.7.5  使用 Starter ..................................................................................................... 108
+4.8  Spring Boot Actuator .................................................................................................. 110
+4.8.1  常用端点 ......................................................................................................... 110
+4.8.2  自定义 ............................................................................................................. 119
+4.8.3  使用 Prometheus 和Grafana 监控指标 ......................................................... 124
+4.9  小结 ............................................................................................................................ 128
+第 5 章  Spring Web MVC .......................................................................................... 129
+5.1  Spring Web MVC 简介 .............................................................................................. 129
+5.2  用 Spring Boot 学习Web MVC ................................................................................ 129
+5.2.1  核心注解 ......................................................................................................... 129
+5.2.2  RESTful 服务 .................................................................................................. 130
+5.2.3  @ControllerAdvice ......................................................................................... 146
+5.2.4  @RestControllerAdvice .................................................................................. 151
+5.2.5  JSON 定制 ...................................................................................................... 156
+5.2.6  RestTemplate ................................................................................................... 159
+5.3  Web MVC 配置 .......................................................................................................... 161
+5.3.1  Spring MVC 的工作原理 ............................................................................... 161
+5.3.2  配置MVC ....................................................................................................... 161
+5.3.3  Interceptor ....................................................................................................... 162
+5.3.4  Formatter ......................................................................................................... 164
+5.3.5  HttpMessageConverter .................................................................................... 166
+5.3.6  方法参数和返回值处理设置 ......................................................................... 169
+5.3.7  初始化数据绑定设置 ..................................................................................... 176
+5.3.8  类型转换原理与设置 ..................................................................................... 176
+5.3.9  路径匹配和内容协商 ..................................................................................... 183
+5.3.10  JSON ............................................................................................................. 188
+5.3.11 其他外部属性配置 ......................................................................................... 189
+5.4  Servlet 容器 ................................................................................................................ 191
+5.4.1  注册 Servlet、Filter 和 Listener ..................................................................... 191
+5.4.2  配置 Servlet 容器 ............................................................................................ 196
+5.5  异步请求 .................................................................................................................... 202
+5.5.1  Servlet 3.0 异步返回 ...................................................................................... 202
+5.5.2  HTTP Streaming.............................................................................................. 206
+5.5.3  HTTP/2 ............................................................................................................ 212
+5.6  小结 ............................................................................................................................ 214
+第 6 章  数据访问 ....................................................................................................... 215
+6.1   Spring Data Repository ............................................................................................. 215
+6.1.1  DDD 与 Spring Data Repository ..................................................................... 215
+6.1.2  查询方法 ......................................................................................................... 218
+6.2  关系数据库——Spring Data JPA .............................................................................. 218
+6.2.1  JPA、Hibernate 和Spring Data JPA .............................................................. 218
+6.2.2  环境准备 ......................................................................................................... 218
+6.2.3  自动配置 ......................................................................................................... 220
+6.2.4  定义聚合 ......................................................................................................... 221
+6.2.5  定义聚合 Repository ...................................................................................... 224
+6.2.6  查询 ................................................................................................................. 226
+6.2.7  事件监听 ......................................................................................................... 238
+6.2.8  领域事件 ......................................................................................................... 242
+6.2.9  审计功能 ......................................................................................................... 245
+6.2.10  Web 支持 ...................................................................................................... 246
+6.2.11  数据库初始化 ............................................................................................... 248
+6.3  NoSQL——Spring Data Elasticsearch ....................................................................... 252
+6.3.1  Elascticsearch 简介 ......................................................................................... 252
+6.3.2  环境准备 ......................................................................................................... 252
+6.3.3  自动配置 ......................................................................................................... 253
+6.3.4  定义聚合 ......................................................................................................... 254
+6.3.5  定义聚合 Repository ...................................................................................... 255
+6.3.6  查询 ................................................................................................................. 256
+6.4  数据缓存 .................................................................................................................... 261
+6.4.1  Spring Boot 与缓存......................................................................................... 261
+6.4.2  环境准备 ......................................................................................................... 262
+6.4.3  使用缓存注解 ................................................................................................. 264
+6.5  小结 ............................................................................................................................ 266
+第 7 章  安全控制 ....................................................................................................... 267
+7.1  Spring Security 的应用 .............................................................................................. 267
+7.1.1  Spring Boot 的自动配置 ................................................................................. 267
+7.1.2  开启Web 安全配置 ....................................................................................... 268
+7.1.3  定制Web 安全配置 ....................................................................................... 268
+7.1.4  Authentication ................................................................................................. 269
+7.1.5  Authorization ................................................................................................... 281
+7.1.6  Spring Data 集成 ............................................................................................. 294
+7.2  Spring Security 实战 .................................................................................................. 295
+7.3  OAuth 2.0 ................................................................................................................... 301
+7.3.1  OAuth 2.0 Authorization Server ...................................................................... 301
+7.3.2  OAuth 2.0 Resource Server ............................................................................. 310
+7.3.3  OAuth 2.0 Client ............................................................................................. 317
+7.4  小结 ............................................................................................................................ 322
+第 8 章  响应式编程 .................................................................................................... 323
+8.1  Project Reactor............................................................................................................ 323
+8.1.1  Reactive Streams 的基础接口 ........................................................................ 323
+8.1.2  Flux 和 Mono .................................................................................................. 325
+8.2  Spring WebFlux .......................................................................................................... 327
+8.2.1  Spring WebFlux 基础 ..................................................................................... 327
+8.2.2  Spring Boot 的自动配置 ................................................................................. 328
+8.2.3  注解控制器 ..................................................................................................... 329
+8.2.4  函数式端点 ..................................................................................................... 332
+8.2.5  Spring WebFlux 的配置 ................................................................................. 334
+8.3  Reactive NoSQL ......................................................................................................... 334
+8.3.1  响应式 Elasticsearch ....................................................................................... 335
+8.3.2  响应式 MongoDB ........................................................................................... 339
+8.4  Reactive 关系型数据库：R2DBC ............................................................................. 342
+8.4.1  安装 PostgreSQL ............................................................................................ 343
+8.4.2  Spring Boot 的自动配置 ................................................................................. 343
+8.4.3  示例 ................................................................................................................. 344
+8.5  Reactive Spring Security ............................................................................................ 347
+8.5.1  Reactive Spring Security 原理 ........................................................................ 347
+8.5.2  Spring Boot 的自动配置 ................................................................................. 347
+8.5.3  示例 ................................................................................................................. 348
+8.6  小结 ............................................................................................................................ 354
+第 9 章  事件驱动 ....................................................................................................... 355
+9.1  JMS ............................................................................................................................. 355
+9.1.1  安装Apache ActiveMQ Artemis .................................................................... 355
+9.1.2  新建应用 ......................................................................................................... 356
+9.1.3  Spring Boot 的自动配置 ................................................................................. 356
+9.1.4  示例 ................................................................................................................. 356
+9.1.5  Topic 和 Queue ............................................................................................... 358
+9.2  RabbitMQ ................................................................................................................... 360
+9.3  Kafka .......................................................................................................................... 367
+9.4  Websocket .................................................................................................................. 374
+9.4.1  STOMP Websocket ......................................................................................... 374
+9.4.2  Reactive Websocket ........................................................................................ 379
+9.5  RSocket ....................................................................................................................... 382
+9.5.1  新建应用 ......................................................................................................... 382
+9.5.2  Spring Boot 的自动配置 ................................................................................. 383
+9.5.3  示例 ................................................................................................................. 383
+9.6  小结 ............................................................................................................................ 388
+第 10 章  系统集成与批处理 ....................................................................................... 389
+10.1  Spring Integration ..................................................................................................... 389
+10.1.1  Spring Integration 基础 ................................................................................. 389
+10.1.2  Spring Integration Java DSL ......................................................................... 391
+10.1.3  示例 ............................................................................................................... 392
+10.2  Spring Batch ............................................................................................................. 395
+10.2.1  Spring Batch 的流程 ..................................................................................... 396
+10.2.2  Spring Boot 的自动配置 ............................................................................... 396
+10.2.3  示例 ............................................................................................................... 397
+10.3  小结 .......................................................................................................................... 402
+第 11 章  Spring Cloud 与微服务 ................................................................................ 403  11.1  微服务基础 .............................................................................................................. 403  11.1.1  微服务和云原生应用 ................................................................................... 403
+11.1.2  领域驱动设计 ............................................................................................... 404
+11.2  Spring Cloud ............................................................................................................. 405
+11.2.1  服务发现 ....................................................................................................... 405
+11.2.2  配置管理 ....................................................................................................... 408
+11.2.3  同步服务交互 ............................................................................................... 412
+11.2.4  异步服务交互 ............................................................................................... 417
+11.2.5  响应式异步交互 ........................................................................................... 427
+11.2.6  应用网关：Spring Cloud Gateway .............................................................. 430
+11.2.7  认证授权 ....................................................................................................... 433
+11.3  小结 .......................................................................................................................... 442
+第 12 章  Kubernetes 与微服务 .................................................................................. 443
+12.1  Kubernetes ................................................................................................................ 443
+12.1.1  安装 ............................................................................................................... 443
+12.1.2  Kubernetes 基础知识 .................................................................................... 445
+12.1.3  Helm .............................................................................................................. 460
+12.1.4  DevOps .......................................................................................................... 463
+12.1.5  安装Jenkins .................................................................................................. 464
+12.1.6  微服务示例 ................................................................................................... 465
+12.1.7  镜像仓库和 Dockerfile ................................................................................. 467
+12.1.8  使用Helm 打包应用 .................................................................................... 471
+12.1.9  Jenkins 流程 .................................................................................................. 475
+12.2  Service Mesh 和 Istio ............................................................................................... 481
+12.2.1  安装Istio ....................................................................................................... 482
+12.2.2  微服务示例 ................................................................................................... 483
+12.3  小结 .......................................................................................................................... 490
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>从企业级开发到云原生微服务：Spring Boot实战
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>轻量级Java EE企业应用实战（第5版）
+第1章  Java EE应用和开发环境  1
+1.1  Java EE应用概述  2
+1.1.1  Java EE应用的分层模型  2
+1.1.2  Java EE应用的组件  3
+1.1.3  Java EE应用的结构和优势  4
+1.1.4  常用的Java EE服务器  4
+1.2  轻量级Java EE应用相关技术  5
+1.2.1  JSP、Servlet 3.x和JavaBean及替代技术  5
+1.2.2  Struts 2.5及替代技术  5
+1.2.3  Hibernate 5.2及替代技术  6
+1.2.4  Spring 5.0及替代技术  6
+1.3  Tomcat的下载和安装  7
+1.3.1  安装Tomcat服务器  8
+1.3.2  配置Tomcat的服务端口  9
+1.3.3  进入控制台  9
+1.3.4  部署Web应用  12
+1.3.5  配置Tomcat的数据源  12
+1.4  Eclipse的安装和使用  14
+1.4.1  Eclipse的下载和安装  14
+1.4.2  在线安装Eclipse插件  15
+1.4.3  从本地压缩包安装插件  17
+1.4.4  手动安装Eclipse插件  17
+1.4.5  使用Eclipse开发Java EE应用  17
+1.4.6  导入Eclipse项目  20
+1.4.7  导入非Eclipse项目  21
+1.5  Ant的安装和使用  22
+1.5.1  Ant的下载和安装  23
+1.5.2  使用Ant工具  23
+1.5.3  定义生成文件  25
+1.5.4  Ant的任务（task）  29
+1.6  Maven的安装和使用  31
+1.6.1  下载和安装Maven  31
+1.6.2  设置Maven  32
+1.6.3  创建、构建简单的项目  33
+1.6.4  Maven的核心概念  36
+1.6.5  依赖管理  41
+1.6.6  POM文件的元素  43
+1.7  使用SVN进行协作开发  44
+1.7.1  下载和安装SVN服务器  45
+1.7.2  配置SVN资源库  45
+1.7.3  下载和安装SVN客户端  47
+1.7.4  将项目发布到服务器  47
+1.7.5  从服务器下载项目  48
+1.7.6  提交（Commit）修改  48
+1.7.7  同步（Update）本地文件  48
+1.7.8  添加文件和目录  49
+1.7.9  删除文件和目录  50
+1.7.10  查看文件或目录的版本变革  50
+1.7.11  从以前版本重新开始  50
+1.7.12  创建分支  51
+1.7.13  沿着分支开发  51
+1.7.14  合并分支  52
+1.7.15  使用Eclipse作为SVN客户端  52
+1.8  使用Git进行软件配置管理（SCM）  55
+1.8.1  下载和安装Git、TortoiseGit  56
+1.8.2  创建本地资源库  58
+1.8.3  添加（Add）文件和目录  59
+1.8.4  提交（Commit）修改  60
+1.8.5  查看文件或目录的版本变更  61
+1.8.6  删除文件和目录  62
+1.8.7  从以前版本重新开始  62
+1.8.8  克隆（Clone）项目  63
+1.8.9  创建分支  64
+1.8.10  沿着分支开发  64
+1.8.11  合并分支  65
+1.8.12  使用Eclipse作为Git客户端  65
+1.8.13  配置远程中央资源库  67
+1.8.14  推送（Push）项目  69
+1.8.15  获取（Fetch）项目和拉取（Pull）项目  70
+1.9  本章小结  72
+第2章  JSP/Servlet及相关技术详解  73
+2.1  Web应用和web.xml文件  74
+2.1.1  构建Web应用  74
+2.1.2  配置描述符web.xml  75
+2.2  JSP的基本原理  76
+2.3  JSP的4种基本语法  80
+2.3.1  JSP注释  80
+2.3.2  JSP声明  81
+2.3.3  JSP输出表达式  82
+2.3.4  JSP小脚本  83
+2.4  JSP的3个编译指令  85
+2.4.1  page指令  85
+2.4.2  include指令  89
+2.5  JSP的7个动作指令  90
+2.5.1  forward指令  90
+2.5.2  include指令  92
+2.5.3  useBean、setProperty、getProperty指令  93
+2.5.4  plugin指令  96
+2.5.5  param指令  96
+2.6  JSP脚本中的9个内置对象  96
+2.6.1  application对象  98
+2.6.2  config对象  103
+2.6.3  exception对象  105
+2.6.4  out对象  107
+2.6.5  pageContext对象  108
+2.6.6  request对象  109
+2.6.7  response对象  116
+2.6.8  session对象  120
+2.7  Servlet介绍  122
+2.7.1  Servlet的开发  122
+2.7.2  Servlet的配置  124
+2.7.3  JSP/Servlet的生命周期  125
+2.7.4  load-on-startup Servlet  126
+2.7.5  访问Servlet的配置参数  127
+2.7.6  使用Servlet作为控制器  129
+2.8  JSP 2的自定义标签  133
+2.8.1  开发自定义标签类  133
+2.8.2  建立TLD文件  134
+2.8.3  使用标签库  135
+2.8.4  带属性的标签  136
+2.8.5  带标签体的标签  139
+2.8.6  以页面片段作为属性的标签  141
+2.8.7  动态属性的标签  143
+2.9  Filter介绍  144
+2.9.1  创建Filter类  145
+2.9.2  配置Filter  146
+2.9.3  使用URL Rewrite实现网站伪静态  149
+2.10  Listener介绍  150
+2.10.1  实现Listener类  151
+2.10.2  配置Listener  152
+2.10.3  使用ServletContextAttributeListener  153
+2.10.4  使用ServletRequestListener和ServletRequestAttributeListener  154
+2.10.5  使用HttpSessionListener和HttpSessionAttributeListener  155
+2.11  JSP 2特性  160
+2.11.1  配置JSP属性  160
+2.11.2  表达式语言  162
+2.11.3  Tag File支持  170
+2.12  Servlet 3新特性  172
+2.12.1  Servlet 3的注解  172
+2.12.2  Servlet 3的Web模块支持  172
+2.12.3  Servlet 3提供的异步处理  174
+2.12.4  改进的Servlet API  177
+2.13  Servlet 3.1新增的非阻塞式IO  180
+2.14  Tomcat 8.5的WebSocket支持  182
+2.15  本章小结  187
+第3章  Struts 2的基本用法  188
+3.1  MVC思想概述  189
+3.1.1  传统Model 1和Model 2  189
+3.1.2  MVC思想及其优势  190
+3.2  Struts 2的下载和安装  191
+3.2.1  为Web应用增加Struts 2支持  191
+3.2.2  在Eclipse中使用Struts 2  192
+3.2.3  增加登录处理  193
+3.3  Struts 2的流程  196
+3.3.1  Struts 2应用的开发步骤  196
+3.3.2  Struts 2的运行流程  197
+3.4  Struts 2的常规配置  198
+3.4.1  常量配置  198
+3.4.2  包含其他配置文件  204
+3.5  实现Action  204
+3.5.1  Action接口和ActionSupport基类  206
+3.5.2  Action访问Servlet API  208
+3.5.3  Action直接访问Servlet API  210
+3.5.4  使用ServletActionContext访问Servlet API  212
+3.6  配置Action  212
+3.6.1  包和命名空间  213
+3.6.2  Action的基本配置  216
+3.6.3  使用Action的动态方法调用  217
+3.6.4  指定method属性及使用通配符  219
+3.6.5  配置默认Action  224
+3.6.6  配置Action的默认处理类  225
+3.7  配置处理结果  225
+3.7.1  理解处理结果  225
+3.7.2  配置结果  226
+3.7.3  Struts 2支持的结果类型  227
+3.7.4  plainText结果类型  229
+3.7.5  redirect结果类型  230
+3.7.6  redirectAction结果类型  231
+3.7.7  动态结果  232
+3.7.8  Action属性值决定物理视图资源  232
+3.7.9  全局结果  234
+3.7.10  使用PreResultListener  235
+3.8  配置Struts 2的异常处理  236
+3.8.1  Struts 2的异常处理机制  236
+3.8.2  声明式异常捕捉  238
+3.8.3  输出异常信息  239
+3.9  Convention插件与“约定”支持  240
+3.9.1  Action的搜索和映射约定  241
+3.9.2  按约定映射Result  243
+3.9.3  Action链的约定  246
+3.9.4  自动重加载映射  247
+3.9.5  Convention插件的相关常量  247
+3.9.6  Convention插件相关注解  248
+3.10  使用Struts 2的国际化  248
+3.10.1  视图页面的国际化  249
+3.10.2  Action的国际化  250
+3.10.3  使用包范围的国际化资源  251
+3.10.4  使用全局国际化资源  252
+3.10.5  输出带占位符的国际化消息  254
+3.10.6  加载资源文件的顺序  256
+3.11  使用Struts 2的标签库  256
+3.11.1  Struts 2标签库概述  256
+3.11.2  使用Struts 2标签  257
+3.11.3  Struts 2的OGNL表达式语言  258
+3.11.4  OGNL中的集合操作  260
+3.11.5  访问静态成员  261
+3.11.6  Lambda（）表达式  261
+3.11.7  控制标签  262
+3.11.8  数据标签  271
+3.11.9  主题和模板  279
+3.11.10  自定义主题  281
+3.11.11  表单标签  282
+3.11.12  非表单标签  294
+3.12  本章小结  297
+第4章  深入使用Struts 2  298
+4.1  详解Struts 2的类型转换  299
+4.1.1  Struts 2内建的类型转换器  299
+4.1.2  基于OGNL的类型转换  300
+4.1.3  指定集合元素的类型  302
+4.1.4  自定义类型转换器  304
+4.1.5  注册类型转换器  306
+4.1.6  基于Struts 2的自定义类型转换器  308
+4.1.7  处理Set集合  308
+4.1.8  类型转换中的错误处理  311
+4.2  使用Struts 2的输入校验  316
+4.2.1  编写校验规则文件  316
+4.2.2  国际化提示信息  319
+4.2.3  使用客户端校验  320
+4.2.4  字段校验器配置风格  321
+4.2.5  非字段校验器配置风格  322
+4.2.6  短路校验器  324
+4.2.7  校验文件的搜索规则  325
+4.2.8  校验顺序和短路  327
+4.2.9  内建校验器  327
+4.2.10  基于注解的输入校验  337
+4.2.11  手动完成输入校验  339
+4.3  使用Struts 2控制文件上传  342
+4.3.1  Struts 2的文件上传  342
+4.3.2  实现文件上传的Action  343
+4.3.3  配置文件上传的Action  345
+4.3.4  手动实现文件过滤  347
+4.3.5  拦截器实现文件过滤  348
+4.3.6  输出错误提示  349
+4.3.7  文件上传的常量配置  350
+4.4  使用Struts 2控制文件下载  351
+4.4.1  实现文件下载的Action  351
+4.4.2  配置Action  352
+4.4.3  下载前的授权控制  352
+4.5  详解Struts 2的拦截器机制  353
+4.5.1  拦截器在Struts 2中的作用  354
+4.5.2  Struts 2内建的拦截器  354
+4.5.3  配置拦截器  356
+4.5.4  使用拦截器的配置语法  357
+4.5.5  配置默认拦截器  358
+4.5.6  实现拦截器类  360
+4.5.7  使用拦截器  361
+4.5.8  拦截方法的拦截器  362
+4.5.9  拦截器的执行顺序  365
+4.5.10  拦截结果的监听器  366
+4.5.11  覆盖拦截器栈里特定拦截器的参数  367
+4.5.12  使用拦截器完成权限控制  368
+4.6  使用Struts 2的Ajax支持  370
+4.6.1  使用stream类型的Result实现Ajax  370
+4.6.2  JSON的基本知识  372
+4.6.3  实现Action逻辑  375
+4.6.4  JSON插件与json类型的Result  376
+4.6.5  实现JSP页面  377
+4.7  本章小结  378
+第5章  Hibernate的基本用法  380
+5.1  ORM和Hibernate  381
+5.1.1  对象/关系数据库映射（ORM）  381
+5.1.2  基本映射方式  382
+5.1.3  流行的ORM框架简介  383
+5.1.4  Hibernate概述  383
+5.2  Hibernate入门  384
+5.2.1  Hibernate下载和安装  384
+5.2.2  Hibernate的数据库操作  385
+5.2.3  在Eclipse中使用Hibernate  389
+5.3  Hibernate的体系结构  392
+5.4  深入Hibernate配置文件  393
+5.4.1  创建Configuration对象  393
+5.4.2  hibernate.properties文件与hibernate.cfg.xml文件  396
+5.4.3  JDBC连接属性  396
+5.4.4  数据库方言  397
+5.4.5  JNDI数据源的连接属性  398
+5.4.6  Hibernate事务属性  399
+5.4.7  二级缓存相关属性  399
+5.4.8  外连接抓取属性  399
+5.4.9  其他常用的配置属性  400
+5.5  深入理解持久化对象  400
+5.5.1  持久化类的要求  400
+5.5.2  持久化对象的状态  401
+5.5.3  改变持久化对象状态的方法  402
+5.6  深入Hibernate映射  405
+5.6.1  映射属性  407
+5.6.2  映射主键  415
+5.6.3  使用Hibernate的主键生成器  417
+5.6.4  映射集合属性  418
+5.6.5  集合属性的性能分析  424
+5.6.6  有序集合映射  426
+5.6.7  映射数据库对象  427
+5.7  映射组件属性  430
+5.7.1  组件属性为集合  432
+5.7.2  集合属性的元素为组件  433
+5.7.3  组件作为Map的索引  434
+5.7.4  组件作为复合主键  436
+5.7.5  多列作为联合主键  438
+5.8  使用传统的映射文件  439
+5.8.1  增加XML映射文件  439
+5.8.2  注解，还是XML映射文件  441
+5.9  本章小结  442
+第6章  深入使用Hibernate与JPA  443
+6.1  Hibernate的关联映射  444
+6.1.1  单向N－1关联  444
+6.1.2  单向1－1关联  449
+6.1.3  单向1－N关联  450
+6.1.4  单向N－N关联  453
+6.1.5  双向1－N关联  455
+6.1.6  双向N－N关联  458
+6.1.7  双向1－1关联  459
+6.1.8  组件属性包含的关联实体  461
+6.1.9  基于复合主键的关联关系  463
+6.1.10  复合主键的成员属性为关联实体  464
+6.1.11  持久化的传播性  467
+6.2  继承映射  468
+6.2.1  整个类层次对应一个表的映射策略  470
+6.2.2  连接子类的映射策略  472
+6.2.3  每个具体类对应一个表的映射策略  475
+6.3  批量处理策略  477
+6.3.1  批量插入  477
+6.3.2  JPA与Hibernate  478
+6.3.3  JPA的批量插入  479
+6.3.4  批量更新  481
+6.3.5  DML风格的批量更新/删除  481
+6.3.6  JPA的DML支持  482
+6.4  HQL查询和JPQL查询  483
+6.4.1  HQL查询  483
+6.4.2  JPQL查询  485
+6.4.3  from子句  487
+6.4.4  关联和连接  487
+6.4.5  查询的select子句  490
+6.4.6  HQL查询的聚集函数  491
+6.4.7  多态查询  491
+6.4.8  HQL查询的where子句  492
+6.4.9  表达式  493
+6.4.10  order by子句  495
+6.4.11  group by子句  495
+6.4.12  子查询  495
+6.4.13  命名查询  496
+6.5  动态条件查询  497
+6.5.1  执行DML语句  501
+6.5.2  select的用法  502
+6.5.3  元组查询  503
+6.5.4  多Root查询  504
+6.5.5  关联和动态关联  505
+6.5.6  分组、聚集和排序  508
+6.6  原生SQL查询  510
+6.6.1  标量查询  510
+6.6.2  实体查询  511
+6.6.3  处理关联和继承  514
+6.6.4  命名SQL查询  515
+6.6.5  调用存储过程  517
+6.6.6  使用定制SQL  518
+6.6.7  JPA的原生SQL查询  520
+6.7  数据过滤  524
+6.8  事务控制  526
+6.8.1  事务的概念  527
+6.8.2  Session与事务  527
+6.8.3  上下文相关的Session  529
+6.9  二级缓存和查询缓存  530
+6.9.1  开启二级缓存  530
+6.9.2  管理缓存和统计缓存  533
+6.9.3  使用查询缓存  534
+6.10  事件机制  537
+6.10.1  拦截器  537
+6.10.2  事件系统  539
+6.11  本章小结  541
+第7章  Spring的基本用法  542
+7.1  Spring简介和Spring 5.0的变化  543
+7.1.1  Spring简介  543
+7.1.2  Spring 5.0的变化  544
+7.2  Spring入门  544
+7.2.1  Spring下载和安装  544
+7.2.2  使用Spring管理Bean  545
+7.2.3  在Eclipse中使用Spring  548
+7.3  Spring的核心机制：依赖注入  551
+7.3.1  理解依赖注入  552
+7.3.2  设值注入  553
+7.3.3  构造注入  557
+7.3.4  两种注入方式的对比  558
+7.4  使用Spring容器  559
+7.4.1  Spring容器  559
+7.4.2  使用ApplicationContext  560
+7.4.3  ApplicationContext的国际化支持  562
+7.4.4  ApplicationContext的事件机制  563
+7.4.5  让Bean获取Spring容器  566
+7.5  Spring容器中的Bean  568
+7.5.1  Bean的基本定义和Bean别名  568
+7.5.2  容器中Bean的作用域  569
+7.5.3  配置依赖  572
+7.5.4  设置普通属性值  574
+7.5.5  配置合作者Bean  575
+7.5.6  使用自动装配注入合作者Bean  575
+7.5.7  注入嵌套Bean  578
+7.5.8  注入集合值  579
+7.5.9  组合属性  583
+7.5.10  Spring的Bean和JavaBean  584
+7.6  Spring提供的Java配置管理  585
+7.7  创建Bean的3种方式  588
+7.7.1  使用构造器创建Bean实例  588
+7.7.2  使用静态工厂方法创建Bean  589
+7.7.3  调用实例工厂方法创建Bean  591
+7.8  深入理解容器中的Bean  593
+7.8.1  抽象Bean与子Bean  593
+7.8.2  Bean继承与Java继承的区别  595
+7.8.3  容器中的工厂Bean  595
+7.8.4  获得Bean本身的id  597
+7.8.5  强制初始化Bean  598
+7.9  容器中Bean的生命周期  598
+7.9.1  依赖关系注入之后的行为  599
+7.9.2  Bean销毁之前的行为  601
+7.9.3  协调作用域不同步的Bean  603
+7.10  高级依赖关系配置  606
+7.10.1  获取其他Bean的属性值  607
+7.10.2  获取Field值  609
+7.10.3  获取方法返回值  611
+7.11  基于XML Schema的简化配置方式  614
+7.11.1  使用p:命名空间简化配置  614
+7.11.2  使用c:命名空间简化配置  615
+7.11.3  使用util:命名空间简化配置  617
+7.12  Spring提供的表达式语言（SpEL）  619
+7.12.1  使用Expression接口进行表达式求值  619
+7.12.2  Bean定义中的表达式语言支持  621
+7.12.3  SpEL语法详述  622
+7.13  本章小结  627
+第8章  深入使用Spring  628
+8.1  两种后处理器  629
+8.1.1  Bean后处理器  629
+8.1.2  Bean后处理器的用处  633
+8.1.3  容器后处理器  633
+8.1.4  属性占位符配置器  634
+8.1.5  重写占位符配置器  636
+8.2  Spring的“零配置”支持  637
+8.2.1  搜索Bean类  637
+8.2.2  指定Bean的作用域  640
+8.2.3  使用@Resource和@Value配置依赖  640
+8.2.4  使用@PostConstruct和@PreDestroy定制生命周期行为  641
+8.2.5  使用@DependsOn和@Lazy改变初始化行为  642
+8.2.6  自动装配和精确装配  643
+8.2.7  Spring 5新增的注解  647
+8.2.8  使用@Required检查注入  648
+8.3  资源访问  648
+8.3.1  Resource实现类  649
+8.3.2  ResourceLoader接口和ResourceLoaderAware接口  653
+8.3.3  使用Resource作为属性  655
+8.3.4  在ApplicationContext中使用资源  656
+8.4  Spring的AOP  660
+8.4.1  为什么需要AOP  660
+8.4.2  使用AspectJ实现AOP  661
+8.4.3  AOP的基本概念  667
+8.4.4  Spring的AOP支持  668
+8.4.5  基于注解的“零配置”方式  669
+8.4.6  基于XML配置文件的管理方式  684
+8.5  Spring的缓存机制  690
+8.5.1  启用Spring缓存  690
+8.5.2  使用@Cacheable执行缓存  693
+8.5.3  使用@CacheEvict清除缓存  696
+8.6  Spring的事务  698
+8.6.1  Spring支持的事务策略  698
+8.6.2  使用XML Schema配置事务策略  702
+8.6.3  使用@Transactional  708
+8.7  Spring整合Struts 2  709
+8.7.1  启动Spring容器  709
+8.7.2  MVC框架与Spring整合的思考  710
+8.7.3  让Spring管理控制器  711
+8.7.4  使用自动装配  715
+8.8  Spring整合Hibernate  717
+8.8.1  Spring提供的DAO支持  717
+8.8.2  管理Hibernate的SessionFactory  718
+8.8.3  实现DAO组件的基类  719
+8.8.4  HibernateTemplate和HibernateDaoSupport  722
+8.8.5  实现DAO组件  725
+8.8.6  使用IoC容器组装各种组件  725
+8.8.7  使用声明式事务  728
+8.9  Spring整合JPA  729
+8.9.1  管理EntityManagerFactory  729
+8.9.2  实现DAO组件基类  732
+8.9.3  使用声明式事务  734
+8.10  本章小结  735
+第9章  企业应用开发的思考和策略  736
+9.1  企业应用开发面临的挑战  737
+9.1.1  可扩展性、可伸缩性  737
+9.1.2  快捷、可控的开发  738
+9.1.3  稳定性、高效性  738
+9.1.4  花费最小化，利益最大化  739
+9.2  如何面对挑战  739
+9.2.1  使用建模工具  739
+9.2.2  利用优秀的框架  739
+9.2.3  选择性地扩展  741
+9.2.4  使用代码生成器  742
+9.3  常见设计模式精讲  742
+9.3.1  单例模式  743
+9.3.2  简单工厂  744
+9.3.3  工厂方法和抽象工厂  750
+9.3.4  代理模式  753
+9.3.5  命令模式  758
+9.3.6  策略模式  761
+9.3.7  门面模式  763
+9.3.8  桥接模式  766
+9.3.9  观察者模式  769
+9.4  常见的架构设计策略  773
+9.4.1  贫血模型  773
+9.4.2  领域对象模型  776
+9.4.3  合并业务逻辑组件与DAO组件  778
+9.4.4  合并业务逻辑组件和Domain Object  779
+9.4.5  抛弃业务逻辑层  780
+9.5  本章小结  781
+第10章  简单工作流系统  782
+10.1  项目背景及系统结构  783
+10.1.1  应用背景  783
+10.1.2  系统功能介绍  783
+10.1.3  相关技术介绍  784
+10.1.4  系统结构  785
+10.1.5  系统的功能模块  785
+10.2  Hibernate持久层  786
+10.2.1  设计持久化实体  786
+10.2.2  创建持久化实体类  787
+10.3  实现DAO层  792
+10.3.1  DAO组件的定义  792
+10.3.2  实现DAO组件  795
+10.3.3  部署DAO层  797
+10.4  实现Service层  799
+10.4.1  业务逻辑组件的设计  799
+10.4.2  实现业务逻辑组件  800
+10.4.3  事务管理  805
+10.4.4  部署业务逻辑组件  806
+10.5  实现任务的自动调度  806
+10.5.1  使用Quartz  806
+10.5.2  在Spring中使用Quartz  810
+10.6  实现系统Web层  813
+10.6.1  Struts 2和Spring的整合  813
+10.6.2  控制器的处理顺序图  814
+10.6.3  员工登录  814
+10.6.4  进入打卡  816
+10.6.5  处理打卡  818
+10.6.6  进入申请  819
+10.6.7  提交申请  821
+10.6.8  使用拦截器完成权限管理  823
+10.7  本章小结  824
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>轻量级Java EE企业应用实战（第5版）
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring实战（第5版 ）
+第1部分 Spring 基础
+第 1 章 Spring 起步 3
+1.1 什么是Spring 4
+1.2 初始化Spring 应用 6
+1.2.1 使用Spring Tool Suite
+初始化Spring 项目 7
+1.2.2 检查Spring 项目的
+结构 10
+1.3 编写Spring 应用 16
+1.3.1 处理Web 请求 16
+1.3.2 定义视图 17
+1.3.3 测试控制器 18
+1.3.4 构建和运行应用 20
+1.3.5 了解Spring Boot DevTools 21
+1.3.6 回顾一下 23
+1.4 俯瞰Spring 风景线 24
+1.4.1 Spring 核心框架 24
+1.4.2 Spring Boot 25
+1.4.3 Spring Data 25
+1.4.4 Spring Security 25
+1.4.5 Spring Integration 和Spring
+Batch 26
+1.4.6 Spring Cloud 26
+1.5 小结 26
+第 2 章 开发Web 应用 27
+2.1 展现信息 27
+2.1.1 构建领域类 28
+2.1.2 创建控制器类 30
+2.1.3 设计视图 33
+2.2 处理表单提交 37
+2.3 校验表单输入 43
+2.3.1 声明校验规则 43
+2.3.2 在表单绑定的时候执行
+校验 45
+2.3.3 展现校验错误 46
+2.4 使用视图控制器 48
+2.5 选择视图模板库 49
+2.6 小结 52
+第3 章 使用数据 53
+3.1 使用JDBC 读取和写入
+数据 53
+3.1.1 调整领域对象以适应
+持久化 55
+3.1.2 使用JdbcTemplate 56
+3.1.3 定义模式和预加载数据 61
+3.1.4 插入数据 63
+3.2 使用Spring Data JPA 持久
+化数据 72
+3.2.1 添加Spring Data JPA 到
+项目中 72
+3.2.2 将领域对象标注为实体 73
+3.2.3 声明JPA repository 76
+3.2.4 自定义JPA repository 77
+3.3 小结 80
+第4 章 保护Spring 81
+4.1 启用Spring Security 81
+4.2 配置Spring Security 83
+4.2.1 基于内存的用户存储 85
+4.2.2 基于JDBC 的用户存储 86
+4.2.3 以LDAP 作为后端的
+用户存储 89
+4.2.4 自定义用户认证 92
+4.3 保护Web 请求 100
+4.3.1 保护请求 100
+4.3.2 创建自定义的登录页 103
+4.3.3 tui出 105
+4.3.4 防止跨站请求伪造 106
+4.4 了解用户是谁 107
+4.5 小结 109
+第5 章 使用配置属性 111
+5.1 细粒度的自动配置 112
+5.1.1 理解Spring 的环境抽象 112
+5.1.2 配置数据源 114
+5.1.3 配置嵌入式服务器 115
+5.1.4 配置日志 116
+5.1.5 使用特定的属性值 118
+5.2 创建自己的配置属性 118
+5.2.1 定义配置属性的持有者 120
+5.2.2 声明配置属性元数据 123
+5.3 使用profile 进行配置 125
+5.3.1 定义特定profile 的属性 126
+5.3.2 激活profile 127
+5.3.3 使用profile 条件化地创建
+bean 128
+5.4 小结 129
+第２部分 Spring 集成
+第6 章 创建REST 服务 133
+6.1 编写RESTful 控制器 134
+6.1.1 从服务器中检索数据 136
+6.1.2 发送数据到服务器端 140
+6.1.3 在服务器上更新数据 142
+6.1.4 删除服务器上的数据 144
+6.2 启用超媒体 145
+6.2.1 添加超链接 147
+6.2.2 创建资源装配器 149
+6.2.3 命名嵌套式的关联关系 154
+6.3 启用数据后端服务 155
+6.3.1 调整资源路径和关系
+名称 157
+6.3.2 分页和排序 159
+6.3.3 添加自定义的端点 160
+6.3.4 为Spring Data 端点添加
+自定义的超链接 162
+6.4 小结 163
+第7 章 消费REST 服务 165
+7.1 使用RestTemplate 消费
+REST 端点 166
+7.1.1 GET 资源 167
+7.1.2 PUT 资源 169
+7.1.3 DELETE 资源 169
+7.1.4 POST 资源 169
+7.2 使用Traverson 导航
+REST API 170
+7.3 小结 172
+第8 章 发送异步消息 173
+8.1 使用JMS 发送消息 174
+8.1.1 搭建JMS 环境 174
+8.1.2 使用JmsTemplate 发送
+消息 176
+8.1.3 接收JMS 消息 183
+8.2 使用RabbitMQ 和
+AMQP 186
+8.2.1 添加RabbitMQ 到
+Spring 中 188
+8.2.2 通过RabbitTemplate 发送
+消息 189
+8.2.3 接收来自RabbitMQ 的
+消息 192
+8.3 使用Kafka 的消息 196
+8.3.1 为Spring 搭建支持Kafka
+消息的环境 197
+8.3.2 通过KafkaTemplate 发送
+消息 198
+8.3.3 编写Kafka 监听器 200
+8.4 小结 201
+第9 章 Spring 集成 203
+9.1 声明一个简单的
+集成流 204
+9.1.1 使用XML 定义集成流 205
+9.1.2 使用Java 配置集成流 207
+9.1.3 使用Spring Integration 的
+DSL 配置 209
+9.2 Spring Integration 功能
+概览 210
+9.2.1 消息通道 211
+9.2.2 过滤器 212
+9.2.3 转换器 213
+9.2.4 路由器 214
+9.2.5 切分器 216
+9.2.6 服务激活器 218
+9.2.7 网关 220
+9.2.8 通道适配器 221
+9.2.9 端点模块 223
+9.3 创建Email 集成流 224
+9.4 小结 229
+第３部分 反应式Spring
+第 10 章 理解反应式编程 233
+10.1 反应式编程概览 234
+10.2 初识Reactor 237
+10.2.1 绘制反应式流图 238
+10.2.2 添加Reactor 依赖 239
+10.3 使用常见的反应式
+操作 240
+10.3.1 创建反应式类型 240
+10.3.2 组合反应式类型 244
+10.3.3 转换和过滤反应式流 248
+10.3.4 在反应式类型上执行逻辑
+操作 258
+10.4 小结 259
+第 11 章 开发反应式API 261
+11.1 使用Spring WebFlux 261
+11.1.1 Spring WebFlux 简介 262
+11.1.2 编写反应式控制器 264
+11.2 定义函数式请求处
+理器 268
+11.3 测试反应式控制器 271
+11.3.1 测试GET 请求 271
+11.3.2 测试POST 请求 274
+11.3.3 使用实时服务器进行
+测试 275
+11.4 反应式消费
+REST API 276
+11.4.1 获取资源 277
+11.4.2 发送资源 279
+11.4.3 删除资源 280
+11.4.4 处理错误 280
+11.4.5 交换请求 282
+11.5 保护反应式Web API 283
+11.5.1 配置反应式Web 应用的
+安全性 284
+11.5.2 配置反应式的用户详情
+服务 285
+11.6 小结 287
+第 12 章 反应式持久化数据 289
+12.1 理解Spring Data 的
+反应式概况 290
+12.1.1 Spring Data 反应式本
+质论 290
+12.1.2 反应式和非反应式类型
+之间的转换 291
+12.1.3 开发反应式repository 292
+12.2 使用反应式的
+Cassandra repository 293
+12.2.1 启用Spring Data
+Cassandra 293
+12.2.2 理解Cassandra 的数据
+模型 296
+12.2.3 将领域对象映射为Cassandra
+持久化 296
+12.2.4 编写反应式
+Cassandra repository 301
+12.3 编写反应式的
+MongoDB repository 304
+12.3.1 启用Spring Data
+MongoDB 304
+12.3.2 将领域对象映射为
+文档 306
+12.3.3 编写反应式的MongoDB
+repository 接口 309
+12.4 小结 312
+第4 部分 云原生Spring
+第 13 章 注册和发现服务 315
+13.1 思考微服务 316
+13.2 搭建服务注册中心 318
+13.2.1 配置Eureka 321
+13.2.2 扩展Eureka 324
+13.3 注册和发现服务 325
+13.3.1 配置Eureka 客户端
+属性 326
+13.3.2 消费服务 328
+13.4 小结 332
+第 14 章 管理配置 333
+14.1 共享配置 334
+14.2 运行配置服务器 335
+14.2.1 启用配置服务器 336
+14.2.2 填充配置仓库 339
+14.3 消费共享配置 341
+14.4 提供特定应用和profile 的
+属性 343
+14.4.1 提供特定应用的属性 343
+14.4.2 提供来自profile 的
+属性 344
+14.5 保持配置属性的
+私密性 346
+14.5.1 在Git 中加密属性 346
+14.5.2 在Vault 中存储私密
+信息 349
+14.6 在运行时刷新配置
+属性 353
+14.6.1 手动刷新配置属性 354
+14.6.2 自动刷新配置属性 356
+14.7 小结 363
+第 15 章 处理失败和延迟 365
+15.1 理解断路器模式 365
+15.2 声明断路器 367
+15.2.1 缓解延迟 369
+15.2.2 管理断路器的阈值 371
+15.3 监控失败 372
+15.3.1 Hystrix dashboard
+简介 373
+15.3.2 理解Hystrix 的线程
+模型 375
+15.4 聚合多个Hystrix 流 377
+15.5 小结 378
+第5 部分 部署Spring
+第 16 章 使用Spring Boot
+Actuator 381
+16.1 Actuator 概览 382
+16.1.1 配置Actuator 的基础
+路径 383
+16.1.2 启用和禁用Actuator
+端点 383
+16.2 消费Actuator 端点 384
+16.2.1 获取应用的基础信息 385
+16.2.2 查看配置细节 388
+16.2.3 查看应用的活动 396
+16.2.4 获取应用的指标 398
+16.3 自定义Actuator 401
+16.3.1 为“/info”端点提供信息 401
+16.3.2 实现自定义的健康
+指示器 405
+16.3.3 注册自定义的指标 407
+16.3.4 创建自定义的端点 408
+16.4 保护Actuator 411
+16.5 小结 413
+第 17 章 管理Spring 415
+17.1 使用Spring Boot
+Admin 415
+17.1.1 创建Admin 服务器 416
+17.1.2 注册Admin 客户端 418
+17.2 探索Admin 服务器 421
+17.2.1 查看应用基本的健康状况
+和信息 421
+17.2.2 观察核心指标 423
+17.2.3 探查环境属性 424
+17.2.4 查看和设置日志
+级别 424
+17.2.5 监控线程 425
+17.2.6 跟踪HTTP 请求 426
+17.3 保护Admin 服务器 428
+17.3.1 为Admin 服务器启用登录
+功能 428
+17.3.2 为Actuator 启用认证 429
+17.4 小结 429
+第 18 章 使用JMX 监控
+Spring 431
+18.1 使用Actuator MBean 431
+18.2 创建自己的MBean 434
+18.3 发送通知 436
+18.4 小结 437
+第 19 章 部署Spring 439
+19.1 权衡各种部署方案 440
+19.2 构建和部署WAR
+文件 441
+19.3 推送JAR 文件到Cloud
+Foundry 上 443
+19.4 在Docker 容器中运行
+Spring Boot 445
+19.5 以终为始 449
+19.6 小结 449
+附录 初始化Spring 应用 451
+A.1 使用Spring Tool Suite
+初始化项目 451
+A.2 使用IntelliJ IDEA 初始化
+项目 454
+A.3 使用NetBeans 初始化
+项目 457
+A.4 在start.spring.io 中初始化
+项目 459
+A.5 使用命令行初始化
+项目 462
+A.5.1 curl 和Initializr API 462
+A.5.2 Spring Boot 命令行
+接口 464
+A.6 使用元框架创建Spring
+应用 465
+A.7 构建和运行项目 465
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Spring实战（第5版 ）

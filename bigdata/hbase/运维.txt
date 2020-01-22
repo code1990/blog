@@ -1,0 +1,135 @@
+第10章 运维
+10.1 监控你的集群
+10.1.1 HBase如何输出监控指标
+10.1.2 收集监控指标和图形展示
+10.1.3 HBase输出的监控指标
+10.1.4 应用端监控
+10.2 HBase集群的性能
+10.2.1 性能测试
+10.2.2 什么影响了HBase的性能
+10.2.3 优化支撑系统
+10.2.4 优化HBase
+10.3 集群管理
+10.3.1 启动和停止HBase
+10.3.2 优雅停止和让节点退役
+10.3.3 增加节点
+10.3.4 滚动重启和升级
+10.3.5 bin/hbase和HbaseShell
+10.3.6 维护一致性——hbck
+10.3.7 查看HFile和HLog
+10.3.8 预先拆分表
+10.4 备份和复制
+10.4.1 集群间复制
+10.4.2 使用MapReduce作业进行备份
+10.4.3 备份根目录
+10.5 小结
+附录A 探索HBase系统
+附录B 更多关于HDFS的工作原理
+
+第14章　HBase运维案例分析  237
+14.1　RegionServer宕机  237
+14.2　HBase写入异常  241
+14.3　HBase运维时问题分析思路  250
+第12章　HBase运维  184
+12.1　HBase系统监控  184
+12.1.1　HBase监控指标输出方式  184
+12.1.2　HBase核心监控指标  185
+12.1.3　HBase表级监控  187
+12.2　HBase集群基准性能测试  189
+12.3　HBase YCSB  192
+12.4　HBase业务隔离  194
+12.5　HBase HBCK  195
+12.6　HBase核心参数配置  198
+12.7　HBase表设计  203
+12.8　Salted Table  206
+第6章 维护和安全
+6.1 简介
+6.2 启用HBase RPC的DEBUG级日志功能
+6.3 平稳节点停机
+6.4 为集群添加节点
+6.5 滚动重启
+6.6 管理HBase进程的简单脚本
+6.7 简化部署的简单脚本
+6.8 对Hadoop和HBase进行Kerberos身份认证
+6.9 配置HDFS使用Kerberos安全保护机制
+6.10 HBase的安全保护配置
+第 6 章	HBase 集群运维与故障处理	120
+Hadoop shell 命令	121
+Hadoop shell 命令的类型	121
+HBase shell 命令	140
+HBase 管理工具	149
+hbck —— HBase 检查	149
+HBase 健康检查脚本	151
+写 HBase shell 脚本	151
+使用 Hadoop 工具或者 JAR	151
+用 Hive 连接 HBase	153
+HBase region 管理	155
+压缩	155
+合并	155
+HBase 节点管理	155
+服役	155
+退役	156
+实现安全性	157
+安全访问	157
+Kerberos KDC	157
+客户端的安全配置	158
+服务器端的安全配置	159
+简单的安全	160
+客户端配置	161
+标签的安全特性	162
+HBase 的访问控制	163
+使用标签的单元格访问	168
+配置 ZooKeeper 安全	169
+HBase 常见错误的故障排查和相关说明	170
+集群失败的可能情况	171
+监控 HBase 的健康状况	172
+小结	175
+第2章 数据迁移
+2.1 简介
+2.2 通过客户端程序导入MySQL数据
+2.3 使用批量加载工具导入TSV文件的数据
+2.4 编写自定义MapReduce任务来导入数据
+2.5 在数据移入HBase前预创建区域
+第3章 使用管理工具
+3.1 简介
+3.2 HBase主Web界面
+3.3 使用HBase Shell管理表
+3.4 使用HBase Shell访问HBase中的数据
+3.5 使用HBase Shell管理集群
+3.6 在HBase Shell中执行Java方法
+3.7 行计数器
+3.8 WAL工具——手动分割和转储WAL
+3.9 HFile工具——以文本方式查看HFile的内容
+3.10 HBase hbck——检查HBase集群的一致性
+3.11 HBase Hive——使用类SQL语言查询HBase中的数据
+第4章 HBase数据备份及恢复
+4.1 简介
+4.2 使用distcp进行关机全备份
+4.3 使用CopyTable在表间复制数据
+4.4 将HBase表导出为HDFS上的转储文件
+4.5 通过从HDFS导入转储文件来恢复HBase数据
+4.6 备份NameNode元数据
+4.7 备份区域开始键
+4.8 集群复制
+第7章 故障排查
+7.1 简介
+7.2 故障排查工具介绍
+7.3 处理XceiverCount错误
+7.4 处理“打开的文件过多”的错误
+7.5 处理“无法创建新本地线程”错误
+7.6 处理“HBase忽略了HDFS的客户端配置”问题
+7.7 处理ZooKeeper客户端的连接错误
+7.8 处理ZooKeeper会话过期错误
+7.9 处理EC2上HBase的启动错误
+第 7 章	HBase 脚本编程	176
+HBase 中的备份与恢复技术	176
+离线备份/full-shutdown 备份	177
+在线备份	178
+Windows 上的 HBase	185
+在 HBase 中进行脚本编程	185
+.irbrc 文件	187
+获取时间戳	188
+开启调试	189
+在 HBase 中开启 SQL	189
+参与 HBase	190
+小结	190
