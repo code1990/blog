@@ -1,0 +1,22 @@
+Natural Language Processing with PyTorch	0.0	6	
+深度学习框架PyTorch：入门与实践	6.9	64	
+PyTorch深度学习	4.2	13	
+PyTorch 机器学习从入门到实战	6.0	10	
+深度学习入门之PyTorch	5.1	29	
+深度学习原理与PyTorch实战	0.0	6	
+Deep Learning with PyTorch	0.0	5	
+Python Deep Learning	0.0	0	
+Deep Learning with fastai and PyTorch	0.0	0	
+神经网络与PyTorch实战	0.0	2	
+Programming PyTorch for Deep Learning	0.0	4	
+Pytorch Recipes	0.0	2	
+Deep Learning with PyTorch Quick Start Guide	0.0	2	
+Deep Learning with PyTorch	0.0	11	
+深度学习之PyTorch实战计算机视觉	3.9	16	
+深度学习框架PyTorch快速开发与实战	0.0	2	
+TensorFlow+PyTorch深度学习从算法到实战	0.0	0	
+白话强化学习与PyTorch	0.0	1	
+Practical Deep Learning with PyTorch	0.0	0	
+Python深度学习：基于PyTorch	9.3	16	
+PyTorch深度学习入门	0.0	6	
+深度学习之PyTorch物体检测实战	0.0	1	

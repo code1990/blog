@@ -1,0 +1,2100 @@
+甲骨文	9.3	7355	
+The Oracle Speaks	0.0	0	
+ORACLE STUDENT DEVELOPER KIT	0.0	0	
+神谕之夜	8.1	2816	
+上帝与拉里.埃里森的不同	7.6	58	
+Oracle Bones	9.3	1323	
+Oracle Bones	9.4	613	
+涂抹Oracle	8.5	63	
+西藏的神灵和鬼怪	8.5	115	
+Cost-Based Oracle Fundamentals	9.5	24	
+DBA的思想天空	8.9	12	
+Dark Oracle	0.0	0	
+Oracle Database 9i/10g/11g编程艺术	9.2	91	
+Oracle 9i & 10g编程艺术	9.2	239	
+剑破冰山	7.2	13	
+Oracle性能诊断艺术	9.1	69	
+Oracle DBA手记	8.3	41	
+Expert Oracle Database Architecture	0.0	6	
+收获，不止Oracle	8.8	163	
+Oracle PL/SQL实战	0.0	2	
+Oracle编程入门经典	0.0	1	
+Oracle 10g数据库基础教程	0.0	8	
+Oracle Database 10g高可用性实现方案	0.0	3	
+Oracle SQL高级编程	8.2	32	
+构建Oracle高可用环境	8.5	52	
+Oracle PL/SQL实例精解	8.4	35	
+深入解析Oracle	8.2	54	
+Pro Oracle Database 10g RAC on Linux	0.0	5	
+Oracle Spatial空间信息管理	0.0	6	
+OCA/OCP Oracle Database 11g All-in-One Exam Guide with CD-ROM	0.0	2	
+Expert Oracle Database Architecture	9.9	40	
+Oracle	0.0	1	
+Oracle	0.0	0	
+Oracle	0.0	0	
+深入浅出Oracle	8.0	52	
+Mastering Oracle SQL, 2nd Edition	0.0	4	
+大天使神諭占卜卡：45張精美大天使卡＋書+雅致絲絨袋	9.7	43	
+SQL案例解析	0.0	3	
+精通Oracle PL/SQL	8.2	22	
+Oracle达人修炼秘籍	0.0	4	
+(软件战争	0.0	5	
+Expert Oracle Practices	0.0	2	
+ORACLE	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+ORACLE	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle	0.0	0	
+Oracle9i参考手册（附1光盘）	0.0	3	
+构建最高可用Oracle数据库系统	0.0	3	
+Oracle 10g数据库管理艺术	8.3	19	
+Oracle优化日记	8.2	32	
+循序渐进Oracle	8.0	40	
+Oracle Database 10g SQL开发指南	7.7	45	
+临危不惧	0.0	4	
+Oracle高效设计	8.9	32	
+Oracle数据库性能优化	7.9	24	
+Oracle专家高级编程	8.5	23	
+OCA Oracle Database 11g SQL Fundamentals I Exam Guide	0.0	6	
+Oracle PL/SQL Programming	0.0	5	
+Troubleshooting Oracle Performance	8.8	22	
+女神神諭占卜卡	8.7	19	
+让Oracle跑得更快	8.2	36	
+OCA	0.0	3	
+Oracle Essentials	0.0	4	
+Oracle Database 11g数据库管理艺术	8.3	14	
+Oracle性能优化求生指南	8.6	15	
+Oracle应用、开发与管理系列·OCP认证考试指南全册Oracle Database 10g	7.6	28	
+运筹帷幄DB2	0.0	5	
+大话Oracle RAC	7.9	30	
+基于Oracle的SQL优化	8.9	19	
+Effective Oracle by Design	9.1	15	
+Secrets of the Oracle Database (Expert's Voice in Oracle)	0.0	0	
+Relational Database Index Design and the Optimizers	0.0	7	
+Multicore Application Programming	0.0	6	
+Oracle Core	9.7	16	
+Oracle PL/SQL程序设计(第二版)	7.4	12	
+Oracle核心技术	0.0	4	
+Oracle RAC日记	8.5	23	
+Oracle Essentials, 3e	0.0	2	
+Oracle Shell Scripting	0.0	1	
+Oracle Database 11g基础教程	0.0	6	
+DTrace	8.8	10	
+Pro Oracle Application Express	0.0	3	
+Oracle 10g数据库基础教程	0.0	3	
+OCA Oracle Database SQL Expert Exam Guide	0.0	3	
+基于成本的Oracle优化法则	7.3	10	
+Oracle Database 10g DBA手册	7.6	16	
+ODP.NET Developer's Guide	0.0	1	
+Oracle PL/SQL最佳实践	7.1	14	
+Oracle Database 10g PL/SQL程序设计	7.7	22	
+OCP	0.0	0	
+深度挖掘	0.0	0	
+Oracle Database 10g完全参考手册	8.2	23	
+Oracle PL/SQL程序设计（上下册）	8.3	16	
+Expert One on One Oracle	8.1	12	
+Oracle从入门到精通	7.8	26	
+ORACLE DBA基础培训教程	7.1	15	
+Oracle从入门到精通	6.1	26	
+深入理解Oracle Exadata	7.5	11	
+Oracle索引技术	6.9	10	
+Oracle Wait Interface	0.0	9	
+OCP	0.0	3	
+Visual C#+Oracle数据库系统开发全程导引与实战精研	0.0	0	
+轻松学Oracle数据库	0.0	2	
+未公开的Oracle数据库秘密	0.0	5	
+Oracle Database 10g性能调整与优化	7.4	14	
+Oracle E-Business Suite	7.1	13	
+Oracle高性能SQL引擎剖析	0.0	8	
+Oracle Database 11g SQL开发指南	8.0	22	
+精通Oracle 10g SQL和PL/SQL	7.6	21	
+从实践中学习Oracle/SQL	7.7	11	
+ORACLE财务管理系统教程	0.0	6	
+精通Oracle 10g PL/SQL编程	7.0	20	
+Oracle DBA培训教程	7.5	10	
+Oracle DBA手记3	7.1	11	
+Oracle Database 10g	0.0	0	
+Oracle Cloud Storage Management	0.0	0	
+Oracle PL/SQL Programming	0.0	1	
+OCA	0.0	0	
+Oracle PL/SQL入门	7.4	13	
+Oracle Database 11g完全参考手册	8.0	10	
+让Oracle跑得更快2	7.0	13	
+Oracle Database 11g初学者指南	6.1	16	
+Optimizing Oracle Performance	0.0	8	
+Oracle编程艺术：深入理解数据库体系结构（第3版）	9.6	12	
+Oracle 8i Internal Services	9.8	10	
+Oracle DBA手记2	0.0	8	
+Oracle查询优化改写技巧与案例	7.2	22	
+Oracle精髓	7.8	21	
+Oracle大型数据库系统在AIX/UNIX上的实战详解	0.0	9	
+Oracle DBA手记4	7.3	11	
+OCP Oracle Database 11g	0.0	1	
+OCP	0.0	1	
+OCA	0.0	1	
+OCA认证考试指南(1Z0-061)Oracle Database 12c SQL 基础	0.0	0	
+Ocp	0.0	1	
+Oracle Performance Troubleshooting	0.0	0	
+Oracle Data Guard 11g完全参考手册	0.0	2	
+Sources of Shang History	0.0	5	
+Oracle Database 11g性能优化攻略	0.0	1	
+Oracle数据库DBA专题技术精粹	0.0	8	
+Oracle Database 11g DBA手册	0.0	5	
+Oracle DBA高效入职指南	0.0	9	
+Oracle数据库性能优化的艺术	0.0	9	
+ORACLE数据库精讲与疑难解析	0.0	6	
+Oracle WebLogic Server开发权威指南	0.0	7	
+Oracle Database 11g RMAN备份与恢复	0.0	6	
+Oracle 9i RMAN备份与恢复技术	0.0	6	
+Oracle基础教程	0.0	7	
+Linux系统案例精解	0.0	4	
+Oracle Database 11g RAC手册	0.0	5	
+Oracle 10g DBA宝典	0.0	3	
+Oracle Database 11g PL/SQL Programming	7.3	10	
+Oracle DBA突击	0.0	6	
+大话Oracle RAC	0.0	4	
+Oracle内核技术揭密	0.0	8	
+SQL优化最佳实践	0.0	4	
+Lady Oracle	0.0	7	
+Oracle PL/SQL从入门到精通	0.0	6	
+Oracle 9i性能调整	0.0	3	
+循序渐进Oracle	0.0	5	
+ORACLE数据库技术实用详解	7.9	11	
+Oracle Database 10g RMAN备份与恢复	0.0	6	
+Oracle触发器与存储过程高级编程	0.0	7	
+Oracle PL/SQL专家指南-高级PL/SQL解决方案的设计与开发	0.0	3	
+神谕女士	8.0	197	
+精通Oracle SQL（第2版）	0.0	7	
+Oracle PL/SQL攻略	0.0	3	
+Oracle高级编程	6.8	13	
+Oracle数据库基础教程	0.0	4	
+高并发Oracle数据库系统的架构与设计	0.0	4	
+Oracle Database 10g Performance Tuning Tips & Techniques (Osborne ORACLE Press Series)	0.0	4	
+Oracle 11g权威指南	0.0	7	
+The Oracle Hacker's Handbook	0.0	1	
+Oracle设计	0.0	6	
+Oracle入门很简单	0.0	6	
+Oracle 11g数据库管理员指南	0.0	8	
+Oracle Database 11g PL/SQL编程实战	0.0	3	
+Oracle Database 10g 基础教程	0.0	3	
+Chinese Poetry and Prophecy	0.0	2	
+Oracle PL/SQL 手册  Oracle PL/SQL For Dummies	0.0	2	
+Expert Oracle Exadata	0.0	3	
+Oracle Insights	0.0	0	
+Oracle 10g SQL和PL/SQL编程指南	0.0	3	
+Expert Oracle, Signature Edition Programming Techniques and Solutions for Oracle 7.3 through 8.1.7	0.0	1	
+Forecasting Oracle Performance	0.0	3	
+Oracle Performance Tuning 101	0.0	4	
+Oracle PL/SQL Programming, 4th Edition	0.0	7	
+Oracle Database 10g PL/SQL 入门教程	0.0	3	
+深入理解Oracle RAC 12c	6.1	13	
+Oracle 11g R2 DBA 操作指南	0.0	6	
+Oracle Wait Interface性能诊断与调整实践指南 (平装)	0.0	2	
+Softwar	0.0	1	
+Oracle RAC 11g实战指南	0.0	3	
+Using R to Unlock the Value of Big Data	0.0	0	
+Oracle Database 11g PL/SQL程序设计	0.0	5	
+Oracle性能优化技术内幕	0.0	7	
+Oracle DBA 必备技能详解	0.0	1	
+The Art and Science of Oracle Performance Tuning	0.0	4	
+Oracle Performance Survival Guide	0.0	1	
+精通Oracle Database 12c SQL & PLSQL编程（第3版）	0.0	4	
+Oracle 9i UNIX 管理手册	0.0	2	
+Oracle DBA实战攻略	0.0	3	
+The Book of Runes	0.0	3	
+Oracle数据库基础教程	0.0	3	
+Oracle Database 11g SQL	0.0	2	
+Oracle Performance Firefighting	0.0	2	
+Oracle 10g快速入门	0.0	4	
+Oracle E-Business Suite Development & Extensibility Handbook	0.0	4	
+Jason Fulford	0.0	8	
+Oracle SQL High-Performance Tuning (2nd Edition)	0.0	1	
+基于Linux平台的Oracle Database 10g管理	0.0	5	
+Oracle Database 10g基础教程	0.0	1	
+Oracle大型数据库系统在AIX/UNIX上的实战详解	0.0	2	
+Oracle管理艺术	0.0	4	
+Mastering Oracle SQL	0.0	2	
+Oracle学习笔记	0.0	5	
+Oracle实用教程	0.0	3	
+Oracle精髓:Oracle9i,Oracle8i&Oracle8(第二版)	0.0	5	
+Oracle Database 10g OCP Certification All-In-One Exam Guide	0.0	6	
+精通Oracle 10g备份与恢复	0.0	5	
+Oracle Database 11g Release 2 Performance Tuning Tips & Techniques	0.0	0	
+Oracle Database 11g A Beginner's Guide	0.0	5	
+21天学通Oracle	0.0	5	
+Oracle数据库应用开发基础	0.0	3	
+Oracle SQL必备参考	0.0	4	
+Oracle 11g数据库系统设计、开发、管理与应用	0.0	4	
+Oracle RAC核心技术详解	0.0	3	
+Oracle  llg SQL和PL/SQL从入门到精通	0.0	1	
+Oracle 高性能 SQL 调整	0.0	1	
+Oracle性能优化	0.0	2	
+Oracle 10g数据库系统管理	0.0	2	
+Oracle管理之道	0.0	3	
+Oracle DBA工作笔记	0.0	5	
+Expert Oracle Database 11g Administration	0.0	2	
+Oracle VM实现与管理实战	0.0	1	
+Pro Oracle Spatial for Oracle Database 11g (Expert's Voice in Oracle)	0.0	4	
+Oracle数据库攻防之道	0.0	4	
+Oracle Database 11g The Complete Reference (Osborne ORACLE Press Series)	0.0	4	
+Oracle Database 12c完全参考手册（第7版）	0.0	4	
+Oracle 11g宝典	0.0	2	
+SQL语法范例大全	0.0	2	
+Unix和Linux下的Oracle数据库管理	0.0	3	
+Oracle实用教程	0.0	4	
+Mastering Oracle PL/SQL	0.0	2	
+高级OWI与Oracle性能调查	0.0	1	
+Oracle快速Web应用开发	0.0	1	
+Oracle Database 11g Oracle Real Application Clusters Handbook	0.0	1	
+Oracle Essbase and Oracle OLAP	0.0	2	
+Oracle 优势策略	0.0	2	
+Oracle Database 10g SQL (Osborne ORACLE Press Series)	0.0	1	
+Oracle性能预测	0.0	2	
+Oracle 11g权威指南(第2版）	0.0	3	
+Expert Oracle GoldenGate	0.0	2	
+The Mayan Oracle	0.0	1	
+Oracle 10g  Data Warehousing	0.0	1	
+Oracle SQL&PL/SQL基础教程	0.0	3	
+Oracle PL/SQL程序设计基础教程	0.0	5	
+Oracle DBA日常管理	0.0	0	
+Oracle数据库实例教程	0.0	0	
+OCA Oracle Database 11g	0.0	3	
+The CERT® Oracle® Secure Coding Standard for Java	0.0	1	
+Oracle RMAN 11g Backup and Recovery	0.0	2	
+Oracle Fusion Middleware 11g架构与管理	0.0	2	
+Oracle PL/SQL必知必会	0.0	8	
+Oracle备份与恢复培训教程/Oracle技术系列丛书	0.0	1	
+I Ching	0.0	1	
+Oracle Database 10g Real Application Clusters Handbook	0.0	1	
+Oracle 10g入门与提高	0.0	2	
+Oracle 8i初学者指南	0.0	4	
+Paracelsus Oracle Cards	0.0	1	
+Oracle Automatic Storage Management	0.0	4	
+名师讲坛——Oracle开发实战经典	0.0	3	
+Beginning Oracle SQL	0.0	2	
+Oracle性能优化科学与艺术	0.0	0	
+Oracle PL/SQL Language Pocket Reference	0.0	1	
+Difference Between God And Larry Ellison*, The *god Doesn't Think He's Larry E	0.0	3	
+Oracle 11g快速入门	0.0	2	
+Oracle Forms与Reports高级开发	0.0	0	
+Expert Indexing in Oracle Database 11g	0.0	4	
+Pro Oracle SQL	0.0	2	
+Pro ODP.NET for Oracle Database 11g	0.0	3	
+Oracle PL/SQL完全自学手册	0.0	1	
+Oracle 10g 入门与实践	0.0	3	
+The Oracle of Oracle	0.0	1	
+Oracle Database 11g R2高可用性	0.0	2	
+Oracle Applications DBA Field Guide	0.0	3	
+Oracle DBA核心技术解析	0.0	1	
+OCP Oracle Database 11g Administration II Exam Guide	0.0	1	
+Expert One-on-One Oracle	0.0	1	
+Pro Oracle Database 11g RAC on Linux	0.0	2	
+Oracle Business Intelligence Enterprise Edition 11g	0.0	1	
+Oracle性能优化与诊断案例精选	0.0	3	
+Expert Oracle Database Architecture	0.0	4	
+Oracle 11g SQL	0.0	2	
+Everyone Else Must Fail	0.0	2	
+Chinese Poetry and Prophecy	0.0	1	
+Oracle 11g Grid & Real Application Clusters	0.0	2	
+Oracle入门经典	0.0	2	
+Oracle性能调整与优化	0.0	1	
+Oracle 9i 数据库管理员指南	0.0	2	
+Oracle Applications应用大全	0.0	2	
+Oracle Database 10g RMAN Backup & Recovery	0.0	2	
+基于Linux的Oracle数据库管理	0.0	2	
+Oracle 10g简明教程	0.0	1	
+ORACLE 24*7技术与技巧	0.0	1	
+Oracle E-Business Financials 手册	0.0	0	
+Oracle 9i初学者指南	0.0	2	
+Oracle 9i for Windows NT/2000数据库系统培训教程	0.0	3	
+精通Oracle 10g系统管理	0.0	5	
+Oracle PL/SQL Best Practices	0.0	1	
+Oracle JDeveloper 11g Handbook	0.0	0	
+从Oracle到DB2开发	0.0	2	
+Oracle数据库编程经典300例(含DVD光盘1张)	0.0	3	
+Oracle数据库精讲与疑难解析	0.0	1	
+Oracle 11g数据库应用简明教程	0.0	4	
+Oracle ADF Real World Developer's Guide	0.0	1	
+Oracle Exadata技术详解	0.0	1	
+Troubleshooting Oracle Performance	0.0	2	
+深入解析oracle	0.0	2	
+Nightwing	0.0	2	
+Oracle Essentials	0.0	0	
+Oracle JRockit	8.6	15	
+Oracle Essentials	0.0	0	
+Oracle Database 11g Building Oracle XML DB Applications	0.0	1	
+Oracle 精髓	0.0	1	
+Oracle大数据解决方案	0.0	1	
+Oracle 8初学者指南	0.0	2	
+Oracle PL/SQL Programming	0.0	2	
+Perl for Oracle DBAs	0.0	1	
+Oracle数据库管理及应用开发教程	0.0	2	
+Oracle 9i PL/SQL开发人员指南	0.0	0	
+Oracle 8完全参考手册	0.0	1	
+Oracle Database 10g	0.0	2	
+Oracle Database10g安全性高效设计	0.0	2	
+Oracle 11g中文版数据库管理、应用与开发标准教程	0.0	2	
+RMAN Recipes for Oracle Database 11g	0.0	2	
+21天学通Oracle	0.0	3	
+Oracle Data Guard 11g Handbook	0.0	2	
+Oracle Spatial空间数据库开发应用指南	0.0	0	
+Oracle PL/SQL完全自学手册	0.0	1	
+Oracle 9i JDBC 程序设计	0.0	2	
+Oracle Data Mining	0.0	0	
+Alan Greenspan	0.0	1	
+Oracle XML DB应用开发	0.0	0	
+Easy Oracle Jumpstart	0.0	0	
+Quick Start Guide to Oracle Fusion Development	0.0	0	
+Database Software Introduction	0.0	0	
+Oracle8 Black Book	0.0	0	
+Oracle Night	8.2	49	
+Learning Oracle Form Builder 5.0 (Learning Oracle)	0.0	0	
+Oracle Database 10g Database Administrator Ocp Certification Exam Preparation Course in a Book for Passing the Oracle Database 10g Database Administra	0.0	1	
+OCP Oracle Certified Professional on Oracle 12c Certificatio	0.0	0	
+Oracle SQL疑难解析	0.0	0	
+Oracle Developer/2000R2.0开发与应用实例	0.0	0	
+Oracle 9i中文版基础培训教程	0.0	2	
+Oracle 8体系结构	0.0	2	
+Oracle SQL	0.0	0	
+Beginning PHP and Oracle	0.0	1	
+Oracle 10g	0.0	1	
+Oracle数据库管理员技术指南	0.0	1	
+Oracle Developer/2000 R2.0开发技巧与应用实例	0.0	2	
+Oracle STATSPACK 高性能调整技术	0.0	0	
+Oracle Database 10g Pl/SQL Programming	0.0	1	
+Effective Oracle Database 10g Security by Design	0.0	0	
+Oracle Space Management Handbook	0.0	1	
+The Oracle of the Radiant Sun	0.0	0	
+Beginning Oracle Programming	0.0	0	
+Oracle SQL Developer编程手册	0.0	1	
+Murach's Oracle SQL and PL/SQL	0.0	0	
+Oracle DBA Pocket Guide	0.0	0	
+Oracle Database 11g DBA Handbook	0.0	0	
+Mastering Oracle SQL and SQL*Plus	0.0	1	
+Oracle Data Warehouse Tuning for 10g	0.0	0	
+Peoplesoft For The Oracle DBA	0.0	1	
+Oracle 11g For Dummies	0.0	2	
+Oracle 10g宝典	0.0	0	
+Linux Recipes for Oracle DBAs	0.0	2	
+Oracle R12 Applications DBA Field Guide	0.0	0	
+Oracle Database 11g Performance Tuning Recipes	0.0	1	
+Oracle Database 11g R2 Performance Tuning Cookbook	0.0	0	
+Oracle Database 12c DBA官方手册	0.0	0	
+21天学通Oracle（第3版）	0.0	0	
+Oracle数据库性能优化方法论和最佳实践	0.0	1	
+零基础学Oracle	0.0	1	
+Oracle数据库原理与应用	0.0	0	
+Oracle PL/SQL	0.0	1	
+Oracle Exadata Recipes	0.0	2	
+Oracle DBA 高可用、备份恢复与性能优化	0.0	2	
+Oracle Primavera P6 Version 8	0.0	1	
+Advanced Oracle SQL Tuning	0.0	0	
+Oracle数据库系统管理实例教程	0.0	2	
+Oracle Database 11g	0.0	1	
+OCP	0.0	0	
+大型数据库技术	0.0	0	
+Netherworld	0.0	0	
+Oracle教程	0.0	1	
+Oracle数据库开发与应用	0.0	0	
+Business Intelligence Cookbook	0.0	1	
+Oracle 11g数据库基础教程	0.0	2	
+Working for His Majesty	0.0	1	
+Amulets of the Goddess	0.0	0	
+360 Degrees of Wisdom	0.0	0	
+Reading Tocqueville	0.0	1	
+Ogam	0.0	1	
+Oracle PL/SQL Programming	0.0	0	
+Oracle 8性能优化和管理手册	0.0	0	
+Oracle Pl/SQL 101	0.0	1	
+Oracle 8数据仓库分析、构建实用指南	0.0	1	
+构建Oracle XML应用程序	0.0	0	
+The Art and Science of Oracle Performance Tuning	0.0	0	
+Egyptian Scarab Oracle	0.0	1	
+Oracle 8i. Backup und Recovery Handbook.	0.0	0	
+Oracle Internals	0.0	0	
+Oracle Tuning Power Scripts	0.0	0	
+Physical Database Design Using Oracle	0.0	1	
+Oracle SQL Tuning Pocket Reference	0.0	1	
+Oracle 11g数据库项目应用开发	0.0	0	
+基于Oracle的Web应用项目开发	0.0	0	
+Oracle E-Business Suite Financials R12	0.0	1	
+Achieving Extreme Performance with Oracle Exadata	0.0	2	
+Oracle Enterprise Manager Cloud Control 12c Deep Dive	0.0	0	
+Oracle 11g Anti-Hacker's Cookbook	0.0	1	
+Oracle 11g数据库最佳入门教程	0.0	1	
+Oracle PL/SQL宝典（第2版）	0.0	2	
+Oracle Database 11g R2性能调整与优化	0.0	1	
+Expert Consolidation in Oracle Database 12c	0.0	1	
+Oracle DBA Backup and Recovery Quick Reference	0.0	0	
+Oracle Application Express Forms Converter	0.0	1	
+Oracle SQL By Example (4th Edition)	0.0	0	
+OCA/OCP Oracle Database 12c All-in-One Exam Guide	0.0	1	
+多核应用编程实战	7.6	16	
+Have You Been to Delphi?	0.0	0	
+OCP	0.0	1	
+Oracle JDeveloper 10g for Forms & PL/SQL Developers	0.0	0	
+OCP	0.0	0	
+Professional ADO.NET 2	0.0	0	
+Oracle 11g New Features	0.0	0	
+Fushigi Yugi	0.0	0	
+Easy Oracle Warehouse Builder	0.0	0	
+The Legend of Zelda, Volume 4	0.0	1	
+The Legend of Zelda, Volume 5	0.0	1	
+The Purity of Kingship	0.0	0	
+Oracle数据库技术与实验指导	0.0	0	
+Oracle Database 11g应用与开发教程	0.0	0	
+Sun Microsystems Software	0.0	0	
+Itv Franchisees	0.0	0	
+Oracle数据库实用教程	0.0	0	
+Oracle数据库快学易用教程	0.0	0	
+Under the Oracle	0.0	0	
+Jochen Gerz	0.0	0	
+OCP	0.0	0	
+The Art of Worldly Wisdom	0.0	0	
+Oracle Forms Interactive Workbook	0.0	1	
+Oracle数据库应用教程	0.0	0	
+Moon Oracle	0.0	0	
+Oracle Database 10g New Features	0.0	0	
+Oracle資料庫管理實務	0.0	1	
+ORACLE 数据库开发指南	0.0	1	
+JSP+Oracle网站开发实例精讲	0.0	0	
+Oracle Discoverer 手册	0.0	0	
+Oracle Developer编程指南	0.0	1	
+Oracle WebDB实用大全	0.0	0	
+Oracle 9i从基础到应用	0.0	0	
+Oracle Database 10g PL/SQL程式設計經典	0.0	0	
+Oracle 10g数据库管理与应用系统开发	0.0	0	
+The Nahualli Animal Oracle	0.0	1	
+The Tree of Life Oracle	0.0	1	
+Object-oriented Oracle	0.0	0	
+Oracle Workflow Handbook	0.0	0	
+Oracle Performance Tuning for 10gR2, Second Edition	0.0	0	
+Oracle Tuning	0.0	0	
+Oracle PL/SQL for DBAs	0.0	1	
+Oracle DBA Checklists Pocket Reference	0.0	0	
+Oracle Tuning	0.0	0	
+Oracle BPM Suite 11g Developer's cookbook	0.0	1	
+Oracle JD Edwards EnterpriseOne 9.0	0.0	0	
+Oracle Application Integration Architecture  Foundation Pack 11gR1	0.0	0	
+Forecasting Oracle Performance	0.0	0	
+Linux for the Oracle DBA	0.0	0	
+Oracle Database Administration for Microsoft SQL Server DBAs	0.0	1	
+Oracle VM Implementation and Administration Guide	0.0	0	
+Oracle Database XE 11gR2 Jump Start Guide	0.0	1	
+Oracle数据库管理之道	0.0	0	
+Oracle数据库性能优化实践指南	0.0	0	
+Oracle SOA Suite 11g Administrator's Handbook	0.0	1	
+Oracle Certified Associate, Java SE 7 Programmer Study Guide	0.0	0	
+Oracle Essbase 11 Development Cookbook	0.0	1	
+Pro Oracle SQL, 2nd Edition	0.0	0	
+OCA认证考试指南(1Z0-062):Oracle Database 12c 安装与管理	0.0	0	
+ORACLE数据存储与访问技术	0.0	0	
+Oracle数据库管理与开发 （适用于OCP认证）	0.0	0	
+Oracles of God	0.0	0	
+从零开始学Oracle	0.0	0	
+Oracle Solaris 11	0.0	1	
+OCA Oracle Database 12c SQL Fundamentals I Exam Guide	0.0	0	
+OCP Upgrade to Oracle Database 12c Exam Guide	0.0	0	
+OCA: Oracle Certified Associate Java SE 8 Programmer I Study	0.0	3	
+感悟Oracle核心技术	0.0	1	
+Oracle数据库问题解决方案和故障排除手册	0.0	1	
+Oracle Certified Master 11g Exam: A Comprehensive Practical Study Guide	0.0	1	
+Oracle WebLogic Server 12c Advanced Administration Cookbook	0.0	0	
+Oracle Database 12c性能优化攻略	0.0	0	
+Oracle Certified Master DBA	0.0	0	
+Oracle Database 11g Administrator Certified Master Third Exam Preparation Course in a Book for Passing the 11g OCM Exam - The How To Pass on Your First Try Certification Study Guide	0.0	0	
+OCP认证考试指南 1ZO-063 Oracle Database 12c 高级管理	0.0	0	
+Oracle数据库备份、恢复与迁移	0.0	0	
+Oracle Exadata专家手册	0.0	0	
+Oracle关系数据库实用教程	0.0	0	
+OCP	0.0	0	
+The Hawaiian Oracle	0.0	0	
+OCP	0.0	0	
+OCP	0.0	0	
+OCP	0.0	0	
+Grid Revolution	0.0	0	
+OCP Oracle Database 10g	0.0	0	
+Healing With The Fairies	0.0	0	
+Oracle数据库管理与应用教程	0.0	0	
+The Anubis Oracle	0.0	0	
+Oracle Reports	0.0	0	
+Easy Astrology Oracle Cards	0.0	0	
+High Performance Oracle Data Warehousing	0.0	0	
+High Performance Oracle8 Tuning	0.0	0	
+High Performance Oracle Database Applications	0.0	0	
+OCP	0.0	0	
+OCA/OCP	0.0	0	
+OCA/OCP	0.0	0	
+Oracle Performance Troubleshooting	0.0	0	
+Oracle Privacy Security Auditing	0.0	0	
+OCA	0.0	0	
+Oracle数据库技术及应用	0.0	0	
+The Mother's Wisdom Deck	0.0	0	
+Writing Implement	0.0	0	
+Oracle数据库系统	0.0	0	
+Godsmack	0.0	0	
+Imperial Dragon Oracle	0.0	0	
+Oracle基础教程	0.0	0	
+数据库管理人员ORACLE	0.0	0	
+Cryptographic Hash Functions	0.0	0	
+Ancient Greek Religion	0.0	0	
+Oracle Corporation	0.0	0	
+Companies Established in 1974	0.0	0	
+Companies Established in 1977	0.0	0	
+Companies in the NASDAQ-100 Index	0.0	0	
+The Legend of Zelda	0.0	0	
+Bouddhas Et Bodhisattvas	0.0	0	
+Rigby Sails	0.0	0	
+Databs Systms	0.0	0	
+Databas Sys	0.0	0	
+Database Sys	0.0	0	
+Databas Sys	0.0	0	
+Database Processg	0.0	0	
+Database Processg	0.0	0	
+Beneficial Law of Attraction	0.0	0	
+The Cloud DBA-Oracle	0.0	0	
+数据库应用与设计	0.0	0	
+Batgirl And The Birds Of Prey Vol. 1	0.0	0	
+全国高等职业教育计算机类规划教材·实例与实训教程系列	0.0	0	
+SQL Mit Oracle	0.0	0	
+Oracle数据库应用与开发案例教程	0.0	0	
+Direct Descendants	0.0	0	
+Essential Oracle8i Data Warehousing	0.0	0	
+Snappy Interviews	0.0	0	
+Database Management	0.0	0	
+The I Ching	0.0	0	
+OCP	0.0	0	
+Database Systems	0.0	0	
+SPQR XII	0.0	0	
+Oracle Modernization Solutions	0.0	0	
+E-Business or Out of Business	0.0	0	
+Wisdom of the Maya	0.0	0	
+Metu Neter Vol. 1	0.0	0	
+Escaping from the Prison-House of Language and Digging for Meanings in Texts among Texts	0.0	0	
+Kingdoms	0.0	0	
+Oracle 11g设计与开发教程	0.0	0	
+Oracle数据库应用教程	0.0	0	
+Oracle 11g数据库与开发应用教程	0.0	0	
+Oracle数据库实用教程	0.0	0	
+Tree Readings	0.0	0	
+Mirror, Mirror	0.0	0	
+Oracle Account Receivables Practice Questions for Interviews and Certification Examinations	0.0	0	
+SQL for Query Writers	0.0	0	
+Introduction to PL/SQL	0.0	0	
+Introduction to Oracle	0.0	0	
+Oracle 11g数据库管理与开发基础教程	0.0	1	
+Java EE Web Application Primer	0.0	0	
+The Cyber Tarot	0.0	0	
+云构建与管理	0.0	0	
+Oracle Night	7.9	19	
+Witchcraft, Oracles and Magic among the Azande	9.0	23	
+女祭司	7.4	13	
+Oracle Bones	9.4	14	
+Oracle Bones	8.8	12	
+Oracle J.D.Edwards技术与应用	0.0	3	
+Java安全编码标准	0.0	5	
+巴菲特箴言	7.5	20	
+英國所藏甲骨集	0.0	4	
+Oracle数据库管理艺术	0.0	4	
+I Ching, The Oracle	0.0	1	
+The Oracle	0.0	1	
+Oracle电子商务套件	0.0	2	
+Oracle Night	0.0	7	
+House of Oracles	0.0	4	
+Oracle SQL培训教程	0.0	3	
+Oracle完全学习手册	0.0	4	
+Lady Oracle	0.0	6	
+Oracle Solaris 10系统管理基础教程	0.0	1	
+Oracle Speaks	0.0	2	
+Siebel CRM 100 Success Secrets - 100 most asked questions on Siebel Customer Relationship Management Applications covering Oracle enterprise CRM, On Demand software and Business Intelligence	0.0	3	
+Oracles and Demons of Tibet	0.0	0	
+深入理解Oracle 12c数据库管理（第2版）	0.0	2	
+Plutarch: Moralia, Volume V, Isis and Osiris. The E at Delphi. The Oracles at Delphi No Longer Given in Verse. The Obsolescence of Oracles.	0.0	1	
+Oracle Hyperion Financial Management Tips and Techniques	0.0	0	
+Oracle Bones	0.0	1	
+Oracle PL/SQL实例精解	0.0	2	
+Oracle DBA基础教程	0.0	1	
+未来商务的Oracle模式	0.0	2	
+The Poison Oracle	0.0	4	
+Oracle 11g管理备份恢复从入门到精通	0.0	3	
+Oracle 10g系统管理员简明教程	0.0	2	
+Oracle数据库管理与维护手册	0.0	3	
+Oracle数据库基础	0.0	1	
+神谕隐踪	0.0	7	
+Oracle Discoverer 10g手册	0.0	0	
+Oracle网格计算	0.0	3	
+Oracle Bones	0.0	4	
+Oracle PL/SQL by Example (4th Edition) (Prentice Hall Professional Oracle Series)	0.0	1	
+Programming Oracle Triggers and Stored Procedures (3rd Edition) (Prentice Hall PTR Oracle Series)	0.0	0	
+Oracle Database 10g XML与SQL开发指南	0.0	3	
+The Faeries Oracle	0.0	3	
+Visual C++与Oracle数据库编程案例	0.0	1	
+Oracle数据库管理与应用系统开发	0.0	5	
+AJAX+PHP+Oracle数据库Web开发	0.0	2	
+Oracle Inequalities in Empirical Risk Minimization and Sparse Recovery Problems	0.0	2	
+Project Planning and Control Using Oracle Primavera P6 Versions 8.1 & 8.2	0.0	1	
+最終神諭	0.0	1	
+The Trials of Apollo Book One The Hidden Oracle	0.0	7	
+Nature's Oracle	0.0	1	
+Oracle 9i. UNIX Administrations- Handbuch. Oracle 9i in einer UNIX- Umgebung managen	0.0	1	
+Oracle Database 10g	0.0	1	
+Java Oracle数据库开发指南	0.0	1	
+Oracle 10g编程基础	0.0	0	
+Oracle 11g基础与提高	0.0	0	
+The Druid Animal Oracle	0.0	1	
+Oracle Database 10g XML & SQL	0.0	2	
+Oracle Application Server 10g管理手册	0.0	0	
+Microsoft，UNIX及Oracle主机和网络安全	0.0	1	
+Oracle Spatial与OCI高级编程	0.0	0	
+JSP+Oracle网络应用系统开发与实例	0.0	4	
+Oracle 9i 数据库管理员 2	0.0	2	
+Oracle Database 10g基础教程	0.0	4	
+Oracle数据库系统	0.0	5	
+Oracle高级编程	0.0	2	
+The Celtic Oracle	0.0	3	
+Oracle 9i数据库系统管理实录	0.0	1	
+The Last Oracle	0.0	5	
+Oracle JDE / EnterpriseOne Interview Questions, Answers, and Explanations	0.0	0	
+Oracle安全实战	0.0	0	
+Oracle Night	0.0	3	
+Oracle性能诊断艺术（第2版）	0.0	1	
+神奇獨角獸神諭占卜卡	0.0	1	
+名师讲坛——Oracle DBA入门与实战经典	0.0	1	
+The Heart of Faerie Oracle	0.0	1	
+Oracle SQL Recipes	0.0	2	
+Oracle Database 11g & MySQL 5.6开发手册	0.0	1	
+Classical Athens And The Delphic Oracle	0.0	3	
+The Tree Angel Oracle	0.0	2	
+Water Crystal Oracle	0.0	1	
+Blind Oracles	0.0	0	
+Oracle JDeveloper 10g开发手册	0.0	2	
+JSP+Oracle动态网站开发案例精选	0.0	1	
+JSP+Oracle组建动态网站实例精讲（附1光盘）	0.0	0	
+Ascended Masters Oracle Cards	0.0	3	
+Oracle数据库系统原理	0.0	1	
+Expert Oracle Database 10<i>g</i> Administration (Expert's Voice)	0.0	0	
+Oracle 11g Pro*C/C++ 编程艺术	0.0	1	
+Oracle Business Intelligence 11g Developers Guide	0.0	1	
+Oracle数据库进阶	0.0	0	
+The Enchanted Map Oracle Cards	0.0	1	
+Oracle自学视频教程	0.0	0	
+Cults, Myths, Oracles and Politics in Ancient Greece	0.0	0	
+Divination and Oracles	0.0	0	
+Oracle DBA教程	0.0	5	
+Oracle Night	0.0	2	
+Oracle课程设计案例精编	0.0	0	
+Athletes and Oracles	0.0	0	
+Oracle Bones	0.0	1	
+Enterprise Grid Computing with Oracle (Osborne Oracle Press)	0.0	0	
+OCA Oracle Application Server 10g Administrator Exam Guide (Exam 1Z0-311) (Osborne Oracle Press)	0.0	1	
+ORACLE 8i 安装配置与性能调整	0.0	1	
+Oracle JDeveloper 3 Handbook (Osborne ORACLE Press Series)	0.0	0	
+Oracle Reports 6i (Oracle Manuals Ser)	0.0	0	
+Pro Oracle Spatial for Oracle Database 11g	0.0	0	
+Oracle SQL Tuning with Oracle Sqltxplain	0.0	1	
+Oracle for Professionals - Covers Oracle 9i, 10g & 11g	0.0	0	
+Mastering Oracle Scheduler in Oracle 11g Databases	0.0	0	
+Oracle Pl/SQL Programming (Oracle Series)	0.0	0	
+oracle database cloud cookbook with oracle enterprise manager cloud control 13c	0.0	1	
+The History of Oracles. in Two Dissertations; Wherein Are Proved, I. That the Oracles Were Not Given Out by D]mons; ... II. That the Oracles Did Not C	0.0	0	
+Oracle数据库管理系统教程(SQL PowerBuilder原理与应用)	0.0	0	
+Angel Oracle Deck	0.0	2	
+Expert Oracle JDBC Programming	0.0	0	
+Oracle 10g Forms Builder Web数据库开发与应用	0.0	1	
+Oracle 9I	0.0	2	
+Oracle Application Server10g:J2EE部署和管理 (平装)	0.0	1	
+Oracle Backup and Recovery 101	0.0	2	
+Oracle 10g应用指导与案例精讲	0.0	2	
+OCP Oracle 9i Database Fundamentals I 考试指南	0.0	0	
+Oracle 8 UML对象建模设计	0.0	1	
+Oracle数据库管理与维护技术手册	0.0	1	
+PowerBuilder+Oracle项目开发实例详解	0.0	0	
+Oracle Database 10g DBA Handbook	0.0	0	
+Oracle实用教程	0.0	5	
+Oracle安全实践	0.0	2	
+The Celtic Tree Oracle	0.0	0	
+Unix for Oracle Dbas Pocket Reference	0.0	2	
+JSP+Oracle数据库开发与实例	0.0	2	
+JSP+Oracle动态网站开发	0.0	2	
+The Way of the Oracle	0.0	0	
+Oracle Solaris 11 System Administration	0.0	0	
+Oracle PL/SQL宝典	0.0	0	
+Oracle实用教程	0.0	1	
+Oracle WebLogic Server 11g Administration Handbook	0.0	1	
+PRO C程序设计和Oracle调用接口	0.0	1	
+Oracle Concepts	0.0	1	
+Oracle ADF Enterprise Application Development Made Simple	0.0	0	
+Getting Started with Oracle Hyperion Planning 11	0.0	0	
+Oracle 12c PL/SQL程序设计终极指南	0.0	1	
+Oracle NoSQL数据库：实时大数据管理	0.0	0	
+Expert Oracle RAC	0.0	1	
+Oracle数据库管理与应用实例教程	0.0	2	
+Oracle 11g应用与认证教程	0.0	1	
+Applied Oracle Security	0.0	1	
+Oracle 11g数据库编程入门与实战	0.0	0	
+融会贯通,从Oracle 11g到SQL Server2008	0.0	2	
+Oracle Database 12c PL/SQL Programming	0.0	1	
+Expert Oracle Database Architecture	0.0	2	
+Chaldean Oracles	0.0	0	
+Oracle E-Business Suite Security (Osborne ORACLE Press Series)	0.0	0	
+Everyday Oracle DBA (Osborne ORACLE Press Series)	0.0	0	
+Oracle CRM On Demand Reporting (Osborne ORACLE Press Series)	0.0	0	
+Oracle Designer/2000 Handbook (Oracle Series)	0.0	0	
+The Traveller's Oracle, Or, Maxims for Locomotion the Traveller's Oracle, Or, Maxims for Locomotion	0.0	0	
+The Aquatic Oracle the Aquatic Oracle	0.0	0	
+Oracle 10g Rules Manager - Evaluation of the Oracle 10g Rules Manager for a Domain Node Architecture in the Semantic Web Eca Framework	0.0	0	
+The Athenian Oracle the Athenian Oracle	0.0	0	
+The Delphic Oracle the Delphic Oracle	0.0	0	
+L'Oracolo, the Oracle L'Oracolo, the Oracle	0.0	0	
+R Ponse A L'Histoire Des Oracles de Mr. de Fontennelle de L'Academie Francoise	0.0	0	
+The Ancient Oracles and Napoleon's Oraculum the Ancient Oracles and Napoleon's Oraculum	0.0	0	
+The Aquatic Oracle, Or, Record of Rowing from 1835 to 1851, by an Amateur	0.0	0	
+The Traveller's Oracle, Or, Maxims for Locomotion Volume 1; Containing Precepts for Promoting the Pleasures and Hints for Preserving the Health of Travellers Part II Comprising the Horse and Carriage Keeper's Oracle Rules for Purchasing and Keeping or	0.0	0	
+A   Vindication of the Sibylline Oracles; To Wihich Are Added the Genuine Oracles Themselves	0.0	0	
+A   Vindication of the Sibylline Oracles. to Which Are Added the Genuine Oracles Themselves; With the Ancient Citations from Them; In Their Originals,	0.0	0	
+Fundamtls Database Sys& Oracle 9i& Oracle 10g	0.0	0	
+Oracle 10g	0.0	0	
+GUIDE SQL FEAT ORACLE W ORACLE 8I	0.0	0	
+Shr Dbase Sys DES/Oracle Stud	0.0	0	
+Oracle PL& SQL by Example& Oracle 10g Pkg	0.0	0	
+Oracle Pl&SQL& Oracle 9i	0.0	0	
+Oracle SQL & Oracle 9i Pkg	0.0	0	
+Oracle SQL by Example & Oracle 10g Pkg	0.0	0	
+Database Systems Using Oracle and Oracle 10G	0.0	0	
+Modrn Databse Managmt& Oracle 10g& Oracle SQL	0.0	0	
+Oracle Database 11g - Administration I Exam Preparation Course in a Book for Passing the 1z0-052 Oracle Database 11g - Administration I Exam - The How	0.0	0	
+Oracle Database 11g - Administration II Exam Preparation Course in a Book for Passing the 1z0-053 Oracle Database 11g - Administration II Exam - The H	0.0	0	
+Oracle Database 10g Database Administrator Oca Certification Exam Preparation Course in a Book for Passing the Oracle Database 10g Database Administra	0.0	0	
+Oracle移动网络应用程序设计——基于Oracle Application Express	0.0	0	
+Oracle Mobile Application Frameword开发指南——构建多平台企业移动应用	0.0	0	
+Oracle PL SQL性能调优诀窍与方法	0.0	0	
+Secret ORACLE - Unleashing the Full Potential of the ORACLE DBMS by Leveraging Undocumented Features	0.0	0	
+Fatima Oracle Cards/Oracolo Di Fatima/Oraculo De Fatima/ Oracle De Fatima/Fatima Orakelspielkarten	0.0	0	
+Maximum Oracle with Oracle Best Practices - Covers 11g R2	0.0	0	
+The Celtic Wisdom Oracle Oracle Cards for Ancient Wisdom and Guidance	0.0	0	
+Guida a Oracle Database 10g. I fondamenti di Oracle 10g	0.0	0	
+Celtic Oracle Oracle Deck	0.0	0	
+Oracle Database Administering Real Application Clusters Certified Expert Secrets to Acing the Exam and Successful Finding and Landing Your Next Oracle	0.0	0	
+Universal Love Healing Oracle Cards Healing Oracle	0.0	0	
+Oracle PL/SQL程序设计	0.0	0	
+精通Oracle R Enterprise大数据 在Oracle数据库中充分利用R的强大功能	0.0	0	
+构建Oracle数据库云最佳实践 使用Oracle Enterprise Manager Cloud Control 13c	0.0	0	
+Oracle Database 12c Oracle RMAN备份与恢复（第4版）	0.0	0	
+Beginning Oracle PL/SQL	0.0	0	
+Oracle SQL Revealed Executing Business Logic in the Database	0.0	0	
+Oracle实用教程（第4版）（Oracle 11g版）	0.0	0	
+徹底攻略 ORACLE MASTER Expert問題集(Oracle 10g on Linux Expert)対応(ITプロ/ITエンジニアのための徹底攻略)	0.0	0	
+Oracle Database 12c Oracle RMAN Backup and Recovery	0.0	0	
+The Oracle of E: An Oracle Card Deck to Manifest Your Dreams	0.0	0	
+Pro Oracle Spatial for Oracle Database 11g	0.0	0	
+Oracle 10g真剣勝負 DB管理のポイントと新機能の実践活用法 DB Magazine連載"Oracle 10g真剣勝負"より	0.0	0	
+Oracle Database 12c Hands-On SQL and PL/SQL(Oracle数据库12C动手SQL和PL/SQL)	0.0	0	
+1z0-052, Oracle Database 11g, Administration I: Oracle Certification Prep	0.0	0	
+The Faerytale Oracle: An Enchanted Oracle of Initiation, Mystery & Destiny	0.0	0	
+Beginning Oracle WebCenter Portal 12c: Build next-generation enterprise portals with Oracle WebCenter Portal	0.0	0	
+Oracle 8数据库管理员手册	0.0	1	
+Oracles of the Law	0.0	0	
+Oracle 10g RAC Grid, Services & Clustering	0.0	0	
+Java Programming with Oracle JDBC	0.0	1	
+The Light Of The Oracle	0.0	2	
+用Oracle开发多媒体数据库信息检索应用	0.0	1	
+Oracle Database 10g实用培训教程	0.0	0	
+Oracle E-Business Suite Manufacturing & Supply Chain Management	0.0	0	
+SQL Server 2005 Oracle与MySQL基于ADO.NET 2的高级编程	0.0	1	
+Database Systems Concepts with Oracle CD	0.0	1	
+Oracle企业管理器基础教程	0.0	0	
+Oracle 9i应用及开发实务 (平装)	0.0	0	
+Oracle 8 学习教程	0.0	0	
+Oracle High-Performance SQL Tuning	0.0	1	
+Oracle与Java从客户/服务器 到电子商务	0.0	0	
+Oracle 9iAS J2EE应用程序开发	0.0	0	
+基于Oracle的数据库系统	0.0	0	
+关系数据库Oracle 9i原理及应用	0.0	0	
+JSP+Oracle数据库组建动态网站经典实例	0.0	0	
+数据库原理及Oracle应用	0.0	0	
+数据库设计与Oracle数据库应用教程	0.0	0	
+Oracle SAP Administration	0.0	0	
+Oracle数据库开发基础教程	0.0	1	
+The Definitive Guide to SOA: Oracle® Service Bus, Second Edition	0.0	0	
+Oracle Pl/SQL by Example	0.0	2	
+Oracle Database Foundations	0.0	2	
+Security, Audit & Control Features Oracle E-Business Suite	0.0	0	
+the Burning Oracle	0.0	0	
+The Oracle of Stamboul	0.0	1	
+The London Oracle; Being a New-Year's Gift, for the Year 1707. a Fit Pocket-Companion for Gentlemen, Ladies, and Other Persons of Quality; ... by a St	0.0	0	
+Oracle DBA on Unix and Linux	0.0	0	
+The Oracle of the Pharaohs the cards of Ra-Maat	0.0	1	
+Oracle : The Cure	0.0	0	
+Oracle Fusion Middleware 11g Architecture and Management	0.0	1	
+The Delphic Oracle, Its Early History, Influence and Fall	0.0	0	
+Oracles, Curses, and Risk Among the Ancient Greeks	0.0	0	
+Oracle Solaris 11 System Administration the Complete Reference	0.0	0	
+Warren Buffett - The Oracle of Omaha	0.0	0	
+Gaia Oracle	0.0	1	
+Oracle E-Business Suite R12 Core Development and Extension Cookbook	0.0	0	
+Oracle APEX Best Practices	0.0	1	
+Oracle WebLogic Server 12c	0.0	1	
+Oracle Database Transactions and Locking Revealed	0.0	2	
+精通Oracle核心技术与项目实战	0.0	0	
+Oracle数据库管理与维护实战	0.0	0	
+Oracle Certified Professional Java Se 7 Programmer Exams 1z0-804 and 1z0-805	0.0	0	
+名师讲坛：Oracle SQL入门与实战经典	0.0	1	
+Oracle Data Integrator 11g Cookbook	0.0	0	
+大型数据库Oracle实验指导教程	0.0	0	
+Oracle 9i Java Programming	0.0	1	
+Archangel Raphael Healing Oracle Cards	0.0	1	
+JDBC Metadata, MySQL, and Oracle Recipes	0.0	1	
+The Chaldaean Oracles of Zoroaster (Forgotten Books)	0.0	0	
+Professional Oracle WebLogic Server (Wrox Programmer to Programmer)	0.0	2	
+The Psychic Tarot Oracle Deck	0.0	1	
+The Druid Plant Oracle	0.0	0	
+Oracle Database 12c the Complete Reference	0.0	0	
+专业级Oracle Database 12c安装、配置与维护	0.0	1	
+The Chaldean Oracles	0.0	0	
+Oracle 8 入门与提高	0.0	0	
+Oracle 9i DBA认证教程	0.0	0	
+Oracle 9i中文版数据库系统管理	0.0	1	
+Ask the Kabala Oracle Cards	0.0	0	
+ORACLE数据库系统-基础与工具	0.0	0	
+Oracle数据库开发实用教程	0.0	0	
+Special Edition Using Oracle 11i	0.0	1	
+Power Animal Oracle Cards	0.0	0	
+Goddess Guidance Oracle Cards	0.0	2	
+Ask Your Guides Oracle Cards	0.0	1	
+2013 Oracle	0.0	0	
+The Wisdom of Avalon Oracle Cards	0.0	0	
+Soul Lessons & Soul Purpose  Oracle Cards	0.0	0	
+The Oracle Tarot	0.0	1	
+Blind Oracles	0.0	1	
+Oracle数据库应用与开发实例教程	0.0	1	
+Pro Oracle Spatial	0.0	2	
+Database Systems Using Oracle	0.0	0	
+Gazing into the Oracle	0.0	0	
+Classical Athens And The Delphic Oracle	0.0	0	
+The San Francisco Oracle	0.0	0	
+Building Oracle XML Applications	0.0	0	
+Introduction to Oracle 10G & Database CD Package	0.0	0	
+Oracle Database 10g Express Edition Php Web Programming	0.0	0	
+Oracle Design	0.0	0	
+Oracle Data Warehousing and Business Intelligence Solutions	0.0	0	
+Oracle 9i	0.0	0	
+Oracle Discoverer 10g Handbook	0.0	0	
+Oracle 9i数据库应用标准教程	0.0	0	
+Oracle Developer2000学习教程	0.0	0	
+Oracle SQL简明教程	0.0	0	
+Oracle Application Server 10g Web 开发	0.0	1	
+Oracle 10g 資料庫管理實務	0.0	0	
+Oracle 9i JDBC Programming	0.0	1	
+Oracle Developer Advanced Forms and Reports	0.0	0	
+ORACLE-数据库系统应用开发	0.0	0	
+Oracle数据库应用技术	0.0	0	
+ORACLE Developer/2000 使用技术与方法	0.0	0	
+Oracle 9i中文版基础教程	0.0	0	
+Oracle Database 10g 升级指南	0.0	0	
+Oracle Jdeveloper 10g与J2EE实战演练	0.0	1	
+Oracle 9i数据仓库构建技术	0.0	0	
+Oracle 9i Jdeveloper Web应用与开发	0.0	0	
+Oracle XSQL技术	0.0	0	
+基于Oracle的Crystal Reports 9数据报表高级开发	0.0	0	
+基于Linux的Apache+JSP+Oracle	0.0	0	
+Oracle Developer使用指南	0.0	0	
+Oracle 9i Java程序设计	0.0	0	
+Oracle数据库管理员基础教程	0.0	0	
+Oracle 8优化技术	0.0	0	
+新版Oracle 8故障解决手册	0.0	0	
+Oracle DBA电子商务指南	0.0	0	
+ORACLE 8I WEB 开发指南(附光盘)	0.0	0	
+Oracle数据库体系结构和管理	0.0	0	
+Oracle数据库指南	0.0	1	
+ORACLE 9i 开发教程	0.0	0	
+基于Oracle应用服务器的Web开发技术	0.0	1	
+Oracle Database 10g High Availability with RAC, Flashback, and Data Guard	0.0	0	
+Expert Oracle PL/SQL	0.0	0	
+完全接触Oracle	0.0	0	
+Oracle 8服务器技术精粹	0.0	0	
+Oracle数据库管理	0.0	0	
+ORACLE JDEVELOPER 10G與J2EE實戰演練	0.0	0	
+Oracle Forms Developer	0.0	0	
+Healing With The Angels Oracle Cards (Large Card Decks)	0.0	1	
+Learning Oracle PL/SQL	0.0	0	
+The Oracle's Queen	0.0	1	
+Oracle Security Step-by-Step (Version 2.0)	0.0	0	
+Oracle 11i E-Business Suite from the Front Lines	0.0	1	
+JDBC 4.0 and Oracle JDeveloper for J2EE Development	0.0	0	
+Oracle 10g Database Administration Concepts & Implementation Made Simple	0.0	0	
+The Nail and the Oracle	0.0	0	
+oracle night	0.0	0	
+Guide to Oracle 10g	0.0	0	
+Beginning Oracle Programming	0.0	0	
+La Nuit de l'oracle	0.0	1	
+Oracles of Science	0.0	0	
+Angel Therapy Oracle Cards	0.0	0	
+The Answer is Simple Oracle Cards	0.0	0	
+Oracle数据库实用教程	0.0	1	
+Oracle RAC and Grid Tuning with Solid-state Disk	0.0	0	
+Oracle 10g Programming	0.0	0	
+Easy Oracle SQL	0.0	0	
+Mallory's Oracle (Kathleen Mallory Novels)	0.0	0	
+TOAD Pocket Reference for Oracle	0.0	1	
+Oracle Disk I/O Tuning	0.0	0	
+Oracle 10g Database Administration II	0.0	1	
+Oracle SQL*Plus The Definitive Guide	0.0	0	
+Oracle Initialization Parameters Pocket Reference	0.0	0	
+Tersias The Oracle	0.0	0	
+The Televisionary Oracle	0.0	1	
+Oracle PL/SQL Best Practices	0.0	1	
+Oracle E-Business Suite Financials Handbook	0.0	0	
+Art and Oracle	0.0	0	
+オラクルマスター教科書 Bronze Oracle Database 10g【SQL基礎I】編 (CD-ROM付)	0.0	0	
+オラクルマスター教科書 Bronze Oracle Database 10g(DBA10g)編	0.0	0	
+Oracle Applications DBA Covers 11i and R12	0.0	0	
+Nosce Teipsum This Oracle Expounded in Two Elegies, 1. of Humane Knowledge, 2. of the Soule of Man, and the Immortalitie Thereof.	0.0	0	
+Oracle SQL*Loader	0.0	0	
+Oracle Net8	0.0	0	
+The Mayan Oracle	0.0	0	
+Oracle 11g - SQL, PL/SQL, SQL*Plus	0.0	0	
+Oracle Essbase 9 Implementation Guide	0.0	1	
+Oracle and Open Source	0.0	0	
+Oracle SQL and PL/SQL Handbook	0.0	0	
+Oracle BAM 11gR1 Handbook	0.0	0	
+Oracle 数据库应用与开发	0.0	1	
+Oracles of God	0.0	0	
+Divining the Oracle	0.0	0	
+Oracle Streams 11g数据复制	0.0	0	
+Flexfields for Oracle E-Business Suite	0.0	0	
+Book III of the Sibylline Oracles and Its Social Setting	0.0	0	
+The Oracle@Wifi	0.0	0	
+Expert Oracle Application Express	0.0	1	
+Oracle GoldenGate 11g Handbook	0.0	1	
+Oracle e-Business Suite 11i	0.0	0	
+The Oracle Book	0.0	1	
+Oracle Performance Tuning (Nutshell Handbooks)	0.0	0	
+Earth Magic Oracle Cards	0.0	0	
+Oracle 10g数据库技术	0.0	0	
+The Last Oracle	0.0	1	
+Beginning Oracle Application Express 4	0.0	1	
+OCA Oracle Solaris 11 System Administration Exam Guide	0.0	0	
+Oracle数据库原理与应用	0.0	1	
+Delphic Oracle	0.0	0	
+Jews in the Hellenistic World	0.0	0	
+Oracle E-Business Suite Financials Handbook	0.0	0	
+Athletes and Oracles	0.0	0	
+Oracle Database & Data Warehouse 11g	0.0	0	
+Oracle OLAP	0.0	0	
+Oracle数据库开发	0.0	0	
+The Sibylline Oracles; Translated from the Greek Into English Blank Verse	0.0	0	
+Delphic Oracle	0.0	0	
+The Ancient Oracles	0.0	0	
+The Wisdom of the Oracle	0.0	0	
+Gurus and Oracles	0.0	0	
+The Oracles of the  Ancient World	0.0	0	
+The Sibylline Oracles, Books III-V	0.0	0	
+Apicius Redivivus; Or, the Cook's Oracle Wherein Especially the Art of Composing Soups, Sauces, and Flavouring Essences Is Made So Clear and Easy Bein	0.0	0	
+Life's Purpose Oracle Cards	0.0	3	
+The Oracle	0.0	0	
+The Goddess Oracle Deck & Book Set	0.0	1	
+Romance Angels Oracle Cards	0.0	1	
+Oracle Fusion Middleware Patterns	0.0	0	
+Governance, Risk, and Compliance Handbook for Oracle Applications	0.0	0	
+Oracle E-Business Suite R12 Supply Chain Management	0.0	0	
+Getting Started with Oracle Data Integrator 11g	0.0	0	
+The Original I Ching Oracle	0.0	1	
+The Cook's Oracle; And Housekeeper's Manual, by William Kitchiner. - The Original Classic Edition	0.0	0	
+Oracle Information Integration, Migration, and Consolidation	0.0	1	
+The Druid Animal Oracle	0.0	1	
+God-Nurturing Silence According to the Chaldean Oracles	0.0	0	
+深入浅出Oracle 之Form开发	0.0	0	
+The Oracle of Kabbalah	0.0	1	
+Oracle Database 12c PL/SQL开发指南（第7版）	0.0	2	
+Propagande expression roi, image idole oracle	0.0	1	
+SQL pour Oracle	0.0	0	
+Oracle 数据库管理员日常操作手册	0.0	0	
+ORACLE运维点滴	0.0	0	
+Oracle Big Data Handbook	0.0	0	
+Oracle Database 12c New Features	0.0	1	
+Old Testament Prophecy	0.0	0	
+Chaldaean Oracles and Theurgy	0.0	0	
+Linux and Solaris Recipes for Oracle DBAs	0.0	1	
+Oracle NoSGL Database	0.0	1	
+Java Ee Applications on the Oracle Java Cloud	0.0	0	
+The Sabian Symbols as an Oracle (Expanded)	0.0	0	
+Ocp Oracle Database 12c Advanced Administration Exam Guide	0.0	1	
+American Oracle	0.0	0	
+Expert Oracle Application Express Security	0.0	0	
+Oracle Business Intelligence 11g R1 Cookbook	0.0	0	
+Kuan Yin Oracle	0.0	1	
+Oracle 数据库虚拟化	0.0	0	
+Oracle Database 12c Security	0.0	1	
+Getting Started with Oracle VM Virtualbox	0.0	1	
+Oracleの現場を効率化する100の技	0.0	0	
+Oracle开发人员指南	0.0	0	
+The Road to Delphi	0.0	1	
+Oracle PL/SQL Built-Ins Pocket Reference	0.0	1	
+The Kuan Yin Oracle	0.0	0	
+Oracle-Datenbanken.	0.0	0	
+The Street Corner Ching; The Ancient Chinese Oracle in Plain English	0.0	0	
+Getting Started With Oracle SOA Suite 11g R1  A Hands-On Tutorial	0.0	0	
+Oracle SOA Suite Developer's Guide	0.0	0	
+Oracle Scripts	0.0	0	
+Wisdom of the Hidden Realms Oracle Cards	0.0	0	
+Archangel Michael Oracle Cards	0.0	2	
+Cracking the Oracle  Apps DBA Interview	0.0	0	
+完全合格 ORACLE MASTER Bronze DBA11g 問題集	0.0	0	
+Oracles of Science	0.0	0	
+Oracles, Curses, and Risk Among the Ancient Greeks	0.0	1	
+Beginning Oracle Application Express (Wrox Programmer to Programmer)	0.0	1	
+Oracle General Ledger Guide	0.0	0	
+Professional Oracle 8i Application Programming with Java, PL/SQL and XML	0.0	0	
+Oracle Database AJAX and PHP Web Application Development	0.0	1	
+Oracle Forensics	0.0	0	
+Oracles and Demons of Tibet	0.0	0	
+M.A.J.I.C. and the Oracle at Delphi	0.0	0	
+Oracle 11g管理与编程基础	0.0	0	
+Advanced Oracle Solaris 11 System Administration	0.0	0	
+Oracle Bpm Suite 11g	0.0	0	
+How to Beat the Casino	0.0	0	
+Oracle 11G	0.0	1	
+Art Nouveau Oracle	0.0	0	
+Oracle数据库管理、开发与实践	0.0	0	
+Expert Oracle SQL	0.0	0	
+Oracle Coherence 3.5	0.0	0	
+Oracle云管理平台	0.0	2	
+Oracle Data Integrator 12c Developer Jump Start Guide	0.0	1	
+Oracle程序员面试笔试宝典	9.3	23	
+Oracles Chaldaiques	0.0	0	
+Un Livre Sacre de L'Antiquite Tardive	0.0	0	
+Omens and Oracles	0.0	0	
+Delphic Oracle	0.0	1	
+Oracle Database 11g and MySQL 5.6 Developer Handbook	0.0	1	
+Oracle数据库应用开发及实践	0.0	0	
+The Devil's Tabernacle	0.0	0	
+零基础学Oracle（全彩版）	0.0	0	
+Managing Multimedia and Unstructured Data in the Oracle Database	0.0	1	
+Oracle Database Upgrade and Migration Methods	0.0	1	
+Forbidden Oracles?	0.0	0	
+Oracle 9i企业管理器详解	0.0	0	
+Oracle数据库实用指南	0.0	0	
+Oracle 9i简明教程	0.0	0	
+Visual Basic + Oracle 9i数据库应用系统开发与实例（附1光盘）	0.0	0	
+数据库原理及应用(ORACLE)	0.0	0	
+Oracle Designer信息系统开发	0.0	0	
+ORACLE8.1.6应用系统使用指南(含盘)-Oracle数据库技术丛书5	0.0	0	
+Oracle 8备份与恢复手册	0.0	0	
+Oracle DBA数据库系统管理与应用	0.0	0	
+THE KUAN YIN ORACLE	0.0	0	
+Oracle Night	0.0	0	
+ORACLE数据库系统-管理与应用	0.0	0	
+The Oracle A Format Ome	0.0	0	
+Oracle 8i管理与InternetA应用开发（共三册）	0.0	0	
+Oracle 10g数据库系统教程与上机指导	0.0	0	
+Oracle 10g管理及应用	0.0	0	
+Mysteries of the Oracles	0.0	0	
+Oracle Figures	0.0	0	
+Oracle Lake	0.0	0	
+Oracle+JSP系统应用开发	0.0	0	
+The Celtic Tree Oracle	0.0	0	
+Astrological Oracle	0.0	0	
+The Victorian Flower Oracle	0.0	0	
+The Nature-Speak Oracle	0.0	0	
+Universal Wisdom Oracle	0.0	0	
+Spirit Oracle	0.0	0	
+Oracle数据库实用技术	0.0	0	
+The Deceitful Oracle	0.0	0	
+The Complete Idiot's Guide to Oracles	0.0	0	
+Tao Oracle	0.0	0	
+Listening to the Oracle	0.0	0	
+Angel Oracle	0.0	0	
+The 5 Keys to Happiness Oracle Cards	0.0	0	
+Sacred Geometry Oracle Deck	0.0	0	
+Aora Gemstone Oracle	0.0	0	
+Voyager Tarot, Way of the Great Oracle	0.0	0	
+Crystal Oracle	0.0	0	
+Lovers Oracle	0.0	0	
+Angel Oracle	0.0	0	
+Playing Card Oracles	0.0	0	
+Oracle of the Bible	0.0	0	
+Archangel Oracle Cards	0.0	0	
+The Victorian Flower Oracle Deck	0.0	0	
+The Original I Ching Oracle	0.0	0	
+Oracle of the Illuminati	0.0	0	
+Book Of Ordinary Oracles	0.0	0	
+Magical Unicorn Oracle Cards	0.0	0	
+Playing Card Oracles	0.0	0	
+The Oracle of Love	0.0	0	
+The Oracle of Love	0.0	0	
+Rebirth of the Oracle	0.0	0	
+Druida Animal Oracle Deck	0.0	0	
+Oracle of Pyramids	0.0	0	
+Oracles of the Dead	0.0	0	
+Soul Coaching Oracle Cards	0.0	0	
+The Toltec Oracle	0.0	0	
+The Tantric Dakini Oracle	0.0	0	
+Oracle Bones	0.0	0	
+Oracle and Ajax	0.0	0	
+Oracle Internals	0.0	0	
+Oracle Database 11g New Features	0.0	0	
+The Oracle of Rama	0.0	0	
+The Oracle Betrayed	0.0	0	
+Oracle SQL and Introductory Pl/SQL	0.0	0	
+Introduction to database systems and Oracle SQL*Plus programming / Michelle A. Poolet	0.0	0	
+Oracle Database Programming Using Java and Web Services	0.0	0	
+Sas/access 9.1.3 Supplement for Oracle	0.0	0	
+Easy Oracle Data Warehousing	0.0	0	
+Oracle Jdeveloper 10G	0.0	0	
+Oracle Database 10g Insider Solutions	0.0	0	
+OCP Instructors Guide for Oracle DBA Certification	0.0	0	
+Hands-On Oracle Database 10g Express Edition for Linux	0.0	0	
+Hands-on Oracle Database 10g Express Edition for Windows	0.0	0	
+Oracle 10g Developing Web Applications + Pl/sql Server Pages	0.0	0	
+Oracle Regular Expressions Pocket Reference	0.0	0	
+The Oracle of Rama	0.0	0	
+Celtic Oracle	0.0	0	
+Magdalene Oracle	0.0	0	
+The Oracle Diet	0.0	0	
+Crystal Oracle	0.0	0	
+Universal Wisdom Oracle	0.0	0	
+The Oracle Book	0.0	0	
+Oracle Application Server 10g Essentials	0.0	0	
+Eye of the Oracle	0.0	0	
+Oracle SQL Developer Handbook	0.0	0	
+Oracle Collaboration Suite Handbook	0.0	0	
+Oracle Application Server Portal Handbook	0.0	0	
+Oracle Pl/sql Interview Questions, Answers, And Explanations	0.0	0	
+The Light Of The Oracle	0.0	0	
+Oracle Developer Suite 10g	0.0	0	
+Oracle Enterprise Manager 10g Grid Control Implementation Guide	0.0	0	
+Oracle 8i. Java- Komponenten programmieren mit EJB, CORBA und JSP. Ab Version 8.1.5.	0.0	0	
+Oracle High Performance Tuning for 9i and 10g	0.0	0	
+Oracle 9i RAC	0.0	0	
+Oracle SQL by Example	0.0	0	
+The Oracles And the Jewels	0.0	0	
+資料庫原理與ORACLE實務	0.0	0	
+Oracle PL/SQL Programming, 4th Edition	0.0	0	
+The Dream Oracle	0.0	0	
+中文版Oracle 9i简明教程	0.0	0	
+Oracle程序设计实训教程	0.0	0	
+Oracle数据库实用教程	0.0	0	
+Oracle Database Administration Concepts & Implementation Made Simple	0.0	0	
+ebusiness or Out of Business: Oracle''s Roadmap for Profiting in the New Economy	0.0	0	
+Oracle 8I Dba Handbook	0.0	0	
+Oracle PL/SQL Tips and Techniques	0.0	0	
+Oracle DBA 101	0.0	0	
+Oracle Discoverer Handbook	0.0	0	
+Oracle Security Handbook	0.0	0	
+Oracle Enterprise Manager 101	0.0	0	
+Oracle 8i Data Warehousing	0.0	0	
+Oracle计算机语言函数应用	0.0	0	
+Oracle 9i数据库应用基础	0.0	0	
+Oracle数据库SQL和PL/SQL实例教程	0.0	1	
+Oracle大型数据库及应用	0.0	0	
+Oracle 8.1.6系统安全与网络管理指南	0.0	0	
+Oracle 9i 应用服务器详解	0.0	0	
+OCP; Oracle 8i DBA SQL与PL/SQL学习指南	0.0	0	
+Oracle 9i/10g开发管理与实例	0.0	0	
+Oracle 8/8i开发使用手册	0.0	0	
+Oracle 8i SQLJ编程指南	0.0	0	
+Oracle 8i 数据库开发技术与技巧	0.0	0	
+Oracle数据库应用管理解决方案	0.0	0	
+Oracle Portal Web开发	0.0	0	
+Oracle 8开发人员指南	0.0	0	
+Oracle 9i数据库技术	0.0	0	
+Oracle 8故障解决手册	0.0	0	
+Oracle 8起步与进阶	0.0	0	
+Oracle 数据库的实施和管理	0.0	0	
+Oracle 8.x for Windows NT 实用教程	0.0	0	
+Oracle与Visual Basic编程指南	0.0	0	
+OCP Oracle 8i SQL & PL/SQL考试学习指南(英文版)	0.0	0	
+Oracle Financials 使用手册	0.0	0	
+Oracle安全手册	0.0	0	
+Oracle XML开发手册	0.0	0	
+Oracle程序设计	0.0	0	
+Oracle 8i for NT DBA培养手册	0.0	0	
+数据库系统原理与应用技术基础（Oracle)	0.0	0	
+Oracle数据库开发讲座	0.0	0	
+Oracle Application Server 10g Administration Handbook	0.0	0	
+Oracle Database 10g New Features	0.0	0	
+Oracle JDeveloper 10g Handbook	0.0	0	
+Oracle Application Server 10g Web Development	0.0	0	
+Portable DBA Oracle	0.0	0	
+Crystal Reports 9 on Oracle	0.0	0	
+Oracle 9i New Features	0.0	0	
+Oracle Database 10g PL/SQL 101	0.0	0	
+Oracle 8 DBA Tips and Techniques	0.0	0	
+Oracle Database 10g Linux Administration	0.0	0	
+Oracle HTML DB Handbook	0.0	0	
+GUIDE TO ORACLE FORMS 5.0	0.0	0	
+ORACLE COMPANION TO J2EEE W/CD	0.0	0	
+Oracle WebDB 应用开发技术	0.0	0	
+Oracle Web应用培训教程	0.0	0	
+Oracle Applications性能调整手册	0.0	0	
+Oracle 数据库管理实务	0.0	0	
+Oracle数据库系统管理(上下册) (平装)	0.0	0	
+Oracle与PowerBuilder实战演练	0.0	0	
+ORACLE 10G資料庫最佳入門實用書.	0.0	0	
+Oracle資料庫管理實務	0.0	0	
+Oracle PL/SQL程式設計第三版（涵蓋Oracle9	0.0	0	
+ORACLE 10G資料庫進階管理.	0.0	0	
+Oracle 10g Grid & Real Application Clusters	0.0	0	
+資料庫系統理論－使用Oracle.	0.0	0	
+ORACLE 9I資料庫管理指南	0.0	0	
+ORACLE DATABASE 10G入門手冊.	0.0	0	
+Oracle SQL必备参考	0.0	0	
+100 Prophecies of the Delphic Oracle (Prophetic Advice from the god Apollo)	0.0	0	
+用多媒体学Oracle 9i(标准教程版	0.0	0	
+Oracle 10g数据库管理应用与开发	0.0	0	
+Guerrilla Oracle: The Succinct Windows Perspective	0.0	0	
+Oracle 开发基础1: 标准 SQL 与 SQLPlus (1-5册)	0.0	0	
+Oracle 9i数据库管理教程	0.0	0	
+Napoleon's Oracle	0.0	0	
+Oracle 8.1.6开发指南(1CD)	0.0	0	
+Oracle JDeveloper 3使用手册	0.0	0	
+Oracle数据库实用教程	0.0	0	
+Professional Oracle 8i	0.0	0	
+Oracle Streams 11g Data Replication	0.0	0	
+Optimisation des performances sous Oracle	0.0	0	
+Oracle 9i应用系统开发技术	0.0	0	
+ORACLE数据库应用开发(含光盘1张)	0.0	0	
+Messages From Spirit	0.0	0	
+Oracle E-Business Suite Financials Administration	0.0	0	
+The Little Love Oracle	0.0	0	
+Oracle JDeveloper 3 Handbuch. Der Einstieg in die Java-basierte Webentwicklung.	0.0	0	
+Oracle at the Supermarket	0.0	0	
+ASTROLOGICAL ORACLE (cards) (Astrological Cards)	0.0	0	
+Les Oracles de Michel de Nostredame, astrologue, médecin et conseiller ordinare des Rois Henri II, François II et Charles IX	0.0	0	
+Les Oracles de Michel de Nostredame, astrologue, médecin et conseiller ordinare des Rois Henri II, François II et Charles IX	0.0	0	
+Oracle of the Morrigan	0.0	0	
+Oracle of the Dead	0.0	0	
+Transforming Infoglut! A Pragmatic Strategy for Oracle Enterprise Content Management	0.0	0	
+Advanced Oracle Utilities	0.0	0	
+Advanced Oracle SQL Programming	0.0	0	
+Oracle Job Interview Handbook	0.0	0	
+Crop Circle Cards, The Living Oracle	0.0	0	
+Oracles of Fire	0.0	0	
+HOWTO Secure and Audit Oracle 10g and 11g	0.0	0	
+El oraculo de la luna/ The Oracle Of The Moon	0.0	0	
+The Silent Stones Colour Oracle	0.0	0	
+The Last Oracle	0.0	0	
+The Last Oracle	0.0	0	
+The Poetry Oracle	0.0	0	
+Oracle数据库技术实验教程	0.0	0	
+The Shakespeare Oracle	0.0	0	
+The Shakespeare Oracle	0.0	0	
+The Developer's Guide to Oracle(R) Web Application Server 3	0.0	0	
+Oracle High-Performance Tuning with STATSPACK	0.0	0	
+The Trust Your Vibes Oracle Deck	0.0	0	
+Mind/Body Makeover Oracle Cards	0.0	0	
+Database Concepts & Oracle SQL Interactv Pk	0.0	0	
+The Oracle of del-Fi	0.0	0	
+Oracle Identity Management	0.0	0	
+Manual de Oracle (Spanish Edition)	0.0	0	
+Oracle 10g Developer	0.0	0	
+Practical Oracle Security	0.0	0	
+The SpongeBob SquarePants Oracle	0.0	0	
+Advanced Oracle PL/SQL Programming with Packages (Nutshell Handbook)	0.0	0	
+The Oracles	0.0	0	
+A Lively Oracle	0.0	0	
+The Oracle Betrayed	0.0	0	
+The Oracle Betrayed	0.0	0	
+The Oracle Paradox	0.0	0	
+The Last Oracle Low Price CD	0.0	0	
+Becoming an Oracle	0.0	0	
+Enchanted Oracle (Book & Cards)	0.0	0	
+Oracle Warehouse Builder 11g	0.0	0	
+The Obsidian Oracle	0.0	0	
+Oracles of Delphi Keep	0.0	0	
+Oracles of Delphi Keep	0.0	0	
+Oracle Silver Bullets	0.0	0	
+Easy Oracle PL/SQL Programming	0.0	0	
+Pro Oracle Collaboration Suite 10<i>g</i>	0.0	0	
+Oracle Pl/sql Crash Course	0.0	0	
+Oracle Real Application Clusters	0.0	0	
+Oracle PL/SQL Language Pocket Reference	0.0	0	
+Oracle 10g Developing Media Rich Applications	0.0	0	
+Easy Oracle PHP	0.0	0	
+Easy Oracle HTML-DB	0.0	0	
+Oracle Solid State Disk Tuning	0.0	0	
+Oracle Job Scheduling	0.0	0	
+Oracle Internet Academy, Java 2	0.0	0	
+Oracle and Java Development	0.0	0	
+Oracle RMAN Pocket Reference	0.0	1	
+Easy Oracle Automation	0.0	0	
+Oracle Wait Event Tuning	0.0	0	
+Oracle Dataguard	0.0	0	
+Oracle Utilities	0.0	0	
+Advanced SQL Functions in Oracle 10g	0.0	0	
+Celtic Oracle	0.0	0	
+The Edible Woman, Surfacing, Lady Oracle	0.0	0	
+Oracle Utilities Pocket Reference	0.0	0	
+Professional Oracle Programming (Programmer to Programmer)	0.0	0	
+Pro. NET Oracle Programming	0.0	0	
+Oracle SQL Tuning and CBO Internals	0.0	0	
+Oracle Data Dictionary	0.0	0	
+The Oracles of the Three Shrines: Windows on Japanese Religi	0.0	0	
+Personal Oracle RAC Clusters	0.0	0	
+Oracle SQLPlus Pocket Reference	0.0	0	
+Oracle Streams	0.0	0	
+Conducting the Oracle Job Interview	0.0	0	
+Creating a Self Tuning Oracle Database	0.0	0	
+Oracle Replication	0.0	0	
+Oracle Application Server 10g	0.0	0	
+Oracle 10g Database Administrator	0.0	0	
+Oracle PL/SQL Tuning	0.0	0	
+The Light of the Oracle	0.0	0	
+Oracle 8 DBA Q and A with Scripts	0.0	0	
+Oracle SQL	0.0	0	
+Oracle 9I Developer	0.0	0	
+Oracle of Geomancy	0.0	0	
+The 13 Moon Oracle	0.0	0	
+轻松学用ORACLE 8I--美国IDG"轻松学用"丛书	0.0	0	
+the oracle	0.0	0	
+Oracles of Fire	0.0	0	
+Tersias the Oracle	0.0	0	
+Oracle Data Warehousing Unleashed	0.0	0	
+High-Performance Oracle	0.0	0	
+The Wisdom of the Oracle	0.0	0	
+オラクルマスター教科書 Silver Oracle Database 10g DBA 10g	0.0	0	
+Imperfect Oracle	0.0	0	
+The Light of the Oracle	0.0	0	
+Oracle of the Morrigan	0.0	0	
+Oracles of Delphi Keep	0.0	0	
+Oracle实用编程教程	0.0	0	
+Mastering Oracle Power Objects (Nutshell Handbooks)	0.0	0	
+L'Oracle Della Luna	0.0	0	
+The Cook's Oracle	0.0	0	
+Cook's Oracle	0.0	0	
+The Cook's Oracle	0.0	0	
+The Cook's Oracle	0.0	0	
+The Cook's Oracle	0.0	0	
+The Cook's Oracle	0.0	0	
+Designing an IAM Framework with Oracle Identity and Access Management Suite	0.0	0	
+Rogue Oracle	0.0	0	
+Dioses, templos y oraculos/ Gods, Temples and Oracles	0.0	0	
+Oracle Identity Management	0.0	0	
+The Oracle of Dating	0.0	0	
+Oracle CRM on Demand Deployment Guide	0.0	0	
+The Oracle Book	0.0	0	
+Memoire Sur Les Oracles Des Anciens	0.0	0	
+Oracles of Nostradamus	0.0	0	
+The Athenian Oracle	0.0	0	
+Le Pantheon Et Temple Des Oracles	0.0	0	
+SQL pour Oracle 10g	0.0	0	
+Oracle 11g Administration	0.0	0	
+Business Intelligence avec Oracle 10g	0.0	0	
+Oracle 11g - Coffret de 2 livres	0.0	0	
+Oracle 10g	0.0	0	
+The Thespian Oracle; Or, a New Key to Theatrical Amusements. Containing the New Prologues and Epilogues, ... to Which Is Added, a Collection of Solilo	0.0	0	
+The Oracle of Reason; Or, Philosophy Vindicated ...	0.0	0	
+Les Oracles de Loon Le Sage	0.0	0	
+The Oracle V20	0.0	0	
+L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Oracle V20	0.0	0	
+The Famous History of Montelion, Knight of the Oracle, ... Shewing His Strange Birth, Unfortunate Love, Perillous Adventures, &C. Adorned with Suitable Cuts, ...	0.0	0	
+Oracles of Reason	0.0	0	
+Memoire Sur Les Oracles Des Anciens	0.0	0	
+Reason, the Only Oracle of Man, Or, a Compendious System of Natural Religion	0.0	0	
+Reason the Only Oracle of Man or A Compendious System of Natural Religion	0.0	0	
+L'Oracle de Cithere	0.0	0	
+Dissertation Sur Les Oracles Des Sibylles	0.0	0	
+Oracle WebCenter 11g Handbook	0.0	0	
+L'Oracolo, the Oracle	0.0	0	
+The Contrast of Scripture Prophecy with the Oracles and Divinations of the Heathen	0.0	0	
+What Shall We Read? or the Oracle Consulted	0.0	0	
+Le Pantheon Et Temple Des Oracles	0.0	0	
+The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams and Visions	0.0	0	
+The Symbolism of the Tree as Oracle	0.0	0	
+The Delphic Oracle	0.0	0	
+Reason the Only Oracle of Man or a Compendious System of Natural Religion	0.0	0	
+Oracles of Reason	0.0	0	
+The Oracle. a Comedy of One Act. as It Is Acted at the Theatre-Royal in Covent-Garden. by Mrs. Cibber.	0.0	0	
+Reason the Only Oracle of Man, or a Compenduous	0.0	0	
+The Oracle of Avignon	0.0	0	
+The Athenian Oracle. Being an Entire Collection of All the Valuable Questions and Answers in the Old Athenian Mercuries. Intermix'd with Many Cases in	0.0	0	
+The Daily Oracle.	0.0	0	
+The Oracle. a Comedy. Translated from the French, First Publish'd at Paris, 1740.	0.0	0	
+Easy Oracle SQL	0.0	0	
+Easy Oracle PL/SQL Programming	0.0	0	
+Oracle SQL in 10 Minutes	0.0	0	
+The Famous History of Montelion, Knight of the Oracle, ... Shewing His Strange Birth, Unfortunate Love, Perillous Adventures, &C. Adorned with Suitable Cuts, ...	0.0	0	
+The Famous History of Montelion, Knight of the Oracle, ... Shewing His Strange Birth, Unfortunate Love, Perilous Adventures in Arms; ...	0.0	0	
+The Ancient Oracles and Napoleon's Oraculum	0.0	0	
+The Mother-Depths According to the Chaldean Oracles	0.0	0	
+The Sacred Fires and the Fruit of the Fire Tree According to the Chaldean Oracles	0.0	0	
+Reponse a Lacentsa -A Centshistoire Des Oracles de Fontennelle de Lacentsa -A Centsacademie Francoise	0.0	0	
+An Introduction to the Right Understanding of the Oracles of God	0.0	0	
+The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams and Visions	0.0	0	
+The Oracle V20	0.0	0	
+From Sphinx to Oracle Through the Libyan Desert to the Oasis of Jupiter Ammon	0.0	0	
+The Chaldaean Oracles of Zoroaster	0.0	0	
+The Oracle V20	0.0	0	
+The Great Oracle of the Gods	0.0	0	
+The Oracle of Human Destiny	0.0	0	
+Oracle of the Obvious	0.0	0	
+A Comparative Review of the Opinions of James Boaden, Editor of the Oracle	0.0	0	
+The Oracles of God	0.0	0	
+The Great Mother According to the Chaldean Oracles	0.0	0	
+Purification by Fire and the Angelic Powers of Purification According to the Chaldean Oracles	0.0	0	
+The True Sun and the Moon According to the Chaldean Oracles	0.0	0	
+The Human Soul According to the Chaldean Oracles	0.0	0	
+Soul Slavery and the Body According to the Chaldean Oracles	0.0	0	
+The Holy Fire and the Mind of Mind According to the Chaldean Oracles	0.0	0	
+On Conduct and the Gnosis of Piety According to the Chaldean Oracle	0.0	0	
+The Sacred Marriage in the Chaldean Oracles	0.0	0	
+The Shells of the Cosmic Egg According to the Chaldean Oracles	0.0	0	
+The End of Understanding According to the Chaldean Oracles	0.0	0	
+The Light Spark According to the Chaldean Oracles	0.0	0	
+Les Oracles de Loon Le Sage	0.0	0	
+Oracles	0.0	0	
+The Symbolism of the Tree as Oracle	0.0	0	
+Oracles	0.0	0	
+The Utterance of the Fire and the Emanation of Ideas According to the Chaldean Oracles	0.0	0	
+The Unregenerate and the Perfecting of the Body According to the Chaldean Oracles	0.0	0	
+The Vehicles of Man According to the Chaldean Oracles	0.0	0	
+The Divine Triad According to the Chaldean Oracles	0.0	0	
+Mystic Union According to the Chaldean Oracles	0.0	0	
+The Divine Spark and the Way of Return According to the Chaldean Oracles	0.0	0	
+Nature According to the Chaldean Oracles	0.0	0	
+The Mystic Marriage, Purifying Mysteries, and Fire Gnosis According to the Chaldean Oracles	0.0	0	
+The Manifestations of the Gods According to the Chaldean Oracles	0.0	0	
+The Theurgic Art and the Royal Souls According to the Chaldean Oracles	0.0	0	
+The Paean of the Soul and the Mystery Cultus According to the Chaldean Oracles	0.0	0	
+Nature and Necessity and the Principles and Rulers of the Sensible According to the Chaldean Oracles	0.0	0	
+Oracle 11g数据库基础与应用教程	0.0	0	
+The Pocket Oracle and Art of Prudence	0.0	0	
+Oracle DBA Queries Pocket Reference	0.0	0	
+The Alien Oracles	0.0	0	
+The Oracle Betrayed	0.0	0	
+Legend of the Oracle Runes	0.0	0	
+Oracle Figures	0.0	0	
+The Angler's Manual or Fly-Fisher's Oracle	0.0	0	
+The Continental Travelers Oracle V1-2	0.0	0	
+Oracle Backup and Recovery Using RMAN	0.0	0	
+The History of Oracles	0.0	0	
+The History of Montellion, the Most Valiant and Renowned Knight of the Oracle. ... Containing Many Strange and Wonderful Adventures of His Parents, Re	0.0	0	
+The Delphic Oracle	0.0	0	
+Oracle Mystery of Life and Destiny	0.0	0	
+The Oracle Concerning Babylon, and the Song of Exultation, from Isaiah, Chap. XIII. and XIV., Etc.	0.0	0	
+Oracle 8i DBA's For Dummies	0.0	0	
+Cave of the Oracle	0.0	0	
+From Sphinx to Oracle Through the Libyan Desert to the Oasis of Jupiter Ammon	0.0	0	
+Oracle数据库设计与实现	0.0	0	
+Oracles on Man and Government	0.0	0	
+The Athenian Oracle	0.0	0	
+The Oracle Concerning Babylon. and the Song of Exultation. from Isaiah, Chap. XIII. and XIV.	0.0	0	
+The Oracle. a Comedy of One Act. as It Is Acted at the Theatre-Royal in Covent-Garden. by Mrs. Cibber.	0.0	0	
+Oracle Identity Management	0.0	0	
+Oracle Developer Forms Techniques	0.0	0	
+Programming with Oracle Developer	0.0	0	
+Oracle Performance Tuning	0.0	0	
+The Sibylline Oracles	0.0	0	
+The Sibyl or New Oracles from the Poets	0.0	0	
+The Oracles of God	0.0	0	
+Le Pantheon Et Temple Des Oracles	0.0	0	
+Le Pantheon Et Temple Des Oracles	0.0	0	
+The Cooks Oracle	0.0	0	
+Memoire Sur Les Oracles Des Anciens	0.0	0	
+The Cooks Oracle	0.0	0	
+The Oracles of God	0.0	0	
+The Aquatic Oracle	0.0	0	
+In the Shadow of the Oracle	0.0	0	
+Cracks in the Oracle Bone	0.0	0	
+The Oracle of Love	0.0	0	
+A   Supplement to the Athenian Oracle	0.0	0	
+L'Oracle Ou Le Muphti Rase, Tragi-Heroi-Polico-Comique	0.0	0	
+Guide to the Oracles	0.0	0	
+From Oracle Bones to Computers	0.0	0	
+Oracle 10g/11g Data and Database Management Utilities	0.0	0	
+The Pleasant and Delightful History of Montelion, the Most Valiant and Renowned Knight of the Oracle, ...	0.0	0	
+Wild Wisdom of the Faeiry Oracle	0.0	0	
+Reason, the Only Oracle of Man	0.0	0	
+Electric Oracle Speaks	0.0	0	
+The Lively Oracles Given to Us or the Christians Birthright and Duty in the Custody and Use of the Holy Scripture	0.0	0	
+Mike Ault's Oracle Internals Monitoring and Tuning Scripts	0.0	0	
+The Athenian Oracle	0.0	0	
+The Athenian Oracle	0.0	0	
+The Athenian Oracle	0.0	0	
+Oracle 9i Fundamentals I	0.0	0	
+Oracle 9i Development by Example	0.0	0	
+Oracle Certified Professional Portable Command Guide	0.0	0	
+Ancient Oracles, the Sibyls and the Fates	0.0	0	
+Oracles on Man and Government	0.0	0	
+Oracle SQL Interactive Workbook	0.0	0	
+The History of Montelion, the Most Valiant and Renowned Knight of the Oracle, ... Containing, Many Strange and Wonderful Adventures of His Parents, Re	0.0	0	
+The Delphic Oracle	0.0	0	
+Oracles from the Poets	0.0	0	
+Le Deuteronome; La Ruine de Nivive Et L'Oracle de Nahoum Etude Historique, Exegetique Et Critique; Etude Sur Le Livre de Zakarie	0.0	0	
+The History of Oracles	0.0	0	
+Les Oracles de Loon Le Sage	0.0	0	
+The Delphic Oracle	0.0	0	
+Guide to the Oracles	0.0	0	
+An Introduction to the Right Understanding of the Oracles of God	0.0	0	
+Suite de L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Oracle or Book of Fate	0.0	0	
+Oracles of the Office	0.0	0	
+The Oracle	0.0	0	
+The Oracles of God	0.0	0	
+The Accomptant's Oracle; Or Key to Science	0.0	0	
+The Oracle	0.0	0	
+Le Deuteronome; La Ruine de Nivive Et L'Oracle de Nahoum Etude Historique, Exegetique Et Critique; Etude Sur Le Livre de Zakarie	0.0	0	
+Les Oracles de Loon Le Sage	0.0	0	
+The Last Oracle Cdn	0.0	0	
+Hochverf Gbarkeit Von Datenbanken Aus Wirtschaftlicher Und Technologischer Perspektive Am Beispiel Von Oracle Data Guard	0.0	0	
+Optimizing an Oracle Database on the Database and Application Level - An Application Developer's Perspective	0.0	0	
+The Oracles of God	0.0	0	
+Death of the Oracle	0.0	0	
+The Touch of the Oracle	0.0	0	
+Workflow for Oracle E-Business Suite	0.0	0	
+BI Publisher for Oracle E-Business Suite	0.0	0	
+Workflow for Oracle E-Business Suite	0.0	0	
+L'Oracolo, the Oracle	0.0	0	
+Why Oracles are Silent	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles	0.0	0	
+Eye of the Oracle	0.0	0	
+Pro Oracle Application Express 4	0.0	0	
+Expert Oracle Application Express Plugins	0.0	0	
+Oracle Application Express 4 Recipes	0.0	0	
+Agile Oracle Application Express	0.0	0	
+Expert Oracle and Java Security	0.0	0	
+Hora's Oracle of Metallic Terror	0.0	0	
+The Devil's Oracle	0.0	0	
+Oracle SQL Tricks and Workarounds	0.0	0	
+The Global Oracle	0.0	0	
+System Administration for Oracle E-Business Suite	0.0	0	
+System Administration for Oracle E-Business Suite	0.0	0	
+The Life and Death of the Oracle	0.0	0	
+The Oracle Stone	0.0	0	
+Oracle HTML DB 1.6	0.0	0	
+Uttering Oracles	0.0	0	
+Uttering Oracles	0.0	0	
+The Oracles of Perception	0.0	0	
+The Oracle Stone	0.0	0	
+The Court Oracle	0.0	0	
+An Introduction to the Right Understanding of the Oracles of God	0.0	0	
+The Oracle of Baal. a Narrative of Some Curious Events in the Life of Professor Horatio Carmichael, M.A. Edited	0.0	0	
+Classical Oracles, Including	0.0	0	
+The Court Oracle	0.0	0	
+Why Oracles are Silent	0.0	0	
+The Shepheards Oracles	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles, Sur Chaque Question Propos E.... Avec La Fortune Des Humains, Invent E Par M Commiers Et Mise Nouvelle	0.0	0	
+The Courtiers Manual Oracle, Or, the Art of Prudence Written Originally in Spanish by Baltazar Gracian, and Now Done Into English.	0.0	0	
+The Shepheards Oracle Delivered in an Eglogue.	0.0	0	
+Oracle at the Supermarket	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sybilles, Sur Chaque Question Propos E	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sybilles, Sur Chaque Question Propos E	0.0	0	
+The Equity and Wisdom of Administration, in Measures That Have Unhappily Occasioned the American Revolt, Tried by the Sacred Oracles.	0.0	0	
+Phoebiad, a Poem. Addressed to the Editor of the Oracle.	0.0	0	
+The American Oracle. Comprehending an Account of Recent Discoveries in the Arts and Sciences, with a Variety of Religious, Political, Physical, and Ph	0.0	0	
+Liquid Crystal Oracle	0.0	0	
+The Temple of Cythnos, or the Oracles of Fortune and Wisdom, for the Four Seasons of Life. Translated from the Greek.	0.0	0	
+The Cook's Oracle	0.0	0	
+The Oracles of God	0.0	0	
+The Cook's Oracle; and Housekeeper's Manual. Containing Receipts for Cookery, and Directions for Carving ... With a Complete System of Cookery for Catholic Families ... Being the Result of Actual Experiments Instituted in the Kitchen of William Kitchiner.	0.0	0	
+The Jurisprudence of the Living Oracles	0.0	0	
+Oracle's Moon	0.0	0	
+Oracle's Moon 18-Copy Solid Floor Display	0.0	0	
+Nosce Teipsum This Oracle Expounded in Two Elegies 1. of Humane Knowledge. 2. of the Soule of Man, and the Immortalitie Thereof. Hymnes of Astraea in	0.0	0	
+So You Want to be an Oracle DBA?	0.0	0	
+So You Want to be an Oracle DBA?	0.0	0	
+Oracle's Legacy	0.0	0	
+Oracle's Legacy	0.0	0	
+Look Smarter Than You Are with Oracle Hyperion Planning	0.0	0	
+L'Oracle de Cithere	0.0	0	
+The Last Oracle	0.0	0	
+An Answer to Mr. de Fontenelle's History of Oracles	0.0	0	
+Agile Practices for Oracle Database Development	0.0	0	
+Prophecies Delivered by a Descendant from the Oracle of Delphos, of the Future Lives and Deaths of the Following Distinguished Personages, Viz. the -	0.0	0	
+The Oracle, an Ode Inscrib'd to Sir E. Hawke.	0.0	0	
+The Angler's Manual or Fly Fisher's Oracle	0.0	0	
+Dissertation Sur Les Oracles Des Sibylles	0.0	0	
+Memoire Sur Les Oracles Des Anciens	0.0	0	
+The Cook's Oracle	0.0	0	
+Oracle Programming	0.0	0	
+The Oracle Designer/2000 Handbook	0.0	0	
+Rapid Application Development with Oracle Designer/2000	0.0	0	
+Le Deuteronome; La Ruine de Nivive Et L'Oracle de Nahoum Etude Historique, Exegetique Et Critique; Etude Sur Le Livre de Zakarie	0.0	0	
+So You Want to be an Oracle DBA?	0.0	0	
+The Oracle	0.0	0	
+Nosce Teipsum This Oracle Expounded in Two Elegies 1. of Humane Knowledge. 2. of the Soule of Man, and the Immortalitie Thereof. Hymnes of Astraea in	0.0	0	
+Nosce Teipsum This Oracle Expounded in Tvvo Elegies 1. of Humane Knowledge. 2. of the Soule of Man, and the Immortality Thereof. Written by Sir Iohn D	0.0	0	
+Nosce Teipsum This Oracle Expounded in Two Elegies 1. of Humane Knowledge. 2. of the Soule of Man, and the Immortalitie Thereof.	0.0	0	
+Nosce Teipsum This Oracle Expounded in Two Elegies 1. of Humane Knowledge. 2. of the Soule of Man, and the Immortalitie Thereof. Written by Sir Iohn D	0.0	0	
+Nosce Teipsum This Oracle Expounded in Two Elegies 1. of Humane Knowledge. 2. of the Soule of Man, and the Immortalitie Thereof.	0.0	0	
+The Delphic Oracle	0.0	0	
+First Principles of the Oracles of God	0.0	0	
+First Principles of the Oracles of God	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles	0.0	0	
+Suite de L'Oracle Des Nouveaux Philosophes	0.0	0	
+From Sphinx to Oracle Through the Libyan Desert to the Oasis of Jupiter Ammon	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles	0.0	0	
+The Oracles of God	0.0	0	
+The Contrast of Scripture Prophecy with the Oracles and Divinations of the Heathen	0.0	0	
+What Shall We Read? or the Oracle Consulted	0.0	0	
+Dissertation Sur Les Oracles Des Sibylles	0.0	0	
+Suite de La Reponse a Lacentsa -A Centshistoire Des Oracles	0.0	0	
+SAS/ACCESS 9.1 Supplement for Oracle	0.0	0	
+Oracles for Night-Blooming Eccentrics	0.0	0	
+What Shall We Read? or the Oracle Consulted	0.0	0	
+L'Oracle Ou Le Muphti Rase, Tragi-Heroi-Polico-Comique	0.0	0	
+Oracles of Reason	0.0	0	
+The Chaldaean Oracles of Zoroaster	0.0	0	
+The Oracles in the New Testament	0.0	0	
+The Oracle	0.0	0	
+The Continental Travelers Oracle V1-2	0.0	0	
+Installing, Upgrading and Maintaining Oracle E-Business Suite Applications Release 11.5.10+ (or, Teaching an Old Dog New Tricks - Release 11i Care and Feeding	0.0	0	
+The Devil's Oracle	0.0	0	
+プロとしてのOracle物理設計入門 増補改訂版	0.0	0	
+パフォーマンス改善と事前対策に役立つ Oracle SQLチューニングSQLチューニング	0.0	0	
+Installing, Upgrading and Maintaining Oracle Applications 11i	0.0	0	
+The Cook's Oracle; And Housekeeper's Manual	0.0	0	
+Oracle of the Grail Code	0.0	0	
+Reponse A L'Histoire Des Oracles de Fontennelle de L'Academie Francoise	0.0	0	
+Guide to the Oracles	0.0	0	
+Oracle DBA Guide to Data Warehousing and Star Schemas	0.0	0	
+Advanced Oracle DBMS Packages	0.0	0	
+The Famous Historie of Montelyon, Knight of the Oracle, and Sonne to the Renowned Persicles King of Assyria Shewing His Strange Birth, Vnfortunate Love, Perilous Adventures in Armes	0.0	0	
+The Oracle, an Ode Inscrib'd to the Right Honourable Sir Edward Hawke, ...	0.0	0	
+Oracles	0.0	0	
+Oracle Della Luna	0.0	0	
+Reason, the Only Oracle of Man, Or, a Compendious System of Natural Religion	0.0	0	
+Reason, the Only Oracle of Man	0.0	0	
+Oracle of Shadows and Light	0.0	0	
+Lady Oracle	0.0	0	
+La Nuit de L Oracle	0.0	0	
+Orion's Oracle	0.0	0	
+Oracle Database Performance and Scalability	0.0	0	
+Oracle Quest	0.0	0	
+Communication a Pocket Oracle for Leaders	0.0	0	
+COMMUNICATION A Pocket Oracle for Leaders	0.0	0	
+Oracle BI Enterprise Edition Dashboard & Report Best Practices	0.0	0	
+The Last Oracle	0.0	0	
+Oracle Database 11g PL/SQL编程实战	0.0	0	
+The Oracle of Stamboul	0.0	0	
+Oracle Bones Stars and Wheelbarrows	0.0	0	
+Oracle in California & Born in Kurdistan	0.0	0	
+The Book Keeper's Oracle	0.0	0	
+The ORACLE of Stone Street	0.0	0	
+Suite de La Reponse A L'Histoire Des Oracles	0.0	0	
+Designing and Building Business Applications with Oracle	0.0	0	
+The Oracle of Stamboul	0.0	0	
+The Oracle Rebounds	0.0	0	
+The Oracle of Dating	0.0	0	
+Suite de L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Oracle of Human Destiny	0.0	0	
+Ancient Oracles, the Sibyls and the Fates	0.0	0	
+Reason the Only Oracle of Man or a Compendious System of Natural Religion	0.0	0	
+Oracle Fusion Developer Guide	0.0	0	
+Oracle Enterprise Manager 10g Grid Control Handbook	0.0	0	
+Transparent Oracle	0.0	0	
+Secrets of the Oracle	0.0	0	
+Every Day Oracle	0.0	0	
+The Sibyl, Or, New Oracles from the Poets	0.0	0	
+The Shaman's Oracle	0.0	0	
+The Oracle Rebounds	0.0	0	
+From Oracle Bones to Computers	0.0	0	
+The Last Oracle	0.0	0	
+Oracle实用教程-SQL&PL/SQL	0.0	0	
+The Yoruba Domino Oracle	0.0	0	
+The Cooks Oracle	0.0	0	
+Saints Oracle	0.0	0	
+ORACLE WEB 应用服务器开发指南	0.0	0	
+The Cooks Oracle	0.0	0	
+Oracle 9i中文版 入门与提高	0.0	0	
+Oracle® WebDB Bible	0.0	0	
+Oracles from the Poets	0.0	0	
+Lovers Oracle	0.0	1	
+The Cook's Oracle	0.0	0	
+Fragments and Comments of the Chaldean Oracles	0.0	0	
+Oracles of Fire	0.0	0	
+Raven Cards Oracle Deck	0.0	0	
+The Cook's Oracle	0.0	0	
+L'Oracle Des Nouveaux Philosophes	0.0	0	
+Oracle Self Service Applications	0.0	0	
+Oracle Solaris 10 System Virtualization Essentials	0.0	0	
+The Cook's Oracle	0.0	0	
+Suite De L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Contrast of Scripture Prophecy with the Oracles and Divinations of the Heathen	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles	0.0	0	
+L'Oracle Des Nouveaux Philosophes	0.0	0	
+A Comparative Review of the Opinions of James Boaden, Editor of the Oracle	0.0	0	
+Suite De L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Oracle	0.0	0	
+The Angler's Manual or Fly-Fisher's Oracle	0.0	0	
+The Angler's Manual or Fly Fisher's Oracle	0.0	0	
+Oracle Solaris Cluster Essentials	0.0	0	
+Microsoft SQL Server 2008 Administration for Oracle DBAs	0.0	0	
+Oracle CRM on Demand Dashboards	0.0	0	
+Oracle CRM on Demand Combined Analyses	0.0	0	
+Oracle 11g	0.0	0	
+Oracle SOA Suite 11g Handbook	0.0	0	
+L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Traveller's Oracle	0.0	0	
+L'Oracle Des Nouveaux Philosophes	0.0	0	
+ORACLE网络数据库管理与应用	0.0	0	
+The Oracle Betrayed	0.0	0	
+ORACLE数据库管理与使用教程	0.0	0	
+轻松掌握ORACLE 8数据库开发	0.0	0	
+ORACLE数据库自动化编程	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles	0.0	0	
+First Principles of the Oracles of God	0.0	0	
+Dissertation Sur Les Oracles Des Sibylles	0.0	0	
+Reponse A L'Histoire Des Oracles de Fontennelle de L'Academie Francoise	0.0	0	
+Suite de La Reponse A L'Histoire Des Oracles	0.0	0	
+An Introduction to the Right Understanding of the Oracles of God	0.0	0	
+What Shall We Read? or the Oracle Consulted	0.0	0	
+The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams and Visions	0.0	0	
+Guide to the Oracles	0.0	0	
+The Oracle. a Comedy of One Act. as It Is Acted at the Theatre in Edinburgh. Translated from the French of M*** by Mrs. Cibber.	0.0	0	
+The Oracle, a Comedy of One Act, as It Is Acted at the Theatres-Royal in London and Dublin. Written by Mrs. Cibber.	0.0	0	
+The Delphic Oracle	0.0	0	
+The Chaldaean Oracles of Zoroaster	0.0	0	
+The Delphic Oracle	0.0	0	
+Pro Oracle Database 11g Administration	0.0	0	
+Suite de L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Angler's Manual or Fly-Fisher's Oracle	0.0	0	
+The Angler's Manual or Fly Fisher's Oracle	0.0	0	
+Oracle Embedded Programming and Application Development	0.0	0	
+The Oracle of Delphi	0.0	0	
+L'Oracle Des Nouveaux Philosophes	0.0	0	
+An Introduction to the Right Understanding of the Oracles of God	0.0	0	
+First Principles of the Oracles of God	0.0	0	
+The Oracle or Book of Fate	0.0	0	
+徹底攻略ORACLE MASTER Silver DBA11g 問題集	0.0	0	
+Reason the Only Oracle of Man or a Compendious System of Natural Religion	0.0	0	
+Oracles of Reason	0.0	0	
+Oracles of Nostradamus	0.0	0	
+Oracles of Nostradamus	0.0	0	
+Oracles from the Poets	0.0	0	
+The Grooms' Oracle, and Pocket Stable-Directory	0.0	0	
+Omens, Oracles and the Occult Arts	0.0	0	
+The Athenian Oracle	0.0	0	
+Chaldaean Oracles	0.0	0	
+For the Oracles of God, Four Orations	0.0	0	
+Oracles of Zeus	0.0	0	
+Parke	0.0	0	
+The Oracle's Message	0.0	0	
+The Symbolism of the Tree as Oracle	0.0	0	
+The Oracle	0.0	0	
+Oracle CRM on Demand Embedded Analytics	0.0	0	
+Managing Oracle Fusion Applications	0.0	0	
+Oracle Exalogic Elastic Cloud Handbook	0.0	0	
+Oracle Discoverer 10g Handbook	0.0	0	
+The Famous History of Montelion, Knight of the Oracle, Son to the True Mirrour of Princes, the Most Renowned Persicles, King of Assyria	0.0	0	
+Oracle Real Application Clusters Testing and Tuning	0.0	0	
+The Athenian Oracle. Being an Entire Collection of All the Valuable Questions and Answers in the Old Athenian Mercuries. Intermix'd with Many Cases in	0.0	0	
+The Athenian Oracle. Being an Entire Collection of All the Valuable Questions and Answers in the Old Athenian Mercuries. Intermix'd with Many Cases in	0.0	0	
+The Athenian Oracle. Being an Entire Collection of All the Valuable Questions and Answers in the Old Athenian Mercuries. Intermix'd with Many Cases in	0.0	0	
+Oracle Database 11g Release 2 High Availability	0.0	0	
+Achieving Extreme Performance with Oracle Exadata	0.0	0	
+Oracle PL/SQL	0.0	0	
+Oracle Application Express	0.0	0	
+Oracle Business Process Management Suite 11g Handbook	0.0	0	
+Oracle Certified Professional DBO Certification Exam Guide	0.0	0	
+L'Oracle Ou Le Muphti Rase, Tragi-Heroi-Polico-Comique	0.0	0	
+L'Oracle de Cithere	0.0	0	
+The Athenian Oracle	0.0	0	
+The Oracle. a Comedy of One Act. as It Is Acted at the Theatre-Royal in Covent-Garden. by Mrs. Cibber.	0.0	0	
+The Phbiad. a Poem. Addressed to the Editor of the Oracle. Written in the Year 1790.	0.0	0	
+For the Oracles of God, Four Orations	0.0	0	
+Omens, Oracles and the Occult Arts	0.0	0	
+L'Oracolo, the Oracle	0.0	0	
+Oracles of the Office	0.0	0	
+A Comparative Review of the Opinions of James Boaden, Editor of the Oracle	0.0	0	
+The Grooms' Oracle, and Pocket Stable-Directory	0.0	0	
+Chaldaean Oracles	0.0	0	
+Cave of the Oracle	0.0	0	
+The Sibyl or New Oracles from the Poets	0.0	0	
+Fragments and Comments of the Chaldean Oracles	0.0	0	
+The Cook's Oracle and Housekeeper's Manual	0.0	0	
+Expert Oracle Database 10g Administration	0.0	0	
+Pro Oracle 10g Perfomance Tuning	0.0	0	
+THE DELPHIC ORACLE	0.0	0	
+The Ancient Oracles and Napoleon's Oraculum	0.0	0	
+Fragments and Comments of the Chaldean Oracles	0.0	0	
+The Accomptant's Oracle; Or Key to Science	0.0	0	
+Database Systems Using Oracle	0.0	0	
+The Cook's Oracle and Housekeeper's Manual	0.0	0	
+The Oracle	0.0	0	
+The Oracle of Stamboul	0.0	0	
+The Oracle of Stamboul. Michael David Lukas	0.0	0	
+The Sibylline Oracles	0.0	0	
+The Way Above According to the Chaldean Oracles	0.0	0	
+The Bond of Love Divine According to the Chaldean Oracles	0.0	0	
+Reincarnation, the Darkness, and the Infernal Stairs, According to the Chaldean Oracles	0.0	0	
+The Aeon According to the Chaldean Oracles	0.0	0	
+The Seven Firmaments According to the Chaldean Oracles	0.0	0	
+God-Nurturing Silence According to the Chaldean Oracles	0.0	0	
+The Armour of Sounding Light According to the Chaldean Oracles	0.0	0	
+An Answer to Mr. de Fontenelle's History of Oracles	0.0	0	
+The Angler's Manual or Fly-Fisher's Oracle	0.0	0	
+L'Oracle de Cithere	0.0	0	
+The Angler's Manual or Fly Fisher's Oracle	0.0	0	
+The Great Oracle of the Gods	0.0	0	
+The Lively Oracles Given to Us or the Christians Birthright and Duty in the Custody and Use of the Holy Scripture	0.0	0	
+The Lost Oracles	0.0	0	
+The Accomptant's Oracle; Or, Key to Science. Being a Treatise of Common Arithmetic	0.0	0	
+Angels Oracle Silk Journal	0.0	0	
+The Oracles in the New Testament	0.0	0	
+Oracles From The Poets	0.0	0	
+The Sibylline Oracles	0.0	0	
+The Lost Oracles	0.0	0	
+An  Answer to Mr. de Fontenelle's History of Oracles. in Which Mr. Van-Dale's System Is Confuted	0.0	0	
+The Sibylline Oracles	0.0	0	
+The Famous Historie of Montelyon, Knight of the Oracle, and Sonne to the Renowmed Persicles King of Assyria Shewing.	0.0	0	
+The Contrast of Scripture Prophecy with the Oracles and Divinations of the Heathen	0.0	0	
+Oracle数据库基础及应用	0.0	0	
+The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams and Visions	0.0	0	
+Suite de L'Oracle Des Nouveaux Philosophes	0.0	0	
+Beginning XML Databases with Beginning Oracle App Express w/WS Set	0.0	0	
+A Comparative Review of the Opinions of James Boaden, Editor of the Oracle	0.0	0	
+The Delphic Oracle	0.0	0	
+Oracle Of Stamboul Intl, The	0.0	0	
+The History of Montelion, the Most Valiant and Renowned Knight of the Oracle, ... Containing, Many Strange and Wonderful Adventures of His Parents, Re	0.0	0	
+Letters, Containing a Correct and Important Elucidation of the Subject of Mr. Hasting's Impeachment, Which Originally Appeared in the Oracle.	0.0	0	
+The American Oracle. Comprehending an Account of Recent Discoveries in the Arts and Sciences, with a Variety of Religious, Political, Physical, and Ph	0.0	0	
+The Oracle Glass	0.0	0	
+PeopleSoft for the Oracle DBA	0.0	0	
+The Oracles	0.0	0	
+Letters, Containing a Correct and Important Elucidation of the Subject of Mr. Hasting's Impeachment, Which Originally Appeared in the Oracle. Third Pa	0.0	0	
+Planning and Control Using Oracle Primavera P6 Version 8.1	0.0	0	
+The Secret Dakini Oracle	0.0	0	
+Amos's Oracles Against the Nations	0.0	0	
+oracle数据库管理与开发	0.0	0	
+Wisdom of the House of Night Oracle Cards	0.0	0	
+Menzies Collection of Shang Dynasty Oracle Bones	0.0	0	
+Menzies Collection of Shang Dynasty Oracle Bones	0.0	0	
+Oracle Bones from the White and Other Collections	0.0	0	
+The Living Oracles	0.0	0	
+Pratique Curieuse, Ou Les Oracles Des Sibylles, Sur Chaque Question Propos E...	0.0	0	
+Reason the Only Oracle of Man, Or, a Compenduous	0.0	0	
+A Brief Introduction to Oracle, Its Founders, Key Executives and Main Products	0.0	0	
+Oracle Machines	0.0	0	
+Shamanic Oracle	0.0	0	
+The Oracle	0.0	0	
+Oracle's Moon	0.0	0	
+Oracle's Moon	0.0	0	
+Oracle's Moon	0.0	0	
+Oracles of Nostradamus	0.0	0	
+Oracles of the Office	0.0	0	
+L'Oracle de Ce Siecle. Consult Par Les Souverains de La Terre. Ouvrage Singulier Sur Les Affaires Critiques & Politiques Du Tems.	0.0	0	
+The Oracle of Liberty. and Mode of Establishing a Free Government.	0.0	0	
+Oracles From The Poets	0.0	0	
+The Shepheards Oracle Delivered in an Eglogue.	0.0	0	
+Oracles of the Office	0.0	0	
+The Chald'an Oracles of Zoroaster	0.0	0	
+The Jurisprudence of the Living Oracles	0.0	0	
+Guide to the Oracles	0.0	0	
+A   Letter from a Primate to a Pretender Found by a Patriot Stander-By. to Which Is Added, the Oracle of Dagon. and a Letter from Dean Swift to George	0.0	0	
+Prophetic Literature	0.0	0	
+Ask the Oracle	0.0	0	
+Prophetic Literature	0.0	0	
+Systems Anal Design Oracle Case TLS Set	0.0	0	
+La Cite De L'Ombre Vol 3, L'Oracle De Yonwood	0.0	0	
+Oracle E-Business Consultancy Handbook	0.0	0	
+Expert Oracle Database for Microsoft .Net Developers	0.0	0	
+The Oracle of the Island of Biafuluwa	0.0	0	
+Mythic Oracle	0.0	0	
+The Contrast of Scripture Prophecy with the Oracles and Divinations of the Heathen. Dr. Ellerton's Theol. Prize	0.0	0	
+The Chaldaan Oracles, Volume 9	0.0	0	
+The Lady's Oracle; An Elegant Pastime for Social Parties and the Family Circle	0.0	0	
+Oracle of the Cosmic Spirits	0.0	0	
+Gaia Matrix Oracle  Readings for Worlds, Major Arcana and Symbols	0.0	0	
+100 Prophecies of the Delphic Oracle	0.0	0	
+The Accomptant's Oracle; Or Key to Science	0.0	0	
+The Chald]an Oracles	0.0	0	
+The Sibyl; Or, New Oracles from the Poets	0.0	0	
+The Traveller's Oracle, Or, Maxims for Locomotion	0.0	0	
+The Sibyl, Or, New Oracles from the Poets	0.0	0	
+The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams, and Visions	0.0	0	
+Oracles of God; Studies in the Minor Prophets	0.0	0	
+The Sibylline Oracles	0.0	0	
+The Messiah as Predicted in the Pentateuch and Psalms. Being a New Translation and Critical Exposition of These Ancient Oracles	0.0	0	
+Reason, the Only Oracle of Man, Or, a Compendious System of Natural Religion	0.0	0	
+THE ORACLES OF GOD NINE LECTURES ON THE	0.0	0	
+World Animal Dreaming Cards Oracle Cards	0.0	0	
+Les Oracles Sibyllins Ed 1817	0.0	0	
+The Oracle of Dr. John Dee	0.0	0	
+THE ORACLES OF GOD NINE LECTURES ON THE	0.0	0	
+Path of the Oracle	0.0	0	
+USS Oracle	0.0	0	
+THE SIBYLLINE ORACLES	0.0	0	
+Time Goddess-The Mayan Oracles Volume 1	0.0	0	
+Rise of the Oracle	0.0	0	
+Oracle de Satan Ed 1887	0.0	0	
+THE ORACLES IN THE NEW TESTAMENT	0.0	0	
+Oracle Business Intelligence Discoverer 11g Handbook	0.0	0	
+Oracle Fusion Applications Development and Extensibility Handbook	0.0	0	
+Oracle of the Shapeshifters	0.0	0	
+Oracle Enterprise Linux	0.0	0	
+PRATIQUE CURIEUSE OU LES ORACLES DES SI	0.0	0	
+Oracle Application Framework	0.0	0	
+Oracle OLAP	0.0	0	
+Oracle Open Office Writer	0.0	0	
+Oracle Complex Mro	0.0	0	
+Oracle Designer	0.0	0	
+Oracle Enterprise Pack for Eclipse	0.0	0	
+Oracle Identity Management	0.0	0	
+Oracle Property Manager	0.0	0	
+Oracle Bpel Process Manager	0.0	0	
+Oracle Collaboration Suite	0.0	0	
+Oracle Communications Messaging Exchange Server	0.0	0	
+Shamanic Oracle	0.0	0	
+D Veloppement Web Pour Un Site Dynamique Interne Avec PHP/MySQL/Oracle	0.0	0	
+L Oracle Parfait Art Tirer Les Cartes 1875	0.0	0	
+Mourning Cry and Woe Oracle	0.0	0	
+Sibylline Oracles	0.0	0	
+Le Petit Oracle Des Dames Ed 1770 1820	0.0	0	
+Les Divins Oracles de Zoroastre Ed 1558	0.0	0	
+Oracle Machine	0.0	0	
+THE SHAKESPEREAN ORACLE	0.0	0	
+THE ATHENIAN ORACLE AN ENTIRE COLLECTIO	0.0	0	
+REASON THE ONLY ORACLE OF MAN OR A COMP	0.0	0	
+REASON THE ONLY ORACLE OF MAN OR A COMP	0.0	0	
+Oracle Racing	0.0	0	
+Chaldean Oracles	0.0	0	
+Sibylline Oracles	0.0	0	
+THE ATHENIAN ORACLE BEING AN ENTIRE COL	0.0	0	
+THE TRAVELLERS ORACLE OR MAXIMS FOR LOC	0.0	0	
+LES ORACLES DE MICHEL DE NOSTREDAME	0.0	0	
+THE LADYS ORACLE AN ELEGANT PASTIME FOR	0.0	0	
+THE ORACLE OF REASON OR PHILOSOPHY VIND	0.0	0	
+APICIUS REDIVIVUS OR THE COOKS ORACLE W	0.0	0	
+Oracle Employees	0.0	0	
+The Delphick Oracle	0.0	0	
+Oracle Arena	0.0	0	
+Oracle Collaboration Suite	0.0	0	
+Oracle Property Manager	0.0	0	
+Oracle Application Framework	0.0	0	
+ORACLE BPEL PROCESS MANAGER	0.0	0	
+Oracle Open Office Writer	0.0	0	
+Oracle Enterprise Pack for Eclipse	0.0	0	
+ORACLE COMPLEX MRO	0.0	0	
+Oracle Communications Messaging Exchange Server	0.0	0	
+Oracle Designer	0.0	0	
+Oracle Performance Tuning	0.0	0	
+The Oracles of God	0.0	0	
+The Oracles Ascribed to Matthew by Papias of Hierapolis; A Contribution to the Criticism of the New Testament	0.0	0	
+The Delphic Oracle, Its Early History, Influence and Fall	0.0	0	
+Indigo Angel Oracle Cards	0.0	0	
+The Psychic Tarot for the Heart Oracle Deck	0.0	0	
+La Sibylle Au Congrs D'Aix-La-Chapelle, Suivi D'Un Coup-D'Oeil Sur Celui de Carlsbad. Ouvrage Faisant Suite Aux Oracles Sibyllins	0.0	0	
+The Great Oracle of the Gods	0.0	0	
+Ancient Oracles, the Sibyls and the Fates	0.0	0	
+The Oracle of Human Destiny	0.0	0	
+The Athenian Oracle, a Selection. with a Prefatory Letter from Walter Besant	0.0	0	
+Les Oracles Sibyllins	0.0	0	
+Shaksperean Oracle	0.0	0	
+Le Deuteronome; La Ruine de Nivive Et L'Oracle de Nahoum Etude Historique, Exegetique Et Critique; Etude Sur Le Livre de Zakarie	0.0	0	
+Omens, Oracles and the Occult Arts	0.0	0	
+The Oracles	0.0	0	
+Chaldaean Oracles	0.0	0	
+For the Oracles of God, Four Orations. for Judgment to Come ...	0.0	0	
+From Sphinx to Oracle	0.0	0	
+La Sibylle Au Congr?'s D'Aix-La-Chapelle, Suivi D'Un Coup-D'Oeil Sur Celui de Carlsbad	0.0	0	
+The Sibylline Oracles Translated from the Best Greek Copies	0.0	0	
+The Athenian Oracle; an Entire Collection of All the Valuable Questions and Answers in the Old Athenian Mercuries, by a Member of the Athenian Society	0.0	0	
+From Sphinx to Oracle	0.0	0	
+The Sibylline Oracles, Books III-V	0.0	0	
+The Sibylline Oracles, Books 3-5, by the REV. H.N. Bate, M.a	0.0	0	
+The Sibylline Oracles Translated from the Best Greek Copies, and Compar'd with the Sacred Prophesies, with Daniel and the Revelations, and with So Muc	0.0	0	
+Of Speaking as the Oracles of God. a Sermon, Preached ... at the Visitation, Held in the Parish Church of Farningham, on Thursday, May 19, 1743. by Jo	0.0	0	
+The First Principles of the Oracles of God, Represented in a Plain and Familiar Catechism, for the Use of Children. by John Sutcliff, ... a New Editio	0.0	0	
+Oracles from the Poets	0.0	0	
+The Advantages and Obligations Arising from the Oracles of God Committed to the Church and Its Ministry, Represented in a Sermon Preached Before the M	0.0	0	
+The Oracles of Christ, and the Abominations of Antichrist Compared	0.0	0	
+Of Speaking as the Oracles of God. a Sermon Preached Before the University of Oxford at St Mary's on Sunday, Sept.11.1720. by Thomas Fenton, ...	0.0	0	
+The Oracle	0.0	0	
+Les Oracles de Michel de Nostredame	0.0	0	
+The Sibyl Or, New Oracles from the Poets.	0.0	0	
+The First Principles of the Oracles of God. Collected by Thomas Shepard, Formerly of Emanuel College in Cambridge in England	0.0	0	
+The First Principles of the Oracles of God, Represented in a Plain and Familiar Catechism, for the Use of Children. by John Sutcliff, ... Third Editio	0.0	0	
+The Great Oracle	0.0	0	
+Two Discourses Written by the Late Mr. John Griffith; Viz. First, God's Oracle, and Christ's Doctrine; Or the Six Principles of Christian Religion, ..	0.0	0	
+Histoire de La Divination Dans L'Antiquit	0.0	0	
+The History of Oracles, in Two Dissertations. ... by M. de. Fontenelle, ... Translated from the Best Edition of the Original French.	0.0	0	
+The Scripture Prophecies Consider'd - And Compar'd with the Oracles of the Heathens. a Sermon Preached Before the University of Oxford, at St. Mary's,	0.0	0	
+The Supernatural in the Tragedies of Euripides as Illustrated in Prayers, Curses, Oaths, Oracles, Prophecies, Dreams, and Visions	0.0	0	
+The Lively Oracles Given to Us. or the Christians Birth-Right and Duty, in the Custody and Use of the Holy Scripture. by the Author of the Whole Duty	0.0	0	
+Prophecies Delivered by a Descendant from the Oracle of Delphos, of the Future Lives and Deaths of the Following Distinguished Personages. ...	0.0	0	
+The Famous History of Montelion Knight of the Oracle, ... Shewing His Strange Birth, Unfortunate Love, Perilous Adventures in Arms	0.0	0	
+The Continental Traveller's Oracle	0.0	0	
+The Oracles of God; Nine Lectures on the Nature and Extent of Biblical Inspiration and on the Special Significance of the Old Testament Scriptures at	0.0	0	
+The History of Oracles, and the Cheats of the Pagan Priests	0.0	0	
+First Principles of the Oracles of God, Vindicated from the Aspersions of Professor Jowett and Authors of the Rationalistic School	0.0	0	
+Reason, the Only Oracle of Man; Or, a Compenduous System of Natural Religion	0.0	0	
+The Traveller's Oracle; Or, Maxims for Locomotion. 2 PT. PT.1, by W. Kitchiner.	0.0	0	
+The Traveller's Oracle	0.0	0	
+The Oracle or Book of Fate	0.0	0	
+Discussion of Revision of the Holy Oracles	0.0	0	
+The Family Oracle of Health	0.0	0	
+For the Oracles of God; Four Orations. for Judgment to Come, an Argument, in Nine Parts	0.0	0	
+The Sibyl, Or, New Oracles from the Poets	0.0	0	
+The Delphic Oracle, Its Early History, Influence and Fall	0.0	0	
+An Universal Oracle Giving Answers to All Questions	0.0	0	
+Oracle Mystery of Life and Destiny	0.0	0	
+The Sibylline Oracles	0.0	0	
+Suite de L'Oracle Des Nouveaux Philosophes	0.0	0	
+The Oracles	0.0	0	
+The Great Epic of Israel; The Web of Myth, Legend, History, Law, Oracle, Wisdom and Poetry of the Ancient Hebrews	0.0	0	
+Les Oracles de Michel de Nostredame	0.0	0	
+The Oracles	0.0	0	
+The Oracles of God	0.0	0	
+A Discourse Concerning the Being and Attributes of God, the Obligations of Natural Religion, and the Truth and Certainty of the Christian Revelation; In Answer to Mr. Hobbes, Spinoza, the Author of the Oracles of Reason, and Other Deniers of Natural and R	0.0	0	
+The Sibyl; Or, New Oracles from the Poets	0.0	0	
+Pratique Curieuse, Ou, Les Oracles Des Sibylles, Sur Chaque Question Propos E	0.0	0	
+For the Oracles of God, Four Orations	0.0	0	
+A   Connected View of the Principles and Rules by Which the Living Oracles May Be Intelligibly and Certainly Interpreted; Of the Foundation on Which A	0.0	0	
+For the Oracles of God, Four Orations	0.0	0	
+The Continental Traveller's Oracle; Or, Maxims for Foreign Locomotion, Volume 1	0.0	0	
+[Gnothi Seauton] = Nosce Teipsum, Or, the Delphick Oracle Expounded as a Looking-Glass for the Soul Teaching the Knowledge of Ourselves as the First S	0.0	0	
+The Lively Oracles Given to Us, Or, the Christians Birth-Right and Duty, in the Custody and Use of the Holy Scripture by the Author of the Whole Duty	0.0	0	
+The True Catholike Collected Out of the Oracles, and Psalteries of the Holy Ghost. for Instruction, Deuotion. by Thomas Packer His Majesties Seruant.	0.0	0	
+The Shepheards Oracles Delivered in Certain Eglogues. by Fra	0.0	0	
+The Shepheards Oracles Delivered in Certain Eglogues. by Fra	0.0	0	
+The History of Oracles, and the Cheats of the Pagan Priests in Two Parts / Made English.	0.0	0	
+A   Continuation of the Answer to the History of Oracles	0.0	0	
+An  History of Apparitions, Oracles, Prophecies, and Predictions with Dreams, Visions, and Revelations and the Cunning Delusions of the Devil, to Stre	0.0	0	
+The Lively Oracles Given to Us, Or, the Christians Birth-Right and Duty in the Custody and Use of the Holy Scripture by the Author of the Whole Duty o	0.0	0	
+The Athenian Oracle, a Selection. with a Prefatory Letter from Walter Besant	0.0	0	
+Assyrian and Babylonian Religious Texts, Being Prayers, Oracles, Hymns,	0.0	0	
+Four Valuable Pieces, Viz. Meditations and Spiritual Exercises; Select Cases Resolved; First Principles of the Oracles of God; By the REV. Mr. Shepard	0.0	0	
+The First Principles of the Oracles of God, Made Plain to the Meanest Capacities	0.0	0	
+The Oracles of Reason ... in Several Letters to Mr. Hobbs and Other Persons of Eminent Quality and Learning / By Char. Blount, Esq., Mr. Gildon and Ot	0.0	0	
+The Oracles of the Dissenters	0.0	0	
+[Gnothi Seauton] = Nosce Teipsum, Or, the Delphick Oracle Expounded as a Looking-Glass for the Soul Teaching the Knowledge of Ourselves as the First S	0.0	0	
+The True Catholike Collected Out of the Oracles, and Psalteries of the Holy Ghost. for Instruction, and Deuotion.	0.0	0	
+The Oracle, or the Resolver of Questions. Containing Above Two Thousand Questions, with Their Proper Answers, ... Interspersed with Variety of Moral a	0.0	0	
+The Lady's Oracle; An Elegant Pastime for Social Parties and the Family Circle	0.0	0	
+Oracle Software	0.0	0	
+Conversations on Conditioning; The Grooms' Oracle, and Pocket Stable-Directory in Which the Management of Horses Generally, as to Heath, Dieting, and Exercise, Are Considered, in a Series of Familiar Dialogues, Between Two Grooms Engaged in Training Horse	0.0	0	
+Classical Oracles	0.0	0	
+The Traveller's Oracle, Or, Maxims for Locomotion	0.0	0	
+The History of Oracles, and the Cheats of the Pagan Priests	0.0	0	
+From Sphinx to Oracle	0.0	0	
+The Lively Oracles Given to Us	0.0	0	
+Pratique Curieuse Ou Les Oracles Des Sibylles, Sur Chaque Question Propose	0.0	0	
+An Answer to Mr. De Fontenelle's History of Oracles	0.0	0	
+Directions for Invigorating and Prolonging Life; Or the Invalid's Oracle	0.0	0	
+The Lost Oracles; A Masque	0.0	0	
+Responses from the Sacred Oracles; Or, the Past in the Present	0.0	0	
+The History of Oracles, Tr.	0.0	0	

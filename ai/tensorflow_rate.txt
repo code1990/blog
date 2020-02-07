@@ -1,0 +1,125 @@
+Hands-On Machine Learning with Scikit-Learn and TensorFlow	9.3	378	
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition	10.0	43	
+Tensorflow：实战Google深度学习框架	8.0	266	
+TensorFlow实战	7.2	221	
+机器学习实战：基于Scikit-Learn和TensorFlow	8.5	92	
+Scikit-Learn与TensorFlow机器学习实用指南（影印版）	9.6	76	
+21个项目玩转深度学习	6.0	41	
+白话深度学习与TensorFlow	7.1	73	
+面向机器智能的TensorFlow实践	6.4	36	
+深度学习之TensorFlow	7.9	49	
+TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms	0.0	9	
+Machine Learning with TensorFlow	0.0	6	
+TensorFlow：实战Google深度学习框架（第2版）	8.5	127	
+TensorFlow技术解析与实战	5.5	82	
+深度学习原理与TensorFlow实践	7.0	24	
+TensorFlow Machine Learning Cookbook	0.0	6	
+Deep Learning for Computer Vision	0.0	2	
+Python Machine Learning	8.7	13	
+Building Machine Learning Projects with TensorFlow	0.0	8	
+Getting Started with TensorFlow	0.0	2	
+TensorFlow学习指南	7.7	13	
+TensorFlow进阶指南：基础、算法与应用	0.0	7	
+Hands-On Deep Learning with TensorFlow	0.0	1	
+强化学习精要	6.6	17	
+深度學習快速入門	0.0	0	
+深入理解TensorFlow：架构设计与实现原理	7.2	34	
+Mastering TensorFlow 1.x	0.0	2	
+TinyML	0.0	0	
+Practical Deep Learning for Cloud and Mobile	0.0	0	
+Reinforcement Learning	0.0	4	
+Python Artificial Intelligence Projects	0.0	0	
+Applied Deep Learning with Python	0.0	0	
+Building Machine Learning Systems with Python	0.0	0	
+Building Machine Learning Pipelines	0.0	1	
+Deep Learning Pipeline	0.0	0	
+Probabilistic Deep Learning	0.0	0	
+Deep Learning with JavaScript	0.0	0	
+Machine Learning with TensorFlow 1.x	0.0	1	
+TensorFlow 1.x Deep Learning Cookbook: Over 90 unique recipes to solve artificial-intelligence driven problems with Python	0.0	1	
+从机器学习到深度学习	0.0	6	
+Hands-On Convolutional Neural Networks with TensorFlow	0.0	1	
+Mastering Machine Learning on AWS	0.0	0	
+Python Deep Learning	0.0	0	
+深度学习入门与实战 基于TensorFlow	0.0	1	
+Deep Learning Quick Reference	0.0	0	
+Python Machine Learning	0.0	0	
+TensorFlow机器学习项目实战	6.2	14	
+Learning TensorFlow	8.2	13	
+Natural Language Processing with TensorFlow	0.0	3	
+Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习	0.0	4	
+TensorFlow自然语言处理	0.0	2	
+TensorFlow机器学习实战指南	5.8	12	
+TensorFlow機械学習クックブック	0.0	0	
+基于TensorFlow的深度学习	0.0	4	
+TensorFlow: Powerful Predictive Analytics with TensorFlow	0.0	0	
+Deep Learning with TensorFlow	0.0	2	
+深度学习-基于Python语言和TensorFlow平台	0.0	5	
+零起点TensorFlow快速入门	0.0	2	
+TensorFlow for Deep Learning	0.0	7	
+TensorFlow+Keras深度学习人工智能实践应用	7.1	16	
+TensorFlow深度学习	0.0	2	
+TensorFlow深度学习应用实践	0.0	9	
+TensorFlow入门与实战	0.0	6	
+Deep Learning with TensorFlow - Second Edition	0.0	0	
+TensorFlow Deep Learning Projects	0.0	0	
+Pro Deep Learning with TensorFlow	0.0	1	
+TensorFlow深度学习	0.0	6	
+TensorFlow For Dummies	0.0	1	
+零起点TensorFlow与量化交易	0.0	5	
+Practical Computer Vision: Extract insightful information from images using TensorFlow, Keras, and OpenCV	0.0	0	
+深度学习算法实践（基于Theano和TensorFlow）	0.0	1	
+图解深度学习与神经网络：从张量到TensorFlow实现	0.0	2	
+Neural Network Programming with TensorFlow	0.0	0	
+基于TensorFlow的深度学习	0.0	0	
+深度学习与TensorFlow实战	0.0	2	
+精通TensorFlow	0.0	0	
+TensorFlow深度学习实战	0.0	1	
+Python深度学习 基于TensorFlow	0.0	2	
+TensorFlow神经网络编程	0.0	0	
+TensorFlow 1.x 机器学习（影印版）	0.0	0	
+TensorFlow+Keras 深度学习人工智能实务应用	0.0	0	
+AlphaGo如何战胜人类围棋大师——智能硬件TensorFlow实践	0.0	3	
+TensorFlow预测分析（影印版）	0.0	0	
+OpenCV+TensorFlow深度学习与计算机视觉实战	0.0	2	
+TensorFlow机器学习攻略（影印版）	0.0	0	
+TensorFlowではじめるDeepLearning実装入門	0.0	0	
+Tensorflow Machine Learning Complete Self-Assessment Guide	0.0	0	
+Deep Learning with Applications Using Python: Chatbots and Face, Object, and Speech Recognition With TensorFlow and Keras	0.0	0	
+深度学习之TensorFlow工程化项目实战	0.0	7	
+神经网络与深度学习——基于TensorFlow框架和Python技术实现	0.0	2	
+Python深度学习实战：基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别	0.0	1	
+Python机器学习（原书第2版)	0.0	1	
+TensorFlow智能移动项目（影印版）	0.0	0	
+TensorFlow自然语言处理（影印版）	0.0	0	
+精通TensorFlow 1.x（影印版）	0.0	0	
+Tensorflow与卷积神经网络从算法入门到项目实战	0.0	1	
+TensorFlow机器学习实战指南（原书第2版）	0.0	0	
+深度学习私房菜：跟着案例学TensorFlow	0.0	1	
+神经网络与深度学习实战：Python+Keras+TensorFlow	0.0	1	
+TensorFlow Machine Learning Projects	0.0	0	
+TensorFlow与自然语言处理应用	0.0	0	
+TensorFlow智能算法与应用	0.0	0	
+Python+Tensorflow机器学习实战	0.0	0	
+Reinforcement Learning with TensorFlow	0.0	0	
+TensorFlow+PyTorch深度学习从算法到实战	0.0	0	
+TensorFlow深度学习 第2版（影印版）	0.0	0	
+从AI模型到智能机器人：基于Python与TensorFlow	0.0	0	
+人工智能原理与实践：基于Python语言和TensorFlow	0.0	0	
+TensorFlow Machine Learning Cookbook - Second Edition	0.0	0	
+TensorFlow机器学习项目开发实战	0.0	0	
+Video Analytics Using Deep Learning: Building Applications with TensorFlow, Keras, and YOLO	0.0	0	
+Hands-On Computer Vision with TensorFlow 2	0.0	0	
+Python Machine Learning Is The Complete Guide To Everything You Need To Know About Python Machine Learning: Keras, Numpy, Scikit Learn, Tensorflow, With Useful Exercises and examples.	0.0	0	
+TensorFlow移动端机器学习实战	0.0	0	
+实战GAN：TensorFlow与Keras生成对抗网络构建	0.0	0	
+详解深度学习：基于TensorFlow和Keras学习RNN	0.0	0	
+走向TensorFlow 2.0：深度学习应用编程快速入门	0.0	2	
+Machine Learning with TensorFlow, Second Edition	0.0	0	
+TensorFlow深度学习实战大全	0.0	0	
+Deep Learning with TensorFlow 2 and Keras	0.0	0	
+TensorFlow机器学习	0.0	0	
+TensorFlow 2.0卷积神经网络实战	0.0	0	
+Hands-On Machine Learning with TensorFlow.js	0.0	1	
+Fundamentals of Deep Learning	7.6	16	
+深度学习	7.3	11	
