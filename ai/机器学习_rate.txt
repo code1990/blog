@@ -1,0 +1,1229 @@
+机器学习	8.7	2244	
+机器学习	8.4	787	
+机器学习实战	8.1	1085	
+神经网络与机器学习（原书第3版）	8.1	129	
+分布式机器学习：算法、理论与实践	8.4	64	
+机器学习	7.6	126	
+神经网络与机器学习	9.0	41	
+图解机器学习	6.3	161	
+美团机器学习实践	8.4	122	
+白话大数据与机器学习	7.3	207	
+Spark机器学习	7.5	83	
+机器学习与优化	8.5	15	
+数据挖掘实用机器学习技术	7.8	152	
+机器学习导论	7.2	90	
+python机器学习	7.7	42	
+Python机器学习基础教程	8.4	100	
+Python机器学习及实践	7.2	121	
+Scikit-Learn与TensorFlow机器学习实用指南（影印版）	9.6	75	
+深入理解机器学习：从原理到算法	6.2	23	
+机器学习实战：基于Scikit-Learn和TensorFlow	8.4	88	
+Python机器学习	6.7	29	
+百面机器学习	8.7	181	
+深入理解AutoML和AutoDL：构建自动化机器学习与深度学习平台	5.8	27	
+终极算法	7.1	699	
+机器学习	6.3	28	
+机器学习系统设计	7.5	99	
+白话机器学习算法	6.6	38	
+漫画机器学习入门	8.3	12	
+机器学习实践指南	6.1	44	
+机器学习基础教程	6.8	28	
+机器学习(英文版)	8.4	24	
+数据挖掘：实用机器学习工具与技术（原书第3版）	8.5	10	
+面向机器学习的自然语言标注	6.4	14	
+Python机器学习实践指南	7.0	30	
+Python大战机器学习	5.5	23	
+数据挖掘与机器学习——WEKA应用技术与实践	7.6	15	
+机器学习导论（原书第2版）	7.4	22	
+机器学习与数据挖掘:方法和应用	7.8	11	
+机器学习在量化投资中的应用研究	4.2	10	
+机器学习算法原理与编程实践	5.6	19	
+机器学习及其应用2011	0.0	6	
+机器学习实践：测试驱动的开发方法	5.9	12	
+实用机器学习	7.2	13	
+大数据时代的算法：机器学习、人工智能及其典型实例	5.2	10	
+视觉机器学习20讲	4.0	16	
+Python与机器学习实战	7.5	16	
+机器学习导论（原书第3版）	8.2	18	
+Spark MLlib机器学习	4.8	13	
+机器学习——Python实践	7.3	16	
+机器学习及其应用	0.0	4	
+机器学习系统设计：python语言实现	7.3	12	
+scikit learn机器学习	7.7	25	
+智能时代	8.5	209	
+NLTK基础教程(用NLTK和Python库构建机器学习应用)	7.1	14	
+机器学习:贝叶斯和优化方法(英文版)	0.0	9	
+机器学习	0.0	0	
+机器学习及其应用2007	0.0	5	
+机器学习导论	6.7	18	
+多智能体机器学习--强化学习方法	0.0	7	
+Python机器学习经典实例	6.1	12	
+Web安全之机器学习入门	6.2	22	
+大数据挖掘与机器学习	0.0	6	
+自然计算、机器学习与图像理解前沿	0.0	4	
+机器学习实践应用	7.5	20	
+构建实时机器学习系统	7.6	21	
+机器学习实践指南 第2版	0.0	7	
+机器学习与R语言实战	0.0	7	
+Python 语言构建机器学习系统 第2版（影印版）	0.0	1	
+机器学习的哲学探索/当代中国学术文库	5.6	11	
+零起点Python机器学习快速入门	0.0	8	
+李群机器学习	0.0	4	
+高效机器学习	0.0	4	
+TensorFlow机器学习项目实战	6.2	14	
+机器学习(从公理到算法)/中国计算机学会学术著作丛书	0.0	9	
+机器学习中的数学	0.0	4	
+机器学习	0.0	0	
+机器学习理论与算法	0.0	2	
+决策用强化与系统性机器学习	0.0	4	
+机器学习及其应用2009	0.0	1	
+大数据与机器学习	6.0	11	
+机器学习	0.0	0	
+Python数据科学与机器学习	0.0	3	
+自然语言标注——用于机器学习(影印版)	0.0	0	
+Python机器学习算法	6.6	14	
+机器学习基础：从入门到求职	0.0	4	
+大数据与机器学习	0.0	4	
+机器学习在线：解析阿里云机器学习平台	5.1	12	
+机器学习	0.0	0	
+机器学习与数据科学(基于R的统计学习方法)	0.0	7	
+机器学习理论及应用	0.0	0	
+机器学习理论、方法及应用	0.0	0	
+机器学习之路——Caffe、Keras、scikit-learn实战	6.4	15	
+机器学习及其应用2013	0.0	0	
+机器学习精讲	0.0	3	
+机器学习	0.0	1	
+机器学习	0.0	1	
+Java机器学习	0.0	3	
+大数据挖掘与统计机器学习	0.0	3	
+数据挖掘(实用机器学习工具与技术原书第4版)/智能科学与技术丛书	0.0	1	
+PyTorch 机器学习从入门到实战	6.0	10	
+R语言实战——机器学习与数据分析	0.0	3	
+机器学习即服务：将Python机器学习创意快速转变为云端Web应用程序	0.0	9	
+Python机器学习实践	0.0	4	
+机器学习Web应用	0.0	7	
+深度实践spark机器学习	0.0	5	
+机器学习系统设计	0.0	2	
+量子机器学习中数据挖掘的量子计算方法	0.0	0	
+零起点Python足彩大数据与机器学习实盘分析	0.0	4	
+机器学习:局部和整体的学习(英文版)	0.0	0	
+实用机器学习	7.5	10	
+Spark机器学习进阶实战/大数据技术丛书	0.0	0	
+scikit-learn机器学习（第2版）	0.0	8	
+Machine Learning for Multimodal Interaction多模态交互作用的机器学习/会议录	0.0	0	
+Python机器学习(影印版)(英文版)	0.0	2	
+Spark MLlib机器学习实践	0.0	5	
+套路！机器学习：北美数据科学家的私房课	0.0	4	
+基于机器学习算法的分类知识发现及其在文本分析中的应用	0.0	0	
+基于H2O的机器学习实用方法	0.0	3	
+機器學習駭客秘笈	0.0	0	
+数据挖掘(实用机器学习工具与技术英文版第4版)/经典原版书库	0.0	0	
+Python机器学习入门(影印版)(英文版)	0.0	1	
+基于R语言的机器学习	0.0	4	
+机器学习基础	0.0	1	
+机器学习算法（第2版 影印版 英文版）	0.0	0	
+Hadoop+Spark大数据巨量分析与机器学习整合开发实战	0.0	4	
+机器学习线性代数基础	0.0	0	
+機器學習（修訂2 版）：類神經網路．模.系統以及基因演算法則	0.0	0	
+生物信息学中的机器学习分析方法	0.0	2	
+统计机器学习导论	0.0	3	
+机器学习技术与实战:医学大数据深度应用	0.0	1	
+MATLAB与机器学习	0.0	0	
+Scala机器学习：构建现实世界机器学习和深度学习项目	0.0	0	
+机器学习实战：基于Sophon平台的机器学习理论与实践	0.0	0	
+对抗机器学习：机器学习系统中的攻击和防御	0.0	0	
+Python高级数据分析：机器学习、深度学习和NLP实例	0.0	1	
+机器学习与智能决策支持系统	0.0	0	
+Spark机器学习（影印版 英文版）	0.0	0	
+机器学习、大数据分析和可视化	0.0	0	
+Python+Spark 2.0+Hadoop机器学习与大数据实战	7.6	18	
+机器学习应用系统设计	0.0	6	
+机器学习基础	0.0	3	
+机器学习入门到实战——MATLAB 实践应用	7.8	14	
+Python机器学习 第2版（影印版）	0.0	2	
+Spark MLlib机器学习实践（第2版）	0.0	0	
+机器学习项目开发实战	0.0	1	
+R语言机器学习参考手册	0.0	0	
+R语言机器学习(第2版影印版)(英文版)	0.0	0	
+机器学习与流场数据可视化	0.0	0	
+R语言机器学习	0.0	0	
+TensorFlow机器学习实战指南	5.8	12	
+机器学习与R语言（原书第2版）	0.0	6	
+机器学习实践指南	0.0	6	
+Scala机器学习	0.0	3	
+PYTHON3:数据分析与机器学习实战	0.0	5	
+机器学习与应用	0.0	6	
+基于机器学习的行为识别技术研究	0.0	0	
+机器学习经典算法剖析	0.0	1	
+Microsoft Azure机器学习和预测分析	0.0	0	
+机器学习视角的结构健康监测	0.0	1	
+终身机器学习	0.0	0	
+机器学习算法实践	0.0	0	
+建筑能耗分析中的数据挖掘与机器学习	0.0	1	
+Python机器学习实战	0.0	2	
+Python大规模机器学习	0.0	0	
+机器学习、深度学习与强化学习	0.0	0	
+MATLAB深度学习 机器学习、神经网络与人工智能	0.0	4	
+从机器学习到深度学习	0.0	6	
+机器学习与深度学习：通过C语言模拟	0.0	0	
+高速列车智能自主定位模型与在线学习算法 基于应答器实测数据的机器学习	0.0	0	
+Python机器学习手册：从数据预处理到深度学习	0.0	3	
+学习记忆与机器学习实验原理	0.0	0	
+自然计算.机器学习与图像理解前沿(精装)	0.0	0	
+基于机器学习的遥感影像分类方法研究	0.0	1	
+基于机器学习的乳腺图像辅助诊断算法研究	0.0	0	
+Apache Spark机器学习	0.0	1	
+精通机器学习	0.0	8	
+机器学习实践指南	0.0	3	
+机器学习入门之道	0.0	5	
+小白学数据挖掘与机器学习	9.2	19	
+Spark 2.x 大數據分析與機器學習實戰	0.0	0	
+机器学习：Go语言实现	0.0	2	
+微软Azure机器学习实战手册	0.0	0	
+Java机器学习	0.0	0	
+Spark机器学习	0.0	0	
+统计机器学习导论	0.0	2	
+Python机器学习与量化投资	0.0	4	
+机器学习经典算法实践	0.0	1	
+实用机器学习	0.0	1	
+Azure机器学习	0.0	0	
+Spark机器学习（第2版）	0.0	1	
+大数据挖掘与统计机器学习（第2版）/大数据分析统计应用丛书	0.0	0	
+同济博士论丛——基于机器学习的蛋白质相互作用与功能预测	0.0	0	
+机器学习与安全（影印版 英文版）	0.0	0	
+精通Java机器学习（影印版）	0.0	0	
+零基础学R语言数据分析：从机器学习、数据挖掘、文本挖掘到大数据分析	0.0	0	
+机器学习的煤与瓦斯突出前兆识别方法研究	0.0	0	
+机器学习中的不平衡分类方法	0.0	1	
+Python机器学习 5个数据科学家案例解析	0.0	3	
+R语言机器学习	0.0	0	
+机器学习算法	0.0	3	
+SAP企业机器学习	0.0	4	
+TensorFlow 1.x 机器学习（影印版）	0.0	0	
+深入浅出Python机器学习	0.0	7	
+机器学习vs复杂系统	8.2	19	
+Python项目案例开发从入门到实战——爬虫、游戏和机器学习（从入门到实战·微课视频）	0.0	1	
+数据挖掘与机器学习 WEKA应用技术与实践（第二版）	0.0	0	
+R语言机器学习	0.0	0	
+机器学习：实用技术指南	0.0	2	
+多维粒子群优化在机器学习与模式识别中的应用	0.0	0	
+商业数据科学：数据价值与机器学习实战	0.0	1	
+机器学习统计学（影印版）	0.0	1	
+Python机器学习经典实例（影印版）	0.0	0	
+机器学习、智能计算与高光谱遥感影像分类应用研究	0.0	0	
+机器学习与大数据技术	0.0	0	
+Statistical Machine Learning:Error Analysis and Applications 统计机器学习：误差分析与应用（全英文）	0.0	0	
+Python机器学习	0.0	0	
+机器学习及其应用2017/中国计算机学会学术著作丛书——知识科学系列	0.0	0	
+基于机器学习的物体自动理解技术	0.0	0	
+TensorFlow机器学习攻略（影印版）	0.0	0	
+地球科学大数据挖掘与机器学习	0.0	0	
+大数据巨量分析与机器学习的整合与开发	0.0	0	
+数据挖掘与机器学习	0.0	0	
+机器学习：算法视角（原书第2版）	0.0	5	
+机器学习：算法背后的理论与优化（中外学者论AI）	0.0	0	
+Python在机器学习中的应用	0.0	0	
+大话Python机器学习	0.0	2	
+利用机器学习开发算法交易系统	0.0	3	
+机器学习理论与应用——基于云教育环境	0.0	0	
+Python机器学习（原书第2版)	0.0	1	
+Python机器学习——数据分析与评分卡建模（微课版）（大数据与人工智能技术丛书）	0.0	0	
+实用数据科学和Python机器学习（影印版）	0.0	0	
+OpenCV机器学习（影印版）	0.0	0	
+机器学习及应用	0.0	0	
+TensorFlow机器学习实战指南（原书第2版）	0.0	0	
+模式识别与机器学习技术	0.0	0	
+Python机器学习	0.0	1	
+机器学习算法导论	0.0	0	
+Python+Tensorflow机器学习实战	0.0	0	
+智能商业：人工智能、机器学习与大数据技术的制胜之道	0.0	0	
+图说图解机器学习	0.0	0	
+机器学习与安全	0.0	0	
+机器学习案例实战	0.0	0	
+机器学习导论（原书第2版）	0.0	0	
+机器学习——原理、算法与应用	0.0	0	
+机器学习基础——原理、算法与实践	0.0	0	
+机器学习及其应用	0.0	0	
+跟着迪哥学Python数据分析与机器学习实战	0.0	1	
+TensorFlow机器学习项目开发实战	0.0	0	
+金融科技：人工智能与机器学习卷	0.0	2	
+SQL机器学习库MADlib技术解析	0.0	0	
+机器学习的PAC-Bayes理论评价及应用	0.0	0	
+Python机器学习算法: 原理、实现与案例	0.0	0	
+TensorFlow机器学习	0.0	0	
+机器学习系统	0.0	0	
+Julia机器学习核心编程：人人可用的高性能科学计算	0.0	0	
+机器学习互联网业务安全实践	0.0	1	
+快乐机器学习	0.0	0	
+量子机器学习中数据挖掘的量子计算方法	0.0	0	
+深入理解XGBoost：高效机器学习算法与进阶	0.0	1	
+R语言机器学习（原书第2版）	0.0	0	
+SAS+R大数据行业应用案例分析 运用预测模型和机器学习技术（大数据应用与技术丛书）	0.0	0	
+数据流机器学习	0.0	0	
+机器学习精讲 全彩印刷	0.0	0	
+机器学习算法的数学解析与Python实现	0.0	0	
+PySpark机器学习、自然语言处理与推荐系统	0.0	0	
+Python机器学习和图像处理实战 面部识别、目标检测和模式识别	0.0	1	
+机器学习及其应用2019	0.0	0	
+组合优化问题的机器学习求解方法	0.0	0	
+Python高级机器学习	0.0	0	
+大数据智能	7.2	91	
+数据科学与工程技术丛书	8.4	44	
+生物信息学	7.9	32	
+数据挖掘	7.9	15	
+数据挖掘	7.3	11	
+数据挖掘	7.5	17	
+机器学习方法	0.0	2	
+大演算	0.0	4	
+基于复杂网络的机器学习方法	0.0	5	
+统计强化学习：现代机器学习方法	0.0	2	
+文本作者身份识别	0.0	2	
+MATLAB金融算法分析实战	0.0	2	
+应用机器学习方法度量在线品牌忠诚度模型构建研究/思源文库	0.0	0	
+基于免疫计算的机器学习方法及应用	0.0	0	
+程序化交易高级教程	0.0	2	
+机器学习方法在电磁逆散射问题中的应用研究	0.0	0	
+TensorFlow移动端机器学习实战	0.0	0	
+移动端机器学习实战	0.0	0	
+统计分析：从小数据到大数据	0.0	0	
+孩子学琴那些事儿	7.5	13	
+华为路由器学习指南	0.0	6	
+Python深度学习	9.6	445	
+临床检验仪器学习题集	0.0	0	
+数学之美 （第二版）	8.9	3456	
+统计学习方法	9.0	1950	
+利用Python进行数据分析	8.5	1196	
+集体智慧编程	9.0	1456	
+单片机与可编程控制器学习辅导与技能训练	0.0	0	
+中国儿童兵器学习百科	0.0	0	
+深度学习	8.4	809	
+华为路由器学习指南 第二版	0.0	0	
+推荐系统实践	8.1	1725	
+Pattern Recognition and Machine Learning	9.5	1263	
+C#语言学习利器	0.0	0	
+计算广告	8.6	944	
+ARM嵌入式微控制器程序设计入门	0.0	0	
+学习机器翻译	0.0	0	
+Python数据科学手册	9.3	156	
+走进机器人虚拟世界：萝卜圈虚拟机器人学习与探索	0.0	0	
+动手学深度学习	9.4	95	
+Machine Learning for Hackers	7.5	92	
+圖解學習五十音更容易:仮名機器人出發!(附日語學習MP3)	0.0	0	
+The Elements of Statistical Learning	9.4	614	
+掌握學習基因	0.0	0	
+正则化深度学习及其在机器人环境感知中的应用	0.0	0	
+当代机器深度学习方法与应用研究	0.0	0	
+Ｘ機器人戰隊：(3) 海王八爪鯊（附學習單）	0.0	0	
+单片机技术及应用:基于机器人制作项目的学习与实践	0.0	0	
+Ｘ機器人戰隊：(2) 重甲格鬥營（附學習單）	0.0	0	
+Python深度学习实战：基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别	0.0	1	
+概率论及其应用	9.1	167	
+数据挖掘导论	8.1	505	
+大数据	7.8	391	
+Deep Learning	9.2	462	
+凸优化	9.3	162	
+人工智能	9.2	94	
+这就是搜索引擎	8.0	509	
+An Introduction to Statistical Learning	9.5	509	
+人工智能基础（高中版）	8.6	168	
+统计学习理论的本质	9.0	121	
+统计学习方法（第2版）	9.1	113	
+推荐系统	7.7	200	
+数据科学实战	8.2	150	
+Machine Learning	8.9	287	
+Hands-On Machine Learning with Scikit-Learn and TensorFlow	9.3	375	
+Learning From Data	9.4	173	
+数据挖掘	8.0	168	
+大数据日知录	8.2	247	
+Convex Optimization	9.6	414	
+人工智能	8.8	224	
+线性代数应该这样学	8.8	101	
+线性代数的几何意义	9.1	102	
+模式分类	8.8	348	
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition	9.8	35	
+Information Theory, Inference and Learning Algorithms	9.2	112	
+Tensorflow：实战Google深度学习框架	8.0	264	
+Python数据分析与挖掘实战	7.6	133	
+Neural Networks and Deep Learning	9.4	186	
+神经网络设计	8.9	152	
+统计自然语言处理（第2版）	8.6	113	
+统计学习基础	7.6	95	
+信息论、推理与学习算法	8.9	50	
+语音与语言处理	9.2	51	
+人工智能	8.0	93	
+心智社会	7.9	146	
+数据挖掘导论	8.4	248	
+Probabilistic Graphical Models	9.0	137	
+Python for Data Analysis	8.4	214	
+最优化理论与方法	8.7	52	
+深度学习与图像识别：原理与实践	8.9	33	
+概率统计	9.1	27	
+All of Statistics	8.9	204	
+Foundations of Machine Learning	9.1	72	
+数据挖掘导论	9.0	57	
+人工智能 （第2版）	8.5	26	
+统计学习导论	8.3	108	
+统计学习基础(第2版)(英文)	9.2	51	
+贝叶斯方法	8.5	55	
+推荐系统	7.1	56	
+计算机科学中的数学：信息与智能时代的必修课	9.3	20	
+Deep Learning with Python	9.4	145	
+Bayesian Reasoning and Machine Learning	9.5	72	
+Machine Learning in Action	8.5	192	
+精通数据科学：从线性回归到深度学习	7.1	98	
+Recommender Systems Handbook	8.6	70	
+Artificial Intelligence	9.3	147	
+Reinforcement Learning	8.7	109	
+R语言实战（第2版）	8.9	153	
+编程之法	3.4	129	
+MATLAB神经网络30个案例分析	7.8	88	
+矩阵分析与应用（第2版）	9.3	39	
+集体智慧编程	8.7	85	
+Spark高级数据分析	8.2	41	
+Applied Predictive Modeling	9.4	50	
+Numerical Optimization	9.4	80	
+Data Science for Business	8.1	112	
+人工智能	9.3	112	
+Statistical Rethinking	9.4	31	
+Neural Networks for Pattern Recognition	8.8	40	
+The Master Algorithm	8.3	74	
+自然语言处理综论（第二版）	0.0	9	
+Make Your Own Neural Network	9.6	49	
+最优化导论	9.5	33	
+人工智能	7.1	272	
+Python数据挖掘入门与实践	7.6	55	
+从掷骰子到阿尔法狗：趣谈概率	6.6	65	
+Linear Algebra and Learning from Data	0.0	6	
+Python神经网络编程	9.2	360	
+生物信息学算法导论	8.6	52	
+统计学完全教程	8.1	53	
+The Elements of Statistical Learning	9.5	136	
+数据科学入门	7.1	62	
+社交网站的数据挖掘与分析	6.8	245	
+Data Science from Scratch	8.1	40	
+强化学习：原理与Python实现	9.2	43	
+Python Data Science Handbook	9.1	92	
+21个项目玩转深度学习	5.8	39	
+凸优化理论	8.8	21	
+Programming Collective Intelligence	8.9	423	
+解析深度学习：语音识别实践	8.0	30	
+神经网络设计（原书第2版）	8.2	12	
+Introduction to Machine Learning with Python	9.1	46	
+Probabilistic Robotics (Intelligent Robotics and Autonomous Agents)	9.6	43	
+Advances in Financial Machine Learning	8.9	28	
+Python计算机视觉编程	7.7	52	
+概率图模型：原理与技术	7.6	41	
+Statistical Decision Theory and Bayesian Analysis	8.7	23	
+深度学习：21天实战Caffe	6.4	72	
+The Nature of Statistical Learning Theory	9.1	20	
+Grokking Deep Learning	8.2	20	
+Python for Data Analysis	9.1	104	
+凸优化	9.7	19	
+MATLAB神经网络43个案例分析	8.4	17	
+智能机器如何思考	8.1	16	
+统计学习理论	8.7	14	
+神经网络原理(原书第2版)	7.3	54	
+Introduction to Information Retrieval	9.1	224	
+Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning)	8.8	36	
+深度学习之TensorFlow	7.9	49	
+数值最优化方法	8.4	24	
+Neural Networks and Learning Machines	8.7	53	
+推荐系统	0.0	8	
+统计学习基础	9.5	42	
+Understanding Machine Learning	8.3	43	
+All of Statistics	9.5	22	
+深度强化学习	8.1	54	
+Python Machine Learning	8.7	13	
+Bayesian Data Analysis, Third Edition	8.7	31	
+TensorFlow：实战Google深度学习框架（第2版）	8.5	126	
+面向计算机科学的数理逻辑系统建模与推理	7.1	22	
+智能Web算法	7.4	220	
+与机器人共舞	6.8	182	
+数据之魅	7.5	72	
+Mining of Massive Datasets	8.7	131	
+驾驭大数据	6.4	157	
+Building Machine Learning Systems with Python	8.4	38	
+集体智慧编程	8.9	118	
+统计学习理论	8.4	59	
+Bounded Rationality	9.1	14	
+Machine Learning	8.9	111	
+Mahout in Action	8.1	89	
+Foundations of Statistical Natural Language Processing	9.0	65	
+Web数据挖掘	7.7	103	
+Pattern Classification	8.8	110	
+Learning OpenCV	8.6	177	
+TensorFlow实战	7.2	220	
+模式识别	7.9	66	
+SciPy and NumPy	7.0	63	
+Statistics, 4th Edition	8.5	55	
+Algorithms of the Intelligent Web	8.1	61	
+Artificial Intelligence	8.9	80	
+Doing Data Science	8.2	64	
+R Cookbook	9.1	95	
+Learning Spark	7.6	123	
+Introduction to Data Mining	8.7	78	
+Numerical Optimization	9.3	59	
+Artificial Intelligence	8.9	46	
+Statistical Learning Theory	9.5	30	
+Collective Intelligence in Action	7.9	42	
+走进搜索引擎	7.0	101	
+Web数据挖掘	7.7	17	
+标签	7.1	84	
+实用多元统计分析	8.3	61	
+Data-intensive Text Processing With Mapreduce	8.8	54	
+贝叶斯网引论	7.8	70	
+模式分类	8.8	78	
+Machine Learning	8.1	19	
+Computer Vision	9.0	79	
+支持向量机导论	7.0	55	
+基于开源工具的数据分析	6.9	17	
+Data Mining	8.3	61	
+人工智能	7.9	67	
+Graphical Models, Exponential Families, and Variational Inference	9.7	34	
+Data Mining	8.3	49	
+Learning with Kernels	9.9	42	
+A First Course in Bayesian Statistical Methods	8.9	53	
+数据挖掘中的新方法：支持向量机	8.0	43	
+人工智能狂潮	7.5	118	
+Doing Bayesian Data Analysis	9.0	29	
+走进搜索引擎	7.5	78	
+Introductory Functional Analysis with Applications	9.6	48	
+Recommender Systems	8.1	27	
+Data Mining	8.5	61	
+商业数据挖掘导论	7.6	15	
+Learning Deep Architectures for AI	8.7	34	
+支持向量机	8.2	28	
+模式识别	7.8	27	
+Scaling up Machine Learning	9.0	10	
+自然语言处理的形式模型	8.5	25	
+Vision	9.6	31	
+Think Stats	7.2	41	
+数据挖掘原理	7.1	27	
+机器人科技	6.8	31	
+社会计算	8.0	29	
+Search Engines	8.8	41	
+模式识别与神经网络	8.0	29	
+Optimization for Machine Learning	9.4	13	
+自然语言处理简明教程	8.2	25	
+写给程序员的数据挖掘实践指南	7.4	61	
+神经网络	7.8	26	
+Mahout实战	8.0	33	
+Python Machine Learning	8.1	59	
+模式分析的核方法	8.8	31	
+On Intelligence	8.7	25	
+Large-Scale Inference	7.3	11	
+Machine Learning	7.4	17	
+Bayesian Data Analysis, Second Edition	9.4	30	
+干净的数据：数据清洗入门与实践	6.2	28	
+Data Mining	7.4	26	
+白话深度学习与TensorFlow	7.1	72	
+模式识别	8.4	47	
+模式识别	7.4	65	
+统计决策论及贝叶斯分析	0.0	7	
+Introduction to Probability	9.7	52	
+蒙特卡罗统计方法	7.8	22	
+神经计算原理	7.0	28	
+MATLAB智能算法30个案例分析	8.0	44	
+神经网络与深度学习	5.8	116	
+Mining the Web	7.5	27	
+The Art of Statistics	0.0	9	
+Data Science at the Command Line	7.4	22	
+信息检索	7.5	13	
+Kinect应用开发实战	8.2	32	
+Probably Approximately Correct	9.0	10	
+人工神经网络导论	6.4	40	
+The Vision Revolution	0.0	4	
+数据天才：数据科学家修炼之道	7.1	22	
+统计决策理论和贝叶斯分析	9.2	15	
+数据科学家养成手册	6.7	29	
+泛函分析讲义(下册)	7.7	46	
+网络机器人Java编程指南	7.8	20	
+Web Data Mining	8.3	27	
+Deep Learning	0.0	6	
+Prediction, Learning, and Games	9.1	14	
+Computer Vision	9.5	25	
+Spark快速数据处理	5.1	37	
+大嘴巴漫谈数据挖掘	7.1	53	
+New Internet	6.4	38	
+Statistical Models	8.5	16	
+Data Analysis Using Regression and Multilevel/Hierarchical Models	8.7	18	
+Numerical Linear Algebra	8.8	44	
+数据挖掘十大算法	8.0	29	
+Learning to Rank for Information Retrieval	8.0	17	
+Ensemble Methods	9.6	17	
+Advanced Analytics with Spark	8.3	22	
+A Probabilistic Theory of Pattern Recognition (Stochastic Modelling and Applied Probability)	9.8	10	
+随机过程初级教程	7.6	32	
+Boosting	9.2	12	
+Introduction to Semi-Supervised Learning	8.5	21	
+应用随机过程	8.0	16	
+Learning to Rank for Information Retrieval and Natural Language Processing	7.7	12	
+面向机器智能的TensorFlow实践	6.4	37	
+Natural Language Annotation for Machine Learning	7.4	15	
+数据科学家修炼之道	6.5	47	
+《裂变：秒懂人工智能的基础课》	8.3	14	
+驾驭文本	6.8	11	
+Learning to Rank for Information Retrieval	0.0	6	
+The Top Ten Algorithms in Data Mining	7.8	16	
+Software for Data Analysis	8.2	15	
+Linear Algebra and Its Applications (3rd Edition)	8.1	53	
+Mathematical Statistics and Data Analysis	8.6	38	
+精通MATLAB神经网络	7.8	19	
+大数据	7.5	23	
+统计机器翻译	8.6	14	
+Programming Computer Vision with Python	8.7	21	
+Introductory Time Series with R	8.4	24	
+Fundamentals of Deep Learning	7.6	16	
+Computer Vision	7.7	19	
+Learning scikit-learn: Machine Learning in Python	7.3	19	
+大数据分析的道与术	7.6	47	
+神经网络在应用科学和工程中的应用	0.0	5	
+Agile Data Science	8.0	13	
+Neural Networks	9.1	10	
+现代信息检索	0.0	9	
+统计模型	9.1	21	
+Collective Intelligence实战	7.3	20	
+Introducing Monte Carlo Methods with R (Use R)	8.5	19	
+An Introduction to Computational Learning Theory	8.4	13	
+Statistics for High-Dimensional Data	9.0	10	
+Introduction to Machine Learning, Second Edition (Adaptive Computation and Machine Learning)	8.5	15	
+Introductory Lectures on Convex Optimization	9.6	16	
+数据挖掘原理与算法	7.4	22	
+Introduction To Linear Algebra	8.5	19	
+应用商务统计分析	8.9	28	
+数据挖掘教程	7.4	15	
+矩阵论	7.6	56	
+Hadoop: The Definitive Guide	9.0	48	
+实用数据分析	5.6	20	
+An Introduction to Support Vector Machines	8.0	21	
+TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms	0.0	9	
+The Bayesian Choice	7.9	17	
+概率图模型学习理论及其应用	6.5	12	
+Data Smart	0.0	9	
+What Computers Still Can't Do	0.0	5	
+第一本无人驾驶技术书	6.7	74	
+Personalization Techniques and Recommender Systems	0.0	4	
+Convex Analysis	9.9	24	
+Graph-based Natural Language Processing and Information Retrieval	7.7	10	
+多元统计分析导论	7.6	13	
+Matrix Methods in Data Mining and Pattern Recognition (Fundamentals of Algorithms)	8.4	14	
+Mastering Machine Learning With scikit-learn	7.6	25	
+Opinion Mining and Sentiment Analysis	9.0	10	
+基于R应用的统计学丛书·应用回归及分类	9.6	17	
+数据科学与大数据分析	6.7	24	
+Statistical Learning with Sparsity	9.3	14	
+Modern Multivariate Statistical Techniques	7.0	16	
+支持向量机导论	7.6	14	
+Introduction to Machine Learning	7.5	18	
+Technically Wrong	0.0	4	
+Chomsky	8.8	13	
+Kernel Methods for Pattern Analysis	9.4	20	
+Software Design 中文版 01	6.8	20	
+你不可不知的50个互联网知识	7.5	12	
+现代模式识别	8.3	10	
+Machine Learning with R	7.3	22	
+深度学习:方法及应用	6.0	37	
+Python数据分析实战	7.5	37	
+Statistical Pattern Recognition	0.0	6	
+Testing Statistical Hypotheses	9.0	14	
+Mining of Massive Datasets	8.9	20	
+大数据	5.6	25	
+Computational Statistics	8.6	12	
+模式识别	0.0	6	
+A First Course in Machine Learning	8.8	12	
+R Graph Cookbook	7.8	14	
+发现数据之美：数据分析原理与实践	6.0	15	
+Feature Engineering for Machine Learning Models	6.6	27	
+Introduction to Pattern Recognition	0.0	9	
+Algebraic Geometry and Statistical Learning Theory	0.0	4	
+自然语言计算机形式分析的理论与方法(精)/当代科学技术基础理论与前沿问题研究丛书	0.0	5	
+Learning in Graphical Models (Adaptive Computation and Machine Learning)	0.0	4	
+The EM Algorithm and Extensions	0.0	8	
+Music Recommendation and Discovery	0.0	7	
+Statistical Machine Translation	9.0	15	
+Data Analysis	9.2	11	
+全栈数据之门	8.0	32	
+Bayesian Methods for Hackers	8.5	19	
+模式识别--原理方法及应用	5.8	19	
+Principles of Data Mining (Adaptive Computation and Machine Learning)	7.5	13	
+统计学习理论	0.0	5	
+Pattern Recognition, Fourth Edition	0.0	4	
+统计学习理论基础	0.0	8	
+Probabilistic Reasoning in Intelligent Systems	0.0	7	
+Matrix Computations	8.9	13	
+Guide to Intelligent Data Analysis	0.0	6	
+Handbook of Modeling High-Frequency Data in Finance	0.0	1	
+Semi-Supervised Learning	0.0	9	
+Markov Chains (Cambridge Series in Statistical and Probabilistic Mathematics)	8.2	18	
+Introduction to Statistical Pattern Recognition, Second Edition (Computer Science and Scientific Computing Series)	0.0	7	
+Introduction to Nonparametric Estimation	0.0	9	
+The LION Way	0.0	8	
+实用数据挖掘	0.0	6	
+Real-World Machine Learning	7.9	11	
+应用预测建模	9.7	16	
+Python数据分析	5.3	19	
+The Text Mining Handbook	0.0	7	
+TensorFlow技术解析与实战	5.5	82	
+An Introduction to the Bootstrap	9.2	12	
+科学计算中的蒙特卡罗策略	0.0	7	
+Predicting Structured Data	0.0	2	
+Machine Learning with TensorFlow	0.0	6	
+Machine Learning	0.0	6	
+数据挖掘与应用	9.0	13	
+颠覆大数据分析	7.5	12	
+人工智能	0.0	9	
+深度学习核心技术与实践	6.9	17	
+Statistically Sound Machine Learning for Algorithmic Trading of Financial Instruments	0.0	1	
+数据挖掘	8.0	10	
+深度学习原理与TensorFlow实践	6.9	23	
+统计模式识别	0.0	6	
+智能大数据SMART准则	5.9	15	
+Applied Linear Regression	8.3	19	
+数据分析	7.8	11	
+Handbook of Statistical Analysis and Data Mining Applications	0.0	5	
+Data Mining	7.2	11	
+Machine Learning For Financial Engineering (Advances in Computer Science and Engineering	0.0	0	
+Statistical Language Models for Information Retrieval	0.0	6	
+数理统计学导论	0.0	9	
+Vector calculus. linear algebra and differential forms - 3rd Edition	0.0	8	
+Convex Optimization Theory	0.0	4	
+深度学习	4.3	27	
+Robot Vision	0.0	2	
+光滑流形导论	9.2	10	
+Modern Information Retrieval	0.0	7	
+Parallel Programming with MPI	8.9	10	
+TensorFlow Machine Learning Cookbook	0.0	6	
+Machine Learning with Spark	0.0	8	
+贝叶斯数据分析	0.0	8	
+模式识别	0.0	7	
+Practical Data Science Cookbook - Real-World Data Science Projects to Help You Get Your Hands On Your Data	0.0	5	
+Natural Image Statistics	0.0	7	
+Support Vector Machines	0.0	5	
+Markov Random Fields for Vision and Image Processing	0.0	4	
+Artificial Intelligence	0.0	7	
+Parallel Distributed Processing - 2 Vol. Set	0.0	2	
+Statistical Methods for Speech Recognition	0.0	1	
+Classification and Regression Trees	0.0	5	
+Data Science Interviews Exposed	0.0	6	
+Statistics and Data with R	8.0	11	
+Compressed Sensing	8.3	10	
+数据算法	7.1	12	
+Natural Language Understanding (2nd Edition)	0.0	6	
+高级人工智能	0.0	6	
+Mahout实践指南（大数据技术丛书）	0.0	6	
+Handbook of Natural Language Processing, Second Edition	0.0	6	
+泛函分析	10.0	10	
+Feature Extraction	0.0	3	
+Foundations of Data Science	0.0	0	
+Introduction to Statistical Relational Learning (Adaptive Computation and Machine Learning)	0.0	7	
+All of Nonparametric Statistics	8.6	11	
+Machine Learning in Python	0.0	3	
+Deep Learning with R	0.0	5	
+Keras快速上手：基于Python的深度学习实战	4.6	38	
+bootstrap methods and their application	0.0	1	
+Deep Learning: Methods and Applications (Foundations and Trends(r) in Signal Processing)	0.0	4	
+The Future of the Professions	7.5	13	
+爱犯错的智能体	9.3	40	
+Learning from Data	0.0	4	
+信息时代的计算机科学理论	0.0	7	
+Scikit-Learn Cookbook	0.0	8	
+Thoughtful Machine Learning	0.0	3	
+Information Retrieval	0.0	3	
+Thoughtful Machine Learning with Python	0.0	4	
+Mark Bittman's Kitchen Matrix	0.0	4	
+Neural Networks for Applied Sciences and Engineering	0.0	5	
+Handbook of Latent Semantic Analysis	0.0	0	
+Monte Carlo Strategies in Scientific Computing (Springer Series in Statistics)	0.0	9	
+数据挖掘	7.3	11	
+Pattern Classification and Scene Analysis	0.0	2	
+情感分析：挖掘观点、情感和情绪	8.3	20	
+The Handbook of Brain Theory and Neural Networks	0.0	1	
+模式分析的核方法	0.0	3	
+形式语言与自动机	6.7	21	
+Applied Multivariate Statistical Analysis	0.0	7	
+Fundamentals of Machine Learning for Predictive Data Analytics	0.0	6	
+NumPy Beginner's Guide - Second Edition	0.0	7	
+计算机与机器视觉	0.0	2	
+The Laplacian on a Riemannian Manifold	0.0	4	
+视觉信息认知计算理论	0.0	4	
+人工智能中的深度结构学习	0.0	2	
+Fundamentals of Speech Recognition	0.0	6	
+图像理解理论与方法	0.0	7	
+Handbook of Markov Chain Monte Carlo	0.0	4	
+深度学习、优化与识别	3.7	126	
+智能Web算法	8.0	13	
+大数据策略：如何成功使用大数据与10个行业案例分享	6.5	13	
+深入浅出数据科学	0.0	6	
+Mahout算法解析与案例实战	0.0	6	
+A Course in Machine Learning	0.0	7	
+中文信息抽取原理及应用	7.0	10	
+Unsupervised Learning	0.0	2	
+Pattern Recognition with Support Vector Machines	0.0	1	
+南京大学人工智能本科专业教育培养体系	0.0	9	
+现代模式识别	7.2	12	
+Storm Real-Time Processing Cookbook	0.0	6	
+深度学习轻松学	6.9	17	
+Algorithms for Reinforcement Learning	0.0	4	
+Digital Modeling of Material Appearance	0.0	4	
+Music and Probability	0.0	1	
+Principal Component Analysis	0.0	6	
+高维数据几何结构及降维	0.0	5	
+Web数据挖掘	0.0	5	
+Computational Advertising	0.0	3	
+The Science of Bradley Efron	0.0	1	
+Machine Learning and Data Mining in Pattern Recognition	0.0	0	
+The Nature of Statistical Learning Theory	0.0	3	
+Statistical Pattern Recognition, 2nd Edition	0.0	3	
+统计模式识别	0.0	7	
+Information, Physics, and Computation	0.0	4	
+Introduction to Machine Learning	7.4	10	
+人工智能	0.0	5	
+Optimal Statistical Decisions	0.0	4	
+Introduction to Bayesian Statistics	0.0	4	
+Combinatorial Optimization	0.0	4	
+Machine Learning	0.0	3	
+数据科学	0.0	8	
+开源机器人操作系统	0.0	7	
+高性能Python	0.0	2	
+Machine Learning with R - Second Edition	9.8	11	
+Neural Network Design	0.0	5	
+Pattern Recognition and Neural Networks	0.0	1	
+Recurrent Neural Networks for Prediction	0.0	2	
+模式识别与智能计算的MATLAB实现	0.0	3	
+An Introduction to Bayesian Analysis	0.0	2	
+Learning Bayesian Networks	0.0	3	
+Markov Chain Monte Carlo in Practice (Interdisciplinary Statistics)	0.0	3	
+Bayesian network technologies	0.0	0	
+Dataset Shift in Machine Learning	0.0	3	
+Frontiers in Massive Data Analysis	0.0	1	
+深度学习	4.9	10	
+Machine Learning For Dummies	0.0	7	
+Methods of Multivariate Analysis, Third Edition	0.0	3	
+Bayesian Networks and Decision Graphs	0.0	5	
+Automatic Speech Recognition	0.0	3	
+Lectures on Modern Convex Optimization	0.0	5	
+Principles and Theory for Data Mining and Machine Learning	0.0	1	
+Reinforcement Learning	0.0	1	
+Probability for Statistics and Machine Learning	0.0	1	
+数值最优化算法与理论	0.0	6	
+Convex Analysis and Nonlinear Optimization	0.0	6	
+Neural Network Learning	0.0	2	
+Text Mining	0.0	1	
+Neural Network Methods in Natural Language Processing	9.3	35	
+Machine Learning for Email	0.0	1	
+数据挖掘教程	0.0	4	
+Machine Vision	0.0	7	
+Pattern Recognition, Third Edition	0.0	4	
+线性模型中的最小二乘法	0.0	1	
+Learning to Classify Text Using Support Vector Machines	0.0	1	
+Statistical and Machine-Learning Data Mining	0.0	0	
+Regression Analysis by Example	0.0	6	
+医疗革命	0.0	7	
+Learning Concurrent Programming in Scala	0.0	3	
+Graph Mining	0.0	2	
+Bayesian Nonparametrics	0.0	3	
+深度学习	7.3	11	
+The Geometry of Information Retrieval	0.0	5	
+Estimation of Dependences Based on Empirical Data	0.0	2	
+Data Clustering	0.0	3	
+面向MATLAB工具箱的神经网络理论与应用	0.0	5	
+文本挖掘中若干关键问题研究	0.0	3	
+Parallel Distributed Processing, Vol. 2	0.0	0	
+Parallel Distributed Processing, Vol. 1	0.0	0	
+Big Data Analytics	0.0	2	
+Encyclopedia of Machine Learning	0.0	0	
+Big Data Analytics Beyond Hadoop	0.0	4	
+Python Machine Learning Blueprints	0.0	3	
+马尔可夫链：模型、算法与应用	0.0	5	
+Data Clustering	0.0	2	
+Deep Learning with Keras	7.7	21	
+Modeling and Reasoning with Bayesian Networks	0.0	0	
+Number	0.0	3	
+Nonnegative Matrix and Tensor Factorizations	0.0	5	
+Computational Statistics Handbook with MATLAB, Second Edition	0.0	3	
+Independent Component Analysis	0.0	8	
+Approximate Dynamic Programming	0.0	4	
+Data Mining Algorithms	0.0	2	
+Introduction To The Theory Of Neural Computation, Volume I	0.0	2	
+随机图	0.0	1	
+Deep Learning	0.0	5	
+推荐系统(原理与实践)/计算机科学丛书	0.0	6	
+Neural Networks	0.0	3	
+Machine Learning Refined	0.0	5	
+The elements of artificial intelligence	0.0	2	
+Large-Scale Kernel Machines	0.0	0	
+软计算	0.0	4	
+Understanding Computational Bayesian Statistics	0.0	1	
+数值分析与算法	0.0	7	
+Handbook of Natural Language Processing and Machine Translation	0.0	3	
+Fundamentals of Kalman Filtering	0.0	1	
+Optimal Cupid	0.0	1	
+Test-Driven Machine Learning	0.0	1	
+Neurocomputing	0.0	0	
+Universal Artificial Intelligence	0.0	0	
+Introduction to Data Mining, Second Edition	0.0	3	
+Principles of Statistical Inference	0.0	2	
+Encyclopedia of Machine Learning	0.0	1	
+Ensemble Machine Learning	0.0	2	
+线性模型和广义线性模型	0.0	1	
+一边享受一边泪流（上）	0.0	6	
+模式识别	0.0	5	
+Bayesian Networks	0.0	2	
+Systematic Trading	0.0	9	
+数据与文本挖掘及其在研发决策中的应用	0.0	3	
+机器翻译	0.0	3	
+The Connection Machine (Artificial Intelligence)	0.0	1	
+Monte Carlo Methods in Bayesian Computation (Springer Series in Statistics)	0.0	1	
+金融工程的支持向量机方法	0.0	0	
+基于内容的视觉信息检索	0.0	5	
+Learning Theory	0.0	5	
+Privacy and Big Data	0.0	4	
+Linguistic Structure Prediction	0.0	3	
+Handbook of Monte Carlo Methods	0.0	2	
+Clojure for Machine Learning	0.0	3	
+Spark大数据分析实战	5.9	15	
+Logistic回归入门	8.4	13	
+Python for Probability, Statistics, and Machine Learning	0.0	2	
+A Mathematical Introduction to Compressive Sensing	0.0	9	
+An Elementary Introduction to Statistical Learning Theory	0.0	2	
+Applied Linear Algebra and Matrix Analysis	0.0	4	
+Model Selection and Multi-Model Inference	0.0	1	
+Bayesian Artificial Intelligence, Second Edition	0.0	1	
+造物的困惑	0.0	7	
+Pattern Recognition in Speech and Language Processing	0.0	2	
+Bayesian Nonparametrics	0.0	2	
+Mining Imperfect Data	0.0	0	
+高等人工智能原理	0.0	5	
+生物启发计算	0.0	5	
+Quantum Machine Learning	0.0	0	
+Seeing	0.0	1	
+不确定性推理原理	0.0	1	
+Machine Learning	0.0	0	
+网络社区发现	0.0	1	
+Bayes' Rule	0.0	3	
+大数据掘金	0.0	3	
+增强学习与近似动态规划	0.0	1	
+Graphical Models for Machine Learning and Digital Communication	0.0	2	
+Nonlinear Dimensionality Reduction	0.0	4	
+Python Machine Learning Cookbook	0.0	1	
+模糊聚类分析及其应用	0.0	3	
+生物信息学	0.0	3	
+Graphical Models	0.0	0	
+Generalized Additive Models	0.0	3	
+Supervised Sequence Labelling with Recurrent Neural Networks 2011	0.0	2	
+Matrix Analysis	0.0	0	
+Relevant Search	0.0	6	
+Artificial Intelligence for Humans, Volume 1	0.0	1	
+Deep Learning with Python	0.0	3	
+Introduction to Machine Learning	0.0	0	
+Semantic Web for the Working Ontologist	0.0	4	
+Deep Learning for Search	0.0	1	
+Machine Vision	0.0	1	
+最优化理论与算法	0.0	3	
+神经网络及其应用	0.0	4	
+支持向量机理论及工程应用实例	0.0	3	
+Analysis, Synthesis, and Perception of Musical Sounds	0.0	1	
+A Distribution-Free Theory of Nonparametric Regression (Springer Series in Statistics)	0.0	4	
+Applied Logistic Regression	0.0	3	
+Data Mining, Fourth Edition: Practical Machine Learning Tools and Techniques (Morgan Kaufmann Series in Data Management Systems)	0.0	2	
+Real Time Big Data Analytics Emerging Architecture	0.0	5	
+Statistical Methods for Recommender Systems	0.0	3	
+Neuronal Dynamics	0.0	3	
+Advanced Machine Learning with Python	0.0	0	
+Recommender System for Online Social Network	0.0	0	
+模式识别中的核方法及其应用	0.0	2	
+Heuristics, Probability and Causality.  A Tribute to Judea Pearl	0.0	0	
+Manifold Learning Theory and Applications	0.0	1	
+Manifolds, Tensors, and Forms	0.0	0	
+Deterministic and Statistical Methods in Machine Learning	0.0	0	
+Evaluating Learning Algorithms	0.0	0	
+Learning and Memory	0.0	2	
+Understanding Robust and Exploratory Data Analysis	0.0	1	
+Kendall's Advanced Theory of Statistics	0.0	1	
+Learning From Data	0.0	3	
+Bayesian Artificial Intelligence	0.0	2	
+Statistical Mechanics of Learning	0.0	1	
+Sparse Modeling	0.0	0	
+Introduction to Semi-Supervised Learning	0.0	1	
+Handbook of Neuroevolution Through Erlang	0.0	4	
+Spline Models for Observational Data	0.0	3	
+Getting Started with TensorFlow	0.0	2	
+R语言与数据挖掘	0.0	5	
+Large Scale Machine Learning with Python	0.0	4	
+Designing Machine Learning Systems with Python	0.0	1	
+Machine Learning	0.0	2	
+Constrained Optimization and Lagrange Multiplier Methods	0.0	2	
+Computational Methods of Feature Selection	0.0	0	
+Neurocomputing 2	0.0	0	
+Computational Statistics (Statistics and Computing)	0.0	2	
+Graphical Models (Oxford Statistical Science Series)	0.0	0	
+应用多变量统计分析	0.0	2	
+Statistical Reasoning for Everyday Life	0.0	1	
+A First Course in Machine Learning, Second Edition	0.0	1	
+Artificial Intelligence for Humans, Volume 2	0.0	0	
+Machine Learning in Medicine - a Complete Overview	0.0	1	
+Decision Forests for Computer Vision and Medical Image Analysis	0.0	1	
+多媒体信息检索与管理	0.0	1	
+计算几何若干方法及其在空间数据挖掘中的应用	0.0	2	
+Parallel and Distributed Computation	0.0	1	
+Pattern Recognition Principles	0.0	1	
+Markov Chains and Stochastic Stability (Cambridge Mathematical Library)	0.0	2	
+核函数理论与信号处理	0.0	2	
+人工神经网络算法研究及应用	0.0	2	
+Practical Recommender Systems	0.0	9	
+Machine Learning Systems	0.0	2	
+Foundations of Machine Learning	0.0	4	
+Machine Learning in Non-Stationary Environments	0.0	1	
+Python自然语言处理	0.0	8	
+Machine Learning and Data Mining	0.0	1	
+Nearest-Neighbor Methods in Learning and Vision	0.0	2	
+Advanced Algorithms for Neural Networks	0.0	1	
+Oracle Inequalities in Empirical Risk Minimization and Sparse Recovery Problems	0.0	2	
+Cost-Sensitive Machine Learning	0.0	0	
+谱聚类集成算法研究	0.0	0	
+Encyclopedia of Machine Learning	0.0	0	
+Bayesian Learning for Neural Networks	0.0	1	
+Machine Learning	0.0	0	
+Practical Machine Learning with H2O	0.0	6	
+图像处理、分析与机器视觉（第4版）	7.8	10	
+Practical Machine Learning	0.0	0	
+Brain Computation as Hierarchical Abstraction	0.0	0	
+A collection of Advanced Data Science and Machine Learning Interview Questions Solved in Python and Spark	0.0	3	
+An Introduction to Machine Learning	0.0	3	
+Mathematical Tools for Data Mining	0.0	0	
+Machine Learning for Audio, Image and Video Analysis	0.0	1	
+Statistical Reinforcement Learning	0.0	1	
+Data Analytics	0.0	1	
+不确定性人工智能	0.0	3	
+Combinatorial Pattern Matching Algorithms in Computational Biology Using Perl and R	0.0	0	
+Machine Learning with Python Cookbook	0.0	2	
+Hands-On Unsupervised Learning Using Python	0.0	2	
+The Hippocampus as a Cognitive Map	0.0	1	
+TensorFlow学习指南	7.7	13	
+语义网基础教程	0.0	2	
+Elements of Causal Inference	0.0	9	
+The Elements of Learning	0.0	1	
+Algorithmic Learning in a Random World	0.0	1	
+智能信息处理技术	0.0	1	
+实值Gabor变换理论及应用	0.0	2	
+2005IEEE国际自然语言处理与知识工程会议论文集	0.0	0	
+Discriminant Analysis and Statistical Pattern Recognition	0.0	0	
+Concentration Inequalities and Model Selection	0.0	3	
+Generalized Linear Models and Extensions, Second Edition	0.0	0	
+Kernel Methods in Computational Biology	0.0	1	
+Advances in Large-Margin Classifiers	0.0	1	
+GIS软件SharpMap源码详解及应用	0.0	0	
+Elements of Machine Learning	0.0	1	
+Agile Data Science 2.0	0.0	1	
+从M2M到物联网	0.0	2	
+R Deep Learning Essentials	0.0	1	
+The Ultimate Algorithmic Trading System Toolbox + Website	0.0	1	
+The Nonlinear Workbook	0.0	0	
+The Cross-Entropy Method	0.0	1	
+科学+预见人工智能	5.9	10	
+Time Series Analysis by State Space Methods	0.0	1	
+An Intermediate Course in Probability (Springer Texts in Statistics)	0.0	3	
+Bayesian Statistical Modelling, 2nd Edition	0.0	0	
+Bayesian Time Series Models	0.0	0	
+Human Compatible	0.0	4	
+Practical Time Series Analysis	0.0	1	
+网络信息安全理论与技术	0.0	3	
+非参数支持向量回归和分类理论及其在金融市场预测中的应用	0.0	0	
+Machine Learning and Data Mining in Pattern Recognition	0.0	1	
+Learning Kernel Classifiers	0.0	2	
+模式识别导论	0.0	2	
+Algorithms for clustering data	0.0	0	
+Support Vector Machines For Pattern Classification	0.0	0	
+Computational Developmental Psychology	0.0	1	
+Data Mining	0.0	1	
+Fundamentals of the New Artificial Intelligence	0.0	2	
+言語処理のための機械学習入門	0.0	2	
+随机过程	0.0	4	
+Pattern Recognition	0.0	1	
+Learning from Good and Bad Data	0.0	0	
+Rationality for Mortals	0.0	0	
+Proceedings of the 28th International Conference on Machine Leanring	0.0	1	
+Categorization and Naming in Children	0.0	0	
+From Curve Fitting to Machine Learning	0.0	0	
+preference learning	0.0	1	
+Advanced Markov Chain Monte Carlo Methods	0.0	1	
+Data Clustering in C++	0.0	1	
+Dirichlet Process Mixture Models for Text and Video Analysis.	0.0	0	
+Semantic Matching in Search	0.0	1	
+R语言数据分析	0.0	4	
+NLTK Essentials	0.0	5	
+Algorithms of the Intelligent Web	0.0	1	
+半监督学习	0.0	0	
+Spark高级数据分析	0.0	2	
+Trading Agents (Synthesis Lectures on Artificial Intelligence and Machine Learning)	0.0	0	
+Pattern Recognition & Matlab Intro	0.0	1	
+Active Learning	0.0	1	
+Machine Learning for Designers	0.0	4	
+大数据搜索与挖掘	0.0	1	
+Complex-Valued Neural Networks	0.0	2	
+稀疏学习分类与识别(精)	0.0	0	
+Linear and Graphical Models	0.0	0	
+Deep Learning with Java	0.0	1	
+Theoretical Foundations of Artificial General Intelligence	0.0	2	
+MACHINE LEARNING	0.0	2	
+Deep Learning with fastai and PyTorch	0.0	0	
+Machine Learning and Its Applications	0.0	1	
+Adaptive Learning of Polynomial Networks	0.0	1	
+Utility-based Learning from Data	0.0	0	
+机器知行学原理	0.0	1	
+Advanced Image Processing Techniques For Remotely Sensed Hyperspectral Data	0.0	0	
+Introduction To Clustering Large And High Dimensional Data	0.0	0	
+The Subjectivity of Scientists and the Bayesian Approach	0.0	1	
+Signal Processing Techniques for Knowledge Extraction and Information Fusion	0.0	0	
+Learning and Soft Computing	0.0	0	
+Measurement, Judgment and Decision Making	0.0	0	
+Representations and Techniques for 3D Object Recognition and Scene Interpretation	0.0	0	
+Context-Aware Ranking with Factorization Models	0.0	1	
+Recommender Systems for Social Tagging Systems	0.0	0	
+Trust Networks for Recommender Systems	0.0	0	
+舆情信息分析与处理技术	0.0	0	
+ゼロから作るDeep Learning	0.0	5	
+Evaluating Machine Learning Models	0.0	7	
+Mastering Machine Learning with R	0.0	0	
+Learning Predictive Analytics with Python	0.0	1	
+Applications of Artificial Intelligence for Decision-Making	0.0	0	
+Mastering .NET Machine Learning	0.0	0	
+Programming Tool	0.0	0	
+模式识别	0.0	2	
+Pattern Recognition with Fuzzy Objective Function Algorithms (Advanced Applications in Pattern Recognition)	0.0	0	
+Collaborative Filtering	0.0	0	
+Biologically Inspired Optimization Methods	0.0	1	
+Causality	0.0	0	
+Practical Reinforcement Learning	0.0	0	
+Cloud Computing for Machine Learning and Cognitive Applications	0.0	0	
+How to Build a Business Rules Engine	0.0	0	
+Gene Expression Programming	0.0	1	
+Collaborative Filtering Recommender Systems	0.0	0	
+Phase Transitions in Machine Learning	0.0	0	
+Cause Effect Pairs in Machine Learning	0.0	0	
+Mathematics for Machine Learning	0.0	5	
+Deep Learning for Natural Language Processing	0.0	0	
+吴立德学术论文选	0.0	0	
+Statistical Data Analysis Based on the L1-Norm and Related Methods	0.0	0	
+The Likelihood Principle (Ims Lecture Notes-Monograph	0.0	1	
+Computational Intelligence and Feature Selection	0.0	0	
+Signal Theory Methods in Multispectral Remote Sensing	0.0	0	
+InformationExtraction	0.0	0	
+Machine Learning for Human Motion Analysis	0.0	0	
+Multi-Label Dimensionality Reduction	0.0	0	
+Machine Learning and Data Mining for Computer Security	0.0	1	
+Modeling Intention in Email	0.0	0	
+Methods for Mining and Summarizing Text Conversations	0.0	0	
+Learning in Graphical Models	0.0	0	
+Stochastic Approximation and Recursive Algorithms and Applications	0.0	1	
+Applied Abstract Algebra	0.0	0	
+Machine Learning and Data Mining in Pattern Recognition	0.0	0	
+Container Formats	0.0	0	
+数据挖掘中的特征约简	0.0	0	
+Lifelong Machine Learning	0.0	2	
+Kernel Methods and Machine Learning	0.0	0	
+Foundations of Linear and Generalized Linear Models	0.0	1	
+information geometry and its applications	0.0	2	
+Machine Learning Projects for .NET Developers	0.0	0	
+Activity Learning-从传感器数据中发现.识别和预测人的行为	0.0	0	
+Machine Learning for Audio, Image and Video Analysis	0.0	0	
+Unsupervised Learning with R	0.0	0	
+网络流量分类方法与实践	0.0	2	
+R Machine Learning By Example	0.0	0	
+Deep Learning 52 Success Secrets	0.0	0	
+Backpropagation	0.0	0	
+Statistical Learning and Pattern Analysis for Image and Video Processing	0.0	0	
+Applied Perception in Thermal Infrared Imagery	0.0	1	
+Practical Machine Learning	0.0	1	
+Introduction to Deep Learning Using R	0.0	0	
+面向智能体的知识工程	0.0	1	
+智能分类方法	0.0	1	
+Finding Out About	0.0	0	
+Bayesian Reasoning and Machine Learning	0.0	2	
+Computer Systems That Learn	0.0	0	
+Elements of Pattern Theory	0.0	0	
+Programming PyTorch for Deep Learning	0.0	3	
+Practical Deep Learning for Cloud and Mobile	0.0	0	
+稀疏建模理论、算法及其应用	0.0	2	
+Machine Learning: a Concise Introduction (Wiley Series in Probability and Statistics)	0.0	0	
+Kernel Based Algorithms for Mining Huge Data Sets	0.0	0	
+Complex-Valued Neural Networks	0.0	1	
+Numerical Linear Algebra	0.0	0	
+Simulation-based Algorithms for Markov Decision Processes (Communications and Control Engineering)	0.0	1	
+Mixed Models	0.0	1	
+The Practice of Data Analysis	0.0	1	
+Adaptive Representations for Reinforcement Learning	0.0	1	
+Machine Learning for Vision-based Motion Analysis	0.0	0	
+Handbook of Geometric Computing	0.0	1	
+Random Processes and Learning.	0.0	0	
+Cognitive Carpentry	0.0	0	
+High Dimensional Data Analysis	0.0	0	
+High-Dimensional Data Analysis	0.0	0	
+Numerische Optimierung von Computer-Modellen mittels der Evolutionsstrategie	0.0	0	
+Neural Networks for Control	0.0	0	
+Machine Audition	0.0	0	
+Cross-Language Information Retrieval	0.0	0	
+Introduction to General and Generalized Linear Models	0.0	0	
+Machine Learning Algorithms for Problem Solving in Computational Applications	0.0	0	
+Statistical Pattern Recognition	0.0	0	
+Explanation-Based Neural Network Learning	0.0	0	
+Learning to Rank with Partially-Labeled Data.	0.0	0	
+Business Intelligence Pocket Guide	0.0	0	
+Readings in Machine Learning	0.0	0	
+Automatic Summarization	0.0	1	
+Data Mining Algorithms	0.0	0	
+Studyguide for Pattern Recognition by Sergios Theodoridis, ISBN 9781597492720	0.0	0	
+機械学習のための確率と統計	0.0	1	
+Deep Learning with Hadoop	0.0	1	
+Mastering Machine Learning with R - Second Edition	0.0	0	
+Advanced State Space Methods for Neural and Clinical Data	0.0	0	
+R语言——迈向大数据之路	0.0	1	
+Simulation neuronaler Netze	0.0	0	
+Neural network architectures	0.0	0	
+Learning From Data	0.0	0	
+R Machine Learning Essentials	0.0	0	
+Advances in Machine Learning Research	0.0	1	
+Machine Learning for Vision-Based Motion Analysis	0.0	0	
+Learning to Learn	0.0	0	
+The Foundations of Artificial Intelligence	0.0	0	
+High-dimensional Data Analysis in Cancer Research	0.0	0	
+Handbook of Mixed Membership Models and Their Applications	0.0	0	
+Searching and Ranking in Entity-Relationship Graphs	0.0	0	
+Support Vector Machines	0.0	0	
+List of Machine Learning Algorithms	0.0	0	
+Evolutionsstrategie. Optimierung technischer Systeme nach Prinzipien der biologischen Evolution. .	0.0	0	
+Parallel Models of Human Associative Memory	0.0	0	
+群体智能化算法及其在GPU上的并行化研究	0.0	1	
+Generalized Linear Models	0.0	0	
+Python Machine Learning Case Studies	0.0	2	
+Deep Learning for Business with Python	0.0	0	
+Data Mining With Decision Trees	0.0	0	
+Practical Convolutional Neural Networks	0.0	0	
+Machine Learning	0.0	0	
+类别不平衡学习(理论与算法)	0.0	3	
+Elementary Statistics	0.0	0	
+深度学习：入门与实践	0.0	4	
+Kalman and Bayesian Filters in Python	0.0	6	
+Machine Learning	0.0	0	
+Practical Artificial Intelligence	0.0	0	
+Feature Engineering for Machine Learning and Data Analytics	0.0	2	
+Machine Learning for Finance	0.0	0	
+Algorithmic Aspects of Machine Learning	0.0	0	
+Model-Based Machine Learning	0.0	0	
+TensorFlow深度学习	0.0	2	
+Applied Artificial Intelligence	0.0	1	
+Twin Support Vector Machines	0.0	0	
+Feature Selection for High-Dimensional Data (Artificial Intelligence	0.0	0	
+Empirical Approach to Machine Learning	0.0	0	
+Applied Deep Learning with Python	0.0	0	
+Deep Learning Techniques for Music Generation	0.0	0	
+Numsense!	0.0	4	
+基于R语言的证券公司信用风险计量和管理	0.0	0	
+Introduction to Deep Learning	0.0	1	
+Deep Learning with PyTorch	0.0	8	
+Beginning Machine Learning in iOS	0.0	1	
+Machine Learning in Production	0.0	0	
+Deep Learning Pipeline	0.0	0	
+Industrial Machine Learning	0.0	0	
+	0.0	1	
+Applied Machine Learning	0.0	0	

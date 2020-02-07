@@ -1,0 +1,847 @@
+Scala函数式编程	8.7	79	
+快学Scala	7.5	210	
+Scala编程	8.1	163	
+POCKET VISUAL ENCY- ISLAMIC ART	0.0	4	
+David	0.0	0	
+999 ARTWORKS YOU MUST KNOW	0.0	0	
+POCKET VISUAL ENCY- IMPRESSIONISM	0.0	0	
+POCKET VISUAL ENCY-ART IN 19TH CENTURY	0.0	0	
+Programming in Scala	8.9	161	
+Functional Programming in Scala	9.2	64	
+Scala编程（第3版）	9.5	51	
+Scala程序设计（第2版）	8.3	37	
+响应式架构	7.9	21	
+Scala程序设计	7.8	194	
+Programming in Scala, Third Edition	9.4	37	
+Reactive Messaging Patterns with the Actor Model	0.0	3	
+Programming in Scala	9.2	89	
+快学Scala（第2版）	8.3	17	
+The Definitive Guide to Lift	0.0	9	
+深入理解Scala	6.8	51	
+Programming Scala	7.9	47	
+Lift in Action	0.0	6	
+sbt in Action	0.0	9	
+Scala for the Impatient	8.0	54	
+Scala in Depth	8.4	20	
+Scala编程思想（原书第2版）	7.4	34	
+Scala	0.0	0	
+Scala	0.0	0	
+Scala	0.0	0	
+Scala	0.0	0	
+Scala	0.0	0	
+Scala	0.0	0	
+Scala Cookbook	8.5	34	
+Functional Programming Patterns in Scala and Clojure	7.2	13	
+Scala并发编程	6.2	14	
+Scala与Clojure函数式编程模式	7.2	22	
+Beginning Scala	7.4	28	
+Scala in Action	6.8	18	
+Programming Scala	7.4	27	
+Learning Scala	8.6	28	
+Play for Scala	7.5	12	
+Scala for Data Science	0.0	1	
+Scala 编程实战	8.2	10	
+Programming Scala	9.3	15	
+Actors in Scala	0.0	9	
+Scala学习手册	9.2	26	
+Scala编程（第2版 影印版 英文版）	0.0	4	
+高性能Scala	0.0	6	
+Testing in Scala	0.0	6	
+Learning Concurrent Programming in Scala	0.0	3	
+Concurrent Application Development Using Akka With Scala	0.0	0	
+Steps in Scala	0.0	1	
+Pro Scala	0.0	0	
+Scala Puzzlers	0.0	2	
+Concurrent Programming Languages	0.0	0	
+Scala集合技术手册	0.0	9	
+Scala for the Impatient	7.7	11	
+Building a Recommendation Engine with Scala	0.0	1	
+Scala for Java Developers	0.0	4	
+Pragmatic Scala	0.0	4	
+Scala 实用指南	8.7	38	
+Modern Systems Programming with Scala Native	0.0	1	
+Getting Started with SBT for Scala	0.0	1	
+cats with scala	0.0	2	
+Reactive Programming with Scala and Akka	0.0	1	
+Michelangelo	0.0	1	
+Functional Programming	0.0	2	
+Scala开发快速入门	0.0	2	
+Akka Cookbook	0.0	0	
+乌斐济-伟大艺术杰作	8.2	39	
+反应式设计模式	8.2	31	
+Introduction to the Art of Programming Using Scala	0.0	1	
+Learning Concurrent Programming in Scala - Second Edition	0.0	2	
+Voci	0.0	1	
+Modern Programming Made Easy	0.0	1	
+A Tale of Four Houses	0.0	0	
+Category Theory for Programmers	0.0	1	
+プログラミングScala	0.0	0	
+Introduction to Programming and Problem-Solving Using Scala, Second Edition	0.0	1	
+Scientific Computing with Scala	0.0	0	
+Scala and Spark for Big Data Analytics	0.0	2	
+Scala语言基础与开发实战	0.0	1	
+Fortilizi e campi di battaglia nel Medioevo attorno a Siena	0.0	0	
+Buildings and Structures in Milan	0.0	0	
+Objektorientierte Programmiersprache	0.0	0	
+A   Description of the Vatican Picture Galleries	0.0	0	
+Giuditta	0.0	0	
+Developing an Akka Edge	0.0	0	
+Scala Design Patterns	0.0	1	
+Studyguide for Twentieth Century Europe	0.0	0	
+Philosophische Werke 1	0.0	0	
+Scala谜题	0.0	7	
+Scala Design Patterns, 2nd	0.0	0	
+Learn Scala Programming	0.0	0	
+Java程序员修炼之道	7.3	110	
+Designing with Type, 5th Edition	0.0	9	
+函数响应式领域建模	8.5	20	
+Scala for Machine Learning	0.0	0	
+Oceano Mare (Scala) (Italian Edition)	0.0	3	
+The Frick Collection	0.0	1	
+Inkscape 0.48 Illustrator's Cookbook	0.0	1	
+Scala机器学习	0.0	3	
+Эрмитаж. Шедевры живописи	0.0	2	
+Seta (Scala) (Italian Edition)	0.0	2	
+Castelli Di Rabbia (Scala) (Italian Edition)	0.0	2	
+Scala for Spark in Production	0.0	0	
+Scala Latina Scala Latina	0.0	0	
+Memorie Di Giambittista Scala; Intorno Ad Un Suo Viaggio in Abbeockuta Fatto Nell'anno 1858	0.0	0	
+Memoirs of Giambattista Scala	0.0	0	
+Italian Stage Designs from the Museo Teatrale Alla Scala, Milan	0.0	0	
+Memorie Di Giambittista Scala ...	0.0	0	
+Opening Night at La Scala	0.0	0	
+学习Scala（影印版）	0.0	0	
+Scala Microservices: Develop, deploy, and run microservices with Scala	0.0	0	
+Essays and Dialogues	0.0	1	
+Chairs	0.0	1	
+Scala Design Patterns	0.0	2	
+Atomic Scala	0.0	1	
+Steps in Scala	0.0	0	
+Weekly Meditations	0.0	1	
+Treasures of the Fitzwilliam Museum	0.0	0	
+Seattle Art Museum	0.0	1	
+Fractional Calculus Models and Numerical Methods	0.0	0	
+Teatro Alla Scala	0.0	1	
+Finitary Probabilistic Methods in Econophysics	0.0	0	
+Santa Maria Della Scala	0.0	0	
+Ancient Law	0.0	0	
+Scala: From a Functional Programming Perspective: An Introduction to the Programming Language (Lecture Notes in Computer Science)	0.0	0	
+Claudio Abbado alla Scala	0.0	0	
+Diary of a Teddy Boy	0.0	0	
+Scala Functional Programming Patterns	0.0	1	
+Scala Data Analysis Cookbook	0.0	0	
+New York Art Museums	0.0	1	
+Surrealism	0.0	0	
+Bartolomeo Scala	0.0	0	
+Mad Hungry	0.0	0	
+Santa Maria Della Scala	0.0	0	
+Roberto Bolle Alla Scala	0.0	0	
+Courtauld Institute of Art Gallery	0.0	1	
+The Four Faces of the Republican Party and the Fight for the 2016 Presidential Nomination	0.0	0	
+Die Staatsverträge Des Altertums	0.0	0	
+Get Programming with Scala	0.0	0	
+RESTful Web Services with Scala	0.0	0	
+Italy	0.0	0	
+Renaissance Fables	0.0	0	
+Twentieth Century Europe	0.0	0	
+The New Eating Right for a Bad Gut	0.0	0	
+La pupa di zucchero (La scala)	0.0	0	
+Lucinda's Authentic Jamaican Kitchen	0.0	0	
+25 Natural Ways to Manage Stress and Avoid Burnout	0.0	0	
+20 Natural Ways to Reduce the Risk of Prostate Cancer	0.0	0	
+25 Natural Ways to Control Irritable Bowel Syndrome	0.0	0	
+25 Natural Ways to Lower Blood Pressure	0.0	0	
+Italian Paintings and Drawings	0.0	0	
+Mosques of Istanbul	0.0	0	
+Lucinda's Rustic Italian Kitchen	0.0	0	
+Working Together	0.0	0	
+Paint Made Flesh	0.0	0	
+The Post-historical Middle Ages	0.0	0	
+Sanity Savers	0.0	0	
+Rise & Fall of a La Scala Diva	0.0	0	
+Three Voices	0.0	0	
+Prescription for Longevity	0.0	0	
+Nationalmuseum Stockholm	0.0	1	
+Art Treasures of Kelvingrove	0.0	0	
+Stormy Weather	0.0	0	
+Dr Swarthmore	0.0	0	
+Quelli Della Natione Inglese, Interessati Nel Negotio, Incaminato a Nizza & Villa Franca, Per Maggiormente Aduantaggiare Quella Scala, Supplicano S.A.	0.0	0	
+Notizie Storiche E Descrizione Dell' I. R. Teatro Della Scala	0.0	0	
+Statuti Volgari de Lo Spedale Di Santa Maria Vergine Di Siena	0.0	0	
+Scala Philosophica	0.0	0	
+Saggio Storico Critico Sul Corpo del Diritto Canonico	0.0	0	
+Scala Philosophica	0.0	0	
+Die Studien Des Polybios V1	0.0	0	
+Saggio Storico Critico Sul Corpo del Diritto Canonico	0.0	0	
+Scala Latina	0.0	0	
+Cenni Sul Teatro Alla Scala	0.0	0	
+Cenni Sul Teatro Alla Scala	0.0	0	
+Compendio Istorico Cronologico Delle Cose Piu Cospicue Concernenti La Scala Santa	0.0	0	
+Scala Deacentsa -A Cents Meriti a Capo Dacentsa -A Centsanno Trattato Geometrico	0.0	0	
+La Scala West	0.0	0	
+Resume Shortcuts	0.0	0	
+Scala Latina	0.0	0	
+Twenty Questions for Robbie Dunkle	0.0	0	
+Compendio Istorico Cronologico Delle Cose Piu Cospicue Concernenti La Scala Santa	0.0	0	
+Energy	0.0	0	
+Renoir	0.0	0	
+Brooklyn Museum of Art	0.0	0	
+Eight Great Impressionist and Post-Impressionist Paintings	0.0	0	
+Memorie Storiche Della Scala Santa	0.0	0	
+The Hunt Museum	0.0	0	
+Manchester Art Gallery	0.0	0	
+Poetic Verses, Volume 1	0.0	0	
+Scala or Ladder to the Mystic Path	0.0	0	
+Saggio Storico Critico Sul Corpo del Diritto Canonico	0.0	0	
+Das Handels-Museum V2, II Semester 1887	0.0	0	
+Pauli Principis de La Scala Et Hun	0.0	0	
+The New Art Gallery, Walsall	0.0	0	
+Grande Scala	0.0	0	
+Pauli Principis de La Scala Et Hun	0.0	0	
+Pauli Principis de La Scala Et Hun	0.0	0	
+Intelligentes Krankenhaus	0.0	0	
+La Scala Di Valutazione Cognitiva Leiter-R	0.0	0	
+Das Offentliche Organisieren	0.0	0	
+Cangrande I Della Scala ...	0.0	0	
+Words for the Heart	0.0	0	
+Scala Naturae	0.0	0	
+Pop design. Fuori scala, fuori luogo, fuori schema. Catalogo della mostra	0.0	0	
+Strukturvielfalt in Naturschutzgebieten	0.0	0	
+U.S. Supreme Court Transcript of Record Washington Railway & Electric Co V. Scala	0.0	0	
+Parma Liberata Dal Giogo Di Mastino Della Scala Addi 21 Maggio 1341; Canzone Politica	0.0	0	
+Parma Liberata Dal Giogo Di Mastino Della Scala Add 21 Maggio 1341	0.0	0	
+Scala Naturae	0.0	0	
+Die Studien Des Polybios, Volume 1	0.0	0	
+Scala or Ladder to the Mystic Path	0.0	0	
+Scala Philosophica	0.0	0	
+Alberto Della Scala	0.0	0	
+Notizie Storiche E Descrizione Dell' I. R. Teatro Della Scala	0.0	0	
+Saggio Storico Critico Sul Corpo del Diritto Canonico	0.0	0	
+Epistres Francoises Des Personnages Illustres Et Doctes, a Joseph Juste de La Scala	0.0	0	
+Das Handels-Museum V2, II Semester 1887	0.0	0	
+Epistres Francoises Des Personnages Illustres Et Doctes, a Jepistres Francoises Des Personnages Illustres Et Doctes, a Joseph Juste de La Scala	0.0	0	
+Compendio Istorico Cronologico Delle Cose Piu Cospicue Concecompendio Istorico Cronologico Delle Cose Piu Cospicue Concernenti La Scala Santa	0.0	0	
+Scala de' Meriti a Capo D'Anno Trattato Geometrico	0.0	0	
+The Arthritis Relief Diet	0.0	0	
+Love X's 4	0.0	0	
+Teatro Alla Scala	0.0	0	
+Quando Nacque Cangrande I Della Scala	0.0	0	
+Vittorio Orlando, Italy	0.0	0	
+Memorie Storiche Della Scala Santa	0.0	0	
+Scala Latina	0.0	0	
+Scala Grimaldelli	0.0	0	
+Epistres Francoises Des Personnages Illustres Et Doctes, a Joseph Juste de La Scala	0.0	0	
+Scala de' Meriti a Capo D'Anno Trattato Geometrico	0.0	0	
+Compendio Istorico Cronologico Delle Cose Piu Cospicue Concernenti La Scala Santa	0.0	0	
+Epistres Francoises Des Personnages Illustres Et Doctes, a Joseph Juste de La Scala	0.0	0	
+Scala de' Meriti a Capo D'Anno	0.0	0	
+Scala Grimaldelli	0.0	0	
+Pauli Principis de La Scala Et Hun	0.0	0	
+Monna Lisa	0.0	0	
+Scala Naturae	0.0	0	
+Scala de' Meriti a Capo D'Anno Trattato Geometrico	0.0	0	
+Notizie Storiche E Descrizione Dell' I. R. Teatro Della Scala	0.0	0	
+Das Handels-Museum V2, II Semester 1887	0.0	0	
+Memorie Storiche Della Scala Santa	0.0	0	
+Die Studien Des Polybios V1	0.0	0	
+Die Studien Des Polybios V1	0.0	0	
+Scala Naturae	0.0	0	
+Monna Lisa	0.0	0	
+Notizie Storiche E Descrizione Dell' I. R. Teatro Della Scala	0.0	0	
+Memorie Storiche Della Scala Santa	0.0	0	
+Scala Philosophica	0.0	0	
+Collect	0.0	0	
+The Hepworth Wakefield	0.0	0	
+Scala Naturae	0.0	0	
+Das Handels-Museum V2, II Semester 1887	0.0	0	
+Monna Lisa	0.0	0	
+Scala V. U.S. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Mad Hungry Cravings	0.0	0	
+Mad Hungry	0.0	0	
+Monna Lisa	0.0	0	
+Saggio Storico Critico Sul Corpo del Diritto Canonico Ossia Evoluzione Storica del Diritto Canonico Nel Medio Evo	0.0	0	
+Die Studien Des Polybios, Volume 1...	0.0	0	
+Die Studien Des Polybios, Volume 1...	0.0	0	
+Scala Naturae	0.0	0	
+Dilemmas of Italian Socialism Politics of Filippo Turati	0.0	0	
+Cenni Sul Teatro Alla Scala	0.0	0	
+Mike Di Scala	0.0	0	
+TEATRO ALLA SCALA CRONOLOGIA DI TUTTI G	0.0	0	
+Veprecula Scala	0.0	0	
+LA SCALA DEL PARADISO TESTO DI LINGUA C	0.0	0	
+LA SCALA DEL PARADISO DI S. GIOVANNI CL	0.0	0	
+Cansignorio Della Scala	0.0	0	
+Beatrice Regina Della Scala	0.0	0	
+CANSIGNORIO DELLA SCALA	0.0	0	
+CANGRANDE I DELLA SCALA . GERMAN EDITIO	0.0	0	
+Baroque/Barock/Barok	0.0	0	
+African Art	0.0	0	
+Romanesque Art	0.0	0	
+Cenni Sul Teatro Alla Scala	0.0	0	
+Monna Lisa; Or, the Quest of the Woman Soul	0.0	0	
+Scala or Ladder to the Mystic Path	0.0	0	
+La Scala del Paradiso Testo Di Lingua Corretto Su Antichi Code Mss.	0.0	0	
+Statutes of the Hospital of the Holy Virgin Mary of Siena, A.D. 1305, Tr. by H.P. Wright	0.0	0	
+Statutes of the Hospital of the Holy Virgin Mary of Siena, A.D. 1305, Tr. by H.P. Wright	0.0	0	
+Die Studien Des Polybios V1	0.0	0	
+Scala Sancta	0.0	0	
+Teatro Alla Scala, 1776-1881	0.0	0	
+\Was Uns Noth Thut!\"	0.0	0	
+La Scala del Paradiso Di S. Giovanni Climaco	0.0	0	
+Scala Grca, a Series of Elementary Greek Exercises, by J.W. Davis and R.W. Baddeley	0.0	0	
+Teatro Alla Scala	0.0	0	
+La Scala del Paradiso Testo Di Lingua Corretto Su Antichi Code Mss.	0.0	0	
+La Scala Di Seta, Grottesco in Tre Atti	0.0	0	
+Giambattista Scala, Capitano Marittimo, Esplatore Ed Introduttore D'Industrie Civili in Guinea	0.0	0	
+Monna Lisa; Or, the Quest of the Woman Soul	0.0	0	
+Escudo Pol Tico de La Entrada del Miserere Nobis de La Missa Scala Aretina, Que Compuso... Francisco Valls... y Lo Ofrece Al P Blico	0.0	0	
+The Italian Opera in 1839, by the Author of 'The Star of La Scala'.	0.0	0	
+Scala Di Vita Memoriale, in Terza Rima	0.0	0	
+Monna Lisa; Or, the Quest of the Woman Soul	0.0	0	
+Das Griechentum in Seiner Geschichtlichen Entwicklung	0.0	0	
+O Ultimo Cartuxo Da Scala Caeli de Evora	0.0	0	
+A Devout Way of Ascending the Scala Santa	0.0	0	
+Fairy Tales, Monsters and the Genetic Imagination	0.0	0	
+Creation Story	0.0	0	
+Creation Story	0.0	0	
+Memorie Storiche Della Scala Oanta ...	0.0	0	
+Die Staatsvertr GE Des Altertums	0.0	0	
+Oesterreichische Monatsschrift Fur Den Orient Herausgegeben Vom Orientalischen Museum	0.0	0	
+Scala or Ladder to the Mystic Path	0.0	0	
+Gioachino Rossini - La Scala Di Seta	0.0	0	
+Oesterreichische Monatsschrift Fur Den Orient Herausgegeben Vom Orientalischen Museum	0.0	0	
+Traditional Baby Names	0.0	0	
+La Scala	0.0	0	
+Absent Narratives, Manuscript Textuality, and Literary Structure in Late Medieval England	0.0	0	
+Die Studien Des Polybios, Volume 1	0.0	0	
+Scala Naturae; And Other Poems	0.0	0	
+de Scala Sancta Ante Sancta Sanctorum in Laterano Culta Opusculum	0.0	0	
+Teatro Alla Scala. Cronologia Di Tutti Gli Spettacoli Rappresentati in Questo Teatro Dal Giorno del Solenne Suo Aprimento Sino Ad Oggi, Con Introduzio	0.0	0	
+Sermon En Las Honras Que La ... Ciudad de Cordoba Dedico Al M.R. ... Fr. Francisco de Possadas, Hijo del Convento de Scala-Caeli de El Orden de Predic	0.0	0	
+La Scala World Premieres	0.0	0	
+Della Miseria Dell'uomo, Giardino Di Consolazione, Introduzione Alle Virt; Aggiuntavi, La Scala Dei Claustrali, Testi Inediti, Tranne Il Terzo Trattat	0.0	0	
+Scala Sancta, Or, the Exaltation of the Soul Being a Train of Pious Thoughts Compleating the Whole Duty of Man	0.0	0	
+Della Scala	0.0	0	
+Diary of a Teddy Boy	0.0	0	
+Web Address Password Book	0.0	0	
+Someone to Love	0.0	0	
+High Blood Pressure Diet Against it	0.0	0	
+Mapping The Political Landscape An Introduction to Political Science	0.0	0	
+Das Griechentum in Seiner Geschichtlichen Entwicklung...	0.0	0	
+Gpu Parallel Collections for Scala.	0.0	0	
+de Ascensione Mentis in Deum Per Scalas Rerum Creatarum Liber Singularis	0.0	0	
+de Ascensione Mentis in Devm Per Scalas Rervm Creatarvm	0.0	0	
+La Scala del Paradiso; Testo Di Lingua Corretto Su Antichi Codici Mss.	0.0	0	
+Italian Socialism	0.0	0	
+Death and Other Lifelong Stories	0.0	0	
+Monna Lisa; Or, the Quest of the Woman Soul	0.0	0	
+Mani Re de Monter Avec Fruit La Scala Santa...	0.0	0	
+Teatro Alla Scala	0.0	0	
+Civilizations/Civilizations/Beschavingen	0.0	0	
+Impressionism/Impressionismus/Impressionisme/Impresionismo	0.0	0	
+Gothic Art/Gotik/Gotiek/Gotico	0.0	0	
+Greek & Roman Art/Griechische Und Romische Kunst/Griekse En Romeinse Kunst/Arte Griego y Arte Romano	0.0	0	
+Walking with Presidents	0.0	0	
+Scala Jacob Ascendendo Et Descendendo	0.0	0	
+Memorie Storiche Della Scala Santa E Dell'insigne Santuario Di Sancta Sanctorum......	0.0	0	
+Oesterreichische Monatsschrift Fur Den Orient. Redigirt Von A. Von Scala...	0.0	0	
+Back to the Basics	0.0	0	
+The Italian Opera in 1839, by the Author of 'The Star of La Scala'....	0.0	0	
+Facilitating Collaboration in Public Management	0.0	0	
+Facilitating Collaboration in Public Management	0.0	0	
+Lighting	0.0	0	
+Le Americhe in Scala 1	0.0	0	
+Descrizione Ed USO Di Una Nuova Scala Da Applicarsi Al Barometro Per Conoscere Le Altezze Dei Luoghi Senza Calcolo	0.0	0	
+Scala Santa...	0.0	0	
+Scala Mistica Dell'umilta Che Appogia Al Cielo E a Dio Per La Novena del Glorioso Patriarca S. Benedetto Abate......	0.0	0	
+Picasso Guernica	0.0	0	
+La Scala del Paradiso	0.0	0	
+de Ascensione Mentis in Deum Per Scalas Rerum Creatarum Liber Singularis...	0.0	0	
+Reading on Location	0.0	0	
+Collectables 20th-century Classics	0.0	0	
+Life and Other Long Dead Tales	0.0	0	
+Everything After Before and Inbetween	0.0	0	
+The Star of La Scala	0.0	0	
+Key States, High Stakes	0.0	0	
+Scala Jacob Ascendo, & Descendendo. Das Ist	0.0	0	
+Beckoned	0.0	0	
+Object-Orientation, Abstraction, and Data Structures Using Scala, Second Edition (Chapman & Hall/CRC Textbooks in Computing)	0.0	0	
+Un palco all'opera. Il Teatro alla Scala nelle pagine del Corriere della Sera	0.0	0	
+Professional Scala	0.0	0	
+Building applications with Scala	0.0	0	
+cangrande della scala	0.0	0	
+Scala High Performance Programming	0.0	2	
+Beep Beep Goes the Bus Driver	0.0	0	
+Fluidized-bed Technologies for Near-zero Emission Combustion and Gasification	0.0	0	
+Jack Spencer	0.0	0	
+Jack Spencer	0.0	0	
+Impressionism	0.0	0	
+Precolumbian Art	0.0	0	
+Modern Art	0.0	0	
+Frescos	0.0	0	
+Impressionism	0.0	0	
+Flemish & Dutch Painting	0.0	0	
+Ancient American Art/Altamerikanische Kunst/L'Art Precolombien/Precolombiaanse Kunst	0.0	0	
+Art Nouveau/Jugendstil	0.0	0	
+20th Century Art/Kunst Des 20. Jahrhunderts/L'Art Du XXe Siecle/Kunst Van de 20e Eeuw	0.0	0	
+Bartolomeo Scala Fourteen Thirty to Fourteen Ninety Seven Chancellor of Florence	0.0	0	
+Howard Fogg and the Diesel Image	0.0	0	
+Scala Mercalli	0.0	0	
+Fuochi fiammanti a un'hora di notte (La scala) (Italian Edition)	0.0	0	
+Steps in Scala	0.0	0	
+The Commedia Dell'arte of Flaminio Scala	0.0	0	
+Benozzo Gozzoli (Scala Art)	0.0	0	
+One on One Baseball	0.0	0	
+The Beaney House of Art and Knowledge Highlights	0.0	0	
+Scala Eisrevue	0.0	0	
+The Message to Mankind	0.0	0	
+Diary of a Teddy Boy	0.0	0	
+The Message to Mankind	0.0	0	
+Salvatore Scala	0.0	0	
+Scala Sancta	0.0	0	
+Scala Browne Agency	0.0	0	
+Tourismus Und Sozio-Kultureller Wandel in Nepal	0.0	0	
+Monna Lisa or the Quest of the Women Soul	0.0	0	
+SCALA GRIMALDELLI LIBRO DI ARITMETICA E	0.0	0	
+TEATRO ALLA SCALA. CRONOLOGIA DI TUTTI	0.0	0	
+LA SCALA DEL PARADISO DI S. GIOVANNI CL	0.0	0	
+SCALA GR CA A SERIES OF ELEMENTARY GRE	0.0	0	
+LA SCALA DEL PARADISO TESTO DI LINGUA C	0.0	0	
+Scala Eisrevue	0.0	0	
+QUANDO NACQUE CANGRANDE I DELLA SCALA C	0.0	0	
+Spencer M. Di Scala	0.0	0	
+Scala Browne Agency	0.0	0	
+Scala Theatre	0.0	0	
+Scala Tympani	0.0	0	
+Maria Callas The Scala Years	0.0	0	
+Alboino I. Della Scala	0.0	0	
+Foujita alla Scala	0.0	0	
+Usellini alla Scala	0.0	0	
+Hockney alla Scala	0.0	0	
+Svoboda alla Scala	0.0	0	
+Ceroli alla Scala	0.0	0	
+L&eacute;onor Fini alla Scala	0.0	0	
+Vakhevitch alla Scala	0.0	0	
+La Scala. Milan&#039;s opera house	0.0	0	
+Atlante di Roma. La forma del centro storico in scala 1	0.0	0	
+Zuffi alla Scala	0.0	0	
+O ULTIMO CARTUXO DA SCALA CAELI DE EVOR	0.0	0	
+Learning Through Experience	0.0	0	
+Antonio Ghiringhelli una vita per la Scala	0.0	0	
+Edel alla Scala	0.0	0	
+Tosi alla Scala	0.0	0	
+Burri alla Scala	0.0	0	
+Gio Ponti alla Scala	0.0	0	
+Luzzati alla Scala	0.0	0	
+Buzzati alla Scala	0.0	0	
+Il parco naturale regionale di Montemarcello, Magra e Alta Via dei monti liguri. Scala 1	0.0	0	
+Atlante di Siviglia. La forma del centro storico in scala 1	0.0	0	
+La Scala	0.0	0	
+A scena aperta. Scala e teatri tra riforme e conservazione	0.0	0	
+Notizie storiche e descrizione dell&#039;i.r. Teatro della Scala	0.0	0	
+TEATRO ALLA SCALA 1776-1881 COMMISSIONI	0.0	0	
+Museo Teatrale Alla Scala	0.0	0	
+Scala Eisrevue	0.0	0	
+Scala Sancta	0.0	0	
+Scala Vestibuli	0.0	0	
+Art of Africa/Arikanische Kunst/Afrikaanse Kunst/Arte Africano	0.0	0	
+La Dolce Vita	0.0	0	
+The Italian Renaissance	0.0	0	
+Oceanic Art/Ozeanische Kunst/Oceanische Kunst/Arte Oceanico	0.0	0	
+SCALA DE MERITI A CAPO DANNO TRATTATO G	0.0	0	
+Italian Stage Designs from the Museo Teatrale Alla Scala, Milan	0.0	0	
+Scala & Kolacny Brothers	0.0	0	
+Scalptia Scala	0.0	0	
+Alberto I. Della Scala	0.0	0	
+Alberto II. Della Scala	0.0	0	
+La Scala	0.0	0	
+Steps in Scala	0.0	0	
+Scala for Java Developers	0.0	0	
+A taste of Functional Programming in Scala	0.0	0	
+Practical Scala DSLs	0.0	0	
+The Four Faces of the Republican Party	0.0	0	
+Programming with Scala: Language Exploration (Undergraduate Topics in Computer Science)	0.0	0	
+A Beginner's Guide to Scala, Object Orientation and Functional Programming	0.0	0	
+Functional Programming, Simplified: (Scala Edition)	0.0	2	
+Spark编程基础（Scala版）	0.0	4	
+Renewing Italian Socialism	0.0	0	
+An Architectural Alphabet	0.0	0	
+Gaetano Donizetti, Maria Stuarda, Antonio Fogliani, Teratro Alla Scala	0.0	0	
+A Description of the Vatican Picture Galleries: A Short Notice Referring to the History of the Vatican Palace, Scala Regia (Royal Stair), Sala Regia (Royal Hall), the Sixtine Chapel, Chapel of St. Pius V, Modern Picture Galleries, the Hall of the Immacula	0.0	0	
+Idante, Ovvero I Sagrifizj d'Ecate: Dramma Per Musica, Da Rappresentarsi Nel Regio-Ducal Teatro Alla Scala Di Milano, Il Carnevale Dell'anno 1800 (Classic Reprint)	0.0	0	
+Scala Naturae: And Other Poems - Scholar's Choice Edition	0.0	0	
+Scala Guide to Art on the Internet	0.0	0	
+Practical Apache Spark: Using the Scala API	0.0	0	
+Scala Cinema, 1978-1993	0.0	0	
+Scala for Machine Learning - Second Edition	0.0	0	
+Data Structures and Algorithms with Scala	0.0	2	
+Scala Test Driven Development	0.0	0	
+Learning Scala Programming	0.0	0	
+Spark大数据编程基础（Scala版） 高等教育大数据科学与技术“十三五”规划教材	0.0	1	
+大数据实训案例——电信用户行为分析（Scala版）	0.0	0	
+Scala机器学习：构建现实世界机器学习和深度学习项目	0.0	0	
+Modern Scala Projects	0.0	0	
+Scala Programming Projects	0.0	0	
+Scalatra in Action	0.0	2	
+架构真经	7.5	68	
+Spark大数据处理：技术、应用与性能优化	6.6	56	
+Akka in Action	8.3	17	
+Advanced Analytics with Spark	8.3	22	
+DSLs in Action	7.7	15	
+Akka Concurrency	7.0	11	
+Musee d'Orsay	0.0	2	
+The Galleria Borghese The Masterpieces	0.0	3	
+Effective Akka	0.0	9	
+A ciel ouvert	0.0	1	
+Filippo Lippi	0.0	2	
+From the Gothic to the Renaissance	0.0	0	
+Impressionismus	0.0	0	
+La bande dessinée	0.0	0	
+Veronese - The Great Masters of Art	0.0	1	
+A ciel ouvert (Tableaux choisis) (French Edition)	0.0	0	
+The Kunsthistorisches Museum Vienna	0.0	0	
+National Galerie Berlin Highlights	0.0	0	
+Art Spaces	0.0	0	
+CATHEDRAL OF SEVILLE	0.0	0	
+Bibliothèque nationale de France	0.0	0	
+Pontormo Rosso Fiorentino	0.0	0	
+Benvenuto Cellini	0.0	0	
+Della Robbia	0.0	0	
+Roma dove trovare	0.0	0	
+Mafia	0.0	0	
+Akka Essentials	7.3	18	
+Learning Apache Kafka, Second Edition	7.1	18	
+Play for Java	0.0	6	
+Play Framework Cookbook	0.0	4	
+Spark大数据分析实战	5.9	15	
+Reactive Web Applications	0.0	4	
+Spark Cookbook	0.0	4	
+高扩展性网站的50条原则	7.5	65	
+Scalable Internet Architectures	7.4	16	
+Spark GraphX in Action	0.0	5	
+门电路实践(青少年电子入门快车)	0.0	0	
+learning Scalaz	0.0	2	
+Simple Build Tool	0.0	1	
+Instant Lift Web Applications	0.0	2	
+Mastering Akka	0.0	1	
+Scalability Rules	8.0	11	
+Scalable and Modular Architecture for CSS	7.6	14	
+可扩展并行计算技术、结构与编程	0.0	5	
+Telling Images of China	0.0	3	
+Scalable Shared Memory Multiprocessors	0.0	1	
+A Dealer's Hand	0.0	4	
+Role Models	0.0	2	
+National Gallery of Art - Washington	0.0	4	
+Scalability Rules	0.0	3	
+Alamut	0.0	1	
+Masterworks From The Museum Of Modern Art	0.0	3	
+Chinese Romance from a Japanese Brush	0.0	1	
+London 1000 Years	0.0	1	
+Guillermo Kuitca:Everything	0.0	1	
+Juanqinzhai in the Qianlong Garden	0.0	1	
+Scalable Big Data Architecture	0.0	2	
+Scalar waves	0.0	0	
+ScaLAPACK Users' Guide	0.0	0	
+Scalatra in Action	0.0	0	
+Scalable Graph-Based Learning Applied to Human Language Technology.	0.0	0	
+Scalamandre	0.0	1	
+Scalable Parallel Programming Applied to H.264/AVC Decoding	0.0	0	
+Paolo Veronese	0.0	2	
+The Caves of Dunhuang	0.0	2	
+The Wallace Collection	0.0	3	
+Leonardo Da Vinci: The Codex Leicester	0.0	0	
+Scalable Shared-Memory Multiprocessing	0.0	0	
+Scalable Parallel  Computing	0.0	0	
+Scalable Optimization Via Probabilistic Modeling	0.0	0	
+Scalable Video Screaming Over the Internet	0.0	0	
+Scalable Multi-core Architectures	0.0	0	
+Scalability Analysis of Linear Equation Solvers for Sparse Positive Definite Systems	0.0	0	
+Scalacronica	0.0	1	
+ScalaCheck: The Definitive Guide	0.0	1	
+Scalable Algorithms	0.0	0	
+Scalability Patterns: Best Practices for Designing High Volume Websites	0.0	2	
+China	0.0	1	
+罗浮宫博物馆（欧洲绘画）	0.0	0	
+Lambeth Palace Library	0.0	3	
+Scalable Continuous Media Streaming Systems	0.0	0	
+ScalableOptimizationviaProbabilisticModeling	0.0	0	
+Scalable and Secure Internet Services and Architecture (Chapman & Hall/Crc Computer & I)	0.0	0	
+Scalamandre	0.0	0	
+Scalable Infrastructure Design for Distributed Sensor Networks	0.0	0	
+Scalable VoIP Mobility	0.0	0	
+Scalable Uncertainty Management	0.0	0	
+SCALABLE VIDEO ON DEMAND - ADAPTIVE  INTERNET-BASED DISTRIBUTION可升级的因特网视频按需系统	0.0	0	
+Scalable Fuzzy Algorithms for Data Management and Analysis	0.0	0	
+Scalable Input/Output	0.0	0	
+Scalable Video Coding	0.0	0	
+Scalar Wave Theory	0.0	0	
+Scalable Uncertainty Management	0.0	0	
+Scalable Authoring of Diagnostic Case Based Training Systems	0.0	0	
+Scalable Hybrid Data Dissemination for Internet Hot Spots	0.0	0	
+Scalacronica	0.0	0	
+Scalable Uncertainty Management	0.0	0	
+Scalable Network Monitoring in High Speed Networks	0.0	0	
+Scalae Typographicae. Leseproben Fa1/4r Die Nahe. Optotipi. Echelles Typographiques. Near-Vision Test Cards	0.0	0	
+Scalae Typographicae NR 1	0.0	0	
+Scalable Uncertainty Management	0.0	0	
+Scalable Video Coding Based on the Dct Pyramid	0.0	0	
+Scalable Uncertainty Management	0.0	0	
+Scalae Typographicae NR 7	0.0	0	
+Scalability of Networks and Services	0.0	0	
+Scalable Vector Graphics, Including	0.0	0	
+Scalable City	0.0	0	
+Scalable Microchip Ion Traps for Quantum Computation	0.0	0	
+Scalar Interpretation in Deontic Speech Acts	0.0	0	
+Scalability Issues in Authorship Attribution	0.0	0	
+Scalable Hardware Verification with Symbolic Simulation	0.0	0	
+Scalable Information Systems	0.0	0	
+Scalable Techniques for Formal Verification	0.0	0	
+Scalae Primae	0.0	0	
+Scalacronica	0.0	0	
+Scalacronica	0.0	0	
+Scalacronica	0.0	0	
+Scalable Multicasting Over Next-Generation Internet	0.0	0	
+Scalar Wave Theory	0.0	0	
+Scalacronica	0.0	0	
+Scalable Networking Pack	0.0	0	
+Scalapack	0.0	0	
+Scalability Testing	0.0	0	
+Scalaire	0.0	0	
+Scalable Coherent Interface	0.0	0	
+Scalar Field Solution	0.0	0	
+Scalar Resolute	0.0	0	
+Scalar-Tensor Theory	0.0	0	
+Scalawag	0.0	0	
+Scalar	0.0	0	
+SCALAE PRIMAE A FIRST LATIN READER WITH	0.0	0	
+Scalable Vector Graphics	0.0	0	
+Scalable Network Application Package	0.0	0	
+Scalable Networking Pack	0.0	0	
+Scalable 3D Visualization	0.0	0	
+Scalacronica	0.0	0	
+Scalacronica	0.0	0	
+Scalacronica	0.0	0	
+Scalacronica	0.0	0	
+Scalawag in Alabama Politics, 1865-81	0.0	0	
+Scalar Diffraction from a Circular Aperture	0.0	0	
+Scalable Computing and Communications	0.0	0	
+Scalable Hardware Verification with Symbolic Simulation	0.0	0	
+Scalability and Traffic Control in IP Networks	0.0	0	
+Scalability and Traffic Control in IP Networks II	0.0	0	
+Scalacronica 1272-1363	0.0	0	
+Scalable High Performance Computing for Knowledge Discovery and Data Mining	0.0	0	
+Scalable Shared Memory Multiprocessors	0.0	0	
+Scalar Mesons	0.0	0	
+Scalable Video Communications	0.0	0	
+Scalable Detection of Similar Code	0.0	0	
+Scalable Isosurface Visualization.	0.0	0	
+Scalable and Efficient Outlier Detection in Large Distributed Data Sets with Mixed-Type Attributes.	0.0	0	
+Scalar Sign Function-Based Digital Controller Design for Constrained Continuous-Time Nonlinear Systems.	0.0	0	
+Scalability of Findability	0.0	0	
+Scalable and Efficient Data Delivery Protocols for Wireless Sensor Networks.	0.0	0	
+Scalable and Efficient Resource Management with Proximity-Awareness for Computational Grids.	0.0	0	
+Scalable, Self-Healing, and Real-Time Network Services for Directed Diffusion.	0.0	0	
+Scalable Ad-Hoc Routing	0.0	0	
+Scalable Storage Managers for the Multicore Era.	0.0	0	
+Scalable Algorithms for Analysis of Genomic Diversity Data.	0.0	0	
+Scalable Ontology Systems.	0.0	0	
+Scalable Coupling of Multiscale Aeh and Paradyn Analyses for Impact Modeling	0.0	0	
+Scalability of Robotic Controllers	0.0	0	
+Scalacronica	0.0	0	
+Scalability of Robotic Displays	0.0	0	
+Scalable and Efficient Tools for Multi-Level Tiling.	0.0	0	
+Scalable Optical Mems Technology for Quantum Information Processing.	0.0	0	
+Scalable and Elastic Transactional Data Stores for Cloud Computing Platforms.	0.0	0	
+Scalable Graph-Mining Techniques with Applications to Systems Biology.	0.0	0	
+Scalable Formal Dynamic Verification of Mpi Programs Through Distributed Causality Tracking.	0.0	0	
+Scalable Methodology for Performance-Based Selection of Security Services for Distributed Systems.	0.0	0	
+Scalable Capability-Based Authorization for High-Performance Parallel File Systems.	0.0	0	
+Scalability of Robotic Controllers	0.0	0	
+Scalable Parallel Geometric Hashing for Hypercube Simd Architectures	0.0	0	
+Scalable Problems and Memory-Bounded Speedup	0.0	0	
+Scalae S. Joannis Climaci Tentata Versio, & Explanatio. MDCCLXXXIV...	0.0	0	
+Scalamandre Birds Notecards	0.0	0	
+Scalamandre Garden Notecards	0.0	0	
+Scalacronica	0.0	0	
+Scalable Planning	0.0	0	
+Scalable Enterprise Systems	0.0	0	
+Scalable Infrastructure for Distributed Sensor Networks	0.0	0	
+Scalar Strong Interaction Hadron Theory	0.0	0	
+Scalable Search in Computer Chess	0.0	0	
+Scalar Wave Transponder	0.0	0	
+Scalable Enterprise Systems	0.0	0	
+Scalable High Performance Computing for Knowledge Discovery and Data Mining	0.0	0	
+Scalable Performance Signalling and Congestion Avoidance	0.0	0	
+Scalable and Efficient Tasking for Dynamic Sensor Networks.	0.0	0	
+Scalable Techniques for Failure Recovery and Localization.	0.0	0	
+Scalable Kernel Methods and Algorithms for General Sequence Analysis.	0.0	0	
+Scalable Statistical Modeling and Query Processing Over Large Scale Uncertain Databases.	0.0	0	
+Scalable and Fault Tolerant Group Key Management	0.0	0	
+Scalable Innovation	0.0	0	
+Scalar and Asymptotic Scalar Derivatives	0.0	0	
+Scalable Vector Graphics SVG 1.0 Specification	0.0	0	
+Scalable Performance Signalling and Congestion Avoidance	0.0	0	
+Scalawags	0.0	0	
+Scalable Green Chemistry	0.0	0	
+Scalable Real-Time Channel Simulation for Wireless Network Emulation.	0.0	0	
+Scalable Uncertainty Management	0.0	0	
+Scalable Video Coding	0.0	0	
+Scalable Agile Beam Radar	0.0	0	
+Scalan	0.0	0	
+Scalar Potential	0.0	0	
+Scalability	0.0	0	
+Scalable Inman Flash Replacement	0.0	0	
+Scalar Field Dark Matter	0.0	0	
+Scalable TCP Congestion Control	0.0	0	
+Scalability	0.0	0	
+Scalable Network Tomography System	0.0	0	
+Scalability Evaluation of the Gipsy Runtime System	0.0	0	
+Scalable Video Coding Using Wavelet Transformation	0.0	0	
+Scalar and Asymptotic Scalar Derivatives	0.0	0	
+SCALACRONICA FRENCH EDITION	0.0	0	
+SCALACRONICA THE REIGNS OF EDWARD I EDW	0.0	0	
+SCALAWAG	0.0	0	
+SCALAR PHYSICS	0.0	0	
+Scalable Link Interface	0.0	0	
+Scalable Transaction Processing Through Data-Oriented Execution	0.0	0	
+Scalable Vector Graphics	0.0	0	
+Scalar-Tensor-Vector Gravity	0.0	0	
+Scalar Multiplication	0.0	0	
+Scalawag	0.0	0	
+Scalability	0.0	0	
+Scalable Agile Beam Radar	0.0	0	
+Scalable Inman Flash Replacement	0.0	0	
+Scalable Linear Recording	0.0	0	
+Scalable Source Routing	0.0	0	
+Scalar Field Dark Matter	0.0	0	
+Scalable Parallelism	0.0	0	
+Scalar Field Theory	0.0	0	
+Scalable Link Interface	0.0	0	
+Scalan	0.0	0	
+Scalar Boson	0.0	0	
+Scalar Implicature	0.0	0	
+Scalar Meson	0.0	0	
+Scalable Locality	0.0	0	
+Scalable Video Coding	0.0	0	
+Scalar Programming	0.0	0	
+Scalar Theories of Gravitation	0.0	0	
+Scalar-Vector-Tensor Decomposition	0.0	0	
+Scalability Challenges in Web Search Engines (Synthesis Lectures on Information Concepts, Retrieval, and Services)	0.0	0	
+Scalable Cloud Ops with Fugue: Declare, Deploy, and Automate the Cloud	0.0	0	
+Scalar Wave Driven Energy Applications	0.0	0	
+Scalable Algorithms for Data and Network Analysis	0.0	0	
+Scalable Pattern Recognition Algorithms: Applications in Computational Biology and Bioinformatics	0.0	0	
+Scalable Wireless Video Streaming Over Real-Time Pub/Sub Middleware	0.0	0	
+Scalable Scientific Stream Query Processing	0.0	0	
+Scalable Algorithms for Contact Problems	0.0	0	
+Scalable Uncertainty Management: 8th International Conference, SUM 2014, Oxford, UK, September 15-17, 2014, Proceedings	0.0	0	
+Scalability: Accidental to Successful Manager	0.0	0	
+Scalable Uncertainty Management: 10th International Conference, SUM 2016, Nice, France, September 21-23, 2016, Proceedings	0.0	0	
+Scalar Diffraction from a Circular Aperture	0.0	0	
+Scalable Techniques for Formal Verification	0.0	0	
+Scalable Parallel Geometric Hashing for Hypercube Simd Architectures (Classic Reprint)	0.0	0	
+Scalar Wave Theory: Green's Functions and Applications	0.0	0	
+Scalar Fields in Numerical General Relativity: Inhomogeneous Inflation and Asymmetric Bubble Collapse	0.0	0	
+Scalawag: A White Southerner's Journey through Segregationto Human Rights Activism	0.0	0	
+Scalable Multicasting over Next-Generation Internet: Design, Analysis and Applications	0.0	0	
+Giotto. Das malerische Gesamtwerk	0.0	1	
+The Huntington Library	0.0	0	
+Jazz, Giants and Journeys	0.0	1	
+Vermeer	0.0	1	
+Building the Frick Collection	0.0	1	
+Benozzo Gozzoli	0.0	2	
+Graphic Arts	0.0	2	
+St Paul's Cathedral	0.0	0	
+Ancestors of Congo Square	0.0	1	
+William Henry Fox Talbot	0.0	1	
+Royal Taste	0.0	1	
+John Koch	0.0	0	
+Pena National Palace	0.0	1	
+Kunsthistorisches Museum Vienna	0.0	0	
+The Frick Collection/a Tour	0.0	0	
+Joseph Havel	0.0	0	
+Jeronimos Abbey of Santa Maria	0.0	0	
+The British Library	0.0	1	
+Lords of Creation	0.0	0	
+The Walker Art Gallery	0.0	0	
+Arresting Design	0.0	0	
+Swinging Away: How Cricket and Baseball Connect	0.0	0	
+History in the Making 2011	0.0	1	
+Rare Books	0.0	0	
+Arta impresionista	0.0	1	
+Arte africana	0.0	1	
+Portugal	0.0	1	
+The Wallace Collection	0.0	1	
+Henry Moore	0.0	1	
+Tianjin Museum	0.0	0	
+Anhui Museum	0.0	0	
+St Paul's Cathedral	0.0	0	
+Westminster Abbey	0.0	0	
+Now Boarding	0.0	0	
+Gothic Ivories	0.0	0	
+Constantin Brancusi, l'Hélice et l'Oiseau	0.0	0	
+Turner's Wessex	0.0	0	
+Orsay	0.0	0	
+Chinese American: Exclusion/Inclusion	0.0	1	
+Nicolas Poussin, l'Amitié embrassant la peinture	0.0	0	
+The Immortal Stone	0.0	0	
+Leonardo Da Vinci	0.0	0	
+Munch At The Munch Museum	0.0	0	
+Chantilly	0.0	0	
+In Monet's Garden	0.0	0	
+The Marvelous Album of Madame B	0.0	1	
+The Liaoning Museum	0.0	0	
+The Louvre: Egyptian Antiquities	0.0	1	
+Egypt	0.0	1	
+Photorealism: Beginnings to Today	0.0	0	
+Information Age	0.0	0	
+The Royal Line of Succession	0.0	0	
+Hockney Printmaker	0.0	1	
+Painting Norway	0.0	0	
+The Caves of Dunhuang	0.0	1	
+Centre Pompidou: the collection of the National Museum of Modern Art	0.0	0	
+温莎堡	0.0	1	
+Orsay	0.0	0	
+The Louvre	0.0	0	
+Modern British Art (平装)	0.0	0	
+Schoenberg, Kandinsky and the Blue Rider	0.0	0	
+Ancient Chinese Bronzes in the Shanghai Museum	0.0	0	
+Diego Rivera	0.0	0	
+Art Space Cooper-Hewitt, National Design Museum (Art Spaces)	0.0	0	
+Classical Tradition in Anatolian Carpets	0.0	0	
+Moderna Museet/Modern Museum	0.0	0	
+Adolphe Valette	0.0	0	
+David Bates	0.0	0	
+Carnegie Museum of Art	0.0	0	
+Alte Nationalgalerie, Berlin	0.0	0	
+The Prado, Madrid	0.0	0	
+The Sydney and Walda Besthoff Sculpture Garden at the New Orleans Museum of Art	0.0	0	
+Dulwich Picture Gallery, London	0.0	0	
+Il ponte di No Gun Ri	0.0	0	
+Museum Highlights	0.0	0	
+The Barber Institute of Fine Arts - Foundations of a Collection	0.0	0	
+Picturing Mary: Woman, Mother, Idea	0.0	0	
+American Beauty	0.0	0	
+Sickert in Venice	0.0	0	
+Art Spaces	0.0	0	
+Museum of London	0.0	0	
+A Collector's Journey	0.0	0	
+Mythology & History in the Great Paintings of the Prado	0.0	0	
+Centre Pompidou	0.0	0	
+Painting in the Musee D'Orsay	0.0	0	
+Wells Cathedral	0.0	0	
+Journal, 1893-1899 (French Edition)	0.0	0	
+Key Art Works	0.0	0	
+The Newark Museum	0.0	0	
+Hugh Lane	0.0	0	
+National Building Museum	0.0	0	
+Cimabue	0.0	0	
+The Louvre	0.0	0	
+Masters of Photography	0.0	1	
+Masters of Drawing	0.0	0	
+Mathematics	0.0	0	
+The Temptation of Homo Europaeus	0.0	0	
+The Stained Glass Museum: Highlights from the Collection	0.0	0	
+The First Ladies	0.0	0	
+HMS Warrior 1860	0.0	1	
+Yôkai	0.0	1	

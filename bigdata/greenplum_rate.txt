@@ -1,0 +1,4 @@
+Greenplum企业应用实战	8.3	29	
+Greenplum：从大数据战略到实现	9.1	24	
+Data Warehousing with Greenplum, 2nd Edition	0.0	0	
+Greenplumbers	0.0	0	

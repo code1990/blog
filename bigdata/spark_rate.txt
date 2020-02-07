@@ -1,0 +1,2100 @@
+Spark技术内幕	7.9	34	
+Food Policy	0.0	0	
+Musical Memories	0.0	0	
+Spark快速大数据分析	7.9	346	
+Spark	8.1	47	
+Spark	8.2	28	
+运动改造大脑	7.5	1104	
+细节	7.4	1612	
+Spark机器学习	7.5	83	
+High Performance Spark	8.5	32	
+Spark高级数据分析	8.2	41	
+在纳粹铁丝网后面	8.9	32	
+深入理解SPARK	7.2	26	
+PySpark实战指南	6.8	24	
+The Notebook	8.0	1241	
+大数据Spark企业级实战	3.8	45	
+Fast Data Processing with Spark	5.3	18	
+Steampainting	0.0	0	
+Spark	0.0	2	
+颠覆大数据分析	7.5	12	
+Sky Chasers 2	0.0	0	
+Spark	0.0	1	
+数据算法	7.1	12	
+Dear John	7.7	755	
+Data Algorithms	0.0	7	
+Stream Processing with Apache Spark	0.0	0	
+Big Data Analytics Beyond Hadoop	0.0	4	
+Learning Spark	7.6	123	
+Big Data Analytics with Spark: A Practitioner's Guide to Using Spark for Large Scale Data Analysis	0.0	4	
+Learning Real Time processing with Spark Streaming	0.0	4	
+Spark	0.0	0	
+天才的13个思维工具	7.8	98	
+Spark大数据处理：技术、应用与性能优化	6.6	56	
+Spark	0.0	2	
+Learning PySpark	6.9	12	
+Spark快速数据处理	5.1	37	
+Spark	0.0	0	
+Spark	0.0	1	
+Agile Data Science 2.0	0.0	1	
+Pro Spark Streaming	0.0	4	
+Fast Data Processing with Spark - Second Edition	0.0	3	
+Apache Spark源码剖析	5.9	31	
+Advanced Analytics with Spark	8.3	22	
+SPARK	0.0	1	
+A More Beautiful Question	7.5	11	
+一切与创造有关	7.3	60	
+Spark Operations	0.0	0	
+Spark大数据处理技术	5.3	47	
+Spark	0.0	0	
+Spark	0.0	1	
+Apache Spark Graph Processing	0.0	1	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+SPARK	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+Spark	0.0	0	
+The small BIG	6.5	14	
+创客学	8.0	20	
+Cirque du Soleil	0.0	1	
+Disrupt	0.0	8	
+Machine Learning with Spark	0.0	8	
+Spark最佳实践	5.7	19	
+Spark in Action	0.0	6	
+Spark MLlib机器学习	4.8	13	
+Constantine Vol. 1	8.2	13	
+The Novels of Muriel Spark	0.0	2	
+The Driver's Seat	7.0	14	
+Spark核心技术与高级应用	7.4	14	
+图解Spark：核心技术与案例实战	7.2	27	
+Closing the Innovation Gap	0.0	0	
+Spark for Python Developers	0.0	7	
+Ask More	0.0	8	
+Strategic Intuition	0.0	3	
+Dear John	7.9	508	
+Spark GraphX实战	8.6	12	
+A Walk to Remember	7.6	485	
+Origins	0.0	3	
+All the Poems of Muriel Spark	0.0	2	
+LEGO MINDSTORMS NXT One-Kit Wonders	0.0	0	
+Beyond the Obvious	0.0	0	
+SPARK 4	5.3	10	
+Message in a Bottle	7.9	381	
+笔记本	8.2	235	
+Spark大数据分析实战	5.9	15	
+THE LEADER AS COMMUNICATOR	0.0	0	
+Explore/Create	0.0	0	
+绝佳提问	6.6	161	
+Spark:原理、机制及应用	0.0	6	
+分手信 / Dear John	7.6	221	
+The Origin of Ideas	0.0	0	
+Spark Cookbook	0.0	4	
+深度实践spark机器学习	0.0	5	
+Training the Active Training Way	0.0	0	
+The Edinburgh Companion to Muriel Spark	0.0	0	
+Fast Data Processing with Spark 2 - Third Edition	0.0	2	
+Electric Arcs	0.0	0	
+Beginning Apache Spark 2	0.0	1	
+The Last Song	7.7	203	
+Loitering with Intent	0.0	4	
+Mastering Apache Spark	0.0	0	
+学习Spark	0.0	2	
+High Integrity Software	0.0	0	
+Shortcut	0.0	0	
+THE NOTEBOOK	7.9	158	
+Python+Spark 2.0+Hadoop机器学习与大数据实战	7.6	18	
+A collection of Advanced Data Science and Machine Learning Interview Questions Solved in Python and Spark	0.0	3	
+Kaleidoscope	0.0	0	
+75 Cage Rattling Questions to Change the Way You Work	0.0	0	
+Run Like a Girl	0.0	0	
+Hidden Possibilities	0.0	0	
+Felt Toys for Little Ones	0.0	0	
+The Origin of Ideas	0.0	0	
+实时大数据分析	0.0	2	
+The Art of Fire	0.0	0	
+Titans Vol. 5	0.0	2	
+Hands-On Deep Learning with Apache Spark	0.0	0	
+	0.0	1	
+SPARK 2	0.0	3	
+Spark MLlib机器学习实践	0.0	5	
+Spark GraphX in Action	0.0	5	
+The Prime of Miss Jean Brodie	0.0	3	
+At First Sight	7.1	105	
+Spark高级数据分析	0.0	2	
+Chris de Burgh Story	0.0	0	
+The Daily Spark	0.0	0	
+Turbochargers HP49 (HP Books)	0.0	0	
+What If?	0.0	0	
+Teachable Moments	0.0	0	
+Motivation	0.0	0	
+Chat Pack	0.0	0	
+Chat Pack	0.0	0	
+How Did Tea and Taxes Spark a Revolution?	0.0	0	
+The Critical Thinking Tool Kit	0.0	0	
+Innovation at Work	0.0	0	
+Joni Mitchell Albums	0.0	0	
+Halo Character Redirects to Lists	0.0	0	
+Experimental Wireless Stations	0.0	0	
+Micromachining Using Electrochemical Discharge Phenomenon	0.0	0	
+A Practical Guide to Drug Development in Academia	0.0	0	
+America the Strong	0.0	0	
+Make	0.0	0	
+Motronic Engine Management	0.0	0	
+Para Handy Stories	0.0	0	
+How to Create Chemistry with Anyone	0.0	0	
+100-Whats of Creativity	0.0	0	
+Energy Conservative Production for Thermoelectric Strontium Titanate	0.0	0	
+Simply Brilliant	0.0	0	
+Nikola Tesla	0.0	0	
+Mastering Machine Learning with Spark 2.x: Harness the potential of machine learning, through spark	0.0	0	
+Learning Spark SQL: Architect streaming analytics and machine learning solutions	0.0	1	
+大数据商业实战三部曲	0.0	2	
+The small BIG	0.0	1	
+How Women Decide	0.0	0	
+A Few Minutes of Design	0.0	1	
+A More Beautiful Question	0.0	0	
+Appointment in Arezzo	0.0	0	
+Apache Spark 2.x Machine Learning Cookbook: Over 100 recipes to simplify machine learning model implementations with Spark	0.0	0	
+Next-Generation Big Data	0.0	2	
+Graph Algorithms	0.0	1	
+Apache Spark Quick Start Guide	0.0	1	
+Apache Spark 2	0.0	0	
+Mastering Machine Learning on AWS	0.0	0	
+The Art of Noticing	0.0	1	
+Big Data Processing with Apache Spark	0.0	1	
+Message in a Bottle	7.6	92	
+The Last Song	7.9	84	
+The Prime of Miss Jean Brodie	0.0	3	
+The Only Problem	0.0	1	
+Scala for Spark in Production	0.0	0	
+Data Analytics with Spark Using Python	0.0	2	
+The Best of Me	7.2	99	
+全球化、社会发展与大众媒体	8.5	42	
+一路梦想	7.9	76	
+罗丹岛之恋	7.0	172	
+Selected Stories	0.0	1	
+Apache Spark入門 動かして学ぶ最新並列分散処理フレームワーク	0.0	0	
+Learning Spark	0.0	2	
+Spark Streaming实时流式大数据处理实战	0.0	1	
+创意天才的思维方法	7.9	25	
+The Wedding	7.8	88	
+運動改造大腦	7.5	10	
+The Notebook	8.1	81	
+The Public Image a Virago Modern Classic	0.0	1	
+Mastering Apache Spark with R	0.0	1	
+The Choice	6.9	73	
+A Walk to Remember	7.7	77	
+Dear John	8.0	67	
+A Walk to Remember	7.9	44	
+The Longest Ride	7.9	51	
+Safe Haven	7.0	65	
+The Rescue	7.2	30	
+The Prime of Miss Jean Brodie	8.3	43	
+Lucky One	7.5	43	
+The Notebook	8.2	59	
+Spark SQL内核剖析	8.0	26	
+Nights in Rodanthe	8.4	36	
+The Guardian	7.2	43	
+Safe Haven	7.5	36	
+Nicholas Sparks Love Stories Three-Book Set (A Bend In the Road, The Rescue, Message in a Bottle)	0.0	7	
+A Bend in the Road	7.0	38	
+The Lucky One	7.1	42	
+Dear John	7.9	41	
+True Believer	6.8	37	
+Three Weeks with My Brother	7.7	18	
+Nights in Rodanthe	7.5	39	
+The Notebook	9.2	33	
+Dear John Film Tiein	7.7	35	
+闪光的氰化物	7.4	1170	
+The Last Song	8.2	36	
+Spark Joy	8.3	30	
+Elephant Man	7.2	35	
+The Wedding	7.5	18	
+岁月留痕	7.3	18	
+Safe Haven	7.8	34	
+Nights in Rodanthe	8.0	25	
+A Bend in the Road	7.2	29	
+卖创意	8.0	12	
+True Believer	7.2	22	
+Sparks of Genius	0.0	6	
+The Notebook	7.4	37	
+The Prime of Miss Jean Brodie (Perennial Classics)	8.4	10	
+Globalization, Development and the Mass Media	0.0	8	
+At First Sight	7.9	17	
+The People of Sparks	0.0	5	
+The Last Song	8.6	18	
+Scala程序设计（第2版）	8.3	37	
+我把自闭症儿子养育成天才	8.9	12	
+Dear John	7.0	22	
+Dear John	0.0	8	
+动起来更聪明	6.2	20	
+The Knockoff Economy	0.0	3	
+Media, Culture & Society	0.0	5	
+共謀	0.0	3	
+Nights in Rodanthe. Nicholas Sparks	0.0	7	
+The Lucky One	7.4	14	
+媒介效果研究概论-第四版	0.0	9	
+The Prime of Miss Jean Brodie	0.0	4	
+A Bend in the Road	0.0	7	
+See Me	7.8	15	
+The Finishing School	0.0	1	
+The Lucky One	7.6	14	
+The Lucky One	7.2	11	
+Spark! The Revolutionary New Science of Exercise and the Brain	0.0	2	
+Communication and Citizenship	0.0	4	
+Italy	0.0	0	
+True Believer	0.0	8	
+The Rescue	0.0	7	
+Memento Mori	0.0	2	
+Single Sparks	0.0	0	
+Message In A Bottle	7.7	10	
+At First Sight	0.0	6	
+The Choice	0.0	8	
+Safe Haven	0.0	9	
+The Wedding	0.0	5	
+The Lucky One	0.0	4	
+The Lucky One	7.3	10	
+The Rescue	0.0	8	
+At First Sight	0.0	5	
+Spark : Inspirational Graphic Design	0.0	6	
+Loitering with Intent	0.0	5	
+Spark Joy	0.0	2	
+The Basics of Corset Building	0.0	4	
+The Public Image (New Directions Paperbook)	0.0	2	
+The Choice	0.0	6	
+Nights In Rodanthe	0.0	5	
+The Best of Me	0.0	6	
+Spark Your Dream	0.0	3	
+The Prime of Miss Jean Brodie	0.0	8	
+The Wedding	0.0	9	
+Three Weeks with My Brother	0.0	6	
+Nights in Rodanthe	0.0	4	
+Memento Mori	0.0	1	
+The Rescue	0.0	8	
+The Prime of Miss Jean Brodie, The Girls of Slender Means, The Driver's Seat, The Only Problem	0.0	0	
+Media Effects Research	0.0	1	
+我的吸血鬼金龟婿	0.0	3	
+The Best of Me	0.0	5	
+Safe Haven	0.0	4	
+Two by Two	7.7	20	
+抄襲經濟學	0.0	3	
+循序渐进学Spark/大数据技术丛书	0.0	7	
+Spark Notes	0.0	4	
+Muriel Spark	0.0	1	
+Three Weeks with My Brother	0.0	2	
+Globalization, Development and the Mass Media	0.0	2	
+The Wedding	0.0	5	
+The Last Song	0.0	4	
+Strike Sparks	0.0	1	
+脫罪	0.0	2	
+Safe Haven	0.0	6	
+Three Weeks with My Brother	0.0	2	
+How to Marry a Millionaire Vampire	0.0	2	
+Spark Notes NO FEAR SHAKESPEARE The Merchant of Venice (SparkNotes No Fear Shakespeare)	0.0	5	
+Message in a Bottle	0.0	4	
+At First Sight	0.0	6	
+A Far Cry from Kensington	0.0	5	
+The Girls Of Slender Means	0.0	4	
+A Walk to Remember	0.0	3	
+The Best of Me	0.0	3	
+Spark：大数据集群计算的生产实践	0.0	4	
+Spark Notes The Great Gatsby	0.0	5	
+Health Communication in the 21st Century	0.0	2	
+The Ballad of Peckham Rye	0.0	3	
+The Best of Me	0.0	5	
+Wie ein einziger Tag	0.0	0	
+SPARK 6	0.0	1	
+The Notebook	0.0	2	
+The Guardian	0.0	5	
+A Walk to Remember	0.0	3	
+Culture and Power	0.0	0	
+All the Stories of Muriel Spark	0.0	0	
+Spark权威指南（影印版）	0.0	5	
+Memento Mori	0.0	0	
+SIP Beyond VoIP	0.0	2	
+A Walk to Remember	0.0	5	
+Message in a Bottle	0.0	3	
+抉擇	0.0	2	
+The Driver's Seat	0.0	0	
+Webster's New World Dictionary	0.0	1	
+Safe Haven	0.0	3	
+Ashes and Sparks	0.0	0	
+The Prime of Miss Jean Brodie	0.0	3	
+Nikon D7000	0.0	0	
+The Lucky One	0.0	4	
+The Lucky One	0.0	5	
+Big Data SMACK: A Guide to Apache Spark, Mesos, Akka, Cassandra, and Kafka	0.0	5	
+Tabloid Tales	0.0	1	
+True Believer	0.0	5	
+Media Effects Research	0.0	2	
+Cirque Du Soleil, the Spark	0.0	2	
+Environmental Soil Chemistry, Second Edition	0.0	5	
+Memento Mori	0.0	3	
+Spark机器学习进阶实战/大数据技术丛书	0.0	0	
+Journalism And Popular Culture	0.0	1	
+The Choice	0.0	1	
+Three Weeks With My Brother	0.0	1	
+Spark机器学习（影印版 英文版）	0.0	0	
+Three Weeks with My Brother	0.0	1	
+Prayer (Works of T. Austin-Sparks)	0.0	0	
+Spark大数据分析	0.0	3	
+Spark实时大数据分析	0.0	0	
+True Believer	0.0	2	
+A Walk To Remember - Large Print	0.0	3	
+Spark Notes The Catcher in the Rye	0.0	2	
+The Guardian	0.0	4	
+A Walk to Remember	0.0	3	
+A History of Murphy's Law	0.0	0	
+Safe Haven	0.0	3	
+Mac at Work	0.0	2	
+The Best of Me	0.0	1	
+Symposium	0.0	2	
+The Finishing School	0.0	4	
+最美的錯過	0.0	1	
+The Last Song	0.0	2	
+幸運符	0.0	2	
+The Human Spark	0.0	1	
+Philosophy and Tragedy	0.0	2	
+Media Effects Research	0.0	5	
+Criminology and Social Theory	0.0	0	
+Safe Haven	0.0	2	
+Dunmore and Fleischer's Medical Terminology	0.0	2	
+Icy Sparks (Oprah's Book Club)	0.0	2	
+Spark Notes Lord of the Flies	0.0	2	
+The Wedding	0.0	2	
+Creative Sparks	0.0	0	
+The Comforters	0.0	2	
+True Believer	0.0	2	
+Safe Haven	0.0	3	
+German in Review	0.0	2	
+The Lucky One	0.0	2	
+Muriel Spark	0.0	1	
+The Comforters	0.0	3	
+Reality and Dreams	0.0	3	
+Hadoop+Spark大数据巨量分析与机器学习整合开发实战	0.0	4	
+Silent Sparks	0.0	1	
+A First Look at Communication Theory	0.0	4	
+Muriel Spark	0.0	0	
+Theorising Muriel Spark	0.0	0	
+Revolutionary Sparks	0.0	1	
+Nikon D90	0.0	0	
+A Walk to Remember	0.0	3	
+Nikon D700	0.0	1	
+Ashes and Sparks	0.0	0	
+Spark与Hadoop大数据分析/大数据技术丛书	6.1	10	
+Aiding and Abetting	0.0	3	
+A Far Cry from Kensington	0.0	0	
+Methods of Soil Analysis Part 3	0.0	0	
+Steel Carriage By Sea	0.0	0	
+Bright Sparks Complete Pack of 45	0.0	0	
+Complete Short Stories of Muriel Spark	0.0	1	
+The Collected Stories of Muriel Spark	0.0	0	
+Study Guide to Accompany Dornbusch-Fischer-Sparks Macroeconomics	0.0	0	
+Farley Firefly	0.0	0	
+Nacho Money	0.0	0	
+Sugar for Christmas	0.0	0	
+Beginning Apache Spark 2: With Resilient Distributed Datasets, Spark SQL, Structured Streaming and Spark Machine Learning library	0.0	0	
+The Abbess of Crewe	0.0	2	
+The People of Sparks	0.0	0	
+German in Review	0.0	0	
+Spark Notes 100 Years of Solitude	0.0	1	
+Three Weeks With My Brother	0.0	2	
+Spark Notes The Joy Luck Club	0.0	2	
+The Wedding	0.0	0	
+Let's Have a Tea Party!	0.0	1	
+冰兒	0.0	0	
+Unexpected Sparks	0.0	2	
+The Rescue	0.0	3	
+Spark星火英语（七年级上）	0.0	1	
+Communism, Capitalism and the Mass Media	0.0	2	
+The Choice	0.0	1	
+The Lucky One	0.0	1	
+The Best of Me	0.0	1	
+The People of Sparks	0.0	0	
+The People of Sparks	0.0	1	
+Safe Haven	0.0	1	
+The Guardian	0.0	2	
+Safe Haven	0.0	3	
+發掘你的太陽魔力	0.0	2	
+The Unfinished World	0.0	1	
+Dear John	0.0	3	
+The Last Song	0.0	3	
+The Two Princes of Calabar	0.0	2	
+The Creative Spark	0.0	4	
+企业大数据处理(Spark\Druid\Flume与Kafka应用实践)/大数据技术丛书	5.5	15	
+Message in a Bottle	0.0	3	
+Bright Sparks	0.0	1	
+2015 Spark pinnacle of English professional eight special training Standard Listening Listening	0.0	1	
+Robinson	0.0	2	
+Child of Light: Mary Shelley	0.0	1	
+Learning Spark, 2nd Edition	0.0	0	
+Spark Notes Compleat Cast of Characters in Literature	0.0	0	
+Sparks and Taylor's Nursing Diagnosis Reference Manual, and Stedman's Medical Dictionary for the Health Professions and Nursing	0.0	0	
+Spark Notes Daily Spark	0.0	0	
+Spark Notes Daily Spark	0.0	0	
+Spark Notes Daily Spark	0.0	0	
+Cassell's Encyclopedia of Queer Myth, Symbol and Spirit	0.0	0	
+Sparks in the Kitchen	0.0	0	
+Schaum's Quick Guide to Great Presentations	0.0	0	
+Three Weeks With My Brother	0.0	0	
+As the Sparks Fly Upward as the Sparks Fly Upward	0.0	0	
+CliffsNotes on Nicholas Sparks & Micah Sparks' Three Weeks with My Brother	0.0	0	
+Sparks Sparks	0.0	0	
+A Spark Divine a Spark Divine	0.0	0	
+Mr. Squirrel	0.0	0	
+A Reply to the Strictures of Lord Mahon and Others, on the Mode of Editing the Writings of Washington. by Jared Sparks.	0.0	0	
+Three Weeks with My Brother	0.0	0	
+Flat-Top Sam and the Junkyard Elephant	0.0	0	
+I Was Almost Ava Nell	0.0	0	
+Spark Notes Now Updated Macbeth Spark Notes now updated	0.0	0	
+Language and Conscious Experience	0.0	0	
+Language and Conscious Experience	0.0	0	
+Pink Mountain	0.0	0	
+The Sparks Opinion	0.0	0	
+CliffsNotes on Nicholas Sparks and Micah Sparks' Three Weeks with My Brother Teacher's Guide	0.0	0	
+Sparks and Taylor's Nursing Diagnosis Reference Manual	0.0	0	
+Memoir of Jared Sparks Memoir of Jared Sparks	0.0	0	
+Stories of the Railway	0.0	0	
+Champion Spark Plug Company, Petitioner, V. Peter Sanders et al., Doing Business as the Perfect Recondition Spark Plug Company U.S. Supreme Court Tran	0.0	0	
+Ppk09mx Nicholas Sparks	0.0	0	
+Sparks Movie Tie-In - 18 Copy Mixed Floor Display	0.0	0	
+Sparks - 18 Copy Mixed Display	0.0	0	
+Sparks - 12 Copy Mixed Backlist Prepack	0.0	0	
+Sparks - 12 Copy Mixed Backlist Prepack	0.0	0	
+Spark Muriel	0.0	0	
+Guy Sparks et al., Appellants, V. Robert M. Parker, Etc. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+I Was Almost Ava Nell	0.0	0	
+Three Weeks with My Brother	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Sparks' American Biography	0.0	0	
+Correspondence of George Bancroft and Jared Sparks, 1823-1832, Illustrating the Relationship Between Editor and Reviewer in the Early Nineteenth Centu	0.0	0	
+Sparks' American Biography	0.0	0	
+Sparks' American Biography Volume 14	0.0	0	
+The Note-Book	0.0	0	
+Lives of Eminent Individuals; Gen. Ethan Allen, by J. Sparks. Sebastian Cabot, by C. Hayward, Jr. Henry Hudson, by H. R. Cleveland. Maj.-Gen. Joseph W	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Sparks' American Biography	0.0	0	
+Sparks' American Biography Volume 12	0.0	0	
+Sparks' American Biography Volume 13	0.0	0	
+Sparks' American Biography	0.0	0	
+Sparks' American Biography	0.0	0	
+Sparks' American Biography	0.0	0	
+Science 3-13	0.0	0	
+Science 3-13	0.0	0	
+Craddock on the Craft of Preaching	0.0	0	
+Doyen of Librarians	0.0	0	
+Anthony Wayne, by John Armstrong. Henry Hudson, by H. R. Cleveland. P Re Marquette, by John Sparks Volume 6	0.0	0	
+Sparks' American Biography	0.0	0	
+Sparks' American Biography	0.0	0	
+Sparks' American Biography	0.0	0	
+American Biography Volume 9; Ethan Allen, by Jarred Sparks. William Ellery, by E. T. Channing	0.0	0	
+The Works of Benjamin Franklin Volume 1; Autobiography. PT. 2. Continuation, by Jared Sparks. Appendix	0.0	0	
+Catalogue of the Library of Jared Sparks; With a List of the Historical Manuscripts Collected by Him and Now Deposited in the Library of Harvard Unive	0.0	0	
+Veto Messages of His Excellency John Sparks, Governor of the State of Nevada, Legislature of 1903	0.0	0	
+Veto Messages of His Excellency John Sparks, Governor of the State of Nevada, Legislature of 1903	0.0	0	
+Sparks' American Biography	0.0	0	
+Catalogue of the Bound Historical Manuscripts Collected by Jared Sparks; And Now Deposited in the Library of Harvard University	0.0	0	
+Catalogue of the Bound Historical Manuscripts Collected by Jared Sparks	0.0	0	
+The Life and Writings of Jared Sparks	0.0	0	
+Catalogue of the Library of Jared Sparks; With a List of the Historical Manuscripts Collected by Him and Now Deposited in the Library of Harvard Unive	0.0	0	
+A Sermon Preached at Guilford in Surrey, June the 22d, 1691, at the Lord Bishop of Winchester's Visitation by T. Spark ...	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Prisons and the Problem of Order	0.0	0	
+Advances in Agronomy	0.0	0	
+Advances in Agronomy	0.0	0	
+Veto Message of Governor John Sparks	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Sparks' American Biography Volume 15	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Leading for Results	0.0	0	
+Catalogue of the Library of Jared Sparks; With a List of the Historical Manuscripts Collected by Him and Now Deposited in the Library of Harvard Unive	0.0	0	
+On the Care of a Fine Antique	0.0	0	
+The in Between	0.0	0	
+Sparks' American Biography Volume 10	0.0	0	
+Catalogue of the Bound Historical Manuscripts Collected by Jared Sparks	0.0	0	
+Acts and Miracles of God	0.0	0	
+Catalogue of the Bound Historical Manuscripts Collected by Jared Sparks; And Now Deposited in the Library of Harvard University	0.0	0	
+Plane Trigonometry	0.0	0	
+Remarks On A Reprint Of The Original Letters From Washington To Joseph Reed, During The American Revolution, Referred To In The Pamphlets Of Lord Mahon And Mr. Sparks	0.0	0	
+Remarks On a "Reprint of the Original Letters from Washington to Joseph Reed	0.0	0	
+Three Weeks with My Brother	0.0	0	
+Gathering Sparks	0.0	0	
+Sparks and Taylor's Nursing Diagnosis Reference Manual	0.0	0	
+The Nicholas Sparks Holiday Collection	0.0	0	
+Spark机器学习	0.0	0	
+Spark全栈数据分析	0.0	2	
+Growing The Sparks, How To Bring Back The Sparks And The Magic In Your Relationship	0.0	0	
+Spark Notes One Flew Over the Cuckoo's Nest	0.0	0	
+The Girls of Slender Means	0.0	0	
+The Bachelors (New Directions Classics,)	0.0	1	
+Spark Notes 1984	0.0	0	
+Strike Sparks	0.0	0	
+The Mandelbaum Gate	0.0	0	
+Invisible Loyalties	0.0	0	
+Webster's New World Student's Dictionary	0.0	0	
+Spark Notes Greek Classics	0.0	0	
+Nights in Rodanthe	0.0	1	
+The Spark Notes Importance of Being Earnest (SparkNotes Literature Guides)	0.0	1	
+Nights in Rodanthe	0.0	1	
+Message in a Bottle	0.0	2	
+A Bend in the Road	0.0	1	
+At First Sight	0.0	2	
+Reality and Dreams	0.0	1	
+Service Quality Management in Hospitality, Tourism, and Leisure	0.0	0	
+The Rescue	0.0	1	
+Ricordati Di Guardare La Luna	0.0	0	
+Message in a Bottle	0.0	0	
+Bend in the Road	0.0	1	
+Retailing Logistics & Fresh Food Packaging	0.0	0	
+Message in a Bottle	0.0	2	
+Spark星火英语	0.0	0	
+Spark星火英语（八年级上）	0.0	0	
+Nikon D3000	0.0	0	
+The Rescue	0.0	2	
+Dear John	0.0	1	
+Public Criminology?	0.0	0	
+The Prime of Miss Jean Brodie	0.0	1	
+The Public Image	0.0	1	
+Curriculum Vitae	0.0	0	
+The Lucky One	0.0	1	
+The Last Song	0.0	1	
+The Wedding	0.0	1	
+The Last Song	0.0	2	
+Sparks of Randomness	0.0	0	
+The Spark	0.0	2	
+The Spark	0.0	1	
+Safe Haven	0.0	2	
+Tabloid Tales	0.0	0	
+The Sparks of Randomness	0.0	0	
+Mastering Spark for Data Science	0.0	0	
+Apache Spark 2 for Beginners	0.0	1	
+Spark for Data Science Cookbook	0.0	1	
+Two by Two	0.0	2	
+Spark for Data Science	0.0	0	
+來自星星的孩子	0.0	2	
+One Little Spark!: Mickey's Ten Commandments and the Road to Imagineering	0.0	2	
+Where the Negroes Are Masters	0.0	0	
+Action Selling	0.0	1	
+Journalists for the 21st Century	0.0	1	
+A Far Cry From Kensington	0.0	2	
+Dear John	0.0	1	
+Kindling the Divine Spark	0.0	0	
+Das Leuchten der Stille	0.0	2	
+Stories Of The Railway	0.0	0	
+Sparks of the Divine	0.0	1	
+The Last Song	0.0	2	
+Nikon D300	0.0	0	
+The Keepers	0.0	1	
+Safe Haven	0.0	2	
+That's My Lunch	0.0	0	
+In My Bag	0.0	0	
+Logistics and Retail Management	0.0	1	
+School Holidays	0.0	0	
+Hide and Seek	0.0	0	
+The Court of Broken Knives	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	1	
+数据科学与大数据技术导论	0.0	2	
+Spark实战	0.0	3	
+闪光的氰化物	7.5	423	
+Busy Doggies	0.0	0	
+Muriel Spark	0.0	0	
+Contemporary Political Theory	0.0	0	
+Dear John	0.0	1	
+Annie's Baby	0.0	1	
+DEAR JOHN	0.0	0	
+Der Weg zum Lesen (German Edition)	0.0	0	
+Spark Notes The Stranger	0.0	1	
+Spark Notes Hiroshima	0.0	0	
+Spark Notes Harry Potter and the Sorcerer's Stone	0.0	0	
+Spark Notes Jane Eyre	0.0	0	
+Symposium	0.0	1	
+The Incredible Adam Spark	0.0	0	
+Tomorrow Is Another Country	0.0	0	
+Das Schweigen des Glucks	0.0	0	
+My Very First Tea Party	0.0	0	
+Dime Uno	0.0	1	
+A Bend in the Road	0.0	0	
+Spark Notes The Grapes of Wrath	0.0	0	
+When Sparks Fly	0.0	0	
+真实信仰者	0.0	1	
+WHEN SPARKS FLY	0.0	0	
+Spark Notes The Picture of Dorian Gray	0.0	0	
+Open to the Public	0.0	0	
+Spark Notes The Bluest Eye	0.0	0	
+Ppk27 a Walk to Remember (Movie Tie-In Edition)	0.0	1	
+Spark Notes The Scarlet Letter	0.0	1	
+True Believer (Large Print)	0.0	1	
+Logistics and Retail Management	0.0	0	
+The War of the Soups and the Sparks	0.0	0	
+Vamps and the City (Love at Stake, Book 2)	0.0	0	
+A Path Made by Walking	0.0	0	
+Icy Sparks Oprahs Book Club	0.0	0	
+spark 初中英语 阅读第一教材 七年级全册	0.0	0	
+A Bend in the Road	0.0	0	
+Secret Life of a Vampire	0.0	0	
+The Lucky One	0.0	0	
+The Undead Next Door	0.0	1	
+The Retailing Reader	0.0	0	
+Sparks	0.0	0	
+The People of Sparks (Sequel to City of Ember)	0.0	1	
+Spark星火英语（中考）	0.0	0	
+El Guardian = The Guardian	0.0	1	
+Fantasmas del Pasado = True Believer	0.0	1	
+Be Still My Vampire Heart	0.0	0	
+My Very First Book of Manners	0.0	0	
+The Choice	0.0	0	
+Houndsley and Catina and the Birthday Surprise	0.0	0	
+Annie's Baby	0.0	0	
+Notebook	0.0	1	
+A Walk to Remember	0.0	1	
+The Last Song	0.0	1	
+Go Ask Alice/Jay's Journal	0.0	0	
+Dear John	0.0	1	
+A Bend in the Road	0.0	0	
+En Nombre del Amor = In the Name of Love	0.0	1	
+Nikon D300s	0.0	0	
+Not to Disturb	0.0	1	
+A Spark of Blue Flame	0.0	0	
+Safe Haven A	0.0	1	
+The Notebook	0.0	1	
+Sparks	0.0	1	
+The Guardian	0.0	1	
+The Bachelors	0.0	1	
+The Ballad of Peckham Rye	0.0	1	
+SPARKS国际少儿英语	0.0	1	
+The Best of Me	0.0	1	
+The Last Song	0.0	1	
+Les pages de notre amour	0.0	0	
+Ashes and Sparks	0.0	0	
+The Spark	0.0	1	
+A Far Cry from Kensington	0.0	0	
+The Spark of Life	0.0	1	
+Safe Haven	0.0	1	
+Nikon D5100	0.0	0	
+The Best of Me	0.0	1	
+The Best of Me	0.0	1	
+iPad at Work	0.0	0	
+Spark Notes	0.0	1	
+A Walk to Remember	0.0	0	
+The Notebook	0.0	1	
+The Best Of Me	0.0	1	
+The Best of Me	0.0	1	
+German in Review	0.0	0	
+Der Weg Zum Lessen	0.0	1	
+The Last Song	0.0	1	
+Memento Mori	0.0	0	
+Querido John	0.0	2	
+Vocation and Identity in the Fiction of Muriel Spark	0.0	0	
+CliffsNotes on Nicholas Sparks' The Last Song	0.0	0	
+Aiding and Abetting	0.0	2	
+A Spark Divine	0.0	1	
+Muriel Spark	0.0	1	
+Muriel Spark	0.0	0	
+The Doctor in the Victorian Novel	0.0	0	
+Words of Conflict, Words of War	0.0	0	
+Nikon D3100	0.0	0	
+The Prime of Miss Jean Brodie	0.0	0	
+The Lucky One	0.0	1	
+The Best of Me	0.0	1	
+The Spark of Life	0.0	0	
+La Ultima Cancion	0.0	1	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+School Holidays	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Media Effects Research A Basic Overview	0.0	1	
+Health Communication in the 21st Century	0.0	0	
+May We Shed These Human Bodies	0.0	0	
+Sparks of Laughter; Suggestions to Toastmasters How to Tell a Funny Story	0.0	0	
+Walking on Air	0.0	0	
+The Spark in the Engine Creative Work in the New Economy	0.0	0	
+The Sparks of Randomness	0.0	0	
+Message in a Bottle	0.0	1	
+Evolving Charter School Governance in a Complex Accountability Environment.	0.0	0	
+Lenses	0.0	1	
+Emily Bronte	0.0	0	
+Jared Sparks and Alexis de Tocqueville;	0.0	0	
+The Life of Gouverneur Morris	0.0	1	
+Memory and Identity	0.0	0	
+Curriculum Vitae A Volume of Autobiography	0.0	1	
+The Sage Handbook of Punishment and Society	0.0	0	
+The Spark of Life Electricity in the Human Body	0.0	1	
+Deja Vu	0.0	0	
+Aiding and Abetting	0.0	1	
+The Hothouse by the East River	0.0	0	
+The Complete Short Stories	0.0	0	
+The Driver's Seat	0.0	0	
+The Complete Short Stories	0.0	0	
+Journal Sparks	0.0	0	
+Sparks Graphic Novel	0.0	0	
+The Informed Air	0.0	0	
+SEE ME	0.0	1	
+Time Chart of World History	0.0	1	
+Hadoop and Spark Performance for the Enterprise	0.0	1	
+Large Scale Machine Learning with Spark	0.0	1	
+The Longest Ride	0.0	0	
+The Driver's Seat	0.0	1	
+我就不喜欢看书	0.0	1	
+Single Sparks	0.0	0	
+Food Policy	0.0	0	
+Spark from the Deep	0.0	0	
+A Bend in the Road	0.0	0	
+Looking For Mum	0.0	0	
+Territorial Rights	0.0	1	
+Doctors of Philosophy	0.0	0	
+At First Sight	0.0	1	
+Message in a Bottle	0.0	1	
+Bis zum letzten Tag	0.0	0	
+La ultima cancion (Spanish Edition)	0.0	1	
+Dr. Joe's Brain Sparks	0.0	0	
+Sparks in the Ashes	0.0	1	
+Curriculum Vitae	0.0	1	
+Message In A Bottle (Turtleback School & Library Binding Edition)	0.0	1	
+Nights in Rodanthe	0.0	1	
+Heyne Großdruck, Nr.51, Weit wie das Meer, Großdruck	0.0	1	
+All I Want for Christmas is a Vampire	0.0	1	
+Fundamentals of Marine Riser Mechanics	0.0	0	
+Nights in Rodanthe	0.0	1	
+Nights in Rodanthe	0.0	1	
+Noches de Tormenta	0.0	1	
+Nikon D3	0.0	1	
+The Prime of Miss Jean Brodie	0.0	0	
+The Guardian	0.0	0	
+Querido John	0.0	1	
+The Wedding	0.0	1	
+Nights in Rodanthe	0.0	1	
+Jay's Journal	0.0	1	
+The Last Song	0.0	1	
+The Last Song	0.0	1	
+The Last Song	0.0	1	
+Consequences, the Criminal Case of David Parker Ray	0.0	0	
+The Notebook	0.0	1	
+The Wedding	0.0	1	
+The Notebook	0.0	1	
+The Lucky One	0.0	1	
+In the Words of Sparks...Selected Lyrics	0.0	0	
+Ancient Texts for the Study of the Hebrew Bible	0.0	0	
+Zeit im Wind	0.0	0	
+A Bend in the Road	0.0	1	
+Apache Spark in 24 Hours, Sams Teach Yourself	0.0	0	
+Spark零基础实战	0.0	0	
+Learning Apache Spark 2.0	0.0	1	
+The Desert Places	0.0	0	
+The Best of Me	0.0	1	
+Kindling the diving spark teachings on how to preserve spiritual zeal	0.0	0	
+Between the Spark and the Burn	0.0	1	
+Letters Of Ann Gillam Storrow To Jared Sparks	0.0	0	
+FABIEN MÉRELLE	0.0	0	
+Spark大数据分析技术与实战	0.0	3	
+Journal Sparks	0.0	0	
+Scala and Spark for Big Data Analytics	0.0	2	
+Where's the Cat?	0.0	0	
+勝手にSPARK!	0.0	0	
+Look at Me!	0.0	0	
+Mastering CSS for Web Developers	0.0	0	
+The Tower of Living and Dying	0.0	0	
+The Heroic Client	0.0	0	
+Frank Kane's Taming Big Data with Apache Spark and Python	0.0	1	
+Poe Dameron Vol. 5 - The Spark and The Fire	0.0	1	
+The Comforters	0.0	1	
+A First Look at Communication Theory	0.0	0	
+大数据技术基础——基于Hadoop与Spark	0.0	2	
+Raising Sparks	0.0	0	
+数据馆员的Spark简明手册	0.0	1	
+War of the Spark: Ravnica (Magic: The Gathering)	0.0	2	
+Natural Language Processing with Spark NLP	0.0	0	
+Spark in Action, Second Edition	0.0	0	
+Sparks in the Dark	0.0	1	
+Star Wars - Spark of the Resistance	0.0	1	
+Machine Learning with Apache Spark Quick Start Guide	0.0	1	
+Throwing Sparks	0.0	0	
+快学Scala（第2版）	8.3	17	
+Spark Cookbook	0.0	2	
+The Notebook & the Wedding	0.0	0	
+The MANDELBAUM GATE.	0.0	0	
+Spark Notes Wuthering Heights	0.0	0	
+At First Sight	0.0	0	
+Spark Notes Animal Farm	0.0	0	
+SPARK 星火英语 巧学活用语法	0.0	0	
+Hunting Captain Ahab	0.0	0	
+Spark Notes For Whom The Bell Tolls	0.0	0	
+The Guardian	0.0	0	
+Beyond the Miracle	0.0	0	
+Muriel Spark	0.0	0	
+No Spark of Malice	0.0	0	
+The Two Princes of Calabar	0.0	0	
+Memory and Identity	0.0	0	
+The Impact of the Haitian Revolution in the Atlantic World	0.0	0	
+Sparks from a Nine-pound Hammer	0.0	0	
+Dark Spark	0.0	0	
+Nutrition in Public Health	0.0	0	
+Health Communication in the 21st Century	0.0	0	
+Handbook of Communication And Cancer Care	0.0	0	
+Handbook of Communication And Cancer Care	0.0	0	
+The War of the Soups and the Sparks	0.0	0	
+Nursing Diagnosis Reference Manual	0.0	0	
+Nursing Diagnosis Cards	0.0	0	
+Advances in Agronomy	0.0	0	
+Nursing Diagnosis Cards	0.0	0	
+Advances in Agronomy	0.0	0	
+Colorado's Sangre De Cristo Mountains	0.0	0	
+German in Review	0.0	0	
+Dragon's Law	0.0	0	
+Cattle in the Cold Desert	0.0	0	
+Twin Spark Girls	0.0	0	
+Multiple Arts	0.0	0	
+A Walk to Remember	0.0	0	
+Divine Sparks	0.0	0	
+Joni Mitchell Court and Spark	0.0	0	
+Framing Identity	0.0	0	
+Contemporary Political Theorists in Context	0.0	0	
+Sparks Fly Upward	0.0	0	
+Almost Lost	0.0	0	
+The People of Sparks	0.0	0	
+Sparks	0.0	0	
+Gabriel's Ark	0.0	0	
+The Choice	0.0	0	
+Classrooms That Spark!	0.0	0	
+The Intuitive Spark	0.0	0	
+The Keepers	0.0	0	
+Reading New Testament Greek	0.0	0	
+The Real Skinny on Weight Loss Surgery	0.0	0	
+The Spark	0.0	0	
+The Spark	0.0	0	
+Cancer Communication and Aging	0.0	0	
+The Spark	0.0	0	
+The Wide Open Door	0.0	0	
+German in Review	0.0	0	
+Spark Notes Ap Power Pack	0.0	0	
+Children of Prenatal Substance Abuse	0.0	0	
+Curious Attractions	0.0	0	
+Curious Attractions	0.0	0	
+Sparks	0.0	0	
+Getting Lucky	0.0	0	
+Diary Of A Mad Poker Player	0.0	0	
+Nights in Rodanthe	0.0	0	
+A Bend in the Road	0.0	0	
+Cuaderno De Noah/ The Notebook	0.0	0	
+The Rescue	0.0	0	
+The Runners Book of Training Secrets	0.0	0	
+Debt-Free College	0.0	0	
+Spark Notes The Oedipus Plays	0.0	0	
+Spark Notes The Adventures of Tom Sawyer	0.0	0	
+Spark Notes Things Fall Apart	0.0	0	
+Spark Notes 101	0.0	0	
+The Daily Spark SAT	0.0	0	
+Spark Notes Tess of d'Ubervilles	0.0	0	
+Spark Notes Beloved	0.0	0	
+Spark Notes Lord of the Rings 3-1	0.0	0	
+Spark Notes Brave New World	0.0	0	
+No Spark of Malice	0.0	0	
+Spark Notes The Fountainhead	0.0	0	
+Spark Notes Romeo and Juliet	0.0	0	
+Spark Notes The Call of the Wild	0.0	0	
+Spark Notes AP English and Composition Powerpack	0.0	0	
+Spark Charts Flash Charts Spanish	0.0	0	
+The Spark Charts Flash Charts Human Body	0.0	0	
+Spark Charts Flash Charts Rocks And Minerals	0.0	0	
+Steel	0.0	0	
+Sparks	0.0	0	
+The Two Minute Lover	0.0	0	
+A Little Princess in the Making	0.0	0	
+A Little Hero in the Making	0.0	0	
+Sparks	0.0	0	
+Twenty Under Thirty	0.0	0	
+Sparks Fly High	0.0	0	
+Leading for Results	0.0	0	
+Stars and Sparks on Stage	0.0	0	
+The Choice	0.0	0	
+A Bend in the Road	0.0	0	
+A Walk to Remember	0.0	0	
+Last Princess of Sparks	0.0	0	
+Thomas Cook Travellers Finland	0.0	0	
+Rand McNally Reno/ Sparks, Nevada	0.0	0	
+The Notebook	0.0	0	
+The Wedding	0.0	0	
+EASY ART ACTIVITIES THAT SPARK SUPER WRITI	0.0	0	
+Spark Notes Les Miserables	0.0	1	
+Spark Your Child's Success in Math and Science	0.0	0	
+Spark Notes Invisible Man	0.0	0	
+The Essence of the Brontes	0.0	0	
+Noches De Tormenta/ Nights in Rodanthe	0.0	0	
+Queering Creole Spiritual Traditions	0.0	0	
+Health Promotion Strategies and Methods	0.0	0	
+Video Rose and Mark Spark	0.0	0	
+A Walk to Remember	0.0	0	
+A Bend in the Road	0.0	0	
+Road to London (Sparks S.)	0.0	0	
+Fire Down the Pit (Sparks S.)	0.0	0	
+Advances in Agronomy	0.0	0	
+The Spark of Life	0.0	0	
+Physical and Chemical Processes of Water and Solute Transport/Retention in Soil	0.0	0	
+Wee Willie Winkie & Other Nursery Rhymes	0.0	0	
+The Cahiers Series	0.0	0	
+Spark of Life	0.0	0	
+Service Quality Management in Hospitality, Tourism, and Leisure	0.0	0	
+The Lucky One	0.0	0	
+Treacherous Love	0.0	0	
+Advances in Agronomy	0.0	0	
+Spark!	0.0	0	
+When Sparks Fly	0.0	0	
+The Spark Inside	0.0	0	
+Crime and Social Change in Middle England	0.0	0	
+Nights in Rodanthe	0.0	1	
+The Wedding	0.0	0	
+Beyond the Miracle	0.0	0	
+Capital Intentions	0.0	0	
+Frank "Home Run" Baker	0.0	0	
+Direct Injection Systems for Spark-Ignition and Compression-Ignition Engines	0.0	0	
+The Choice	0.0	0	
+Vascular Smooth Muscle	0.0	0	
+The Choice	0.0	0	
+The Choice	0.0	0	
+Mark Spark in the Dark	0.0	0	
+A Tout Jamais (French Edition)	0.0	0	
+Princess Tea Parties	0.0	0	
+A Simple Gift of Comfort	0.0	0	
+Nights in Rodanthe	0.0	0	
+Jordin Sparks	0.0	0	
+True Believer/ At First Sight	0.0	0	
+The Pledge	0.0	0	
+The Lucky One	0.0	0	
+Dear John	0.0	0	
+CAN I HAVE SOME MONEY	0.0	0	
+Getting Started In Aseptic Compounding	0.0	0	
+Mathematics (Teacher's Bonus Book, Book 8)	0.0	0	
+Advances in Agronomy	0.0	0	
+Getting Started in Non-Sterile Compounding Video Training Program	0.0	0	
+A Primera Vista	0.0	0	
+Getting Started in Aseptic Compounding Video Training Program	0.0	0	
+Getting Started in Non-Sterile Compounding Video Training Program	0.0	0	
+The Warsaw Sparks	0.0	0	
+Advances in Agronomy, Volume 100 (Advances in Agronomy)	0.0	0	
+Advances in Agronomy, Volume 102	0.0	0	
+Mark Spark in the Dark	0.0	1	
+True Believer	0.0	0	
+The Lucky One	0.0	0	
+At First Sight	0.0	0	
+La Boda	0.0	0	
+Jenny Sparks	0.0	0	
+Lessons of a Lakota	0.0	0	
+Jay's Journal	0.0	0	
+Raccoon John Smith	0.0	0	
+Teacher Mentoring And Induction	0.0	0	
+Sparks	0.0	0	
+Teaching / Learning Anti-Racism	0.0	0	
+Sweet & Sticky	0.0	0	
+Agog! Ripping Reads	0.0	0	
+Ghost Stories	0.0	0	
+A Little Book of Manners for Boys	0.0	0	
+The Lucky One	0.0	0	
+15 Quick Ideas to Increase Sales	0.0	0	
+SPARK OF GOODNESS	0.0	0	
+Spin it Like That	0.0	0	
+Seattle: Lamp in Darkness/Flickering Flames/A Kindled Spark/Hearth of Fire	0.0	0	
+Fanning the Spark	0.0	0	
+Soil Physical Chemistry, Second Edition	0.0	0	
+Advances in Agronomy, Volume 89	0.0	0	
+A Kindled Spark	0.0	0	
+When Sparks Fly	0.0	0	
+Paths to Freedom	0.0	0	
+A Primera Vista	0.0	0	
+unknown	0.0	0	
+The Life and Times of a Dog Lover	0.0	0	
+That Certain Spark	0.0	0	
+Advances in Agronomy	0.0	0	
+Barking Buddha	0.0	0	
+The Choice	0.0	0	
+Retailing Logistics & Fresh Food Packaging	0.0	0	
+Logistics & Retail Management	0.0	0	
+The Life and Times of a Cat Lover	0.0	0	
+Spark Island – Key Stage 2 National Tests Science	0.0	0	
+Spark Island – Key Stage 1 National Tests Maths	0.0	0	
+Spark Island – Key Stage 2 National Tests English	0.0	0	
+Noches de tormenta/ Nights of storm	0.0	0	
+Media Effects Research	0.0	0	
+The Art and Practice of Home Visiting	0.0	0	
+Forbidden Nights with a Vampire	0.0	0	
+When Someone You Love Has Cancer	0.0	0	
+Spark the Firefighter	0.0	0	
+Radiskull and Devil Doll!	0.0	0	
+Webster's New World Dictionary	0.0	0	
+Teacher Mentoring And Induction	0.0	0	
+Nights in Rodanthe	0.0	0	
+The Ballad of Peckham Rye	0.0	0	
+Dear John	0.0	0	
+Dear John	0.0	0	
+Aiding and Abetting	0.0	0	
+Old Flame, New Sparks	0.0	0	
+Re-Energize Your Relationship (52 Brilliant Ideas): Reignite the Spark and Keep It Burning	0.0	0	
+Sparks Among the Stubble	0.0	0	
+Sparks	0.0	0	
+What If All the Kids Are White?	0.0	0	
+What If All the Kids Are White?	0.0	0	
+A Walk to Remember	0.0	0	
+Kim	0.0	0	
+Long Arm Quarterback	0.0	0	
+Retailing	0.0	0	
+Life and Writings of Jared Sparks	0.0	0	
+Brownie Girl Scout Handbook	0.0	0	
+Reader's Digest Select Editions - The Rescue, Even Steven, My Mother's Daughter, Code To Zero (Reader's Digest Select Editions, Volume 1 2001)	0.0	0	
+Desperate Ransom	0.0	0	
+Sparks Fly Upward	0.0	0	
+Stars and Sparks on Stage	0.0	0	
+Finding Katie	0.0	0	
+The Ghost of Bridgetown	0.0	0	
+My Very First Years Baby Book	0.0	0	
+Spark And Burn	0.0	0	
+LILAC PEABODY AND SAM SPARKS	0.0	0	
+Sparks (Smallville Bk. 10)	0.0	0	
+The Rescue	0.0	0	
+Treacherous Love	0.0	0	
+Outdoor Photography	0.0	0	
+Prayers to Share, Year C	0.0	0	
+The big spark	0.0	0	
+The Prime of Miss Jean Brodie	0.0	0	
+CliffsNotes on Nicholas Sparks' A Walk to Remember	0.0	0	
+The Pledge	0.0	0	
+Contemporary Christian Morality	0.0	0	
+Almost Lost	0.0	0	
+The People of Sparks	0.0	0	
+Finding Katie	0.0	0	
+unknown	0.0	0	
+Escape Routes	0.0	0	
+The Lies That Bind	0.0	0	
+Patient Provider Interaction	0.0	0	
+Never Again!	0.0	0	
+Leadership 180	0.0	0	
+La Vida Secreta de un Vampiro = The Secret Life of a Vampire	0.0	0	
+The English Frier, Or, the Town Sparks a Comedy as It Is Acted by Their Majesty's Servants / By Mr. Crowne.	0.0	0	
+The Finishing School	0.0	0	
+Shaw	0.0	0	
+The Little Teacup That Talked	0.0	0	
+The Expansion of the American People, Social and Territorial	0.0	0	
+Classrooms that Spark!	0.0	0	
+The Spark Box Set	0.0	0	
+Patient Provider Interaction	0.0	0	
+Public Criminology?	0.0	0	
+Annie's Baby	0.0	0	
+Shaman's Spark	0.0	0	
+The Lies That Bind	0.0	0	
+Spark of Desire	0.0	0	
+When Sparks Fly	0.0	0	
+Sparks From The Camp Fire Or Tales Of The Old Veterans	0.0	0	
+A Falling Spark	0.0	0	
+Sparks	0.0	0	
+The Ballad of Peckham Rye	0.0	0	
+The Ballad of Peckham Rye	0.0	0	
+Sparks From A Locomotive	0.0	0	
+As the Sparks Fly Upward	0.0	0	
+Reports Of Cases Arising Upon Letters Patent For Inventions V3	0.0	0	
+Living Sparks of Life	0.0	0	
+Sparks Of Laughter	0.0	0	
+Spark in the Stubble	0.0	0	
+Spark the Brain, Ignite the Pen	0.0	0	
+Lives of Roger Williams, Timothy Dwight, and Count Pulaski	0.0	0	
+The Works of Benjamin Franklin V10	0.0	0	
+The North American Review, Volume 153	0.0	0	
+Oscillatory Spark Discharges Between Unlike Metals	0.0	0	
+The Works of Benjamin Franklin V8	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+Sparks Albums	0.0	0	
+A Sermon, Preached in the Hall of the House of Representatives in Congress, Occasioned by the Death of William Pinkney	0.0	0	
+A Spark to Illumine, or the Mirror of Divine Love	0.0	0	
+The North American Review, Volume 50	0.0	0	
+The English Settlement in the Illinois	0.0	0	
+Investigative Reporting	0.0	1	
+Reno & Sparks, Nevada Slicker	0.0	0	
+Handbuch Kinderwelten	0.0	0	
+The Elephant Man	0.0	0	
+Philopolis, Volume 4	0.0	0	
+Kentucky's Most Hated Man	0.0	0	
+The Foundations of Psychology	0.0	0	
+The Influence of a Magnetic Field Upon the Spark Spectra of Iron and Titanium	0.0	0	
+El cuaderno de Noah/ The Notebook	0.0	0	
+Sacred Spark	0.0	0	
+Spark of Magic	0.0	0	
+Rand McNally Reno/ Sparks, Nevada	0.0	0	
+Rand McNally Easyfinder Reno/ Sparks, Nevada	0.0	0	
+From Spark to Space	0.0	0	
+Locomotive Sparks	0.0	0	
+The Spark	0.0	0	
+Rustie Lee Spice and Spark	0.0	0	
+The Foundations of Psychology	0.0	0	
+The Foundations of Psychology	0.0	0	
+The Foundations of Psychology	0.0	0	
+Lives of Eminent Individuals Celebrated in American History	0.0	0	
+The Foundations of Psychology	0.0	0	
+A Falling Spark	0.0	0	
+The Life of Governor Morris V1	0.0	0	
+Sparks from the Camp Fire or Tales of the Old Veterans	0.0	0	
+A Spark to Illumine, or the Mirror of Divine Love	0.0	0	
+The English Settlement in the Illinois	0.0	0	
+The United States of America V1	0.0	0	
+The Life and Writings of Jared Sparks	0.0	0	
+The Life of George Washington	0.0	0	
+Lives of Edward Preble and William Penn	0.0	0	
+Correspondence of the American Revolution Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the En	0.0	0	
+The Life and Writings of Jared Sparks	0.0	0	
+The Nature of Spark Discharge at Very Small Distances	0.0	0	
+The Life of Governor Morris V2	0.0	0	
+The Life of Governor Morris V3	0.0	0	
+Poetic Sparks from Leavitt's Anvil	0.0	0	
+The Spark of Life	0.0	0	
+Life of John Ledyard	0.0	0	
+A Sermon, Preached in the Hall of the House of Representatives in Congress, Occasioned by the Death of William Pinkney	0.0	0	
+The Light Spark According to the Chaldean Oracles	0.0	0	
+Worthwhile Americans for the Grades	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+The Divine Spark and the Way of Return According to the Chaldean Oracles	0.0	0	
+John Stark and William Pinkney	0.0	0	
+Icy Sparks	0.0	0	
+The Writings of George Washington V5	0.0	0	
+Collections of the Illinois State Historical Library V3	0.0	0	
+Lives of Eminent Individuals Celebrated in American History V1	0.0	0	
+Katie	0.0	0	
+Treacherous Love	0.0	0	
+A Matter of Time	0.0	0	
+Agnes, the Eggless Quail	0.0	0	
+Keeping Faith in the Dust	0.0	0	
+In the 13th Year	0.0	0	
+Musical Reminiscences	0.0	0	
+That Vital Spark	0.0	0	
+The It's Just Lunch Guide to Dating in Orlando	0.0	0	
+The Spark of Life	0.0	0	
+The Promise	0.0	0	
+British Rail Northern Scene	0.0	0	
+Commonsense Grammar and Style	0.0	0	
+Commonsense Grammar and Style	0.0	0	
+A Spectroscopic Study of the Spark Spectrum in Various Gases at High Pressure ...	0.0	0	
+Enduring Sparks	0.0	0	
+Brandon Sparks And The Hidden Sun	0.0	0	
+Causes of the Maryland Revolution of 1689	0.0	0	
+Particles, Jottings, Sparks	0.0	0	
+Life of John Ledyard	0.0	0	
+Jacob's Well of Life	0.0	0	
+More Frugal Gambling	0.0	0	
+Lives of Edward Preble and William Penn	0.0	0	
+American Biography...	0.0	0	
+Rolling in Dough	0.0	0	
+Correspondence of the American Revolution Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the En	0.0	0	
+Timeless	0.0	0	
+The Relation Between P.D. and Spark-Length for Small Values of the Latter ...	0.0	0	
+Narratives of Captivities	0.0	0	
+Letters On The Ministry, Ritual And Doctrines Of The Protestant Episcopal Church Addressed To William E. Wyatt, In Reply To A Sermon	0.0	0	
+Memoir of Colonel Seth Warner	0.0	0	
+Sparks from an Anvil	0.0	0	
+Sparks of Laughter	0.0	0	
+A Falling Spark	0.0	0	
+Living Sparks of Life	0.0	0	
+Oscillatory Spark Discharges Between Unlike Metals	0.0	0	
+The Nature of Spark Discharge at Very Small Distances	0.0	0	
+An Inquiry Into the Comparative Moral Tendency of Trinitarian and Unitarian Doctrines in a Series of Letters to the REV. Dr. Miller, of Princeton	0.0	0	
+The Life of Governor Morris V2	0.0	0	
+The Life of Governor Morris V3	0.0	0	
+The Foundations of Psychology	0.0	0	
+Causes of the Maryland Revolution of 1689	0.0	0	
+English Churchwomen of the Seventeenth Century	0.0	0	
+A Collection of Essays and Tracts in Theology V1	0.0	0	
+An Inquiry Into the Comparative Moral Tendency of Trinitarian and Unitarian Doctrines in a Series of Letters to the REV. Dr. Miller, of Princeton	0.0	0	
+English Churchwomen of the Seventeenth Century	0.0	0	
+Jacob's Well of Life	0.0	0	
+Living Sparks of Life	0.0	0	
+Poets Laureate of Kentucky	0.0	0	
+The English Settlement in the Illinois	0.0	0	
+What's A Girl To Do In A Big City If She Can't Dance?	0.0	0	
+The North American Review, Volume 154	0.0	0	
+Lives of John Ribault, Sebastian Rale, and William Palfrey	0.0	0	
+Lives of Charles Lee and Joseph Reed	0.0	0	
+Lives of Charles Lee and Joseph Reed	0.0	0	
+Lives of Roger Williams, Timothy Dwight, and Count Pulaski	0.0	0	
+Lives of John Ribault, Sebastian Rale, and William Palfrey	0.0	0	
+Locomotive Sparks	0.0	0	
+The Men Who Made the Nation	0.0	0	
+The Writings of George Washington V1	0.0	0	
+The Writings of George Washington V11	0.0	0	
+The Writings of George Washington V12	0.0	0	
+The Girls of Slender Means	0.0	0	
+A Book of Famous Explorers	0.0	0	
+A Spark in Time	0.0	0	
+Camp Fire Sparks	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+American Biography	0.0	0	
+Marvelous!	0.0	0	
+The Foundations Of Psychology	0.0	0	
+Memento Mori	0.0	0	
+Neshamah	0.0	0	
+Memento Mori	0.0	0	
+The Mental Spark Plug	0.0	0	
+Memento Mori	0.0	0	
+Loitering with Intent	0.0	0	
+The Finishing School	0.0	0	
+The Mandelbaum Gate	0.0	0	
+The Bachelors	0.0	0	
+Timeless	0.0	0	
+The Writings of George Washington V7	0.0	0	
+The Spark of Life	0.0	0	
+The Pretty Girl	0.0	0	
+Collections of the Illinois State Historical Library V3	0.0	0	
+Ashes and Sparks	0.0	0	
+A Spark to Illumine, or the Mirror of Divine Love	0.0	0	
+La Gente de Sparks	0.0	0	
+History of Winneshiek County	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions V3	0.0	0	
+The Relation Between P. D. and Spark-Length for Small Values of the Latter	0.0	0	
+Camp Fire Sparks	0.0	0	
+Letter to Lord Mahon	0.0	0	
+Ashes and Sparks	0.0	0	
+Bill Nye's Sparks	0.0	0	
+Commonsense Grammar and Style Textbook - 2nd Edition	0.0	0	
+Commonsense Grammar and Style Workbook - 2nd Edition	0.0	0	
+HIV and Community Mental Healthcare	0.0	0	
+A Spark Before the Fire	0.0	0	
+SPARKS国际少儿英语	0.0	0	
+Laser Spark Plug Development and Engine Testing - Design of a Diode Side Pumped Solid State Passively Q-switched Laser for Use as an Ignition Source for a Lean-burn Stationary Natural Gas Engine	0.0	0	
+SPARKS国际少儿英语	0.0	0	
+SPARKS国际少儿英语	0.0	0	
+SPARKS国际少儿英语	0.0	0	
+SPARKS国际少儿英语	0.0	0	
+Advances in Military Textiles and Personal Equipment	0.0	0	
+Tie a Yellow Ribbon	0.0	0	
+Underdog Freddie Sparks Genius	0.0	0	
+Molly and Her...Son	0.0	0	
+James Spark	0.0	0	
+Forensic Medicine	0.0	0	
+Advances in Agronomy	0.0	0	
+Molecular Environmental Soil Science	0.0	0	
+Advances in Agronomy	0.0	0	
+The House on Lonely Street	0.0	0	
+Ooh, Girl! Yo Hair'z All Jacked Up!	0.0	0	
+Robust Multivariable Flight Control	0.0	0	
+Practical Newspaper Reporting	0.0	0	
+The Spark Singer	0.0	0	
+The Infertile Male	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+The Spark of Life	0.0	0	
+Spoons West! Fred Harvey, the Navajo, and the Souvenir Spoons of the Southwest 1890-1941	0.0	0	
+Remarks on a "Reprint of the Original Letters from Washington to Joseph Reed	0.0	0	
+American Biography	0.0	0	
+The Foundations of Psychology	0.0	0	
+Tangerine, Spark, and Rainbow's Story	0.0	0	
+Spark of Madness	0.0	0	
+Sparks of Innovation in Human-Computer Interaction	0.0	0	
+Winter's Spark	0.0	0	
+Unconditional Love	0.0	0	
+Too Many Secrets	0.0	0	
+A Spark of Time - Uplifts the Spirit	0.0	0	
+Red for Love	0.0	0	
+The Nature of Experience	0.0	0	
+The Nature of Experience	0.0	0	
+Excavations in the Cathedral Precincts, 2 Linacre Garden, 'Meister Omers' and St. Gabriel's Chapel	0.0	0	
+Advances in Agronomy	0.0	0	
+Humiliation, Lymph Nodes And Other Forms Of Love	0.0	0	
+The Game	0.0	0	
+Someone Talked, Someone Listened	0.0	0	
+Jen and the Frosted Friends	0.0	0	
+Omfg	0.0	0	
+Crime and Social Change in Middle England	0.0	0	
+Sparks and Seeds	0.0	0	
+The Golden Spark	0.0	0	
+Mixture Formation in Spark-Ignition Engines	0.0	0	
+Lives of Eminent Individuals Celebrated in American History	0.0	0	
+The Men Who Made the Nation	0.0	0	
+U.S. Supreme Court Transcript of Record Ogilvie V. Knox Ins Co	0.0	0	
+Kelly Dean Sparks, Petitioner, V. North Carolina. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+Bibb Manufacturing Company, Petitioner, V. William R. McComb, as Administrator of the Wage and Hour Division, United States Department of Labor. U.S.	0.0	0	
+The Western Union Telegraph Company, Petitioner, V. Mary Ruth Sparks. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Sparks from My Forge	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+American Biography	0.0	0	
+A Reply to the Strictures of Lord Mahon and Others on the Mode of Editing the Writings of Washington.	0.0	0	
+Reno-Sparks Metropolitan Area, Including	0.0	0	
+Our Village Mission	0.0	0	
+Musical Reminiscences	0.0	0	
+Sparks	0.0	0	
+Fuel the Spark	0.0	0	
+A Summary View of the Evidence and Practical Importance of the Christian Revelation	0.0	0	
+The Relation Between Judaism and Christianity	0.0	0	
+Two or More-A Guy's Guide Through Infertility Assistance, Pregnancy and Multiple Births	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+The Nature of Spark Discharge at Very Small Distances	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+White Lightning	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+Sparks	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+Quest for the Spark, Book Two	0.0	0	
+Quest for the Spark	0.0	0	
+Sparks Off the Main Strike / Poems	0.0	0	
+The Baby Inside Mrs. Maze	0.0	0	
+The English Settlement in the Illinois	0.0	0	
+Spark Stories	0.0	0	
+The Divine Spark	0.0	0	
+A Brief History of the Los Angeles Sparks Including the Former and Current Players, the Championships and More	0.0	0	
+The Invisible Child	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+Letter to Lord Mahon	0.0	0	
+A Far Cry from Kensington	0.0	0	
+A Spark of Death	0.0	0	
+A Spark of Death	0.0	0	
+A Spark of Death	0.0	0	
+Silver Sparks	0.0	0	
+Las Senoritas de Escasos Medios	0.0	0	
+The Crockin' Girls Slow Cookin' Companion	0.0	0	
+History of Winneshiek County	0.0	0	
+A Many Colored Toga	0.0	0	
+A Spark Before the Fire	0.0	0	
+Cuando Te Encuentre	0.0	0	
+Sparks from the Camp Fire and Other Poems	0.0	0	
+Sparks Town	0.0	0	
+A Sermon, Preached in the Hall of the House of Representatives in Congress	0.0	0	
+Robert's Papers	0.0	0	
+Dimples	0.0	0	
+Lives of Eminent Individuals Celebrated in American History V1	0.0	0	
+The Letters of the Brontes	0.0	0	
+The Girls of Slender Means	0.0	0	
+The Expansion of the American People	0.0	0	
+The Mental Spark Plug	0.0	0	
+The Expansion of the American People	0.0	0	
+Sparks and Sounds from a Colonial Anvil	0.0	0	
+Poetic Sparks from Leavitt's Anvil	0.0	0	
+Fairy Godlover	0.0	0	
+Sparks of Fire	0.0	0	
+The Winged Men of Orcon	0.0	0	
+Hurricane Jack of 'The Vital Spark'	0.0	0	
+My Best Mary	0.0	0	
+Narratives of Captivities	0.0	0	
+Sparks from the Camp Fire and Other Poems	0.0	0	
+Narratives of Captivities	0.0	0	
+Letters on the Ministry, Ritual and Doctrines of the Protestant Episcopal Church Addressed to William E. Wyatt, in Reply to a Sermon	0.0	0	
+Worthwhile Americans for the Grades Worthwhile Americans for the Grades	0.0	0	
+A Collection of the Familiar Letters and Miscellaneous Papers of Benjamin Franklin	0.0	0	
+The United States of America V1	0.0	0	
+The Library of American Biography V19	0.0	0	
+The Relation Between P. D. and Spark-Length for Small Values of the Latter	0.0	0	
+Sparks from a Locomotive	0.0	0	
+Poetic Sparks from Leavitt's Anvil	0.0	0	
+Turbulence of the Heart	0.0	0	
+Letters on the Ministry, Ritual and Doctrines of the Protestant Episcopal Church	0.0	0	
+First Misadventure of Fragger Sparks	0.0	0	
+A Crow's Shade	0.0	0	
+Sparks of Light	0.0	0	
+Spark Files 7	0.0	0	
+Spark Files 8 Bk. 8	0.0	0	
+The Foundations of Psychology	0.0	0	
+The Foundations of Psychology	0.0	0	
+The Prime of Miss Jean Brodie	0.0	0	
+A Spark of Magic	0.0	0	
+Igniting the Spark to Trigger It All	0.0	0	
+No Fear Math - All the Basics Spark Notes	0.0	0	
+Gold, Hay and Stubble	0.0	0	
+The Student's Essential Formula Book	0.0	0	
+The Vital Spark	0.0	0	
+The Vital Spark	0.0	0	
+Sparks Flew	0.0	0	
+Spark Files	0.0	0	
+The Memories of Fifty Years	0.0	0	
+A Choice to Survive	0.0	0	
+Hurricane Jack of 'The Vital Spark'	0.0	0	
+Bill Nye's Sparks	0.0	0	
+Astrophysics of Life	0.0	0	
+Lives of Roger Williams, Timothy Dwight, and Count Pulaski	0.0	0	
+QUIA German in Review Online Activities	0.0	0	
+Lives of John Ribault, Sebastian Rale, and William Palfrey	0.0	0	
+The Dynamics of Effective Negotiation	0.0	0	
+Lives of Roger Williams, Timothy Dwight, and Count Pulaski	0.0	0	
+Lives of John Ribault, Sebastian Rale, and William Palfrey	0.0	0	
+Statistics in Ecotoxicology	0.0	0	
+Statistics in Ecotoxicology	0.0	0	
+Sexiest Vampire Alive	0.0	0	
+As the Sparks Fly Upward	0.0	0	
+Unison Spark	0.0	0	
+Sparks	0.0	0	
+Memoir of Jared Sparks	0.0	0	
+Oscillatory Spark Discharges Between Unlike Metals	0.0	0	
+Letter to Lord Mahon	0.0	0	
+Wanted	0.0	0	
+Canon Rebel T3i / EOS 600D	0.0	0	
+Spark & Hustle	0.0	0	
+Sparks Fly 18-Copy Solid Floor Display	0.0	0	
+Sparks Fly	0.0	0	
+Un Lugar Donde Refugiarse	0.0	0	
+Between Friends	0.0	0	
+El Cuaderno de Noah	0.0	1	
+En Nombre del Amor	0.0	0	
+Locomotive Sparks	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+Robert's Papers	0.0	0	
+Sparks of Spirit	0.0	0	
+Let Me be the Spark!	0.0	0	
+A Spark in Darkness	0.0	0	
+Sparks of Neon	0.0	0	
+A Soul's Taste of Autumn	0.0	0	
+When The Spark Came Into My Life	0.0	0	
+Monsters	0.0	0	
+Ghost	0.0	0	
+The Thunderbird	0.0	0	
+The Uranium Plant	0.0	0	
+A Mountain of Secrets	0.0	0	
+A23.3 Waste Spark Concept Video	0.0	0	
+Hunting Captain Ahab	0.0	0	
+Unexpected Sparks	0.0	0	
+As the Spark Flies Upward	0.0	0	
+Teamwork, the Los Angeles Sparks in Action (Owens, Tom, Women's Professional	0.0	0	
+The Winged Men of Orcon	0.0	0	
+Divine Sparks	0.0	0	
+The Ballad of Peckham Rye	0.0	0	
+The Ballad of Peckham Rye	0.0	0	
+Breakfast Without Tiffany	0.0	0	
+Ancient Spark	0.0	0	
+Chess Sparks	0.0	0	
+Dr. Joe's Brain Sparks	0.0	0	
+Explain It to Me	0.0	0	
+The Fragments of Me	0.0	0	
+Anthem	0.0	0	
+A Far Cry from Kensington	0.0	0	
+The Fight	0.0	0	
+The Fight	0.0	0	
+The Strange Request Sparks Adventures	0.0	0	
+Shadows from the Spark Within	0.0	0	
+Lost	0.0	0	
+Lost	0.0	0	
+The In Between	0.0	0	
+Factor of Love	0.0	0	
+Humiliation, Lymph Nodes And Other Forms Of Love	0.0	0	
+Frost Bites	0.0	0	
+Ruthii's Tranquility Plain	0.0	0	
+Buhley Sparks, The Gift	0.0	0	
+Buhley Sparks, The Gift	0.0	0	
+Railroad and Other Happenings	0.0	0	
+The 10 Things You Can Do for an Easier Labor	0.0	0	
+The Baku Boy Scouts	0.0	0	
+Realms of the Russian Bear	0.0	0	
+The North American Review, Volume 59	0.0	0	
+My Best Mary	0.0	0	
+Solid-Liquid Filtration	0.0	0	
+A Sermon, Preached in the Hall of the House of Representatives in Congress, Occasioned by the Death of William Pinkney	0.0	0	
+Sparks of Laughter	0.0	0	
+Correspondence of the American Revolution Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the En	0.0	0	
+Jacob's Well of Life	0.0	0	
+The Life of George Washington	0.0	0	
+The Life and Writings of Jared Sparks	0.0	0	
+The Life and Writings of Jared Sparks	0.0	0	
+Correspondence of the American Revolution Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army to the En	0.0	0	
+Lives of Edward Preble and William Penn	0.0	0	
+Late Pale Hour	0.0	0	
+Sparks from Life's Flint	0.0	0	
+Nights in Rodanthe	0.0	0	
+Advances in Agronomy, Volume 105	0.0	0	
+Pledge	0.0	0	
+The People of Sparks	0.0	0	
+Laugh Your Way to Grace	0.0	0	
+Leadership 180	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+Quest for the Spark	0.0	0	
+The Prime of Miss Jean Brodie	0.0	0	
+Travels of the Criminal Question	0.0	0	
+Advances in Agronomy, Volume 108	0.0	0	
+Travels of the Criminal Question	0.0	0	
+Raising Your Children's Children	0.0	0	
+The Diplomatic Correspondence of the American Revolution	0.0	0	
+The Mind of South Africa	0.0	0	
+It Happened to Nancy	0.0	0	
+Sursum Or Sparks Flying Upward	0.0	0	
+Safe Haven	0.0	0	
+Sparks of Randomness	0.0	0	
+Poetic Sparks from Leavitt's Anvil	0.0	0	
+Letters On The Ministry, Ritual And Doctrines Of The Protestant Episcopal Church Addressed To William E. Wyatt, In Reply To A Sermon	0.0	0	
+Lives Of Eminent Individuals Celebrated In American History V1	0.0	0	
+Philopolis, Volume 1	0.0	0	
+The North American Review, Volume 130	0.0	0	
+The Fambly Album, Another Fotygraft Album, Shown to the New Preacher by Rebecca Sparks Peters, Aged Eleven	0.0	0	
+The Expansion of the American People	0.0	0	
+Calendar of the Sparks Manuscripts in Harvard College Library	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+Sparks from the Anvil	0.0	0	
+Teaching as Decision Making	0.0	0	
+Advances in Agronomy, Volume 107	0.0	0	
+Good for the Jews	0.0	0	
+The Spark	0.0	0	
+Vampire Mine	0.0	0	
+Nikon D5000	0.0	0	
+Coaching Conversations	0.0	0	
+The Edinburgh Companion to Muriel Spark	0.0	0	
+Nikon D-SLR System	0.0	0	
+Sparks and Taylor's Nursing Diagnosis Pocket Guide	0.0	0	
+That Certain Spark	0.0	0	
+Good for the Jews	0.0	0	
+Quest for the Spark	0.0	0	
+Quest for the Spark	0.0	0	
+CliffsNotes on Nicholas Sparks' The Last Song Teacher's Guide	0.0	0	
+How Did Tea and Taxes Spark a Revolution? and Other Questions about the Boston Tea Party	0.0	0	
+Washington	0.0	0	
+History of Winneshiek County	0.0	0	
+The Beginnings of Chicago	0.0	0	
+The North American Review, Volume 152	0.0	0	
+Sparks from the Camp Fire and Other Poems	0.0	0	
+A Spark to Illumine, or the Mirror of Divine Love	0.0	0	
+Chess Sparks	0.0	0	
+Lives Of Eminent Individuals Celebrated In American History V1	0.0	0	
+Narratives of Captivities	0.0	0	
+Digital SLR Handbook	0.0	0	
+Words of Comfort for Times of Loss	0.0	0	
+Stars and Sparks on Stage	0.0	0	
+Streets of Reno Sparks	0.0	0	
+Sparks and Taylor's Nursing Diagnosis Reference Manual	0.0	0	
+Letters on the Ministry, Ritual and Doctrines of the Protestant Episcopal Church	0.0	0	
+Poetic Sparks from Leavitt's Anvil	0.0	0	
+Memoir of Jared Sparks	0.0	0	
+Dear John	0.0	0	
+Advances in Agronomy v106, Volume 106	0.0	0	
+Exploring "The World's Religions"	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+The Expansion of the American People	0.0	0	
+History of Winneshiek County	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+The Nature of Spark Discharge at Very Small Distances	0.0	0	
+The Anatomy of Humors and the Passionate Spark of a Relenting Mind	0.0	0	
+A Sermon, Preached in the Hall of the House of Representatives in Congress, Occasioned by the Death of William Pinkney	0.0	0	
+Memoirs of the Life and Travels of John Ledyard	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+Sparks from a Superintendent's Anvil	0.0	0	
+Sparks	0.0	0	
+Memoirs of the Life and Travels of John Ledyard	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions V3	0.0	0	
+Remarks on a Reprint of the Original Letters from Washington to Joseph Reed, During the American Revolution, Referred to in the Pamphlets of Lord Maho	0.0	0	
+Memoir of Jared Sparks	0.0	0	
+The Business of Government	0.0	0	
+A Collection of the Familiar Letters and Miscellaneous Papers of Benjamin Franklin	0.0	0	
+A Book of Famous Explorers	0.0	0	
+The Diplomatic Correspondence of the American Revolution V11	0.0	0	
+The Business of Government	0.0	0	
+Oscillatory Spark Discharges Between Unlike Metals	0.0	0	
+The Anatomy of Humors and the Passionate Spark of a Relenting Mind	0.0	0	
+The Fambly Album, Another Fotygraft Album, Shown to the New Preacher by Rebecca Sparks Peters, Aged Eleven	0.0	0	
+Memoir of Jared Sparks	0.0	0	
+The Works of Benjamin Franklin V2	0.0	0	
+Sparks from the Camp Fire and Other Poems	0.0	0	
+Worthwhile Americans for the Grades	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+The Works of Benjamin Franklin V10	0.0	0	
+The Works of Benjamin Franklin V2	0.0	0	
+BRIEFCASE SRS	0.0	0	
+The Relation Between P. D. and Spark-Length for Small Values of the Latter	0.0	0	
+John Stark and William Pinkney	0.0	0	
+Familiar Letters and Miscellaneous Papers of Benjamin Franklin	0.0	0	
+The Diplomatic Correspondence of the American Revolution V10	0.0	0	
+The Writings of George Washington V5	0.0	0	
+The Writings of George Washington V12	0.0	0	
+The Writings of George Washington V1	0.0	0	
+The Writings of George Washington V3	0.0	0	
+The Writings of George Washington V7	0.0	0	
+The Writings of George Washington V11	0.0	0	
+The Writings of George Washington V1	0.0	0	
+Sanibel Island Under Siege	0.0	0	
+Our Village Mission	0.0	0	
+A Far Cry from Kensington	0.0	0	
+Camp Fire Sparks	0.0	0	
+Sparks from a Superintendent's Anvil	0.0	0	
+Musical Reminiscences	0.0	0	
+Sparks from a Locomotive	0.0	0	
+Sparks	0.0	0	
+Catalogue of the Library of Jared Sparks	0.0	0	
+A Spark Divine	0.0	0	
+Sparks of Laughter	0.0	0	
+The Library of American Biography V7	0.0	0	
+A Spark of Death	0.0	0	
+A Spark of Death	0.0	0	
+A Spark of Death	0.0	0	
+Sparks from My Forge	0.0	0	
+The Writings of George Washington V1 the Writings of George Washington V1	0.0	0	
+The Men Who Made the Nation	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+The Fambly Album, Another Fotygraft Album, Shown to the New Preacher by Rebecca Sparks Peters, Aged Eleven	0.0	0	
+Memoir of Jared Sparks	0.0	0	
+Incidents Attending the Capture, Detention and Ransom of Charles Johnston of Virginia	0.0	0	
+Sparks from the Camp Fire or Tales of the Old Veterans	0.0	0	
+Memoirs Of The Life And Travels Of John Ledyard	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+First, Peel the Otter	0.0	0	
+The Mental Spark Plug	0.0	0	
+The Life of Governor Morris V1	0.0	0	
+Our Village Mission	0.0	0	
+A Collection of Essays and Tracts in Theology V1	0.0	0	
+Letters of Ann Gillam Storrow to Jared Sparks	0.0	0	
+The Foundations of Psychology	0.0	0	
+Along the Cherry Lane - Milt Okun	0.0	0	
+The Writings of George Washington V3	0.0	0	
+Graphic Sparks	0.0	0	
+Graphic Sparks Spring Set	0.0	0	
+Graphic Sparks Fall 2009	0.0	0	
+Graphic Sparks Comp Set	0.0	0	
+Graphic Sparks Spring 2010 Set	0.0	0	
+Graphic Sparks Comp Set	0.0	0	
+The Works of Benjamin Franklin V8	0.0	0	
+The Works of Benjamin Franklin V10	0.0	0	
+The Works of Benjamin Franklin V8	0.0	0	
+Remarks on a Reprint of the Original Letters from Washington to Joseph Reed, During the American Revolution, Referred to in the Pamphlets of Lord Maho	0.0	0	
+The Works of Benjamin Franklin V2	0.0	0	
+Familiar Letters and Miscellaneous Papers of Benjamin Franklfamiliar Letters and Miscellaneous Papers of Benjamin Franklin in	0.0	0	
+Incidents Attending the Capture, Detention and Ransom of Charles Johnston of Virginia	0.0	0	
+The Library of American Biography V19	0.0	0	
+Sparks from a Superintendent's Anvil	0.0	0	
+The Library of American Biography V7	0.0	0	
+Musical Reminiscences	0.0	0	
+The Works of Benjamin Franklin V7	0.0	0	
+Lives of Eminent Individuals, Celebrated in American History	0.0	0	
+Sparks from My Forge	0.0	0	
+Bill Nye's Sparks	0.0	0	
+The Diplomatic Correspondence of the American Revolution V11	0.0	0	
+Sparks of Fire	0.0	0	
+Memoir of Colonel Seth Warner	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+The Life of Benjamin Franklin the Life of Benjamin Franklin	0.0	0	
+The Life and Treason of Benedict Arnold	0.0	0	
+The Nature of Spark Discharge at Very Small Distances	0.0	0	
+The Life of Governor Morris V3	0.0	0	
+The Fambly Album, Another Fotygraft Album, Shown to the New Preacher by Rebecca Sparks Peters, Aged Eleven	0.0	0	
+Sparks from an Anvil	0.0	0	
+The Letters of the Brontes	0.0	0	
+A Many Colored Toga	0.0	0	
+Advances in Agronomy	0.0	0	
+Advances in Agronomy	0.0	0	
+Night & Low Light Photography	0.0	0	
+Reich V. Champion Spark Plug Co U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+National Labor Relations Board, Petitioner, V. Massey Gin and Machine Works, Inc. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Sparks In The Dark	0.0	0	
+Lives of Eminent Individuals Celebrated in American History	0.0	0	
+Remarks on a "Reprint of the Original Letters from Washington to Joseph Reed During the American Revolution, Referred to in the Pamphlets of Lord Maho	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+El Mensaje En La Botella	0.0	0	
+Forensic Medicine	0.0	0	
+Mensaje en una Botella = Message in a Bottle	0.0	0	
+Guardian, the - 16 Copy Floor Display	0.0	0	
+Nights in Rodanthe - 16 Copy Floor Display	0.0	0	
+The Last Song	0.0	0	
+The Last Song	0.0	0	
+The Guardian	0.0	0	
+Cherish the Days	0.0	0	
+Strength for Today	0.0	0	
+Sparks of Glory	0.0	0	
+Astrophysics of Life	0.0	0	
+The Guardian	0.0	0	
+Kindling the Spark	0.0	0	
+CME GERMAN IN REVIEW 4E	0.0	0	
+Hello, My Name is Pabst	0.0	0	
+Dreaming of Wolves Adventures in the Carpathian Mountains of Transylvania	0.0	0	
+Journalists for the 21st Century	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks Teacher's Resource Book Emergent	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Bright Sparks	0.0	0	
+Biology	0.0	0	
+Novelist Nicholas Sparks	0.0	0	
+Chess Sparks	0.0	0	
+A Spark Divine	0.0	0	
+A Reply to the Strictures of Lord Mahon and Others on the Mode of Editing the Writings of Washington.	0.0	0	
+The Foundations of Psychology...	0.0	0	
+American Biography	0.0	0	
+Peacock V. Wofford U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Oscillatory Spark Discharges Between Unlike Metals...	0.0	0	
+The Foundations of Psychology...	0.0	0	
+The Men Who Made the Nation	0.0	0	
+The Men Who Made the Nation	0.0	0	
+The Men Who Made the Nation	0.0	0	
+Sparks from the Camp Fire and Other Poems...	0.0	0	
+Sparks from a Locomotive	0.0	0	
+A Reply to the Strictures of Lord Mahon and Others, on the Mode of Editing the Writings of Washington	0.0	0	
+Desperate Ransom	0.0	0	
+Windsong	0.0	0	
+The Spark Within Us	0.0	0	
+The Parable of a Horse	0.0	0	
+Sparks from the Heart, Fire from the Soul!	0.0	0	
+Remarks on a "Reprint of the Original Letters from Washington to Joseph Reed	0.0	0	
+Sparks from My Forge	0.0	0	
+Memoirs Of The Life And Travels Of John Ledyard	0.0	0	
+Reports Of Cases Arising Upon Letters Patent For Inventions V3	0.0	0	
+Sparks	0.0	0	
+Memoirs of the Life and Travels of John Ledyard, from His Journals and Correspondence	0.0	0	
+F.H. Sparks Co. Inc. V. George Sollitt Construction Co. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Sparks From A Locomotive	0.0	0	
+Musical Reminiscences	0.0	0	
+National Labor Relations Board V. Sparks-Withinton Co U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+U.S. Supreme Court Transcript of Record National Labor Relations Board V. Sparks-Withinton Co	0.0	0	
+Sparks from a Superintendent's Anvil	0.0	0	
+Remarks on a "Reprint of the Original Letters from Washington to Joseph Reed, During the American Revolution, Referred to in the Pamphlets of Lord Mah	0.0	0	
+Sparks from a Geologist's Hammer	0.0	0	
+Our Village Mission	0.0	0	
+City of New York V. Campbell U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Memoirs of the Life and Travels of John Ledyard	0.0	0	
+Safe Haven	0.0	0	
+Team Cul de Sac	0.0	0	
+Stars and Sparks on Stage	0.0	0	
+Stars and Sparks on Stage	0.0	0	
+Sexual Health For Men	0.0	0	
+German in Review Classroom Manual Ubungsbuch der deutschen Grammatik	0.0	0	
+GERMAN IN REVIEW LEHRBUCH DER DEUTSCHEN	0.0	0	
+GERMAN IN REVIEW CLASSROOM MANUAL UBUNGS	0.0	0	
+A Spark in Darkness	0.0	0	
+Nikon Coolpix P7100	0.0	0	
+Nikon D800 & D800E	0.0	0	
+Jay's Journal	0.0	0	
+The Vital Spark	0.0	0	
+Quest for the Spark	0.0	0	
+Quest for the Spark	0.0	0	
+La Place Du Conducteur	0.0	0	
+NE Pas Deranger	0.0	0	
+Intentions Suspectes	0.0	0	
+Les Celibataires	0.0	0	
+Season of Change, One Coach and His Staff's Experiences with Implementing Insideout Coaching	0.0	0	
+Cold Sparks	0.0	0	
+Sparks In The Dark	0.0	0	
+Un Choix	0.0	0	
+A Reply to the Strictures of Lord Mahon and Others	0.0	0	
+In the Bend of the Estataue;	0.0	0	
+God's Spiritual House	0.0	0	
+The Stewardship of the Mystery	0.0	0	
+The Presence	0.0	0	
+The Library of American Biography, Volume 11	0.0	0	
+The Life and Writings of Jared Sparks, Comprising Selections from His Journals and Correspondence	0.0	0	
+The Men Who Made the Nation; An Outline of United States History from 1760 to 1865	0.0	0	
+The Life of George Washington	0.0	0	
+National Development, 1877-1885	0.0	0	
+The Memories of Fifty Years	0.0	0	
+The Memories of Fifty Years	0.0	0	
+Correspondence of the American Revolution; Being Letters of Eminent Men to George Washington, from the Time of His Taking Command of the Army	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 7	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 6	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 5	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 3	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 11	0.0	0	
+The Lucknow Sparks Library	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 12	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 8	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 2	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, and Other Papers, Official and Private Volume 1	0.0	0	
+A Manual of Buddhist Law	0.0	0	
+The English Settlement in the Illinois. Reprints of Three Rare Tracts on the Illinois Country. with Map and a View of a British Colony House at	0.0	0	
+The Library of American Biography	0.0	0	
+The Library of American Biography	0.0	0	
+The Life of George Washington	0.0	0	
+Chemical Literature and Its Use; Notes of a Course of Lectures, in Chemistry 92 Required of Third Year Students in Chemistry and Chemical	0.0	0	
+Reprint of the Original Letters to Joseph Reed, During the American Revolution Referred to in the Pamphlets of Lord Mahon and Mr. Sparks	0.0	0	
+The North American Review, Volume 162	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+The North American Review, Volume 194	0.0	0	
+The Writings of George Washington	0.0	0	
+The North American Review, Volume 19	0.0	0	
+Black Spark	0.0	0	
+Sparks Off You	0.0	0	
+Dave Sparks	0.0	0	
+On Jordan's Stormy Banks	0.0	0	
+It's War!	0.0	0	
+Advances in Agronomy	0.0	0	
+Clinton Sparks	0.0	0	
+The Tabernacle of the Old Testament	0.0	0	
+The Tabernacle of the Old Testament	0.0	0	
+The Tabernacle of the Old Testament	0.0	0	
+Ron Sparks	0.0	0	
+Ron Sparks	0.0	0	
+Ron Sparks	0.0	0	
+Squeezing Out Sparks	0.0	0	
+Rosa's Rescue	0.0	0	
+Rumpelstilskin	0.0	0	
+The Prime of Miss Jean Brodie	0.0	0	
+A Far Cry from Kensington	0.0	0	
+A Spark of Death	0.0	0	
+Ron E Sparks	0.0	0	
+SURSUM OR SPARKS FLYING UPWARD	0.0	0	
+Oucho Sparks	0.0	0	
+15129 Sparks	0.0	0	
+Hal Sparks	0.0	0	
+How to Spark Gospel Learning	0.0	0	
+How to Spark Gospel Learning	0.0	0	
+AS THE SPARKS FLY UPWARD POEMS AND BALL	0.0	0	
+THE IMMORTAL SPARK OR LIFE BEYOND LIFE	0.0	0	
+A MANUAL OF BUDDHIST LAW BEING SPARKS C	0.0	0	
+A TINY SPARK	0.0	0	
+SPARKS AND FLAMES POEMS	0.0	0	
+FLYING SPARKS	0.0	0	
+HMS Spark	0.0	0	
+Tim Sparks	0.0	0	
+Beachwood Sparks	0.0	0	
+REVIEW OF THE REV. JARED SPARKS LETTERS	0.0	0	
+Spark and Burn	0.0	0	
+Spark-Gap Transmitter	0.0	0	
+THE LIFE AND WRITINGS OF JARED SPARKS C	0.0	0	
+Sparks, Nevada	0.0	0	
+FOREMEN SPARK PLUGS OR GROUNDED WIRES	0.0	0	
+CATALOGUE OF THE LIBRARY OF JARED SPARK	0.0	0	
+Kansas State University Alumni	0.0	0	
+Spark-Gap Transmitter	0.0	0	
+HAL SPARKS	0.0	0	
+Spark and Burn	0.0	0	
+The North American Review	0.0	0	
+Causes of the Maryland Revolution of 1689	0.0	0	
+Modeling of Thermoelectric Phenomena in Spark Plasma Sintering	0.0	0	
+Keeping the Spark Alive	0.0	0	
+Nursing Diagnosis Reference Manual	0.0	0	
+Un Paseo Para Recordar	0.0	0	
+The Spark of Life; The Story of How Living Things Come Into the World, as Told for Girls and Boys	0.0	0	
+Mixture Formation in Spark-Ignition Engines	0.0	0	
+The North American Review, Volume 20	0.0	0	
+The Library of American Biography	0.0	0	
+The Men Who Made the Nation	0.0	0	
+Life of George Washington, Volume 2	0.0	0	
+The Works of Benjamin Franklin V10	0.0	0	
+The Works of Benjamin Franklin V8	0.0	0	
+The Library of American Biography, Volume 10	0.0	0	
+The Life of George Washington	0.0	0	
+The Writings of George Washington; Being His Correspondence, Addresses, Messages, AMD Other Papers, Official and Private	0.0	0	
+The North American Review, Volume 46	0.0	0	
+The Works of Benjamin Franklin	0.0	0	
+The Writings of George Washington	0.0	0	
+Famous Explorers	0.0	0	
+National Development, 1877-1885 Volume 23	0.0	0	
+The North American Review, Volume 24	0.0	0	
+A Collection of Essays and Tracts in Theology, from Various Authors, with Biographical and Critical Notices Volume 1	0.0	0	
+A Collection of Essays and Tracts in Theology	0.0	0	
+Chess Sparks; Or, Short and Bright Games of Chess	0.0	0	
+The United States of America V1 the United States of America V1	0.0	0	
+Sparks from a Superintendent's Anvil	0.0	0	
+Sparks from the Camp Fire	0.0	0	
+The North American Review, Volume 51	0.0	0	
+The North American Review, Volume 6	0.0	0	
+Our Village Mission, 6 Addresses	0.0	0	
+The North American Review	0.0	0	
+Memoirs of the Life and Travels of John Ledyard	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 26	0.0	0	
+The North American Review, Volume 142	0.0	0	
+The Life of Benjamin Franklin	0.0	0	
+The North American Review, Volume 23	0.0	0	
+The Memories of Fifty Years	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 32	0.0	0	
+A Collection of Essays and Tracts in Theology, Volume 2; From Various Authors, with Biographical and Critical Notices	0.0	0	
+The North American Review	0.0	0	
+The Library of American Biography	0.0	0	
+The Library of American Biography, Volume 8	0.0	0	
+The Riviera	0.0	0	
+The Library of American Biography, Volume 9	0.0	0	
+The Library of American Biography, Volume 2	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 29	0.0	0	
+American Idol Winners	0.0	0	
+Reports of Cases Arising Upon Letters Patent for Inventions	0.0	0	
+The Writings of George Washington	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+The North American Review Volume 40	0.0	0	
+The North American Review Volume 134	0.0	0	
+The North American Review	0.0	0	
+The North American Review	0.0	0	
+The North American Review	0.0	0	
+The Library of American Biography	0.0	0	
+The Library of American Biography	0.0	0	
+The Library of American Biography	0.0	0	
+The Library of American Biography	0.0	0	
+The North American Review	0.0	0	
+The North American Review, Volume 42	0.0	0	
+The Library of American Biography, Volume 3	0.0	0	
+The North American Review	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 28	0.0	0	
+The Library of American Biography, Volume 24	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volumes 21-30	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 21	0.0	0	
+The Diplomatic Correspondence of the American Revolution	0.0	0	
+The Lincoln-Douglas Debates of 1858	0.0	0	
+The Library of American Biography	0.0	0	
+The North American Review Volume 51	0.0	0	
+The North American Review	0.0	0	
+The Library of American Biography Volume 12	0.0	0	
+The North American Review Volume 39	0.0	0	
+The North American Review Volume 163	0.0	0	
+The North American Review, Volume 2	0.0	0	
+National Development, 1877-1885 Volume 23	0.0	0	
+The Life and Treason of Benedict Arnold	0.0	0	
+The North American Review	0.0	0	
+The North American Review	0.0	0	
+An Inquiry Into the Comparative Moral Tendency of Trinitarian and Unitarian Doctrines	0.0	0	
+The Library of American Biography	0.0	0	
+The Writings of George Washington	0.0	0	
+The Life and Writings of Jared Sparks	0.0	0	
+Calendar of the Sparks Manuscripts in Harvard College Library, with an Appendix Showing Other Manuscripts	0.0	0	
+The Works of Benjamin Franklin	0.0	0	
+Correspondence of George Bancroft and Jared Sparks, 1823-1832, Illustrating the Relationship Between Editor and Reviewer in the Early	0.0	0	
+Lives of Eminent Individuals, Celebrated in American History	0.0	0	
+The Diplomatic Correspondence of the American Revolution	0.0	0	
+The Writings of George Washignton; Being the Correspondence, Addresses, Messages, and Other Papers, Official and Private.	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 21	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 15	0.0	0	
+A Collection of Essays and Tracts in Theology, from Various Authors, with Biographical and Critical Notices	0.0	0	
+National Development, 1877-1885	0.0	0	
+Sparks and Sounds from a Colonial Anvil	0.0	0	
+The North American Review, Volume 13	0.0	0	
+The Writings of George Washignton; Being the Correspondence, Addresses, Messages, and Other Papers, Official and Private.	0.0	0	
+The Lincoln-Douglas Debates of 1858	0.0	0	
+The Works of Benjamin Franklin	0.0	0	
+The Writings of George Washington	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+The Library of American Biography, Volume 11	0.0	0	
+An  Introduction to the History of the Revolt of the American Colonies	0.0	0	
+The American Almanac and Repository of Useful Knowledge for the Year ..., Volume 25	0.0	0	
+The American Almanac and Repository of Useful Knowledge for the Year ..., Volume 11	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Life of George Washington, Volume 2	0.0	0	
+History of Winneshiek County with Biographical Sketches of Its Eminent Men	0.0	0	
+The Influence of a Magnetic Field Upon the Spark Spectra of Iron and Titanium	0.0	0	
+The Diplomatic Correspondence of the American Revolution	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Works of Benjamin Franklin	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+The Diplomatic Correspondence of the American Revolution, Being the Letters of Benjamin Franklin, Silas Deane, John Adams, John Jay, Arthur	0.0	0	
+Correspondence of the American Revolution	0.0	0	
+Correspondence of the American Revolution Being Letters of Eminent Men to George Washington from the Time of His Taking Command of the Army to	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 18	0.0	0	
+The North American Review Volume 68	0.0	0	
+The Works of Benjamin Franklin	0.0	0	
+The Life of George Washington	0.0	0	
+American Almanac and Repository of Useful Knowledge, Volume 32	0.0	0	
+American Biography	0.0	0	
+Sparks of Laughter; Suggestions to Toastmasters How to Tell a Funny Story	0.0	0	
+American Biography Volume 2	0.0	0	
+American Biography Volume 6	0.0	0	
+American Biography	0.0	0	
+American Biography	0.0	0	
+American Biography	0.0	0	
+American Biography	0.0	0	
+An Inquiry Into the Comparative Moral Tendency of Trinitarian and Unitarian Doctrines	0.0	0	
+American Biography Volume 3	0.0	0	
+American Biography	0.0	0	
+American Biography	0.0	0	
+American Biography	0.0	0	
+Lives of Eminent Individuals, Celebrated in American History	0.0	0	
+The Library of American Biography Volume 14	0.0	0	
+The Library of American Biography Volume 24	0.0	0	
+The Library of American Biography Volume 22	0.0	0	
+The Library of American Biography Volume 23	0.0	0	
+The Life of Gouverneur Morris	0.0	0	
+Letter to Lord Mahon, Being an Answer to Hisletter Addressed to the Editor of Washington's Writings.	0.0	0	
+Letters to Unitarians Occasioned by the Sermon of the Reverend William E. Channing, at the Ordination of the REV. J. Sparks	0.0	0	
+The Library of American Biography. Second Series	0.0	0	
+The Library of American Biography Volume 1	0.0	0	
+The Library of American Biography Volume 1	0.0	0	
+The Library of American Biography Volume 10	0.0	0	
+The Life of George Washington, Commander-In-Chief of the American Armies, and First President of the United States	0.0	0	
+The Library of American Biography Volume 17	0.0	0	
+The Library of American Biography Volume 6	0.0	0	
+The North American Review, Volume 156	0.0	0	

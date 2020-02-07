@@ -1,0 +1,33 @@
+HBase权威指南	8.3	107	
+HBase实战	7.8	59	
+HBase	8.5	78	
+HBase	0.0	4	
+HBase in Action	7.3	26	
+Hbase	0.0	0	
+Learning Hbase中文版	0.0	6	
+HBase企业应用开发实战	6.5	14	
+HBase权威指南	8.2	18	
+HBase Administration Cookbook	0.0	6	
+Structured Storage	0.0	0	
+HBase管理指南	0.0	6	
+HBase不睡觉书	8.2	29	
+HBase Essentials	0.0	1	
+HBase: The Definitive Guide: Random Access to Your Planet-Size Data	0.0	2	
+Pro Apache Phoenix	0.0	2	
+Architecting HBase Applications	0.0	1	
+Learning HBase	0.0	2	
+HBase Design Patterns	0.0	1	
+HBase High Performance Cookbook	0.0	0	
+Apache HBase Primer	0.0	0	
+HBase应用架构	0.0	4	
+HBase分布式存储系统应用/普通高等教育新工科人才培养规划教材（大数据专业）	0.0	0	
+Hbase Easy Handbook	0.0	0	
+Hbase in a Day	0.0	0	
+Hbase for Busies	0.0	0	
+Hbase Winner	0.0	0	
+Hbase for Starters	0.0	0	
+The Art of Hbase	0.0	0	
+HBase 技術手冊	0.0	0	
+HBase入门与实践	0.0	0	
+HBase原理与实践	9.5	23	
+Hadoop实战	6.2	68	

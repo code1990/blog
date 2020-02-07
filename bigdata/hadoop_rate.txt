@@ -1,0 +1,244 @@
+Hadoop权威指南:大数据的存储与分析(第4版)(修订版)(升级版)	8.4	81	
+Hadoop实战	7.7	178	
+Hadoop技术内幕	8.4	145	
+Hadoop	8.8	107	
+Hadoop权威指南（第2版）	7.7	251	
+Hadoop技术内幕	8.0	59	
+Hadoop技术内幕	8.1	76	
+Hadoop	0.0	8	
+Hadoop	0.0	6	
+Hadoop: The Definitive Guide	8.3	268	
+Hadoop权威指南(中文版)	7.2	257	
+Hadoop in Action	8.2	116	
+敏捷数据科学	6.4	23	
+Hadoop权威指南(第3版)	7.2	92	
+高可用性的HDFS	5.8	13	
+Understanding Big Data	6.2	12	
+Hadoop实战（第2版）	6.7	96	
+颠覆大数据分析	7.5	12	
+Hadoop实战	6.2	68	
+数据算法	7.1	12	
+Hadoop	0.0	1	
+Pro Hadoop	7.0	28	
+Hadoop	0.0	0	
+Apache Hadoop YARN	7.8	12	
+实战Hadoop	5.5	53	
+Hadoop源代码分析-深入云计算	0.0	6	
+Data Algorithms	0.0	7	
+大数据处理系统	0.0	3	
+Distributed File Systems	0.0	0	
+Hadoop YARN权威指南	7.4	20	
+Big Data Analytics Beyond Hadoop	0.0	4	
+Cloud Computing	0.0	2	
+Hadoop: The Definitive Guide	9.0	48	
+Hadoop in Practice	8.3	19	
+Hadoop基础教程	8.4	15	
+Hadoop 2.X HDFS源码剖析	8.8	34	
+The Enterprise Big Data Lake	0.0	2	
+Hadoop Operations	7.7	13	
+Getting Started with Impala	0.0	4	
+Hadoop应用开发实战详解-深入云计算	0.0	4	
+MapReduce Design Patterns	7.0	28	
+Hadoop Application Architectures	9.4	15	
+Hadoop高级编程——构建与实现大数据解决方案	0.0	6	
+Big Data Analytics with R and Hadoop	0.0	3	
+Field Guide to Hadoop	0.0	8	
+Hadoop硬实战	9.1	16	
+Apache Oozie	0.0	6	
+hadoop技术详解	7.6	15	
+Agile Data Science	8.0	13	
+Hadoop实战手册	0.0	6	
+深入理解Hadoop（原书第2版）	8.6	10	
+Hadoop应用开发技术详解	6.0	20	
+Hadoop应用架构	7.9	13	
+Hadoop大数据处理	6.6	13	
+Hadoop海量数据处理	7.9	12	
+Hadoop集群与安全	0.0	5	
+Hadoop权威指南	0.0	6	
+Hadoop MapReduce实战手册	0.0	8	
+Hadoop核心技术	0.0	6	
+Hadoop Real World Solutions Cookbook	0.0	2	
+Hadoop开源云计算平台	0.0	2	
+Hadoop权威指南	0.0	5	
+Hadoop Hacks：专家使用的实践技巧	0.0	5	
+Hadoop徹底入門	0.0	1	
+Hadoop Mapreduce Cookbook	0.0	1	
+OpenStack开源云王者归来	0.0	9	
+Hadoop MapReduce性能优化	0.0	5	
+Professional Hadoop Solutions	0.0	2	
+Hadoop Beginner's Guide	0.0	2	
+Hadoop云计算实战	0.0	3	
+Hadoop Hacks ―プロフェッショナルが使う実践テクニック	0.0	0	
+Hadoop MapReduce v2 Cookbook Second Edition	0.0	0	
+Hadoop For Dummies (Special Edition)	0.0	1	
+Scaling Big Data with Hadoop and Solr	0.0	0	
+Hadoop Security	0.0	2	
+Pro Apache Hadoop	0.0	3	
+Learning Hadoop 2	0.0	1	
+深度剖析Hadoop HDFS	0.0	8	
+Hadoop MapReduce デザインパターン ―MapReduceによる大規模テキストデータ処理	0.0	0	
+Using R to Unlock the Value of Big Data	0.0	0	
+Data Intensive Query Processing for Semantic Web Data Using Hadoop and Mapreduce.	0.0	0	
+Data Science with Hadoop	0.0	0	
+Real-World Hadoop	0.0	1	
+Professional Hadoop	0.0	0	
+Python+Spark 2.0+Hadoop机器学习与大数据实战	7.6	18	
+R与Hadoop大数据分析实战	0.0	7	
+Hadoop大数据挖掘从入门到进阶实战（视频教学版）	0.0	0	
+HBase权威指南	8.3	107	
+Apache Flume: Distributed Log Collection for Hadoop	0.0	2	
+大数据之美	0.0	5	
+Apache Flume	0.0	0	
+Big Data Made Easy	0.0	1	
+Pro Microsoft HDInsight	0.0	1	
+Programming Pig	0.0	0	
+Big Data Forensics	0.0	0	
+Hive实战	0.0	7	
+Expert Hadoop Administration: Managing, Tuning, and Securing Spark, YARN, and HDFS (Addison-Wesley Data & Analytics Series)	0.0	0	
+Elasticsearch for Hadoop	0.0	0	
+Moving Hadoop to the Cloud	0.0	0	
+Hadoop高级数据分析	0.0	0	
+Hive编程指南	7.4	189	
+Hadoop构建数据仓库实践	8.7	32	
+精通Hadoop	0.0	1	
+Hadoop大数据分析与挖掘实战	0.0	8	
+Hadoop in Practice	0.0	1	
+Storing and managing big data- NoSql, Hadoop and more	0.0	0	
+Data Analytics with Hadoop	0.0	2	
+典型Hadoop云计算	0.0	0	
+Hadoop金融大数据分析	0.0	5	
+Large Scale Data Processing in Hadoop Mapreduce Scenario	0.0	0	
+Hadoop+Spark大数据巨量分析与机器学习整合开发实战	0.0	4	
+Hadoop云计算一体机实践指南	0.0	1	
+Hadoop生态系统	0.0	6	
+Spark与Hadoop大数据分析/大数据技术丛书	6.1	10	
+Hadoop Cluster Deployment	0.0	1	
+Hadoop徹底入門 第2版 オープンソース分散処理環境の構築	0.0	0	
+Hadoop for Finance Essentials	0.0	0	
+Pro Hadoop Data Analytics: Designing and Building Big Data Systems using the Hadoop Ecosystem	0.0	0	
+Practical Hadoop Ecosystem: A Definitive Guide to Hadoop-Related Frameworks and Tools	0.0	0	
+Practical Hadoop Migration: How to Integrate Your RDBMS with the Hadoop Ecosystem and Re-Architect Relational Applications to NoSQL	0.0	0	
+Hadoop 2 Quick-Start Guide: Learn the Essentials of Big Data Computing in the Apache Hadoop 2 Ecosystem	0.0	0	
+Hadoop Essence: The Beginneræs Guide to Hadoop	0.0	0	
+Data Engineering Skills - Hadoop Shell: A Comprehensive Guide to Hadoop Fs Commands	0.0	0	
+ビッグデータを征す クラウドの技術 Hadoop&NoSQL	0.0	0	
+Scaling Big Data with Hadoop and Solr - Second Edition	0.0	0	
+Hadoop Essentials	0.0	1	
+Hadoop Backup and Recovery solutions	0.0	1	
+Hadoop Operations and Cluster Management Cookbook	0.0	0	
+Hadoop For Dummies	0.0	0	
+数据科学与大数据技术导论	0.0	2	
+Improving Performance of Hadoop Clusters.	0.0	0	
+Deep Learning with Hadoop	0.0	1	
+Microsoft SQL Server 2012 with Hadoop	0.0	0	
+Hadoop and Spark Performance for the Enterprise	0.0	1	
+写给大忙人的Hadoop 2	0.0	2	
+Practical Hive: A Guide to Hadoop's Data Warehouse System	0.0	2	
+Hadoop Essentials	0.0	0	
+Availability of Jobtracker in Hadoop/Mapreduce Zookeeper Clusters	0.0	0	
+Hadoop大数据开发案例教程与项目实战	0.0	2	
+Advanced Hadoop Programming - Pushing the Limits	0.0	0	
+Hadoop海量数据处理（第2版）	0.0	3	
+Hadoop应用实战	0.0	4	
+Hadoop大数据实战权威指南	0.0	3	
+大数据技术基础——基于Hadoop与Spark	0.0	2	
+从零开始学Hadoop大数据分析（视频教学版）	0.0	1	
+Monitoring Hadoop	0.0	0	
+Big Data Analytics with Spark and Hadoop	0.0	0	
+Hadoop权威指南 (第4版 英文影印版)	0.0	2	
+Hadoop安全	0.0	2	
+Hadoop核心技术与实验/云计算与大数据实验教材系列	0.0	0	
+Hadoop 2.x Administration Cookbook	0.0	0	
+Hadoop+Spark生态系统操作与实战指南	0.0	5	
+Hadoop与大数据挖掘	0.0	3	
+Mastering Hadoop	0.0	0	
+Processing Big Data with Azure HDInsight: Building Real-World Big Data Systems on Azure HDInsight Using the Hadoop Ecosystem	0.0	1	
+基于Hadoop的大数据分析和处理	0.0	0	
+Hadoop数据分析	0.0	5	
+Hadoop & Spark大数据开发实战	0.0	0	
+MySQL 8 for Big Data: Effective data processing with MySQL 8, Hadoop, NoSQL APIs, and other Big Data tools	0.0	1	
+Practical Big Data Analytics: Hands-on techniques to implement enterprise analytics and machine learning using Hadoop, Spark, NoSQL and R	0.0	0	
+Hadoop大数据解决方案	0.0	0	
+Hadoop深度学习	0.0	2	
+hadoop with python	0.0	0	
+Modern Big Data Processing with Hadoop	0.0	0	
+Hadoop虚拟化	0.0	0	
+Hadoop专家：管理、调优与SparkYARNHDFS安全	0.0	2	
+Hadoop MapReduce V2参考手册（第2版 影印版 英文版）	0.0	0	
+NoSQL Hadoop组件及大数据实施	0.0	0	
+Elasticsearch集成Hadoop最佳实践	0.0	1	
+Hadoop集群程序设计与开发	0.0	0	
+Hadoop 2.0-YARN核心技术实践	0.0	0	
+大数据与人工智能技术丛书：Hadoop+Spark大数据技术（微课版）	0.0	0	
+Cloudera Hadoop大数据平台实战指南	0.0	1	
+大数据：财务分析R与Hadoop实训	0.0	0	
+学Hadoop永远都不迟：从MapReduce到YARN的演化	0.0	0	
+Hadoop大数据平台构建与应用/云计算技术与应用专业校企合作系列教材	0.0	0	
+Hadoop%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80	0.0	0	
+基于Hadoop与Spark的大数据开发实战	0.0	0	
+基于Hadoop的大数据平台构建	0.0	0	
+实战Hadoop 2.0（第二版）――从云计算到大数据	0.0	0	
+Hadoop大数据开发/普通高等教育新工科人才培养规划教材（大数据专业）	0.0	0	
+数据馆员的Hadoop简明手册	0.0	0	
+Hadoop应用开发基础	0.0	0	
+高性能分布式计算系统开发与实现：基于Hadoop、Scalding和Spark	0.0	0	
+Hadoop云技术：从入门到精通	0.0	0	
+王者归来：OpenStack云端系统Nova+Swift+Quantum+Hadoop	0.0	0	
+Hadoop大数据处理技术基础与实践	0.0	0	
+Hadoop安全（影印版）	0.0	0	
+实战Hadoop大数据处理	0.0	0	
+Hadoop操作手册（影印版）	0.0	0	
+Hadoop应用架构（影印版）	0.0	0	
+Hadoop大数据开发实战	0.0	0	
+Hadoop大数据技术与应用	0.0	0	
+Guide to High Performance Distributed Computing: Case Studies with Hadoop, Scalding and Spark	0.0	0	
+Practical Hadoop Security	0.0	0	
+Hadoop for Busies	0.0	0	
+Apache Hadoop: A Clear and Concise Reference	0.0	0	
+Hadoop for Bizzies	0.0	0	
+Hadoop for Finance Essentials	0.0	0	
+Data Analysis on Multinode Cluster Using Hadoop	0.0	0	
+Optimizing Hadoop for MapReduce	0.0	0	
+科技巨頭:Hadoop+Spark大規模實際運作進行式	0.0	0	
+Hadoop管理手冊	0.0	0	
+Hadoop: Technik, Einsatzbereiche, Geschichte	0.0	0	
+掌握Hadoop翱翔雲端：Windoop應用實作指南(附光碟)	0.0	0	
+Hadoop构建数据仓库与实战分析	0.0	0	
+大数据时代Hadoop技术及应用分析	0.0	0	
+Hadoop大数据技术基础及应用	0.0	0	
+Hadoop大数据技术原理与应用	0.0	0	
+Hadoop大数据分析实战	0.0	0	
+高等学校大数据技术与应用规划教材：Hadoop大数据分析	0.0	0	
+深入云计算：Hadoop源代码分析（修订版）（全新修订，重装上市；细致讲解融入经典实例，打造云计算操作系统源码分析经典图书。完善代码，轻松下载）	0.0	0	
+Hadoop大数据技术开发实战	0.0	0	
+Hadoop大数据实战权威指南（第2版）	0.0	0	
+Hadoop生态体系项目实战	0.0	0	
+Hadoop大数据平台集群部署与开发/华晟经世ICT专业群系列教材	0.0	0	
+HBase	8.5	78	
+Mahout in Action	8.1	89	
+Data-intensive Text Processing With Mapreduce	8.8	54	
+Programming Hive	8.2	60	
+大规模分布式系统架构与设计实战（含光盘）	4.8	58	
+大数据架构商业之路	7.8	71	
+MapReduce设计模式	8.6	15	
+Programming Pig	8.3	29	
+HBase in Action	7.3	26	
+Pig编程指南	8.1	23	
+大数据管理	0.0	9	
+云计算架构技术与实践	7.2	44	
+Learning Hbase中文版	0.0	6	
+云计算应用开发实践	0.0	5	
+Apache Sqoop Cookbook	7.1	10	
+HBase Administration Cookbook	0.0	6	
+自己动手做大数据系统	0.0	9	
+MapReduce 2.0源码分析与编程实战	0.0	5	
+Using Flume	0.0	1	
+Flume日志收集与MapReduce模式	0.0	9	
+Enterprise Data Workflows with Cascading	0.0	2	
+HBase	0.0	4	
+MapReduce: Simplified Data Processing on Large Clusters	0.0	3	
+Big Data Application Architecture Q&A	0.0	5	
+Mapreduce	0.0	0	
+深入浅出云计算	0.0	2	
+Big Data Warehousing	0.0	1	
+大数据技术体系详解：原理、架构与实践	8.0	23	

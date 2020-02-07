@@ -1,0 +1,1149 @@
+企业IT架构转型之道：阿里巴巴中台战略思想与架构实战	8.1	683	
+大规模分布式存储系统	7.8	432	
+大型网站技术架构	7.9	1547	
+Web信息架构(第3版)	8.2	873	
+大数据日知录	8.2	248	
+软件架构设计	9.4	35	
+架构即未来：现代企业可扩展的Web架构、流程和组织(原书第2版)	8.3	189	
+架构整洁之道	8.7	277	
+深入理解Nginx	8.4	152	
+系统架构	9.1	96	
+深入理解Nginx（第2版）	8.8	107	
+Spring技术内幕（第2版）	5.9	134	
+软件架构师应该知道的97件事	7.4	359	
+企业应用架构模式	8.3	308	
+亿级流量网站架构核心技术	6.7	181	
+架构真经	7.5	68	
+图解服务器端网络架构	9.0	46	
+聊聊架构	7.5	147	
+程序员必读之软件架构	7.2	154	
+信息架构	8.0	128	
+架构之美	7.0	350	
+软件架构设计	7.3	71	
+企业应用架构模式	8.7	396	
+一本书看透股权架构	9.6	168	
+深入Linux内核架构	8.9	269	
+游戏引擎架构	9.0	321	
+恰如其分的软件架构	7.3	159	
+企业级业务架构设计：方法论与实践	7.6	54	
+架构探险――从零开始写Java Web框架	6.4	112	
+软件架构师的12项修炼	7.4	103	
+Spring Cloud与Docker微服务架构实战	6.2	90	
+分布式服务架构：原理、设计与实战	7.0	73	
+Linux 内核设计的艺术（第2版）	8.6	49	
+Spark技术内幕	7.9	34	
+大型分布式网站架构设计与实践	6.1	158	
+微服务架构与实践	5.0	126	
+大话存储（终极版）	7.0	29	
+MySQL性能调优与架构设计	8.1	543	
+高可用架构（第1卷）	6.6	39	
+软件系统架构	7.4	16	
+Hadoop技术内幕	8.4	145	
+从零开始学架构	8.4	141	
+银行信息系统架构	8.2	24	
+OPC统一架构	0.0	8	
+微服务架构设计模式	9.2	127	
+REST实战	7.3	106	
+App研发录：架构设计、Crash分析和竞品技术分析	8.2	145	
+前端架构：从入门到微前端	7.6	29	
+Spring技术内幕	6.7	127	
+代数学方法(第一卷)	9.4	44	
+互联网时代的软件革命	7.2	201	
+Hadoop技术内幕	8.1	76	
+反模式	7.5	83	
+构建Oracle高可用环境	8.5	52	
+架构实战	6.6	55	
+Tomcat架构解析	8.4	38	
+Hadoop技术内幕	8.0	59	
+DevOps	7.0	52	
+可扩展的艺术	6.8	19	
+2轴思维	0.0	4	
+一线架构师实践指南	7.0	177	
+供应链架构师	6.9	37	
+.NET软件架构之美	7.3	23	
+面向模式的软件架构 卷4：分布式计算的模式语言	8.6	56	
+软件架构设计	7.5	181	
+大话计算机	8.0	49	
+测试架构师修炼之道	6.5	26	
+Java高并发编程详解	7.9	21	
+Web信息架构（第3版）	7.3	37	
+Microsoft .NET企业级应用架构设计	8.5	73	
+嵌入式系统	0.0	9	
+云计算应用架构	7.8	27	
+企业应用架构模式(影印版)	8.9	51	
+面向模式的软件架构 第1卷	7.4	41	
+Linux内核设计的艺术	6.3	125	
+架构之美	7.8	12	
+大规模分布式系统架构与设计实战（含光盘）	4.8	58	
+企业应用架构模式	9.2	41	
+从菜鸟到测试架构师	7.1	27	
+人人都是架构师：分布式系统架构落地与瓶颈突破	6.5	72	
+.NET模式	0.0	6	
+超越软件架构	7.6	19	
+Linux系统架构和应用技巧	6.4	10	
+大话存储Ⅱ	7.6	121	
+大数据架构商业之路	7.8	71	
+软件架构的艺术	7.6	31	
+面向模式的软件架构. 第2卷	7.7	25	
+RocketMQ技术内幕	6.9	18	
+大数据时代的IT架构设计	6.0	14	
+面向模式的软件架构 卷5	8.4	15	
+jQuery 技术内幕	8.7	52	
+重构	9.0	1767	
+Java应用架构设计	6.9	30	
+软件架构师职业导读	7.2	25	
+大数据平台基础架构指南	8.5	50	
+网络多人游戏架构与编程	8.1	19	
+思考软件，创新设计——A段架构师的思考技术	7.2	16	
+App 后台开发运维和架构实践	7.2	69	
+响应式架构	7.9	21	
+Spring Cloud与Docker微服务架构实战（第2版）	0.0	5	
+袋鼠法庭	8.7	27	
+面向模式的软件架构，卷3	8.1	12	
+大数据架构师指南	6.4	53	
+可伸缩架构	7.5	24	
+游戏架构设计与策划	6.4	19	
+Struts2技术内幕	8.9	58	
+云原生应用架构实践	7.1	23	
+微软应用架构指南	8.4	10	
+淘宝技术这十年	7.3	2252	
+前端架构设计	6.1	51	
+软件架构师教程	0.0	7	
+高性能Linux服务器构建实战	6.7	40	
+未来架构：从服务化到云原生	6.2	32	
+资产证券化实务精解	6.4	20	
+.NET应用架构设计	6.4	15	
+高可用可伸缩微服务架构	7.2	44	
+轻量级微服务架构（上册）	6.6	33	
+软件架构	6.8	11	
+大数据架构详解	6.0	46	
+软件架构	0.0	7	
+软件架构师的12项修炼(技术技能篇)	7.5	11	
+深入核心	8.4	41	
+商业智能深入浅出	0.0	2	
+企业信息化总体架构	6.7	15	
+Linux系统架构与目录解析	7.6	106	
+Architecture Principles	0.0	0	
+云计算架构技术与实践	7.2	45	
+代码审计	7.5	33	
+企业架构实用指南	0.0	5	
+架构解密：从分布式到微服务	5.6	38	
+云计算安全	0.0	3	
+Linux内核深度解析	0.0	7	
+深入理解TensorFlow：架构设计与实现原理	7.4	33	
+演进式架构	7.0	18	
+多核应用架构关键技术	0.0	7	
+架构大数据——大数据技术及算法解析	0.0	8	
+数据安全架构设计与实战	9.1	16	
+ACE技术内幕	7.5	10	
+企业精简架构	0.0	7	
+实用软件架构	0.0	7	
+Linux内核探秘	6.7	22	
+互联网金融商业模式与架构	5.8	21	
+Web Services技术、架构和应用	0.0	4	
+深度探索嵌入式操作系统	8.5	10	
+可伸缩服务架构：框架与中间件	5.6	36	
+组织架构与部门职能设计案例精选	0.0	4	
+新一代银行IT架构	0.0	7	
+云计算解码	6.7	17	
+性能之巅	8.7	193	
+架构探险：从零开始写分布式服务框架	5.9	26	
+管理架构师	6.8	39	
+云计算	7.4	36	
+SRE	9.0	308	
+代码里的世界观——通往架构师之路	6.5	14	
+Enterprise SOA中文版	7.0	13	
+在线广告	7.4	12	
+企业数字化转型架构：互联网+时代的创新技术与实践	0.0	4	
+执行SOA	0.0	6	
+系统架构设计	0.0	6	
+实现领域驱动设计	8.6	229	
+J2EE架构师认证指南	0.0	5	
+系统架构设计师考试全程指导（第2版）	0.0	7	
+微服务设计	8.2	657	
+企业级JAVA开发与架构专业程序员在实战中的蜕变	7.2	10	
+企业架构与IT战略规划设计教程	0.0	7	
+IT架构思维	0.0	0	
+数据密集型应用系统设计	9.6	296	
+提早6小時下班的工作術	0.0	6	
+软件架构	0.0	7	
+Microsoft NET 企业级应用架构设计	8.9	12	
+小团队构建大网站：中小研发团队架构实践	5.7	13	
+大型网站系统与Java中间件开发实践	7.9	536	
+领域驱动设计	9.1	177	
+面向服务的企业应用架构	0.0	6	
+好设计不简单Ⅰ：100个网站架构的实用要点	7.2	46	
+数据架构与商业智能	0.0	4	
+大数据架构和算法实现之路：电商系统的技术实战	0.0	9	
+智慧政府之路——大数据、云计算、物联网架构应用	0.0	7	
+架构师修炼之道	8.3	14	
+信息架构学	6.1	21	
+高性能网站建设进阶指南	8.9	399	
+权力战争	7.1	16	
+游戏架构设计与策划基础	6.7	51	
+股权设计	7.3	29	
+流式架构：Kafka与MapR Streams数据流处理	6.9	20	
+分布式Java应用	7.8	431	
+外商顧問超強資料製作術	0.0	7	
+企业总体架构	0.0	2	
+合伙人制	0.0	9	
+企业集成模式	8.2	52	
+构建高性能Web站点	8.6	1289	
+游戏架构与设计	7.0	10	
+程序员的三门课：技术精进、架构修炼、管理探秘	7.2	13	
+云计算架构	0.0	6	
+计算机系统：系统架构与操作系统的高度集成	0.0	6	
+工业4.0驱动下的制造业数字化转型	0.0	9	
+议会制辩论	0.0	7	
+全球新闻传播	0.0	7	
+Web服务架构与开放互操作技术	0.0	1	
+管理软件商务架构	0.0	1	
+软件架构设计	0.0	6	
+大数据与数据仓库：集成、架构与管理	0.0	3	
+系统架构设计师教程	5.6	27	
+新一代运营支撑系统与软件NGOSS	0.0	2	
+设计模式之禅	7.5	376	
+软件架构与模式	0.0	4	
+开源IT系统及应用架构宝典--系统、工具、案例	0.0	1	
+App架构师实践指南	5.5	15	
+深入分析Java Web技术内幕（修订版）	7.5	235	
+RFID与传感器网络	0.0	1	
+修炼Java开发技术	0.0	4	
+软件是这样“炼”成的	0.0	3	
+企业架构	6.8	27	
+牟宗三哲学思想研究	0.0	3	
+云计算服务	0.0	3	
+企业大数据系统构建实战：技术、架构、实施与应用	6.8	21	
+架構的生態系	0.0	8	
+互联网+顶层商业系统	0.0	3	
+拨云见日	0.0	2	
+NX-OS与Cisco Nexus交换技术	0.0	2	
+设计原本	7.7	382	
+领域驱动设计	7.9	193	
+架构和维护你的网吧	0.0	0	
+云计算架构设计模式	0.0	3	
+分布式微服务架构：原理与实战	0.0	0	
+OpenStack企业云平台架构与实践	6.9	21	
+刑法總論 (I)	0.0	0	
+MySQL技术精粹---架构、高级特性、性能优化与集群实战	0.0	2	
+监管华尔街	0.0	4	
+云原生服务网格Istio：原理、实践、架构与源码解析	8.7	12	
+大象：Thinking in UML(第2版)	8.2	165	
+TCP/IP架构、设计及应用	0.0	7	
+客户关系管理	0.0	1	
+云原生基础架构	4.9	15	
+管理经济学与组织架构	0.0	9	
+MongoDB权威指南	7.6	622	
+RESTful Web Services中文版	7.9	248	
+大规模Web服务开发技术	8.0	347	
+云计算架构技术与实践	5.0	19	
+富与德	0.0	3	
+中央直辖市政区空间组织与制度模式探析	0.0	4	
+企业安全建设指南	7.8	18	
+领域驱动设计	8.3	251	
+富与德	0.0	2	
+云落谁家？	0.0	4	
+Spring Boot 2精髓	5.4	31	
+云数据中心网络与SDN	0.0	6	
+SPA设计与架构：理解单页面Web应用	7.1	17	
+软件框架设计的艺术	7.8	130	
+Android 安全架构深究	9.2	12	
+Kubernetes in Action	9.3	128	
+系统架构设计师教程	0.0	3	
+Spring Cloud微服务实战	7.8	194	
+分布式系统原理与范型	6.9	118	
+ASP.NET企业级架构开发技术与案例教程	0.0	1	
+从M2M到物联网	0.0	2	
+中小型企业网络架构案例教程	0.0	1	
+粮食现代物流	0.0	2	
+至理	0.0	1	
+基于Struts、Hibernate、Spring架构的Web应用开发	0.0	1	
+深度挖掘	0.0	0	
+大数据之美	0.0	5	
+架构即服务	0.0	2	
+新闻框架论	0.0	3	
+软件产品架构师手记	0.0	5	
+数据架构	6.2	20	
+分布式实时处理系统：原理、架构与实现	6.8	14	
+云计算：从基础架构到最佳实践	0.0	4	
+蜂窝网络的端到端服务质量和用户体验质量	0.0	0	
+公司法	0.0	0	
+媒体竞争分析	0.0	1	
+基于三层架构的ASP.NET项目实战教程	0.0	0	
+企业规范化管理系统实施方案	0.0	1	
+营销管理架构	0.0	2	
+3GPP系统架构演进	0.0	0	
+软件工程	0.0	2	
+中國文化的基層架構	0.0	3	
+分布式数据库架构及企业实践——基于Mycat中间件	6.8	15	
+Android應用軟體架構設計	0.0	4	
+移动平台深度神经网络实战：原理、架构与优化	9.4	18	
+处理器架构	6.2	10	
+云应用中的服务质量	0.0	0	
+互联网创业核心技术：构建可伸缩的web应用	8.2	61	
+Hadoop应用架构	7.9	13	
+艺术欣赏	0.0	0	
+大数据技术体系详解：原理、架构与实践	8.0	23	
+绩效设计	0.0	0	
+資訊架構學：網站應用，第二版	0.0	3	
+银行管理与IT架构	0.0	9	
+营销管理架构	0.0	8	
+"共创成长路"青少年培育计划概念架构及课程设计手册（套装2册）	0.0	4	
+系统架构设计师考试全程指导	0.0	8	
+ASP.NET 3.5商用开发架构精解	0.0	4	
+大数据之路	7.9	207	
+构建高性能Web站点	8.3	148	
+面向服务架构	0.0	1	
+深入Java2平台安全――体系架构、API设计和实现（第2版）	0.0	3	
+管理经济学与组织架构	0.0	2	
+高并发Oracle数据库系统的架构与设计	0.0	4	
+Java Web 2.0架构开发与项目实战	0.0	7	
+Flash MX 2004数据库应用程序开发	0.0	1	
+动态能力理论的操作化研究	0.0	0	
+智能普适网络	0.0	0	
+网页制作与网站架构	0.0	0	
+人文關懷的極致	0.0	0	
+ROF光载无线通信：从理论到前沿	0.0	2	
+企业信息化	0.0	1	
+广域网架构与路由技术项目教程	0.0	0	
+系統分析與設計	0.0	1	
+固态存储	0.0	2	
+物联网开放平台	7.1	11	
+企业级大数据平台构建：架构与实现	5.8	13	
+现代API	0.0	7	
+分布式缓存	6.2	12	
+环境检测信息服务系统开发实践	0.0	1	
+抢占下一个智能风口：移动物联网	0.0	1	
+手机软件平台架构解析	0.0	5	
+多核架构与编程技术	0.0	3	
+Symbian OS架构手册	0.0	3	
+中国政府架构	0.0	1	
+企业云计算架构与实施指南	0.0	9	
+Site Reliability Engineering	8.9	73	
+高可用MySQL	7.8	99	
+营销管理架构	0.0	4	
+基于IP的物联网架构、技术与应用	0.0	3	
+系统架构设计师考试考点突破、案例分析、试题实战一本通	0.0	5	
+支撑处理器的技术	8.3	124	
+用Mesos框架构建分布式应用	0.0	8	
+管理经济学与组织架构（第4版）	0.0	2	
+Serverless架构：无服务器单页应用开发	0.0	6	
+内容分发网络（CDN） 关键技术、架构与应用	0.0	7	
+尽在双11：阿里巴巴技术演进与超越	7.1	143	
+Flash MX 2004数据库应用程序开发	0.0	0	
+Flash MX 2004数据库应用程序开发	0.0	0	
+企业高管直觉决策的知识管理问题研究	0.0	0	
+Photoshop in der Architekturgrafik	0.0	0	
+连续审计研究	0.0	0	
+雲端大實踐	0.0	0	
+徹底研究Linux Kernel設計的藝術	0.0	0	
+大专业平台人才培养模式	0.0	0	
+.NET架构与应用开发实践	0.0	0	
+設計的精髓	0.0	1	
+四宮格目標筆記	0.0	1	
+网络功能虚拟化	0.0	0	
+Spark内核设计的艺术	5.3	10	
+讓角色活起來！最強漫畫故事講座	0.0	2	
+為什麼亞馬遜要開實體商店？	0.0	5	
+上台有魅力的說話邏輯	0.0	0	
+物联网开放平台	0.0	0	
+SDN\NFV(重构网络架构建设未来网络)	0.0	2	
+王者歸來：資料存儲系統架構極限剖析	0.0	0	
+耕耘在课程的田野上	0.0	0	
+国之重器出版工程 空间信息网络体系架构及其应用	0.0	0	
+TMS320C66x KeyStone架构 多核DSP入门与实例精解（第二版）	0.0	0	
+智能电网调度控制系统 总体架构	0.0	0	
+ASP.NET MVC4架构实现与项目实战	0.0	0	
+有福的人	0.0	0	
+面向SOA的事件驱动架构设计与实现	0.0	4	
+Java高手真经（系统架构卷）	0.0	3	
+Netty权威指南（第2版）	6.8	127	
+VMWARE VSPHERE 5.0虚拟化架构实战指南	0.0	4	
+RabbitMQ实战	7.2	90	
+解決問題的諮商架構	0.0	3	
+系统架构设计师教程	0.0	5	
+移动互联网技术架构及其发展	0.0	4	
+SAP 企业服务架构精解 Mastering Enterprise SOA with SAP NetWeaver and mySAP ERP	0.0	0	
+SQL Server 2005数据库服务器架构设计	0.0	6	
+无线Mesh网络架构与协议	0.0	2	
+分布式服务框架：原理与实践	6.8	142	
+Docker容器实战：原理、架构与应用	0.0	8	
+开源IT系统及应用架构宝典	0.0	2	
+系统架构设计师考试试题分类精解与题型练习	0.0	2	
+架构探险：轻量级微服务架构（下册）	7.2	16	
+精通Spring 4.x	8.2	102	
+分布式系统概念与设计	7.0	48	
+面向价值链的RFID体系架构与企业应用	0.0	3	
+物联网架构	0.0	2	
+重构网络：SDN架构与实现	7.3	16	
+云计算基础架构及关键应用	6.0	14	
+3GPP系统架构演进	0.0	6	
+Java架构师指南	3.4	11	
+花悟立体架构在花艺中的应用	0.0	2	
+.NET Web Services架构与实现 (平装)	0.0	0	
+国外议会组织架构和运作程序	0.0	2	
+集团企业IT架构治理实践	0.0	2	
+数据架构师的PostgreSQL修炼：高效设计、开发与维护数据库应用	0.0	7	
+管理经济学与组织架构	0.0	2	
+Nios 2软件架构解析	0.0	2	
+SAP交换架构	0.0	2	
+深入浅出J2EE架构	0.0	3	
+汽车悬架构件的设计计算	0.0	1	
+Service Mesh微服务架构设计	8.4	14	
+通路管理的第一本書－規劃有效通路架構與策略，打通產品銷售的關鍵命脈 	0.0	0	
+Windows Server 2008网络基础架构	0.0	3	
+企业架构	0.0	0	
+“互联网+”时代的IT战略、架构与治理	7.6	11	
+企业级Java EE架构设计精深实践	0.0	3	
+體驗設計:整合品牌、經驗以及價值的架構	0.0	3	
+企业应用架构设计	0.0	2	
+MongoDB实战 架构、开发与管理	0.0	2	
+领域驱动设计模式、原理与实践	7.8	22	
+系统架构设计师与系统分析师历年试题分析与解答	0.0	0	
+手把手教你架构3D游戏引擎	0.0	5	
+系统架构设计师与系统分析师2009至2014年试题分析与解答	0.0	0	
+ODL技术内幕：架构设计与实现原理	6.0	13	
+事务处理	8.8	29	
+架构电子商务系统实例教程	0.0	0	
+应用Web Services构建多层架构的高效.NET应用	0.0	0	
+面向架构服务的傻瓜书 Service Oriented Architecture For Dummies	0.0	0	
+SAP金融服务的企业服务架构	0.0	2	
+管理会计的理论思考与架构	0.0	1	
+劇場表演空間的架構-以台灣鄉鎮地區為探	0.0	0	
+大師談遊戲架構與設計理論.	0.0	0	
+Linux系統架構与目錄之解析	0.0	1	
+面向服务的AJAX架构模式与应用开发	0.0	1	
+游戏架构教程	0.0	1	
+Oracle Fusion Middleware 11g架构与管理	0.0	2	
+vmware vsphere 6.0虚拟化架构实战指南	0.0	1	
+openstack系统架构设计实战	0.0	6	
+软件系统架构与开发环境	0.0	3	
+淘宝天猫网店设计从入门到精通 店铺装修+广告海报+修图修片+架构布局+配色应用+设计模版	0.0	1	
+汽车软件开放式系统架构	0.0	1	
+内容中心网络体系架构	0.0	1	
+宪政权力架构中的行政立法程序	0.0	3	
+UI设计必修课(交互+架构+视觉UE设计教程)	0.0	6	
+.NET系统架构与开发(附光盘)	0.0	3	
+分析模式	8.7	41	
+设计模式的艺术	9.7	26	
+C#和.NET架构	0.0	2	
+双剑合壁-CorelDRAW Photoshop平面设计经典案例-(含光盘1张)	0.0	0	
+FLASH8中文版完全自学手册	0.0	1	
+法治国家架构下的行政紧急权力	0.0	2	
+策略管理新論－觀念架構與分析方法	0.0	3	
+面向对象系统架构及设计	0.0	1	
+系统架构设计师考试大纲	0.0	1	
+国家电网公司信息化建设工程全书 八大业务应用典型设计卷 营销业务应用篇 营销IT架构设计	0.0	0	
+美國金融業電子銀行業務之網絡架構安全控管及稽核方式研究	0.0	0	
+大数据运营服务型企业架构新思维	0.0	2	
+微电网——架构与控制	0.0	0	
+VIE架构境外间接上市税法问题研究	0.0	5	
+贯彻Windows Server 2008网络基础架构	0.0	0	
+数据湖架构	7.4	21	
+大学治理的理论基础与组织架构	0.0	1	
+大规模Linux集群架构最佳实践(如何管理上千台服务器)/Linux\Unix技术丛书	0.0	5	
+微服务架构实战	0.0	5	
+NUTANIX超融合基础架构权威指南	0.0	4	
+Clean Architecture	8.7	123	
+CorelDRAW X3中文版完全自学手册	0.0	1	
+AutoCAD 2007中文版完全自学手册	0.0	1	
+网站架构与美工黄金组合(附光盘)	0.0	0	
+Windows程序设计与架构	0.0	1	
+地方财政理论架构与体制优化	0.0	1	
+硬件架构的艺术	0.0	3	
+Java代码与架构之完美优化	0.0	0	
+系统架构设计师考试历年试题分析与解答	0.0	0	
+网络虚拟环境图形架构设计	0.0	1	
+系统分析师和系统架构设计师软考辅导-3年真题精解与实战模拟	0.0	1	
+工业大数据：架构与应用	0.0	2	
+网络基本架构的实现和管理-Windows Server 2003网络基本架构的实现和管理(附CD-ROM)	0.0	0	
+省级国家出资人财务监管架构研究	0.0	0	
+未来架构师	0.0	3	
+系统架构设计方法：使用SBC架构描述语言	0.0	0	
+AWS Serverless架构：使用AWS从传统部署方式向Serverless架构迁移	0.0	1	
+Kafka权威指南	8.7	219	
+生产微服务	8.0	50	
+企业应用架构模式 Patterns of Enterprise	0.0	0	
+整合行销传播-全方位理论架构与本土实务个案	0.0	0	
+WindowsServer2003网络架构	0.0	1	
+香港:独制的政制架构	0.0	2	
+网络基本架构的实现和管理	0.0	2	
+深入浅出NetLinx网络架构	0.0	0	
+独门架构	0.0	2	
+基于风险管理的企业内部控制框架构建	0.0	1	
+系统架构设计师考试考前冲刺预测卷及考点解析	0.0	0	
+炒股软件实战应用一册通	0.0	0	
+Web程序设计与架构	0.0	0	
+大学治理的法制框架构建研究	0.0	1	
+兒童發展-以生物.心理與社會架構探討兒童的發展	0.0	1	
+演进的移动分组核心网架构和关键技术	0.0	2	
+系统架构设计师与系统分析师2009至2013年试题分析与解答	0.0	1	
+全球视野与本土架构	0.0	2	
+基于Flex与SSH的富互联网企业级技术及其云架构的研究	0.0	1	
+信息架构设计	0.0	4	
+TimesTen内存计算架构与实践	0.0	2	
+汽车电子/电气架构——实时系统的建模与评价	0.0	1	
+局域网架构、管理、排困百事通	0.0	0	
+详解WAP:WAP架构与编程 (平装)	0.0	0	
+Illustrator CS2中文版完全自学手册	0.0	1	
+国际物流系统架构与动作	0.0	0	
+会计信息系统功能架构的研究	0.0	0	
+组织行为学-全方位理论架构与企业案例实战	0.0	0	
+现代物流管理系统架构与条码技术	0.0	1	
+建筑施工扣件式钢管脚手架构造与计算	0.0	1	
+生产维护体系中的五个六架构	0.0	1	
+产权制度改革与产权架构设计案例教程	0.0	1	
+宪政架构下的地方政府模式研究	0.0	0	
+9)-重新架构一切-新材料	0.0	1	
+精通AutoCAD 2006中文版建筑设计	0.0	1	
+嵌入式Intel架构微机实验教程	0.0	0	
+精通PHP 4.0与MySQL架构Web数据库实务	0.0	1	
+基于B/S架构的软件项目实训	0.0	0	
+基于C/S架构的软件项目实训	0.0	0	
+WINDOWS NT通用网站架构实例	0.0	0	
+PHP与SQL Server 2000 架构 Windows Web 数据库实务	0.0	0	
+面向服务架构与应用	0.0	0	
+After Effects 7.0完全自学手册	0.0	0	
+InDesign CS3中文版完全自学手册	0.0	1	
+Pro/ENGINEER Wildfire 4.0中文版完全自学手册	0.0	0	
+认知无线电架构	0.0	1	
+JavaEE架构与程序设计	0.0	2	
+铁路信息系统架构	0.0	0	
+Java EE企业级架构开发技术与案例教程	0.0	0	
+集成架构中型系统	0.0	0	
+哲學的基本架構	0.0	1	
+云计算体系架构中的智能SOA平台	0.0	0	
+政府会计概念框架构建研究	0.0	0	
+Windows Server 2008应用程序基础架构	0.0	0	
+（专发思远）Windows Server 2003网络架构	0.0	1	
+系统架构设计师与系统分析师2009至2011年试题分析与解答	0.0	0	
+无线网络架构与演进趋势	0.0	0	
+一線架構師實踐指南	0.0	0	
+企业架构与IT战略规划设计教程	0.0	0	
+大话代码架构	0.0	8	
+系统架构设计师教程（第4版）	0.0	2	
+疯狂Spring Cloud微服务架构实战	0.0	6	
+SOA架构	0.0	4	
+Flux架构	0.0	1	
+Linux KVM虚拟化架构实战指南	0.0	2	
+游戏服务器架构与优化	5.1	16	
+全球自贸架构与中国战略选择	0.0	1	
+Spring Cloud 微服务架构开发实战	5.4	22	
+Serverless架构	0.0	4	
+微服务架构基础:Spring Boot+Spring Cloud+Docker	0.0	7	
+法商架构师的兴起	0.0	0	
+企业架构设计思想	0.0	1	
+Unity与C++网络游戏开发实战：基于VR、AI与分布式架构	0.0	0	
+创新流程架构：产品创新战略	0.0	0	
+Java EE架构设计与开发实践	0.0	1	
+思维架构的塑造	0.0	2	
+無瑕的程式碼－整潔的軟體設計與架構篇	0.0	0	
+微服务架构实战	0.0	2	
+5G无线接入网架构及关键技术/5G丛书	0.0	1	
+系统架构设计师考试32小时通关	0.0	2	
+架构Slash社群网站	0.0	0	
+基于B/S架构的软件项目实训	0.0	0	
+Serverless架构：无服务器应用与AWS Lambda	0.0	7	
+企业级容器云架构开发指南	0.0	6	
+IT基础架构系统运维实践	0.0	4	
+RISC-V架构与嵌入式开发快速入门	0.0	3	
+TypeScript图形渲染实战：2D架构设计与实现	0.0	1	
+FPGA芯片架构设计与实现	0.0	0	
+地理星球：马可波罗游记（给孩子的第一本地理启蒙书，为孩子架构整体的历史地理观，培养孩子的国际视野）	0.0	1	
+实战Nginx	6.6	407	
+Web容量规划的艺术	7.6	104	
+大数据系统构建	7.8	47	
+京东基础架构建设之路（全彩）	6.1	18	
+深入Linux内核架构与底层原理	0.0	6	
+巧用PowerBuilder8.01和EAServer架构企业Web应用	0.0	0	
+MCSE实现和管理Microsoft Windows2000目录服务基础架构考试精解与模拟试题	0.0	0	
+企业兼并的会计与审计架构	0.0	0	
+Exchange 2000 Server 架构企业信息与协同操作平台	0.0	0	
+国际行销与运筹实务-观念架构与个案分析	0.0	0	
+基于二元所有权架构的企业劳资关系研究	0.0	0	
+WTO架构下两岸互动之研究	0.0	0	
+模型驱动架构	0.0	0	
+精通Exchange Server 2003-架構企業訊息	0.0	0	
+精通AutoCAD 2006中文版机械设计	0.0	0	
+科学技术促进中的高等学校架构	0.0	0	
+基于PC架构的可编程序控制器	0.0	0	
+市场监管:架构与前景 (精装)	0.0	0	
+网络基本架构的规划和维护	0.0	0	
+電子商務：產業架構經營模式與電子化策略.第一版2004年	0.0	0	
+行銷管理：理論與架構	0.0	0	
+MCSE Windows 2000目录服务架构试题精解	0.0	0	
+Microsoft Windows 2000 目录服务架构模拟试题	0.0	0	
+精通Windows Server 2003網路基礎架構篇	0.0	0	
+MPLS與VPN架構徹底研究	0.0	0	
+Visual Basic .NET與SQL Server主從架構.用整合	0.0	0	
+軟體架構與UML	0.0	0	
+J2EE核心元素架構與程式設計.	0.0	0	
+架構導向系統分析與設計－使用UML軟體架	0.0	0	
+情境架构下的企业会计准则执行研究	0.0	0	
+公众公司财务报告架构研究	0.0	0	
+基于信任的战略思维架构研究	0.0	0	
+建筑施工脚手架构造与计算手册	0.0	0	
+我国林业工程审计制度框架构建研究	0.0	0	
+船舶软件无线电电台的架构	0.0	0	
+林业电子政务架构框架设计研究	0.0	0	
+加拿大金榮檢查總署風險管理監管架構之研究	0.0	0	
+最新國際金融基本架構入門	0.0	0	
+省時5倍的架構化工作術	0.0	0	
+云计算基础架构与实践(21世纪高等院校云计算和大数据人才培养规划教材)	0.0	0	
+香港特别行政区施政架构	0.0	0	
+企业集团边界与架构的构建与重整	0.0	0	
+汽车总线系统架构与故障诊断	0.0	0	
+可重构无线电系统的网络架构和标准	0.0	0	
+节水型社会架构研究	0.0	0	
+节水型社会架构研究	0.0	0	
+产业变迁与人才资源发展的演进架构及机理	0.0	0	
+危机管理-理论架构	0.0	0	
+数字控制网络架构从入门到精通	0.0	0	
+互动电视系统架构研究与接口设计	0.0	0	
+基于网格的数字图书馆应用系统框架构建	0.0	0	
+中国古代文学的体系架构和基础问题	0.0	0	
+深入探索Linux 核心架構	0.0	0	
+通信网络智能管道架构与技术实现	0.0	0	
+数据虚拟化(商务智能系统的数据架构与管理)/数据科学与工程技术丛书	0.0	0	
+大型网站架构与自动化运维	0.0	0	
+HBase应用架构	0.0	4	
+微服务设计原理与架构	0.0	7	
+Android组件化架构	4.9	24	
+Spring Cloud与Docker高并发微服务架构设计实施	0.0	8	
+大型网站技术架构演进与性能优化	7.0	37	
+软件品质之完美管理(实战经典软件架构师成长之路)	0.0	1	
+创业公司董事会设计：架构+方法+案例范本	0.0	3	
+软件架构建模和仿真(Palladio方法)/计算机科学丛书	0.0	1	
+大型企业微服务架构实践与运营	0.0	7	
+Nginx实战：基于Lua语言的配置、开发与架构详解	0.0	3	
+Cloud Native 分布式架构原理与实践	0.0	8	
+网构软件演化技术：面向多层架构	0.0	0	
+JavaScript物联网架构与数据处理	0.0	1	
+架构宝典	0.0	8	
+计算机组成原理与接口技术：基于MIPS架构实验教程（第2版）/高等学校电子信息类专业系列教材	0.0	0	
+Spring Cloud微服务架构进阶	0.0	2	
+开源网络模拟器ns-3 - 架构与实践	0.0	2	
+Linux系统架构与运维实战	0.0	1	
+资产系统建设实务：城市商业银行科技架构研究与实践	0.0	1	
+基于语料库的当代美国政治语篇的架构隐喻模式分析	0.0	0	
+KVM私有云架构设计与实践	0.0	2	
+持续演进的Cloud Native：云原生架构下微服务最佳实践	8.0	29	
+Docker微服务架构实战	0.0	7	
+软件测试架构实践与精准测试(基于川模型测试框架与精准测试实战)	0.0	1	
+Spring Cloud微服务架构开发实战	6.3	12	
+移动云计算(架构算法与应用)	0.0	0	
+突破性创意的生成(创意管理架构)	0.0	1	
+优化新服务开发流程(服务创新架构)	0.0	0	
+从企业架构到智慧油田的理论与实践	0.0	0	
+游戏架构设计与策划基础(第2版)/第九艺术学院游戏开发系列	0.0	1	
+政府内部控制理论框架构建及应用对策研究	0.0	0	
+大数据架构技术与实例分析	0.0	0	
+COSO內部控制－整合架構	0.0	0	
+新媒体时代英语多模态教学模式架构	0.0	0	
+市民社会与国家二分架构研究	0.0	0	
+LTE/LTE-Advanced系统架构和关键技术	0.0	0	
+社会保障法请求权体系之架构	0.0	1	
+全国信息技术人才培养工程指定培训教材·Web应用开发工程师职业教育系列规划教材·轻量级Java EE体系架构程序开发	0.0	0	
+基于智能工厂的M2M通信 架构、技术、标准与应用	0.0	0	
+DSP原理及应用：TMS320DM6437架构、指令、功能模块、程序设计及案例分析	0.0	0	
+行政检察监督研究：从历史变迁到制度架构	0.0	0	
+STC单片机C语言程序设计：8051体系架构、编程实例及项目实战（清华开发者书库）	0.0	0	
+创新的方向 洞见未来世界架构的4大创新底蕴	0.0	0	
+智能电网标准化：信息技术相关的方法、架构与标准	0.0	0	
+最强Android书：架构大剖析	8.7	12	
+雾计算：技术、架构及应用	0.0	3	
+Clean Architecture：软件架构与设计匠艺（英文版）	0.0	8	
+架构之美：行业思想领袖揭秘软件设计之美（评注版）	0.0	3	
+游戏架构：核心技术与面试精粹	0.0	4	
+基于语义Web的LBS服务架构及其服务发现算法研究	0.0	0	
+大学计算机 思想、架构与硬件/21世纪高等学校计算机教育实用规划教材	0.0	0	
+告别宏微观架构的经济学	0.0	0	
+系统架构设计师2009至2016年试题分析与解答（全国计算机技术与软件专业技术资格（水平）考试指	0.0	0	
+军事架构技术	0.0	0	
+Java EE架构开发案例教程/21世纪高等学校计算机教育实用规划教材	0.0	0	
+党政机关公文起草框架构思1000例：机关干部公文写作实用工具书	0.0	1	
+大数据云服务技术架构与实践/大数据技术与应用专业规划教材	0.0	0	
+云计算基础架构平台构建与应用	0.0	0	
+股权架构解决之道：146个实务要点深度解析	0.0	5	
+基于体质监测的幼儿运动课程架构与实施	0.0	0	
+应用型本科高校教学质量监控与保障体系：济宁学院教学质量监控与保障体系整体架构	0.0	0	
+基于虚拟化技术的云计算架构的技术与实践探究	0.0	0	
+像雀巢一样赚钱：雀巢的盈利架构	0.0	2	
+移植与创新：印度大学拨款委员会的历史、组织架构、作用	0.0	0	
+绿洲经济增长与生态环境关系研究：基于新疆贸易视角的实证研究与理论架构	0.0	0	
+城市轨道交通车辆转向架构造与检修	0.0	0	
+美军网络中心战案例研究（2）：网络中心战时代来临之际的指挥、控制、通信与计算机架构	0.0	0	
+卓越工程师教育培养计划配套教材·电气工程系列：广电网体系与架构	0.0	0	
+公共财政管理及其新兴架构	0.0	0	
+Spring Cloud 微服务分布式架构开发实战	0.0	0	
+DSP原理及应用：TMS320F28335架构、功能模块及程序设计（高等学校电子信息类专业系列教材）	0.0	0	
+创新流程架构：产品创新7法则	0.0	0	
+面向数据体系架构初探	0.0	0	
+中国中福会 编织飞翔的翅膀/幼儿园教师专业成长的组织分层支持系统架构	0.0	0	
+数字化医院信息架构设计与应用	0.0	0	
+国之重器出版工程 网络功能虚拟化：NFV架构、开发、测试及应用	0.0	0	
+云计算技术架构与实践/21世纪高等学校计算机专业实用规划教材	0.0	0	
+教授治学的组织架构与运作机制研究	0.0	0	
+智能电网架构下的供电服务支撑系统	0.0	0	
+经济管理学术文库·经济类·宏观产权结构理论：源起、架构与应用	0.0	0	
+房地产公司组织架构与岗位职责大全	0.0	0	
+世界钢琴名曲典藏（5）	0.0	0	
+净零能源设计：商业架构指南	0.0	0	
+软件定义移动网络：超越传统架构	0.0	0	
+汽车悬架构件的设计计算（第2版）	0.0	0	
+软件开发与软件架构	0.0	0	
+软件工程系列教材：软件架构设计实践教程	0.0	0	
+系统分析师和系统架构设计师软考辅导：3年真题精解与闯关密卷（2014软考辅导最新版）	0.0	0	
+JavaEE架构与程序设计（第2版）/高等职业院校教学改革创新示范教材·软件开发系列	0.0	0	
+基于MVC和EF架构的监理信息系统开发实践	0.0	0	
+EA架构与系统分析设计	0.0	0	
+经济本质安全体系架构及实践：央企生产经营一线风险管控实战案例	0.0	0	
+中国统筹城乡发展的系统架构与实施路径：来自成都实践的观察与思考	0.0	0	
+核心网架构与关键技术	0.0	0	
+新媒体信息架构设计/新媒体与公共传播实验教材丛书	0.0	0	
+基于三重盈余架构的企业社会责任研究	0.0	0	
+基于Struts、Hibernate、Spring架构的Web应用开发（第2版）	0.0	0	
+中国会计文化理论架构研究（国家社科基金后期资助项目）	0.0	0	
+OpenStack架构分析与实践	0.0	0	
+区块链技术原理及底层架构	0.0	2	
+计算机组成原理与接口技术：基于MIPS架构实验教程/华中科技大学教学改革建设教材	0.0	0	
+软件是这样“炼”成的——软件架构设计实现	0.0	0	
+移动互联网技术架构及其发展（修订版）	0.0	1	
+NGB TVOS v1.0架构分析	0.0	0	
+社会治理创新与诚信社会建设 党政体制、社区架构与社会组织	0.0	0	
+云计算：概念、技术与架构（英文版）	0.0	0	
+智能交通系统体系框架构建方法与应用	0.0	0	
+大数据时代的互联网架构设计	0.0	0	
+ARM嵌入式应用程序架构设计实例精讲---基于LPC1700	0.0	0	
+未来网络架构与设计：4WARD项目	0.0	0	
+Hadoop应用架构（影印版）	0.0	0	
+信息架构 第4版（影印版）	0.0	0	
+建筑业互联网系统架构模型——工程建设行业信息化技术发展研究报告（2017）	0.0	0	
+未来就绪的信息系统架构	0.0	0	
+软件定义的无线接入网络架构与关键技术	0.0	0	
+我国金融监管架构重构研究	0.0	0	
+移动网络安全体系架构与防护技术	0.0	0	
+SDN原理解析  转控分离的SDN架构	0.0	1	
+中国故事丛书：中国政府架构与基本公共服务	0.0	0	
+Multisensor, Multisource Information Fusion: Architectures, Algorithms, and Applications 2016(多传感器、多源信息融合：架构、算法与应用 2016（丛书）)	0.0	0	
+云架构操作系统基础（Red Hat Enterprise Linux 7）	0.0	0	
+專案規告書架構指標之研究	0.0	0	
+中国传统民法架构二元性问题研究	0.0	0	
+强企支撑强省——知识产权入园强企的理论架构与江西实践	0.0	0	
+我国高等工程继续教育体系架构研究	0.0	0	
+品格架构师系列·人格修炼手册（十卷）	0.0	0	
+云存储系统——Swift的原理、架构及实践	0.0	1	
+智慧城市：物联网体系架构及应用	0.0	0	
+数字超声成像原理和架构体系设计	0.0	0	
+消费品安全标准技术架构研究	0.0	0	
+云计算导论：概念 架构与应用	0.0	0	
+云计算架构与应用（21世纪高职高专IT类专业系列教材）	0.0	0	
+OpenStack云计算基础架构平台技术与应用	0.0	0	
+Handbook of Research on End-to-End Cloud Computing Architecture Design(端对端云计算架构设计研究手册（丛书）)	0.0	0	
+数字图书馆服务链——服务模式体系架构关键技术	0.0	0	
+基于S-100的E航海数据交换标准与技术架构	0.0	0	
+應用公共工程經費電腦估價系統(PCCES)架構估算工程二氧化碳排放量委託研究案成果報告-行政院公共工程委員會	0.0	0	
+Developing Interoperable and Federated Cloud Architecture(开发可互操作与联合云架构)	0.0	0	
+电网企业信息化架构培训题库	0.0	0	
+云计算架构与技术实践	0.0	0	
+從零開始構築TCP/IP基礎架構	0.0	0	
+先进主动热控系统体系架构研究	0.0	0	
+架构修炼之道——亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践	7.8	35	
+战略管理——新思维、新架构、新方法	0.0	0	
+系统架构设计师历年真题解析	0.0	0	
+Hyperledger Fabric 技术内幕：架构设计与实现原理	0.0	1	
+品格架构师系列·情感修炼手册（十卷）	0.0	0	
+微服务架构与实践（第2版）	0.0	5	
+软件架构	0.0	2	
+基于SSH架构的Web应用开发案例教程	0.0	0	
+云操作系统架构与关键技术	0.0	0	
+政府应急管理信息化总体架构	0.0	0	
+大型系统应用架构实战：部署、容灾、性能优化	8.7	13	
+区块链原理、架构与应用（新经济书库）	0.0	0	
+构建高可用VMware vSphere 5.X虚拟化架构	0.0	0	
+大数据的架构技术与应用实践的探究	0.0	0	
+决策分析与管理——全面决策品质提升的架构与方法(第2版)	0.0	0	
+培育完整的人：“统整式”学校课程的整体架构与系统实施	0.0	0	
+5G网络架构	0.0	0	
+大规模MIMO检测算法VLSI架构——专用电路及动态重构实现	0.0	0	
+大数据架构之道与项目实战	0.0	0	
+企业内部控制架构设计实操手册	0.0	0	
+Serverless架构应用开发：Python实现	0.0	1	
+云计算架构下云政府模式研究	0.0	0	
+社会服务制度框架构建研究	0.0	0	
+昇腾AI处理器架构与编程——深入理解CANN技术原理及应用	0.0	4	
+奇异及组合奇异期权定价研究：模型架构与推导（清华汇智文库）	0.0	0	
+微处理器设计：架构、电路及实现	0.0	0	
+产品架构评估原理与方法（清华汇智文库）	0.0	0	
+学校课程框架的建构：HOME课程的旨趣与架构（丰富学科拓展课程，建构主题式探究课程，初中案例）	0.0	1	
+企业架构的数字化转型	0.0	0	
+微服务设计：企业架构转型之道	0.0	0	
+游戏引擎架构（第2版）	0.0	1	
+Java架构之完美设计	0.0	0	
+物联网系统架构	0.0	1	
+移动开发架构设计实战	0.0	3	
+软件架构与设计模式/石油高等教育“十三五”规划教材	0.0	0	
+微服务：灵活的软件架构	0.0	0	
+MySQL DBA工作笔记：数据库管理、架构优化与运维开发	0.0	1	
+Serverless架构：从原理、设计到项目实战	0.0	0	
+ARM Cortex-M体系架构与接口开发实战	0.0	0	
+学校课程文化的实践脉络：百步梯课程的逻辑与架构	0.0	0	
+大型互联网企业安全架构	0.0	0	
+前端技术架构与工程	0.0	0	
+TypeScript图形渲染实战：基于WebGL的3D架构与实现	0.0	0	
+企业云计算——原理、架构与实践指南（清华开发者书库）	0.0	0	
+VMware vSphere 6.7虚拟化架构实战指南	0.0	0	
+Oracle RAC 12.2架构高可用数据库权威指南：概念、管理、优化和故障排除	0.0	0	
+云计算解决方案架构设计	0.0	0	
+大型互联网应用轻量级架构实战	0.0	0	
+商业银行分布式架构实践	0.0	0	
+发布！软件的设计与部署	7.8	53	
+构建可扩展的Web站点	8.0	309	
+游戏编程算法与技巧	7.8	30	
+Tomcat内核设计剖析	7.2	18	
+简约之美	7.2	162	
+Kubernetes进阶实战	7.1	66	
+领域驱动设计精粹	7.9	43	
+Hadoop权威指南(中文版)	7.2	257	
+The Architecture of Open Source Applications	8.4	92	
+Hadoop: The Definitive Guide	8.3	268	
+C语言接口与实现	8.3	130	
+Building Scalable Web Sites	8.4	66	
+High Performance Web Sites	8.7	151	
+Patterns of Enterprise Application Architecture	8.9	78	
+Spring实战（第3版）	7.9	235	
+RESTful Web Services Cookbook中文版	7.6	114	
+面向模式的软件体系结构 卷2:用于并发和网络化对象的模式	8.5	77	
+J2EE核心模式	7.8	116	
+面向模式的软件体系结构(卷1) (平装)	7.7	87	
+OSGi原理与最佳实践	7.1	91	
+RESTful Web Services	7.8	116	
+iOS软件开发揭密	6.6	43	
+海量运维、运营规划之道	6.9	120	
+海量数据库解决方案	8.6	54	
+Domain-Driven Design	8.5	69	
+SOA实践指南	8.3	64	
+构建高可用Linux服务器	7.3	69	
+高扩展性网站的50条原则	7.5	65	
+J2EE设计开发编程指南	8.3	79	
+24小时365天不间断服务	7.7	74	
+Web Caching	8.0	18	
+Even Faster Web Sites	8.5	56	
+The Architecture Of Open Source Applications, Vol. 2	8.4	37	
+Expert One-on-One J2EE Design and Development	9.0	37	
+Building Microservices	7.9	104	
+Scalable Internet Architectures	7.4	16	
+Beautiful Architecture	7.2	29	
+面向模式的软件体系结构卷3	7.7	39	
+简单之美	7.5	77	
+I Heart Logs	7.9	25	
+Practical API Design	7.9	33	
+RESTful Web APIs中文版	6.8	74	
+使用Java Web服务构建SOA	8.5	33	
+数据库重构	7.2	36	
+系统分析与设计方法	7.8	53	
+Web2.0策略指南	7.7	68	
+领域驱动设计与模式实战	6.9	43	
+构建高可用Linux服务器（第2版）	8.4	31	
+Pattern-Oriented Software Architecture Volume 2	9.8	27	
+软件构架实践	7.2	63	
+日志管理与分析权威指南	7.4	40	
+Enterprise Integration Patterns	8.7	34	
+Domain-Driven Design Quickly	7.8	92	
+Redis	7.2	12	
+MySQL内核：InnoDB存储引擎 卷1	8.2	43	
+云计算	6.7	46	
+The Art of Capacity Planning	8.3	35	
+UML精粹	8.2	46	
+Pattern-Oriented Software Architecture Volume 1	8.5	24	
+互联网运营智慧	6.3	39	
+大道至易	7.1	23	
+分布式系统原理与范型	7.7	28	
+NoSQL数据库入门	6.4	53	
+The Art of Scalability	7.4	13	
+应用框架的设计与实现	7.3	46	
+实用负载均衡技术	6.1	52	
+轻量级Java EE企业应用实战	7.0	53	
+深入理解OSGi	7.7	21	
+Web Operations	9.1	25	
+97 Things Every Software Architect Should Know	7.4	34	
+SOA原理·方法·实践	7.0	49	
+Understanding SOA with Web Services中文版	6.8	36	
+Pro Hadoop	7.0	28	
+Spring MVC学习指南	6.5	72	
+交易系统	7.7	14	
+Building Evolutionary Architectures	7.2	24	
+Java设计模式	8.3	29	
+分布式系统设计	0.0	9	
+高性能网站构建实战	4.6	31	
+Implementing Domain-Driven Design	8.4	17	
+高流量网站CSS开发技术	7.3	26	
+轻量级J2EE企业应用实战	7.2	41	
+Reactive Design Patterns	0.0	8	
+实用英语语法	8.5	40	
+构建高性能可扩展ASP.NET网站	8.6	22	
+OSGi in Action	7.6	18	
+玩转电商系统：深入剖析智慧电商平台	6.2	55	
+Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services	6.0	38	
+品悟性能优化	7.6	33	
+云计算与SOA	7.5	19	
+Java RESTful Web Service实战	5.8	29	
+Cocoa Design Patterns	7.9	16	
+Dependency Injection	8.3	22	
+Software Architecture in Practice (2nd Edition)	8.5	20	
+SOA概念、技术与设计	5.6	26	
+ActiveMQ in Action	7.9	30	
+Linux 0.01内核分析与操作系统设计	5.9	26	
+Information Architecture	7.7	10	
+图解基础设施设计模式	7.3	21	
+ERP	8.9	34	
+设计模式解析	8.5	26	
+软件设计重构	7.5	20	
+服务设计模式	7.3	13	
+mysql管理之道：性能调优、高可用与监控	7.3	20	
+Pattern-Oriented Software Architecture Volume 4	8.2	10	
+Infrastructure as Code	8.6	14	
+飞天开放平台编程指南	6.4	18	
+云计算的关键技术与应用实例	6.0	36	
+Web服务	6.9	12	
+面向对象软件构造	0.0	9	
+软件构架实践	0.0	8	
+The Cache Memory Book, Second Edition	0.0	0	
+APIs	0.0	8	
+ASP.NET设计模式	8.5	21	
+Microsoft SQL Server企业级平台管理实践	9.3	21	
+Service Design Patterns	7.9	10	
+用例驱动的UML对象建模应用	7.7	10	
+毫无保留	7.0	74	
+软件构架编档	0.0	4	
+SOA in Practice	8.4	17	
+Architecture of Reliable Web Applications Software	0.0	2	
+Web设计大全	0.0	7	
+The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices	7.5	17	
+大型门户网站是这样炼成的！	0.0	7	
+软件开发本质论	7.4	52	
+Just Enough Software Architecture	7.6	11	
+Architecting for Scale: High Availability for Your Growing Applications	0.0	7	
+Hadoop Application Architectures	9.4	15	
+面向对象分析与设计	7.8	13	
+大型网站性能监测、分析与优化	8.0	12	
+涂抹MySQL	8.3	13	
+Effective Enterprise Java中文版	8.4	10	
+大数据技术丛书	6.9	22	
+Pattern-Oriented Software Architecture Volume 3	0.0	8	
+Engineering Software as a Service	7.8	12	
+Cloud Design Patterns	7.8	11	
+Web2.0Mashup开发实战/Web开发系列/图灵程序设计丛书	6.9	19	
+成就存储专家之路:存储从入门到精通	6.5	15	
+memcachedを知り尽くす	8.5	25	
+Applying Domain-Driven Design and Patterns	0.0	7	
+特定领域应用框架	0.0	2	
+软件开发问题框架	7.1	12	
+Microsoft® .NET	7.8	10	
+软件定义数据中心：技术与实践	7.7	20	
+深入理解大数据：大数据处理与编程实践	6.3	19	
+IT服务管理:概念、理解与实施	7.0	16	
+Performance by Design	0.0	2	
+Software Architecture Patterns	8.4	31	
+C#企业应用开发艺术	0.0	9	
+Visual Studio DSL工具特定领域开发指南	0.0	5	
+设计原本	7.3	11	
+Linux企业集群	0.0	9	
+完美代码	7.5	13	
+Spring攻略	7.1	20	
+Documenting Software Architectures	0.0	5	
+Using docker	8.1	18	
+Framework的设计与应用	8.5	14	
+The Memory System	0.0	3	
+高可用性系统设计	0.0	4	
+软件构架编档	0.0	5	
+软件体系结构	6.1	16	
+Web服务精髓	7.3	12	
+软件体系结构的艺术	0.0	5	
+领域驱动设计C# 2008实现	0.0	8	
+SOA Design Patterns (The Prentice Hall Service-Oriented Computing Series from Thomas Erl)	0.0	2	
+面向对象的思考过程（原书第4版）	6.4	20	
+Enterprise Architecture As Strategy	0.0	7	
+实用软件体系结构	0.0	6	
+日本新建筑系列丛书 14  新兴结构	7.8	11	
+Apache Kylin权威指南	8.4	29	
+Programming on Purpose	0.0	1	
+游戏化的时代	0.0	8	
+Lighttpd源码分析	0.0	7	
+软件设计精要与模式	0.0	7	
+Java微服务	5.5	24	
+薄冰英语语法指南	8.5	20	
+Java Application Architecture	0.0	6	
+System Performance Tuning	0.0	3	
+辩论阶梯	0.0	7	
+Restlet in Action	0.0	6	
+大话企业级Android应用开发实战	7.2	10	
+可伸缩敏捷开发	7.1	11	
+C#线程参考手册	6.9	12	
+大型软件体系结构	0.0	5	
+Aspectj in Action	0.0	6	
+UML那些事儿	7.2	16	
+SOA核心技术及应用	7.2	10	
+程序设计的模式语言（卷1）	0.0	3	
+Beyond Software Architecture	0.0	6	
+深入网站开发与运维	0.0	8	
+OpenStack开源云王者归来	0.0	9	
+Expert Oracle Database Architecture	0.0	6	
+敏捷Acegi、CAS	0.0	5	
+平台征战	7.0	18	
+The Art of Scalability	0.0	3	
+Mashup模式	7.3	10	
+Software Systems Architecture	0.0	3	
+How to Measure Anything	0.0	4	
+Data Model Patterns	0.0	2	
+Patterns for Fault Tolerant Software	0.0	0	
+Elements of Distributed Computing	0.0	2	
+SOA服务设计原则	0.0	3	
+Designing Web APIs	0.0	8	
+软件构架实践	0.0	5	
+NHibernate 3.0 Cookbook	7.4	10	
+Replication	0.0	2	
+Android系统源代码情景分析（修订版）（含CD光盘1张）	0.0	3	
+Microservice Patterns	8.6	16	
+软件性能工程	0.0	3	
+IT管理体系	0.0	4	
+解析MDA	7.2	10	
+Linux Enterprise Cluster	0.0	3	
+深入Ajax	0.0	3	
+Node.js微服务	4.9	19	
+Microsoft® Application Architecture Guide	0.0	6	
+NHibernate in Action	7.3	16	
+OSGi与Equinox	0.0	2	
+Functional and Reactive Domain Modeling	0.0	6	
+SOA设计模式	0.0	3	
+Blueprints for High Availability	0.0	1	
+Essential Software Architecture	0.0	2	
+分布式系统及云计算概论	0.0	9	
+Documenting Software Architectures	0.0	2	
+Learning ZeroMQ	0.0	2	
+Cloud Computing Design Patterns	0.0	0	
+SOA with REST	0.0	3	
+Enterprise Cloud Computing	0.0	6	
+Spring Microservices	0.0	6	
+C#多线程编程实战	0.0	9	
+Software Architecture	0.0	3	
+系统分析与设计方法	0.0	4	
+Microservices: Patterns and Applications	0.0	0	
+系统分析与设计	0.0	6	
+High Performance Cluster Computing	0.0	0	
+The Nature of Software Development	0.0	6	
+System Reliability Theory	0.0	2	
+The Unified Software Development Process	0.0	5	
+Terraform	7.6	10	
+软件可靠性工程	0.0	2	
+Load Balancing Servers, Fire Walls and Caches	0.0	5	
+实时系统	0.0	3	
+模式	0.0	9	
+实战Windows Azure	0.0	4	
+Web Scalability for Startup Engineers	0.0	8	
+Event-Driven Architecture	0.0	0	
+Refactoring in Large Software Projects	0.0	1	
+The Elements of UML(TM) 2.0 Style	0.0	1	
+The Process of Software Architecting	0.0	1	
+The DAMA Guide to the Data Management Body of Knowledge (DAMA-DMBOK) Print Edition	0.0	2	
+技术团队启示录:TOP100实践案例	0.0	7	
+大型网站服务器容量规划	0.0	7	
+软件构架实践	0.0	2	
+构件化软件	0.0	4	
+TOGAF™ Version 9 (english version)	0.0	4	
+Lean Architecture	0.0	7	
+Building Web Applications with Erlang	0.0	6	
+SOA Source Book	0.0	0	
+欧盟商法	0.0	0	
+SOA服务设计原则	0.0	1	
+MySQL High Availability	0.0	5	
+Akka应用模式：分布式应用程序设计实践指南	8.4	13	
+ASP.NET 2.0电子商务高级编程	0.0	5	
+Design Paradigms	0.0	1	
+Structured Design	0.0	2	
+精通.NET核心技术	0.0	4	
+软件构架评估(影印版) (平装)	0.0	3	
+Software Systems Architecture	0.0	1	
+Professional Enterprise .NET (Wrox Programmer to Programmer)	0.0	2	
+Enterprise Data Workflows with Cascading	0.0	2	
+SOA概念、技术与设计	0.0	1	
+微服务设计模式和最佳实践	0.0	2	
+软件开发方式	0.0	2	
+精通.NET企业项目开发	0.0	5	
+Web Services, Service-Oriented Architectures, and Cloud Computing	0.0	2	
+Web Content Caching and Distribution2005 WEB内容缓存与分布国际研讨会	0.0	0	
+A Practical Guide to Enterprise Architecture	0.0	0	
+.NET Domain-Driven Design with C#	0.0	3	
+Content Networking	0.0	2	
+微软云计算系列丛书·探索CQRS和事件源	0.0	2	
+Code Generation in Microsoft .NET	0.0	1	
+Windows Azure从入门到精通	0.0	5	
+设计模式沉思录	0.0	5	
+Evaluating Software Architectures	0.0	0	
+Application Architecture for .NET	0.0	4	
+大规模基于构件的软件开发	0.0	2	
+系统分析与设计导论	0.0	1	
+Visual C++程序设计与项目实践	0.0	2	
+Building Scalable Web Applications Using the Cloud	0.0	0	
+Workload Modeling for Computer Systems Performance Evaluation	0.0	0	
+系统分析师考试论文试题分类分析与范文	0.0	0	
+TOGAF The Open Group Architecture Framework 100 Success Secr	0.0	2	
+面向对象的设计与模式	0.0	1	
+Re-Engineering Legacy Software	0.0	3	
+Composite Software Construction	0.0	1	
+Common Lisp	0.0	3	
+Guide to Enterprise it Architecture	0.0	2	
+Software Architect Bootcamp	0.0	1	
+Web Performance Tuning, 2nd Edition	0.0	0	
+软件体系结构	0.0	4	
+Enterprise Architecture Planning	0.0	0	
+PHP 5 social networking	0.0	1	
+Large Scale Data Processing in Hadoop Mapreduce Scenario	0.0	0	
+Architecting Cloud Saas Software - Solutions Or Products	0.0	0	
+通信网基本概念与主体结构	0.0	0	
+Rational统一过程引论（第二版·影印版)	0.0	0	
+Enterprise Ontology	0.0	0	
+SOA之道	0.0	2	
+Microservices in .NET Core	0.0	1	
+Advanced API Security	0.0	2	
+Enterprise Patterns and MDA	0.0	0	
+ASP.NET分布式数据应用程序高级编程	0.0	0	
+Architecting Enterprise Solutions	0.0	0	
+IT Portfolio Management	0.0	1	
+软件开发	0.0	0	
+[24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用 (WEB+DB PRESS plusシリーズ)	0.0	0	
+Architecture of Network Systems	0.0	3	
+N-Layered Domain-Oriented Architecture Guide with .NET 4.0	0.0	1	
+Essential Software Architecture	0.0	1	
+Learning Continuous Integration with Jenkins	0.0	1	
+基于REST的SOA技术	0.0	0	
+PostScript(R) Language Reference (3rd Edition)	0.0	1	
+The Open Group Architecture Framework	0.0	0	
+Software Engineering	0.0	1	
+Reactive Microservices Architecture	0.0	5	
+软件城堡	0.0	1	
+The Software Architect's Profession	0.0	0	
+Building an Enterprise Architecture Practice	0.0	0	
+Information-Driven Business: How to Manage Data and Informat	0.0	0	
+Architecting Complex Event Processing Solutions with TIBCO	0.0	0	
+软件体系结构理论与实践	0.0	0	
+Enterprise Business Architecture	0.0	1	
+The Agile Architecture Revolution	0.0	0	
+软件测试之道	0.0	2	
+微服务分布式构架开发实战	0.0	7	
+Architectural Patterns	0.0	0	
+High Performance Computing	0.0	0	
+IT Security Metrics: A Practical Framework for Measuring Security &amp; Protecting Data	0.0	0	
+Learning Kibana 5.0	0.0	0	
+TOGAFTM The Open Group Architecture Framework A Management Guide	0.0	0	
+Systems Architecting	0.0	0	
+Computer Architecture	0.0	0	
+Hybrid Reasoning System for Semantic Web	0.0	0	
+Digital Enterprise Transformation: A Business-Driven Approach to Leveraging Innovative IT	0.0	0	
+A Handbook of Business Transformation Management Methodology	0.0	0	
+Design It	0.0	7	
+云端运算应用与实务（第二版）	0.0	1	
+Software Architect's Handbook	0.0	1	
+Migrating to Microservices Databases	0.0	2	
+Big Data Architect's Handbook	0.0	0	
+Load Balancing in Microsoft Azure	0.0	1	

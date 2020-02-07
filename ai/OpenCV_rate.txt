@@ -1,0 +1,79 @@
+学习OpenCV（中文版）	8.1	260	
+Learning OpenCV 3	9.3	23	
+OpenCV 3计算机视觉：Python语言实现（原书第2版）	7.1	45	
+Learning OpenCV	8.6	177	
+OpenCV 2 Computer Vision Application Programming Cookbook	9.0	68	
+Mastering OpenCV with Practical Computer Vision Projects	9.7	27	
+OpenCV教程	6.9	73	
+基于OpenCV的计算机视觉技术实现	7.5	31	
+学习OpenCV	9.3	37	
+Learning OpenCV	0.0	5	
+深入理解OpenCV	6.6	14	
+OpenCV	0.0	0	
+OpenCV	0.0	0	
+OpenCV	0.0	0	
+OpenCV Computer Vision with Python	6.6	12	
+Learning OpenCV 3 Computer Vision with Python - Second Edition	0.0	6	
+OpenCV实例精解	0.0	1	
+OpenCV轻松入门：面向Python	0.0	1	
+图像局部特征检测和描述	0.0	1	
+Android Application Programming with OpenCV	0.0	5	
+OpenCV图像处理编程实例	0.0	7	
+Instant OpenCV for iOS	0.0	2	
+Learning Image Processing with OpenCV	0.0	0	
+OpenCV图像处理	0.0	6	
+深入OpenCV Android应用开发	0.0	1	
+OpenCV with Python Blueprints	0.0	0	
+OpenCV项目开发实战	0.0	2	
+Learning OpenCV 3 Application Development	0.0	1	
+Instant OpenCV Starter	0.0	1	
+数字图像处理基础及Opencv实现	0.0	1	
+Learn Computer Vision Using OpenCV	0.0	1	
+OpenCV with Python By Example	0.0	2	
+OpenCV By Example	0.0	2	
+Tracking Faces in Grayscale Video Sequences with Binary Direction Vectors"	0.0	0	
+OpenCV计算机视觉编程攻略（第2版）	7.5	13	
+Machine Learning for OpenCV	0.0	2	
+机器学习	0.0	0	
+Open Source Computer Vision for Beginners	0.0	0	
+机器学习经典算法剖析	0.0	1	
+OpenCV 3 Computer Vision with Python Cookbook	0.0	0	
+Computer Vision with OpenCV 3 and Qt5: Build visually appealing, multithreaded, cross-platform computer vision applications	0.0	0	
+OpenCV 3.x with Python By Example - Second Edition: Make the most of OpenCV and Python to build applications for object recognition and augmented reality	0.0	2	
+OpenCV编程案例详解	0.0	3	
+practical opencv	0.0	1	
+OpenCV3编程入门	6.8	210	
+OpenCV 3 Computer Vision Application Programming Cookbook - Third Edition	0.0	0	
+OpenCV算法精解：基于Python与C++	8.0	13	
+OpenCV和VisualStudio图像识别应用开发	0.0	1	
+A Practical Introduction to Computer Vision with OpenCV	0.0	1	
+OpenCV Computer Vision Application Programming Cookbook, 2nd Edition	0.0	1	
+Android OpenCV应用程序设计	0.0	0	
+OpenCV Blueprints	0.0	0	
+iOS Application Development with OpenCV 3	0.0	0	
+実践OpenCV 2.4 for Python―映像処理&解析	0.0	0	
+OpenCV计算机视觉编程攻略（第3版）	8.0	11	
+OpenCV2计算机视觉编程手册	8.1	51	
+Mastering OpenCV 3 - Second Edition	0.0	0	
+Pro Processing for Images and Computer Vision with OpenCV: Solutions for Media Artists and Creative Coders	0.0	0	
+Java Image Processing Recipes: With OpenCV and JVM	0.0	0	
+Practical Computer Vision: Extract insightful information from images using TensorFlow, Keras, and OpenCV	0.0	0	
+OpenCV 3和Qt5计算机视觉应用开发	0.0	2	
+Hands-On GPU-Accelerated Computer Vision with OpenCV and CUDA	0.0	0	
+OpenCV+TensorFlow深度学习与计算机视觉实战	0.0	2	
+Android Application Programming with OpenCV 3	0.0	0	
+CUDA与OpenCV并行图像处理实战	0.0	1	
+OpenCV机器学习（影印版）	0.0	0	
+计算机视觉算法：基于OpenCV的计算机应用开发	0.0	0	
+Java图像处理：基于OpenCV与JVM	0.0	0	
+Mastering OpenCV 4 with Python	0.0	0	
+Machine Learning for OpenCV 4	0.0	0	
+OpenCV+VTK+Visual Studio图像识别应用开发 第2版	0.0	0	
+Mastering OpenCV 4 - Third Edition	0.0	0	
+学习OpenCV3（影印版）	0.0	2	
+Practical Computer Vision with SimpleCV	7.3	10	
+图像处理与计算机视觉算法及应用	0.0	5	
+学习OpenCV3（中文版）	7.5	18	
+Hacking the Kinect	0.0	4	
+OpenCVAndroid开发实战/智能系统与技术丛书	0.0	1	
+王者歸來：OpenCV3使用Java開發手冊(增訂版)	0.0	0	
