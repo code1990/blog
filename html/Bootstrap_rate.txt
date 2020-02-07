@@ -1,0 +1,202 @@
+Bootstrap用户手册	5.7	65	
+Bootstrap	6.0	41	
+深入理解Bootstrap	7.2	72	
+Bootstrap实战	7.4	37	
+Bootstrap	0.0	0	
+CSS高效开发实战—CSS 3、LESS、SASS、Bootstrap、Foundation	7.3	32	
+An Introduction to the Bootstrap	9.2	12	
+Twitter Bootstrap Web Development	6.1	18	
+bootstrap methods and their application	0.0	2	
+The Bootstrap and Edgeworth Expansion	0.0	2	
+Step By Step Bootstrap 3	0.0	0	
+Hand to Mouth	0.0	9	
+Bootstrap开发精解	0.0	6	
+应用Bootstrap方法的空间相关性检验	0.0	2	
+Bootstrap Site Blueprints	0.0	4	
+Bootstrap 基础教程	0.0	6	
+The Jackknife and Bootstrap (Springer Series in Statistics)	0.0	0	
+Jump Start Bootstrap	0.0	5	
+Randomization, Bootstrap and Monte Carlo Methods in Biology, Third Edition (Texts in Statistical Science Series)	0.0	0	
+基于Bootstrap和Knockout.js的ASP.NET MVC开发实战	0.0	4	
+Learning Bootstrap 4 - Second Edition	0.0	4	
+Rails, Angular, Postgres, and Bootstrap	0.0	1	
+Bootstrap Site Blueprints Volume II	0.0	1	
+Bootstrap实战	6.0	24	
+Bootstrap for Rails	0.0	1	
+Learning Web Development with Bootstrap and Angular	0.0	1	
+Learning Web Development with React and Bootstrap	0.0	0	
+The Tech Entrepreneur's Survival Guide	0.0	0	
+16课学会网页程序设计	0.0	2	
+Bootstrap Essentials	0.0	1	
+Web Developer's Reference Guide	0.0	0	
+KnockoutJS Essentials	0.0	1	
+Bootstrap By Example	0.0	1	
+疯狂前端开发讲义	0.0	3	
+Comparing Groups	0.0	0	
+Flowers for Sale	0.0	0	
+The Practice of Business Statistics Companion Chapter 18	0.0	0	
+Hand to Mouth	0.0	0	
+Java EE Web Application Primer	0.0	0	
+Maverick Startup	0.0	0	
+Bootstrap Yourself with Linux-USB Stack	0.0	8	
+An Introduction to Bootstrap Methods with Applications to R	0.0	1	
+The Jackknife, the Bootstrap, and Other Resampling Plans (CBMS-NSF Regional Conference Series in Applied Mathematics)	0.0	1	
+Bootstrap Methods	0.0	0	
+Permutation, Parametric, and Bootstrap Tests of Hypotheses	0.0	1	
+The Joy of Bootstrap	0.0	0	
+Extending Bootstrap	0.0	1	
+The Jackknife and Bootstrap	0.0	0	
+Bootstrap Methods and their Application	0.0	1	
+A Billion Bootstraps	0.0	0	
+Bootstrap Dreams	0.0	1	
+Bootstrap Tests for Regression Models	0.0	0	
+Bootstrap Leadership	0.0	1	
+ASP.NET MVC 5 with Bootstrap and Knockout.js: Building Dynamic, Responsive Web Applications	0.0	2	
+Vue.js 2 and Bootstrap 4 Web Development	0.0	1	
+The Bootstrap Guide to Medicinal Herbs in the Garden, Field & Marketplace	0.0	0	
+Bootstraps	0.0	0	
+The Weighted Bootstrap	0.0	0	
+Permutation, Parametric, and Bootstrap Tests of Hypotheses	0.0	0	
+Bootstrap Methods	0.0	0	
+HINKLEY D V JACK KNIFE BOOTSTRAP CROSS VAL	0.0	0	
+Bootstrap Tests for Regression Models	0.0	0	
+Bootstrap to Billions	0.0	0	
+Least Squares Regressions with the Bootstrap	0.0	0	
+Operation Bootstrap	0.0	0	
+Tightening Your Bootstraps	0.0	0	
+Bootstrap Leadership	0.0	0	
+Bootstraps and Metaphors	0.0	0	
+Bootstraps and Metaphors	0.0	0	
+Bootstraps	0.0	0	
+Bootstrap Capital	0.0	0	
+Bootstrap Capital	0.0	0	
+Bootstraps	0.0	0	
+When Does Bootstrap Work?	0.0	0	
+Cooking by the Bootstraps	0.0	0	
+Exploring the Limits of Bootstrap	0.0	0	
+Teodoro Moscoso and Puerto Rico's Operation Bootstrap	0.0	0	
+Operation Bootstrap	0.0	0	
+Operation Bootstrap	0.0	0	
+Bootstrap-Verfahren Bei Der Berechnung Von Prognosen in	0.0	0	
+Bootstrap Techniques for Signal Processing	0.0	0	
+Bootstrap Techniques for Signal Processing	0.0	0	
+Bootstrap Ten Years of Enterprise Initiatives	0.0	0	
+On the Appropriateness of Bootstrap	0.0	0	
+Bootstrap and Edgeworth Expansion	0.0	0	
+Kicking Off the Bootstraps	0.0	0	
+Bootstrap Trading Co., Inc. V. Phoenix Tallow Co. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+A Poverty of Imagination Bootstrap Capitalism, Sequel to Welfare Reform	0.0	0	
+Univariate Sampling Bootstrap Procedures Using Prior Information.	0.0	0	
+Application of the Bootstrap Statistical Method in Deriving Vibroacoustic Specifications	0.0	0	
+A Bootstrap Approach to an Affordable Exploration Program	0.0	0	
+Beautiful Bootstraps	0.0	0	
+Parametric Bootstrap Interval Approach to Inference for Fixed Effects in the Mixed Linear Model.	0.0	0	
+A Study of Bootstrap and Likelihood Based Methods in Non-Standard Problems.	0.0	0	
+Hybrid Bootstrap for Mapping Quantitative Trait Loci and Change Point Problems.	0.0	0	
+Relaxation-Corrected Bootstrap Algebraic Multigrid	0.0	0	
+Analytic Bootstrap and Kernel Based Methods with Applications.	0.0	0	
+Augmenting the Bootstrap to Analyze High-Dimensional Genomic Data.	0.0	0	
+The Almighty Mackerel and His Holy Bootstraps	0.0	0	
+Examining the Validity of Sample Clusters Using the Bootstrap Method	0.0	0	
+Bootstraps and Grease	0.0	0	
+Fitting Statistical Distributions The Generalized Lambda Distribution and Generalized Bootstrap Methods	0.0	0	
+Bootstraps	0.0	0	
+Bootstraps	0.0	0	
+Bootstrap in 24 Hours, Sams Teach Yourself	0.0	0	
+Bootstrap for ASP.NET MVC - Second Edition	0.0	0	
+Rails, Angular, Postgres, and Bootstrap	0.0	0	
+Bootstrap 4 Site Blueprints	0.0	0	
+Bootstrap Methods	0.0	0	
+An Investigation of Bootstrap Methods for Estimating the Standard Error of Equating Under the Common-Item Nonequivalent Groups Design.	0.0	0	
+Learning Twitter Bootstrap	0.0	0	
+Bootstraps and Ladders	0.0	0	
+Cross-Resolution Combat Model Calibration Using Bootstrap Sampling	0.0	0	
+Nonlinear Mixed-Effects Models and Bootstrap Resampling	0.0	0	
+Parametric Bootstrap for Linear Regression with Long-Memory Errors	0.0	0	
+Technique de Bootstrap Dans L'Estimation Non Param Trique	0.0	0	
+Bootstrap Geologist	0.0	0	
+Bootstrap Aggregating	0.0	0	
+Bootstrap Protocol	0.0	0	
+Learning Web Development with Bootstrap and Angular - Second Edition	0.0	0	
+CSS Framework Alternatives: Explore Five Lightweight Alternatives to Bootstrap and Foundation with Project Examples	0.0	0	
+Bootstrap入门经典	0.0	0	
+Bootstrap实战从入门到精通	0.0	1	
+HTML5 APP 开发从入门到精通（基于HTML5+CSS3+jQueryMobile+Bootstrap）	0.0	0	
+响应式Web开发项目教程（HTML5+CSS3+Bootstrap）	0.0	0	
+Bootstrap响应式网站开发实战/Web前端开发系列丛书	0.0	0	
+Web应用技术指南（HTML5+CSS3+jQuery+Bootstrap）	0.0	0	
+Bootstrap项目实战/企业级卓越人才培养解决方案“十三五”规划教材	0.0	0	
+Bootstrap与移动应用开发	0.0	0	
+响应式网页开发基础教程（jQuery+Bootstrap）	0.0	1	
+网页设计与制作项目教程（HTML+CSS+Bootstrap）	0.0	0	
+Bootstrap与jQuery UI框架设计（前端开发工程师系列）	0.0	0	
+Bootstrap基础教程	0.0	0	
+响应式网页设计——-Bootstrap开发速成	0.0	0	
+复杂数据的bootstrap统计推断及其应用	0.0	0	
+Web前端开发 使用ASP.NET Core、Angular和Bootstrap	0.0	0	
+Twitter Bootstrap for Ladies	0.0	0	
+Dive in Twitter Bootstrap	0.0	0	
+Hand to Mouth: Living in Bootstrap America	0.0	0	
+Twitter Bootstrap Winner	0.0	0	
+The DIY Wedding: How to Bootstrap Your Way to the Perfect Wedding	0.0	0	
+Twitter Bootstrap for You!	0.0	0	
+Twitter Bootstrap for Bizzies	0.0	0	
+Russian Responsive Wordpress Theme Using Twitter Bootstrap	0.0	0	
+Climate Time Series Analysis: Classical Statistical and Bootstrap Methods	0.0	0	
+Asp.net Mvc 5 With Bootstrap and Knockout.js: Building Dynamic	0.0	0	
+The Art of Twitter Bootstrap	0.0	0	
+Web Programming With Html, Css, Bootstrap, Javascript, Jquery, Php, and Mysql	0.0	0	
+Examining the Validity of Sample Clusters, Using the Bootstrap Method (Classic Reprint)	0.0	0	
+Mobile-first Bootstrap	0.0	0	
+Dive into Twitter Bootstrap	0.0	0	
+Bootstraps and Biscuits: 300 Wonderful Wild Food Recipes from the Hills of West Virginia	0.0	0	
+Twitter Bootstrap for It Students	0.0	0	
+Twitter Bootstrap for You!	0.0	0	
+A Bootstrap Curriculum	0.0	0	
+Learning Bootstrap: Easy Web App Development	0.0	0	
+Twitter Bootstrap for Busies	0.0	0	
+Bootstrap 4 Cookbook	0.0	0	
+Bootstrap实战（第2版）	0.0	1	
+Web UI前端框架应用与开发：jQuery+Bootstrap	0.0	0	
+Bootstrap从入门到项目实战	0.0	0	
+如何自主啟動民主	0.0	0	
+Boosting our Collective IQ	0.0	3	
+The Sane Alternative	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping Reality from the Limitations of Logic	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping Your Business	0.0	0	
+Bootstrapping Stationary ARMA-GARCH Models 2010	0.0	2	
+Bootstrapping 101	0.0	0	
+Bootstrapping Democracy	0.0	0	
+Bootstrapping Democracy	0.0	0	
+Bootstrapping in Signal Processing	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping Trust in Modern Computers	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping Populations	0.0	0	
+Bootstrapping Events and Relations from Text.	0.0	0	
+Bootstrapping & Rethink&interpretv Simul Pk	0.0	0	
+Bootstrapper	0.0	0	
+Bootstrapping and Related Techniques	0.0	0	
+Bootstrapping a Software Company	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapper	0.0	0	
+Bootstrapping	0.0	0	
+Bootstrapping E-commerce	0.0	0	
+BootstrapWeb设计与开发实战/跨平台移动开发丛书	0.0	1	
+Bootstrapped: How 75 Entrepreneurs Successfully Bootstrapped Their Startups and How You Can Too	0.0	0	
+Bootstrapping Microservices	0.0	0	
+基于BootStrap3的 JSP项目实例教程	0.0	0	
+Twitter Bootstrap3 in Your Pocket	0.0	0	
+Twitter Bootstrap3 Winner	0.0	0	
+Twitter Bootstrap3 for Ladies	0.0	0	
+Twitter Bootstrap3 for You!	0.0	0	
+The Art of Twitter Bootstrap3	0.0	0	
+Twitter Bootstrap3 for Techies	0.0	0	
+Twitter Bootstrap3 for Students	0.0	0	
+Twitter Bootstrap3	0.0	0	
+Twitter Bootstrap3 in a Day	0.0	0	
+The Art of Twitter Bootstrap3	0.0	0	

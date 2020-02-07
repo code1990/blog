@@ -1,0 +1,1861 @@
+JavaScript	9.1	523	
+JavaScript高级程序设计（第3版）	9.3	2237	
+JavaScript语言精粹	9.1	1817	
+JavaScript DOM编程艺术 （第2版）	8.7	1548	
+JavaScript权威指南(第6版)	8.8	665	
+高性能JavaScript	9.0	555	
+你不知道的JavaScript（上卷）	9.4	758	
+JavaScript高级程序设计	8.6	982	
+JavaScript设计模式与开发实践	9.1	381	
+JavaScript语言精粹	9.1	386	
+JavaScript DOM编程艺术	8.7	1147	
+JavaScript权威指南	8.9	728	
+编写可维护的JavaScript	8.2	398	
+ppk谈JavaScript	8.5	387	
+基于MVC的JavaScript Web富应用开发	8.3	365	
+了不起的Node.js	7.4	127	
+Effective JavaScript	8.4	118	
+JavaScript模式	8.7	244	
+JavaScript高级程序设计:第2版	9.4	509	
+JAVASCRIPT语言精髓与编程实践	8.4	271	
+Secrets of the JavaScript Ninja	9.3	196	
+JavaScript & jQuery交互式Web前端开发	8.6	80	
+JavaScript设计模式	8.4	324	
+数据结构与算法JavaScript描述	6.5	131	
+Head First HTML5 Programming（中文版）	8.5	118	
+学习JavaScript数据结构与算法	7.9	121	
+JavaScript忍者秘籍	8.8	129	
+HTML5+JavaScript动画基础	9.5	29	
+你不知道的JavaScript（中卷）	8.9	255	
+你不知道的JavaScript（下卷）	8.1	104	
+JavaScript面向对象精要	9.2	122	
+Three.js开发指南	8.5	68	
+JavaScript设计模式	6.7	78	
+JavaScript	9.1	116	
+JavaScript	9.4	134	
+悟透JavaScript	7.8	234	
+JavaScript编程精解(第2版)	8.4	21	
+JavaScript 函数式编程	6.6	94	
+Node.js开发实战	8.2	16	
+单页Web应用	7.6	90	
+Eloquent JavaScript (2 Edition)	9.1	70	
+JavaScript面向对象编程指南	8.2	89	
+Head First JavaScript程序设计	9.4	39	
+DOM Scripting	8.7	123	
+JAVASCRIPT权威指南(第四版)	8.6	771	
+Effective JavaScript	8.6	54	
+精通JavaScript	8.6	412	
+Node	7.8	41	
+Object-Oriented JavaScript	8.6	70	
+Learning jQuery	7.9	49	
+JavaScript ES6函数式编程入门经典	8.4	24	
+Head First HTML5 Programming	7.9	70	
+Single Page Web Applications	8.2	33	
+JavaScript编程精解	8.0	114	
+CoffeeScript	7.9	39	
+DOM Scripting	8.5	53	
+JavaScript DOM高级程序设计	8.7	218	
+JavaScript异步编程	7.8	169	
+动态网页制作	0.0	0	
+JavaScript权威指南 第6版（上、下册）	8.9	31	
+JavaScript	0.0	3	
+JavaScript经典实例	7.2	29	
+编写高质量代码	7.4	34	
+JavaScript	0.0	1	
+High Performance JavaScript	8.9	141	
+XMPP高级编程	7.5	15	
+JavaScript王者归来	7.5	148	
+Head First JavaScript	8.3	170	
+JavaScript框架设计	7.9	60	
+全端Web开发	6.5	21	
+JavaScript语言精髓与编程实践	8.9	94	
+JavaScript Patterns	8.9	112	
+深入浅出JavaScript（中文版）	7.9	105	
+Pro JavaScript Techniques	8.9	129	
+Understanding ECMAScript 6	9.4	39	
+Learning React Native	7.5	22	
+JavaScript	0.0	6	
+Eloquent JavaScript	8.3	87	
+JavaScript设计模式	6.9	109	
+Simply JavaScript	7.7	12	
+JavaScript面向对象编程指南（第2版）	8.7	87	
+使用HTML、CSS和JavaScript开发Android程序	6.8	56	
+JavaScript: The Definitive Guide, 5th Edition	9.1	117	
+测试驱动的JavaScript开发	8.0	35	
+React	6.2	131	
+JavaScript高效图形编程	7.4	33	
+Maintainable JavaScript	8.1	74	
+JavaScript权威指南	8.9	90	
+Professional Node.js	7.5	18	
+Smashing Node.js	8.2	13	
+JavaScript框架设计 第二版	7.3	12	
+深入浅出CoffeeScript	7.6	93	
+Functional JavaScript	8.1	49	
+Pro JavaScript Design Patterns	8.8	34	
+实战 ES2015	6.8	22	
+Building Android Apps with HTML, CSS, and JavaScript	6.4	19	
+ppk on JavaScript, 1/e	9.3	53	
+深入浅出JavaScript	7.6	78	
+Node.js the Right Way	8.3	17	
+JavaScript基础教程	7.0	103	
+JavaScript	0.0	1	
+JavaScript启示录	7.1	75	
+JavaScript编程全解	8.6	48	
+Node即学即用	7.2	90	
+Developing a React Edge	0.0	5	
+JavaScript入门经典	8.4	43	
+Async JavaScript	8.7	28	
+Professional JavaScript for Web Developers	9.0	69	
+JavaScript	0.0	0	
+Programming HTML5 Applications	7.7	10	
+JavaScript入门经典	7.3	75	
+JavaScript核心技术	7.3	65	
+精通JavaScript+jQuery	7.1	75	
+Professional JavaScript for Web Developers	8.9	54	
+Learning the Yahoo! User Interface library	0.0	2	
+JavaScript核心概念及实践	7.8	36	
+Learning Web Design	0.0	6	
+JavaScript Web Applications	8.1	45	
+JavaScript	0.0	0	
+JavaScript	0.0	1	
+Javascript	0.0	0	
+JavaScript	0.0	0	
+Javascript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+Web Development with Node and Express	7.0	12	
+HTML5游戏开发	6.2	28	
+JavaScript学习指南	7.4	88	
+深入浅出JavaScript	8.7	33	
+JavaScript修炼之道	6.8	40	
+Mastering Dojo	8.0	11	
+Speaking JavaScript	8.6	26	
+JavaScript 艺术与科学	9.0	22	
+网页开发手记	7.3	10	
+JavaScript and JQuery	8.5	45	
+计算机导论与JavaScript编程	0.0	4	
+Learning Web App Development	7.8	11	
+JavaScript	0.0	0	
+Javascript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JavaScript	0.0	0	
+JAVASCRIPT	0.0	0	
+JavaScript	0.0	0	
+Javascript	0.0	0	
+JavaScript	0.0	0	
+Prototype and script.aculo.us	0.0	7	
+JavaScript精粹	7.7	34	
+Professional JavaScript for Web Developers	8.8	40	
+Mootools Essentials	7.2	10	
+详解HTML&CSS&JavaScript语法辞典	7.5	50	
+JavaScript实战手册	8.0	37	
+JavaScript权威指南	8.9	39	
+Principles of Object-Oriented JavaScript	8.6	35	
+Web Workers	0.0	2	
+超实用的JavaScript代码段	7.2	26	
+JavaScript基础教程（第8版）	7.0	34	
+移动Web前端高效开发实战	6.6	19	
+JavaScript快速全栈开发	7.4	18	
+JavaScript&DHTML Cookbook中文版	8.1	19	
+JavaScript & jQuery	8.3	39	
+JavaScript捷径教程	7.9	29	
+疯狂HTML 5/CSS 3/JavaScript讲义	7.8	38	
+JavaScript应用程序设计	0.0	8	
+Data Structures and Algorithms with JavaScript	7.4	15	
+高性能JavaScript	8.6	47	
+JavaScript实战	7.4	20	
+JavaScript性能优化	6.4	14	
+深入理解Ajax	0.0	7	
+Learning JavaScript Design Patterns	7.7	34	
+JavaScript编程实战	7.6	12	
+Head First JavaScript Programming	8.9	38	
+Test-Driven Development with Python	8.6	28	
+Ember.js实战	0.0	2	
+编写可测试的JavaScript代码	7.6	16	
+HTML、XHTML、CSS与JavaScript入门经典	7.9	23	
+Beginning JavaScript with DOM Scripting and Ajax	8.0	15	
+JavaScript Enlightenment	7.4	21	
+JavaScript详解（第2版）	7.5	17	
+Effective Javascript	0.0	2	
+JavaScript基础教程	5.3	37	
+Supercharged JavaScript Graphics	0.0	8	
+Functional Programming in JavaScript	0.0	7	
+jQuery JavaScript与CSS开发入门经典	7.3	15	
+jQuery Reference Guide	0.0	1	
+网页开发手记	0.0	1	
+JavaScript快速开发工具箱	0.0	4	
+Building iPhone Apps with HTML, CSS, and JavaScript	7.4	20	
+React Native：用JavaScript开发移动应用	4.3	21	
+JavaScript框架高级编程	0.0	8	
+Testable JavaScript	0.0	9	
+Third-Party JavaScript	0.0	8	
+Learning Three.js	0.0	4	
+JavaScript和jQuery实战手册	7.9	19	
+HTML+CSS+JavaScript实用详解	7.7	23	
+Node.js高级编程	6.5	19	
+JavaScript应用程序经典实例	0.0	4	
+第三方JavaScript编程	0.0	8	
+Test-Driven JavaScript Development	7.6	11	
+Learning JavaScript	7.6	13	
+JavaScript入门经典	7.8	20	
+Async JavaScript	7.9	20	
+JavaScript征途	6.2	22	
+Learning PHP, MySQL, and JavaScript	7.2	22	
+JavaScript入门经典（第5版）	8.9	25	
+A Smarter Way to Learn JavaScript	8.2	20	
+深入理解JavaScript	8.0	32	
+JavaScript with Promises	8.6	15	
+深入浅出Node.js	8.6	942	
+Learning Three.js	0.0	3	
+jQuery实战案例精粹	0.0	3	
+JavaScript Web应用开发	0.0	8	
+HTML/CSS/JavaScript标准教程	7.0	17	
+精通JavaScript开发	0.0	7	
+JavaScript学习宝典	7.5	19	
+JavaScript编程宝典	6.7	18	
+Learning PHP, MySQL, JavaScript, and CSS	7.3	10	
+众妙之门：JavaScript与jQuery技术精粹	7.2	14	
+Programming JavaScript Applications	0.0	5	
+Dojo	0.0	2	
+Head Frist JavaScript Programming	0.0	2	
+Rapid Prototyping with JS	0.0	1	
+JavaScript专家编程	0.0	9	
+JavaScript宝典  第四版  含盘	7.4	17	
+JavaScript Cookbook	7.1	12	
+ZK	0.0	4	
+Functional Programming in JavaScript	0.0	1	
+JavaScript宝典	7.4	10	
+JavaScript网页动画设计	7.4	14	
+JavaScript Application Design	8.4	10	
+HTML5和JavaScript Web应用开发	6.9	10	
+Visual Storytelling with D3	0.0	0	
+Learning JavaScript	0.0	2	
+ECMAScript	0.0	0	
+JavaScript袖珍速查手册	0.0	8	
+Building iPhone Apps with HTML, CSS, and JavaScript	0.0	8	
+HTML、CSS和JavaScript入门经典	7.2	14	
+JavaScript忍者秘籍（第2版）	8.1	57	
+JavaScript凌厉开发	6.4	20	
+JavaScript Examples Bible	0.0	0	
+Understanding Ajax	0.0	2	
+Automate with Grunt	0.0	3	
+The Art & Science of JavaScript	0.0	5	
+JavaScript & DHTML Cookbook	0.0	5	
+精通JavaScript（第2版）	0.0	9	
+JavaScript基础教程（第9版）	6.5	11	
+趣学JavaScript	7.8	27	
+Professional XMPP Programming with JavaScript and jQuery	0.0	9	
+JavaScript网页开发<体验式学习教程>(附光盘)	7.4	15	
+HTML5、CSS和JavaScript开发	7.2	11	
+JavaScript入门经典	8.5	18	
+Ajax、JavaScript和PHP编程导学	7.2	12	
+Foundation HTML5 Animation with JavaScript	0.0	6	
+Pro JavaScript with MooTools	0.0	9	
+Secrets of the JavaScript Ninja	9.3	26	
+构建iPhone企业级应用	0.0	9	
+Beginning iPhone and iPad Web Apps	0.0	7	
+JavaScript权威指南	5.3	14	
+If Hemingway Wrote JavaScript	0.0	3	
+JavaScript凌厉开发	7.5	10	
+大型JavaScript应用最佳实践指南	0.0	1	
+Django JavaScript Integration	0.0	7	
+JavaScript完全手册	0.0	5	
+The Past, Present, and Future of JavaScript	0.0	9	
+Mastering TypeScript	0.0	1	
+零基础学JavaScript	0.0	7	
+JavaScript实战	0.0	7	
+21天学通JavaScript	5.2	11	
+JavaScript Testing with Jasmine	7.1	13	
+Professional JavaScript Frameworks	0.0	2	
+The JavaScript Anthology	0.0	4	
+Object-Oriented JavaScript, 2nd Edition	8.6	10	
+JavaScript开发王	0.0	5	
+Palm webOS	0.0	5	
+Python测试驱动开发	0.0	6	
+Expert JavaScript	0.0	6	
+JavaScript完全解析	8.7	13	
+Javascript 實例演練	0.0	1	
+Ajax	0.0	0	
+JavaScript and Ajax Wrox Box	0.0	0	
+Mastering JavaScript High Performance	0.0	1	
+JavaScript从入门到精通	7.0	12	
+JavaScript设计与开发新思维	0.0	7	
+学习JavaScript数据结构与算法（第3版）	7.7	13	
+iOS Web应用开发	5.9	13	
+可測試的JavaScript	0.0	1	
+移动网页设计与开发	7.7	10	
+JavaScript数据可视化编程	0.0	8	
+HTML5 and JavaScript Web Apps	0.0	2	
+征服JavaScript高级程序设计与应用实例	0.0	3	
+Pragmatic Guide to JavaScript	0.0	4	
+深入淺出JavaScript	7.2	12	
+Getting Started with Meteor.js JavaScript Framework	7.4	12	
+JavaScript经典实例（第2版）	0.0	5	
+Web Animation using JavaScript	0.0	1	
+Windows 8 应用开发实战	0.0	1	
+Developing an AngularJS Edge	0.0	0	
+JavaScript for PHP Developers(中文版)	0.0	1	
+Modular Programming with JavaScript	0.0	1	
+Learning Node.js	0.0	0	
+D3.js in Action	0.0	4	
+Data Visualization with JavaScript	0.0	2	
+Pro JavaScript Performance	0.0	5	
+PHP、MySQL与JavaScript学习手册(第4版)	0.0	6	
+Javascript Para Desarrolladores Web/javascript for Web Development	0.0	5	
+JavaScript应用开发实践指南	0.0	5	
+JavaScript 入门与提高	0.0	2	
+JavaScript网页特效实例大全	0.0	2	
+JavaScript动态网页设计	0.0	4	
+HTML5 and JavaScript Projects	0.0	2	
+A Software Engineer Learns HTML5, JavaScript and jQuery	0.0	4	
+iOS Web开发入门经典	0.0	3	
+Learning JavaScript Data Structures and Algorithms	6.8	10	
+Beautiful JavaScript	0.0	2	
+JavaScript RIA开发实战	0.0	7	
+The Essential Guide to HTML5	0.0	5	
+JavaScript Testing Beginner's Guide	0.0	2	
+HTML标准教程	0.0	9	
+JavaScript学习指南 第3版 (Learning JavaScript, 3rd Edition)	0.0	1	
+JavaScript速成教程	0.0	2	
+JavaScript Definitive Guide	0.0	3	
+Modern JavaScript	0.0	2	
+Programming JavaScript Applications	0.0	4	
+Secrets of the JavaScript Ninja	0.0	3	
+JavaScript网页特效范例宝典	0.0	9	
+Javascript Bible	0.0	3	
+即用即查JavaScript核心对象参考手册	0.0	7	
+JavaScript 大全 第五版	0.0	6	
+精通JavaScript动态网页编程	0.0	4	
+Pro Javascript RIA Techniques	0.0	3	
+Learning JavaScript, 2nd Edition	0.0	6	
+JavaScript学习指南	0.0	7	
+Beginning PhoneGap	0.0	7	
+Pro Android Web Apps	0.0	8	
+JavaScript编程循序渐进	0.0	6	
+Mobile JavaScript Application Development	0.0	4	
+The Modern Web	0.0	6	
+JavaScript全程指南	0.0	7	
+HTML+XHTML+CSS+JavaScript+DOM+AJAX语法及范例实用辞典	0.0	3	
+使用HTML、CSS和JavaScript开发Android程序（第2版）	0.0	3	
+Full Stack JavaScript Development With MEAN	0.0	3	
+Learning PHP, MySQL & JavaScript	0.0	6	
+从零开始学JavaScript	0.0	6	
+学习JavaScript（影印版）	0.0	5	
+Node.js开发指南	7.5	713	
+C#网站开发案例详解	0.0	2	
+JavaScript与JScript从入门到精通	0.0	5	
+JavaScript从入门到精通	0.0	7	
+JavaScript for PHP Developers	0.0	4	
+iOS应用开发指南	0.0	3	
+HTML、CSS、JavaScript网页制作从入门到精通	6.6	61	
+JavaScript完全自学宝典	0.0	6	
+Beginning JavaScript, 3rd Edition	0.0	2	
+Getting Good with Javascript	0.0	9	
+Javascript Enlightenment	0.0	3	
+JavaScript入门经典（第6版）中文版	0.0	5	
+数据分析与呈现——使用JavaScript &amp; jQuery	0.0	0	
+JavaScript宝典	0.0	3	
+巧学巧用HTML、CSS、JavaScript制作网页	0.0	3	
+JavaScript编程起步	0.0	2	
+Practical JavaScript, DOM Scripting and Ajax Projects	0.0	2	
+Javascript 設計風格	0.0	1	
+JavaScript编程宝典	0.0	8	
+JavaScript精粹	0.0	3	
+JavaScript程序员教程	0.0	8	
+Beginning JavaScript	0.0	5	
+高性能网站建设进阶指南	8.9	399	
+Web前端工程师修炼之道(原书第4版)	6.9	10	
+JavaScript & DHTML Cookbook, 2nd Edition	0.0	2	
+JavaScript高级应用与实践	0.0	2	
+JavaScript by Example	0.0	3	
+JavaScript语法与范例辞典	0.0	4	
+JavaScript从入门到精通	0.0	5	
+Sencha Touch Mobile JavaScript Framework	0.0	5	
+Building Hybrid Android Apps with Java and JavaScript	0.0	3	
+javascript unit testing	0.0	5	
+The Book of JavaScript	0.0	3	
+Continuous Testing	0.0	2	
+同构JavaScript应用开发	7.4	10	
+The Web Designer's Guide to iOS Apps	0.0	2	
+Beginning Smartphone Web Development	0.0	3	
+21天学通JavaScript	0.0	4	
+How to Do Everything with JavaScript	0.0	6	
+Beginning JavaScript Second Edition	0.0	2	
+JavaScript Pocket Reference	0.0	6	
+Building Android Apps with HTML, CSS, and JavaScript	0.0	4	
+Learning JavaScript: Add Sparkle and Life to Your Web Pages	0.0	4	
+JavaScript程序设计	0.0	1	
+JavaScript Bible	0.0	2	
+学习JavaScript数据结构与算法（第2版）	7.5	23	
+JavaScript程序设计	0.0	8	
+JavaScript程序设计:基础·PHP·XML	0.0	1	
+javascript开发框架权威指南	0.0	2	
+JavaScript动态网页编程实例手册	0.0	2	
+JavaScript实例教程	0.0	3	
+JavaScript基础与实例教程	0.0	1	
+JavaScript入门与提高	0.0	5	
+JavaScript从入门到精通	0.0	2	
+JavaScript by Example	0.0	4	
+新手学JavaScript编程(第4版)	0.0	2	
+JavaScript网页特效经典300例(含DVD光盘1张)	0.0	2	
+JavaScript从入门到精通	0.0	4	
+JavaScript, A Beginner's Guide, Third Edition	0.0	2	
+深入理解ES6	9.4	249	
+JavaScript入门经典	0.0	4	
+锋利的jQuery	8.4	547	
+JavaScript精彩网页特效实例精粹	0.0	2	
+DHTML Utopia Modern Web Design Using JavaScript & DOM	0.0	2	
+JavaScript and Ajax for the Web, Sixth Edition	0.0	2	
+Beginning JavaScript and CSS Development with jQuery	0.0	3	
+Learn HTML5 and JavaScript for iOS	0.0	1	
+JavaScript Monads	0.0	0	
+Learn JavaScript and Ajax with w3Schools	0.0	5	
+Pro JavaScript Techniques: Second Edition	0.0	5	
+Introduction to JavaScript Object Notation	0.0	2	
+Reliable JavaScript	0.0	4	
+JavaScript新语	0.0	0	
+Client-Server Web Apps with JavaScript and Java	0.0	2	
+Pro Data Visualization using R and JavaScript	0.0	1	
+全面理解JavaScript	0.0	3	
+Pro JavaScript for Web Apps	0.0	3	
+Advanced Game Design with HTML5 and JavaScript	0.0	1	
+HTML5 Canvas核心技术	8.7	53	
+HTML/CSS/JavaScript标准教程	0.0	3	
+Web GIS从基础到开发实践	0.0	4	
+Node.js 8 the Right Way	0.0	5	
+Sams Teach Yourself JavaScript in 24 Hours (4th Edition) (Sams Teach Yourself)	0.0	0	
+JavaScript典型应用与最佳实践	0.0	1	
+JavaScript Phrasebook	0.0	2	
+JavaScript for Dummies	0.0	3	
+JavaScript for Dummies	0.0	2	
+最新詳解JAVAScript & HTML & CSS語法辭	0.0	1	
+JavaScript脚本特效编程给力起飞	0.0	1	
+JavaScript Step by Step	0.0	2	
+JavaScript for Kids	0.0	3	
+Reactive Programming with JavaScript	0.0	0	
+JavaScript经典范例50讲	0.0	1	
+Javascript实战	0.0	2	
+JavaScript完全参考手册(第3版)	0.0	2	
+JavaScript in 10 Simple Steps or Less	0.0	1	
+JavaScript程序设计教程	0.0	3	
+JavaScript Bible, Fifth Edition	0.0	1	
+学习JavaScript	0.0	2	
+Windows 8 Apps with HTML5 and JavaScript Unleashed	0.0	1	
+Beginning IOS Application Development with HTML and JavaScript	0.0	3	
+基于MVC的JavaScript Web富应用开发	0.0	0	
+JavaScript高效图形编程 (修订版)	0.0	3	
+JavaScript Cookbook	0.0	2	
+Mastering JavaScript Design Patterns	0.0	0	
+Beginning Javascript with DOM Scripting and Ajax	0.0	3	
+Javascript in Action	0.0	0	
+CSS+XHTML+JavaScript网页设计与布局从入门到精通	0.0	2	
+Rediscovering JavaScript	0.0	0	
+JavaScript for Absolute Beginners	0.0	1	
+网页设计与开发	0.0	2	
+Getting Started with Grunt	0.0	4	
+半日閒園	0.0	2	
+Node.js实战	8.2	154	
+HTML/CSS/JavaScript标准教程实例版（第5版）(含CD光盘1张)	0.0	1	
+JavaScript入门经典 第7版	0.0	0	
+JavaScript Design	0.0	1	
+JavaScript使用详解	0.0	2	
+JavaScript and Ajax for the Web	0.0	1	
+JavaScript动态网页技术详解	0.0	2	
+Sams Teach Yourself HTML, CSS, and JavaScript All in One	0.0	1	
+JavaScript Programmer's Reference	0.0	0	
+Start Here! Learn JavaScript	0.0	0	
+JavaScript and JSON Essentials	0.0	4	
+JavaScript Security	0.0	2	
+Jump Start JavaScript	0.0	1	
+疯狂HTML 5+CSS 3+JavaScript讲义（第2版）	0.0	0	
+JavaScript开发技术详解	0.0	2	
+JavaScript 24-Hour Trainer	0.0	1	
+Pro TypeScript	0.0	3	
+Murach's JavaScript and jQuery	0.0	0	
+jQuery基础教程	7.8	263	
+AngularJS权威教程	7.2	135	
+Web Standards Programmer's Reference	0.0	3	
+iOS 4 SDK入门	0.0	2	
+网站建设与网页设计从入门到精通	0.0	2	
+JavaScript Professional Projects	0.0	0	
+JavaScript实用范例辞典	0.0	1	
+JavaScript & DHTML Cookbook	0.0	2	
+Essential JavaScript for Web Professionals	0.0	1	
+JavaScript Demystified	0.0	1	
+精通JavaScript	0.0	2	
+JavaScript实例、技巧与应用	0.0	0	
+JavaScript+DHTML语法与范例详解词典	0.0	1	
+JavaScript完全学习手册	0.0	2	
+Understanding Advanced JavaScript	0.0	0	
+JavaScript Frameworks for Modern Web Dev	0.0	1	
+Mastering JavaScript	0.0	2	
+JavaScript Concurrency	0.0	0	
+JavaScript程序设计基础教程	0.0	1	
+看透JavaScript	0.0	6	
+JavaScript编程精粹	0.0	3	
+Getting Started with p5.js	0.0	8	
+Security for Web Developers	0.0	2	
+Windows 8 开发权威指南	0.0	0	
+JavaScript网页编程案例教程	0.0	1	
+轻松学用JavaScript	0.0	2	
+玫瑰家族-HTML/CSS/JavaScript教室	0.0	1	
+Advanced JavaScript, 3rd Edition	0.0	0	
+Learn JavaScript In a Weekend, Second Edition (In a Weekend)	0.0	0	
+最新JavaScript與Ajax範例活用辭典	0.0	0	
+JavaScript网页特效编程百例通	0.0	0	
+網頁程式-JavaScript	0.0	1	
+Moodle JavaScript Cookbook	0.0	1	
+Plug-In JavaScript 100 Power Solutions	0.0	0	
+Pro Windows 8 Development with HTML5 and JavaScript	0.0	1	
+JavaScript A Beginners Guide	0.0	0	
+Joomla! 1.5 JavaScript Jquery	0.0	1	
+Source Code Analytics With Roslyn and JavaScript Data Visual	0.0	0	
+JavaScriptの絵本	0.0	0	
+Test-Driven JavaScript Development	0.0	0	
+JavaScript从零开始学：视频教学版	0.0	0	
+Learn JavaScript VISUALLY	0.0	0	
+JavaScript. Kurz und gut.	0.0	0	
+Unobtrusive JavaScript	0.0	0	
+Learning PHP, MySQL & JavaScript	0.0	3	
+深入React技术栈	8.0	166	
+The Definitive Guide to MooTools	0.0	0	
+CoffeeScript	0.0	2	
+The Web Game Developer's Cookbook	0.0	0	
+Mastering ArcGIS Server Development with JavaScript	0.0	0	
+JavaScript Programming Language	0.0	0	
+动态网页全接触	0.0	2	
+社群遊戲開發	0.0	0	
+Jasmine Javascript Testing	0.0	1	
+Web前端开发技术	0.0	4	
+Data Visualization with Python and JavaScript	0.0	5	
+HTML5权威指南	8.5	127	
+精通HTML5 + CSS3+JavaScript网页设计	6.8	11	
+WebGL编程指南	9.0	92	
+HTML CSS JavaScript标准教程	0.0	7	
+JavaScript&HTML精通网页编程	0.0	0	
+Developing Hybrid Applications for the iPhone	0.0	0	
+JavaScript at Scale	0.0	2	
+Learning Behavior-driven Development with JavaScript	0.0	1	
+JavaScript Creativity	0.0	2	
+不一樣的_Nodejs	0.0	1	
+Three.js开发指南	0.0	5	
+Test-Driven Development with Python, 2nd Edition	0.0	3	
+网页设计基础与上机指导	0.0	0	
+Web设计与开发	0.0	1	
+16课学会网页程序设计	0.0	2	
+Introducing Regular Expressions	0.0	1	
+Modern Programming Made Easy	0.0	1	
+21世纪高等学校规划教材·计算机应用·Web编程基础	0.0	1	
+JavaScript入门经典	0.0	0	
+Build an HTML5 Game	0.0	0	
+KnockoutJS Essentials	0.0	1	
+Javascript Primer Plus	0.0	0	
+Web技术基础	0.0	0	
+超图解物联网IoT实作入门	0.0	1	
+完美图解物联网IoT实操	0.0	8	
+实战微信小程序	0.0	3	
+ES6 for Humans	0.0	1	
+Building a 2D Game Physics Engine	0.0	0	
+Practical Modern JavaScript	0.0	0	
+编写可靠的JavaScript代码	0.0	0	
+Generative Design	0.0	0	
+案例学WEB前端开发（全彩版）	0.0	0	
+锋利的jQuery	8.0	694	
+WebKit技术内幕	7.3	108	
+JavaScript完全自学手册	0.0	4	
+Web前端开发实战教程	0.0	0	
+Adobe InDesign CS2 Official JavaScript Reference (Visual Quickstart Guides)	0.0	0	
+Javascript How-To	0.0	0	
+网页制作教程	0.0	0	
+HTML+CSS+JavaScript网页制作实用教程	0.0	0	
+炫动网页设计丛书	0.0	0	
+Comptr Sci	0.0	0	
+Ise Principles of Program Design Problem	0.0	0	
+Making Games	0.0	0	
+Rapid Game Development Using Cocos2d-JS	0.0	0	
+Jasmine Cookbook	0.0	0	
+Practical Web Development	0.0	0	
+Enyo	0.0	0	
+secure development for mobile apps	0.0	0	
+Javascript Unlocked	0.0	0	
+jQuery, JavaScript, and HTML5	0.0	0	
+The Joy of jQuery	0.0	0	
+How to Program HTML Frames	0.0	0	
+HTML for the World Wide Web with XHTML and CSS	0.0	0	
+A2z Video Game Programming	0.0	0	
+动态网页设计与制作	0.0	0	
+Data Visualization Toolkit	0.0	0	
+Java EE Web Application Primer	0.0	0	
+Pro TypeScript	0.0	3	
+The Definitive Guide to AdonisJs	0.0	0	
+Learn ECMAScript - Second Edition: Discover the latest ECMAScript features in order to write cleaner code and learn the fundamentals of JavaScript	0.0	0	
+Mastering JavaScript Functional Programming: In-depth guide for writing robust and maintainable JavaScript code in ES8 and beyond	0.0	3	
+Mastering NativeScript Mobile Development	0.0	0	
+Hands-On Data Structures and Algorithms with JavaScript: Write efficient code that is highly performant, scalable, and easily testable using JavaScript	0.0	0	
+React Native - Building Mobile Apps with JavaScript	0.0	0	
+Learning JavaScript Robotics	0.0	0	
+Practical Test-Driven Development using C# 7	0.0	0	
+Practical Internet of Things with JavaScript	0.0	0	
+完美图解物联网IoT实操	0.0	1	
+现代JavaScript编程：经典范例与实践技巧	0.0	1	
+Learn Blockchain Programming with JavaScript	0.0	0	
+Get coding 2	0.0	0	
+Building Enterprise JavaScript Applications	0.0	0	
+Mastering SVG	0.0	1	
+Learning Web Design, 5th Edition	0.0	1	
+Hands-On Design Patterns with React Native	0.0	0	
+物联网系统开发	0.0	1	
+web前端开发技术	0.0	1	
+Learning JavaScript Data Structures and Algorithms	0.0	2	
+编写可靠的JavaScript代码 测试驱动开发JavaScript商业软件	0.0	0	
+网页设计与前端开发从入门到精通 Dreamweaver+Flash+Photoshop+HTML+CSS+JavaScript	0.0	0	
+中公实用Web前端开发轻松学 HTML5+CSS3+JavaScript	0.0	0	
+Web前端开发简明教程	0.0	4	
+Web Development with Node and Express, 2nd Edition	0.0	0	
+ArcGIS Server JavaScript API开发GeoWeb 2.0应用	0.0	5	
+HTML/CSS/JavaScript完全学习手册	0.0	8	
+网页游戏开发秘笈	0.0	2	
+Head First JavaScript Code Magnets Kit	0.0	1	
+Beginning HTML, XHTML, CSS, and JavaScript (Wrox Programmer to Programmer)	0.0	8	
+Making Isometric Social Real-Time Games with HTML5, CSS3, and Javascript	0.0	1	
+Web Design with HTML, CSS, JavaScript and jQuery Set	0.0	1	
+HTML/CSS/JavaScript标准教程实例版	0.0	3	
+深入浅出React和Redux	7.9	170	
+网页设计入门经典HTML+CSS+JavaScript完全学习手册	0.0	3	
+精通JavaScript动态网页编程	0.0	2	
+网站开发案例课堂：HTML5+CSS3+JavaScript网页设计案例课堂	0.0	5	
+Learning PHP,MySQL,JavaScript,and CSS(第2版)	0.0	4	
+JavaScript网页编程从入门到精通	0.0	1	
+Professional JavaScript for Web Developers, 4th Edition	0.0	3	
+HTML5+CSS+JavaScript深入学习实录	0.0	3	
+HTML CSS JavaScript整合详解	0.0	6	
+Learning the iOS 4 SDK for JavaScript Programmers	0.0	3	
+Programming Windows 8 Apps with HTML, CSS, and JavaScript	0.0	3	
+JavaScript开发技术大全	0.0	3	
+JavaScript实例自学手册	0.0	5	
+Ajax高级程序设计	7.3	43	
+Javascript for Babies	0.0	2	
+Vue.js权威指南	4.9	71	
+JavaScript設計模式	0.0	1	
+JavaScript趣味编程15例/达人迷	0.0	1	
+JavaScript语法与范例速查手册	0.0	3	
+Beginning Functional JavaScript: Functional Programming with JavaScript Using EcmaScript 6	0.0	0	
+JavaScript开发技术大全	0.0	2	
+HTML+CSS+JavaScript网页设计与布局实用教程	0.0	4	
+Building Web and Mobile ArcGIS Server Applications with JavaScript	0.0	3	
+Building Isomorphic JavaScript Apps	0.0	2	
+JavaScript: Novice to Ninja	0.0	2	
+Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB	0.0	1	
+Smashing JavaScript	0.0	0	
+JavaScript从入门到精通（标准版）	0.0	1	
+Javascript: Javascript Programming for Beginners Guide to Javascript Coding, Javascript Programs and Javascript Language	0.0	0	
+前端架构：从入门到微前端	7.6	29	
+Node与Express开发	7.4	97	
+Adobe AIR for JavaScript Developers Pocket Guide (Pocket Guides)	0.0	0	
+CSS+XHTML+JavaScript完全学习手册	0.0	0	
+挑战JavaScript&Ajax应用开发	0.0	2	
+JavaScript应用开发技术详解	0.0	2	
+Javascript,CGI與Perl-300實例徹底研究	0.0	2	
+JavaScript Pocket Reference (2nd Edition)	0.0	3	
+边用边学JavaScript	0.0	3	
+JavaScript程序设计基础教程	0.0	0	
+JavaScript基础与实践教程	0.0	2	
+パーフェクトJavaScript	0.0	1	
+Learning PHP, MySQL, JavaScript, CSS & HTML5	0.0	0	
+Mastering JavaScript Promises	0.0	1	
+JavaScript Programming	0.0	2	
+PHP, MySQL, JavaScript & HTML5 All-in-One For Dummies	0.0	3	
+Object Oriented JavaScript - Third Edition	0.0	1	
+JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills	0.0	0	
+JavaScript构建Web和ArcGIS Server应用实战	0.0	1	
+JavaScript: Optimizing Native JavaScript: Designing, Programming, and Debugging Native JavaScript Applications	0.0	0	
+Javascript: 2 Books in 1- the Ultimate Beginner's Guide to Learn Javascript Programming Effectively & Tips and Tricks to Learn Javascript	0.0	0	
+JavaScript从入门到精通(黄金版)	0.0	1	
+An Introduction to HTML and Javascript	0.0	0	
+JavaScript for the World Wide Web, Fifth Edition (Visual QuickStart Guide)	0.0	2	
+战胜Javascript必做练习50题	0.0	0	
+突破JavaScript编程实例五十讲	0.0	1	
+JavaScript程序开发	0.0	0	
+Dreamweaver/Photoshop/Flash/Fireworks/JavaScript网页制作实例大讲堂	0.0	0	
+Drupal 6 JavaScript and jQuery	0.0	1	
+HTML5与JavaScript程序设计	0.0	3	
+Social Data Visualization with HTML5 and JavaScript	0.0	0	
+JavaScript JSON Cookbook	0.0	1	
+Foundation Game Design with HTML5 and Javascript	0.0	0	
+JavaScript Programmer's Reference	0.0	1	
+JavaScript程序设计基础教程	0.0	0	
+JavaScript 50 Useful Programs: For JavaScript Programmers	0.0	0	
+JavaScript: Functional Programming for JavaScript Developers	0.0	0	
+Isomorphic JavaScript Web Development: Universal JavaScript with React and Node	0.0	0	
+javascript之美	0.0	4	
+JavaScript开发实战	0.0	1	
+JavaScript机器人编程指南	0.0	0	
+JavaScript实战JavaScript、jQuery、HTML5、Node.js实例大全	0.0	0	
+JavaScript y DHTML/ JavaScript y DHTML Cookbook	0.0	0	
+Javascript Programming: A Complete Practical Guide for Beginners to Master Javascript Programming Language	0.0	0	
+Javascript: Tips and Tricks to Programming Code With Javascript	0.0	0	
+Javascript: Learn Javascript in 2 Hours and Start Programming Today!	0.0	0	
+Javascript Programming: A Beginners Guide to the Javascript Programming Language	0.0	0	
+JavaScript for Impatient Programmers	0.0	2	
+精通从JavaScript到JSP范例程序设计	0.0	0	
+The Book of Javascript	0.0	1	
+因特网与网页设计疑难问题解答:关于因特网/HTML/DHTML/CSS/CGI及JavaScript (平装)	0.0	0	
+JavaScript动态网页经典实例教程	0.0	1	
+JavaScript脚本程序设计	0.0	0	
+JavaScript Application Cookbook	0.0	0	
+实用JavaScript网页特效编程百宝箱	0.0	2	
+JavaScript网络编程实例	0.0	0	
+JavaScript 网络效果大师	0.0	1	
+网页编程组合教程 HtmL+JavaScript+ASP	0.0	0	
+JavaScript(TM) Step by Step	0.0	3	
+Professional JavaScript 2nd Edition	0.0	1	
+Adobe Integrated Runtime (AIR) for JavaScript Developers Pocket Guide (Adobe Developer Library)	0.0	2	
+Building Windows 8 Metro Style Apps with HTML5 & JavaScript	0.0	0	
+Learn HTML5 and JavaScript for Android	0.0	0	
+HTML, CSS, and JavaScript Mobile Development For Dummies	0.0	0	
+JavaScript网页特效案例教程	0.0	0	
+Indesign Cs5 Automation Using XML & JavaScript	0.0	1	
+21天学通HTML+CSS+JavaScript Web开发	0.0	0	
+Get Programming with JavaScript	0.0	1	
+21天学通JavaScript（第3版）	0.0	0	
+Beginning JavaScript Charts	0.0	0	
+Modern JavaScript Applications	0.0	0	
+Build your own 2D Game Engine and Create Great Web Games: Using HTML5, JavaScript, and WebGL	0.0	0	
+jQuery与JavaScript入门经典	0.0	0	
+21天学通JavaScript（第4版）	0.0	1	
+Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL	0.0	0	
+JavaScript Projects for Kids	0.0	1	
+JavaScript自学视频教程	0.0	2	
+JavaScript语法和对象速查手册	0.0	0	
+Scriptin' with JavaScript and Ajax	0.0	0	
+最新HTML\CSS\JavaScript标准教程	0.0	2	
+JavaScript程序设计	0.0	2	
+网页程序设计 HTML、JavaScript、CSS、XHTML、Ajax	0.0	1	
+JavaScript Step by Step	0.0	0	
+HTML, CSS & JavaScript Web Publishing in One Hour a Day, Sams Teach Yourself	0.0	0	
+JavaScript: The Definitive Guide, 7th Edition	0.0	2	
+宝宝的JavaScript	0.0	3	
+JavaScript 網頁程式設計	0.0	1	
+即学即用JavaScript	0.0	1	
+万水NETSCAPE 从入门到精通系列-NETSCAPE JAVASCRIPT	0.0	0	
+Java/JavaScript网页设计活学活用300问	0.0	0	
+网站开发新动力 HTML/JavaScript/ASP网页开发秘笈	0.0	0	
+JavaScript 实践解析	0.0	1	
+HTML JavaScript与Java完全实战演练	0.0	0	
+趣味程序导学 JavaScript  含盘	0.0	0	
+JAVASCRIPT 教学范本	0.0	1	
+JavaScript时尚编程百例	0.0	0	
+JavaScript 技术大全	0.0	2	
+JavaScript 案例教程	0.0	0	
+JavaScript 动态网站建设	0.0	0	
+JavaScript: A Beginner''s Guide, Second Edition	0.0	0	
+JavaScript网页制作彻底研究	0.0	0	
+JavaScript实践与提高	0.0	1	
+最新JavaScript完整語法參考辭典改訂第3	0.0	0	
+JavaScript範例活用辭典	0.0	0	
+JAVASCRIPT宝典	0.0	1	
+JavaScript in Easy Steps	0.0	0	
+Sams Teach Yourself Ajax, JavaScript, and PHP All in One	0.0	0	
+Javascript for Programmers	0.0	0	
+Javascript Cookbook	0.0	0	
+JavaScript从入门到精通	0.0	1	
+Sams Teach Yourself JavaScript in 24 Hours	0.0	0	
+Guide to HTML, Javascript and PHP	0.0	0	
+The JavaScript Pocket Guide	0.0	1	
+JavaScript网页交互特效范例与技巧	0.0	0	
+実践JS サーバサイド JavaScript 入門	0.0	0	
+JavaScript编程指南	0.0	1	
+HTML5 Programming with JavaScript For Dummies	0.0	0	
+Foundation Website Creation with HTML5, CSS3, and JavaScript	0.0	0	
+Programming With Javascript	0.0	0	
+Robin Nixon's JavaScript Crash Course	0.0	1	
+Building IOS Game Apps Using HTML5, JavaScript and CSS3	0.0	0	
+Iphone JavaScript Cookbook	0.0	0	
+Behaviour Driven Development with JavaScript	0.0	0	
+Pro HTML5 with CSS, JavaScript, and Multimedia: Complete Website Development and Best Practices	0.0	1	
+HTML+CSS+JavaScript网页客户端程序设计	0.0	0	
+Javascript for Beginners	0.0	1	
+Test-Driving JavaScript Applications: Rapid, Confident, Maintainable Code	0.0	0	
+Beginning JavaScript	0.0	0	
+JavaScript Promises Essentials	0.0	0	
+Scripting in Java: Integrating with Groovy and JavaScript	0.0	1	
+JavaScript and jQuery for Data Analysis and Visualization	0.0	0	
+JavaScript Domain-Driven Design	0.0	1	
+Pro JavaScript Development: Coding, Capabilities, and Tooling	0.0	1	
+JavaScript & jQuery	0.0	1	
+Start Here! Build Windows 8 Apps with Html5 and JavaScript	0.0	0	
+JavaScript Object Programming	0.0	1	
+JavaScript網頁應用程式設計	0.0	1	
+Google Maps JavaScript API Cookbook	0.0	1	
+Start Programming Using HTML, CSS, and JavaScript	0.0	0	
+Windows 8 Apps Revealed Using Html5 and JavaScript	0.0	1	
+the javascript programming language	0.0	0	
+Web Development with JavaScript and AJAX Illuminated	0.0	0	
+Murach's JavaScript and DOM Scripting	0.0	0	
+Javascript on the Server Using Node.JS and Express	0.0	1	
+Sams Teach Yourself JQuery and JavaScript in 24 Hours	0.0	0	
+JQuery and JavaScript Developer's Phrasebook	0.0	0	
+iPhone Apps mit HTML, CSS and JavaScript	0.0	0	
+Mastering JavaScript Design Patterns - Second Edition	0.0	1	
+精通JavaScript+jQuery	0.0	2	
+Learning JavaScript Data Structures and Algorithms - Second Edition	0.0	1	
+HTML5+CSS3+JavaScript网页设计	0.0	3	
+JavaScript本格入門	0.0	0	
+网页设计必学的实用编程技术：HTML5+CSS3+JavaScript	0.0	0	
+Refactoring JavaScript	0.0	1	
+確かな力が身につくJavaScript「超」入門	0.0	2	
+An Effective Guide to Modern JavaScript: (ECMAScript 2017 / ES8)	0.0	0	
+JavaScript+jQuery	0.0	0	
+HTML+CSS+JavaScript前端开发	0.0	1	
+JavaScript动态网页设计教学做一体化教程	0.0	0	
+Javascript Programming for the Absolute Beginner	0.0	0	
+JavaScript+JQuery程序设计(慕课版)	0.0	1	
+JavaScript and JQuery: Interactive Front-End Web Development	0.0	0	
+细说JavaScript语言	0.0	0	
+重构JavaScript	0.0	4	
+JavaScript物联网	0.0	0	
+how javascript works	0.0	0	
+Mastering Modular JavaScript	0.0	3	
+JavaScript and AJAX For Dummies	0.0	0	
+Eloquent Javascript, 3rd Edition	9.4	24	
+The Joy of JavaScript	0.0	0	
+零基础学JavaScript（全彩版）	0.0	0	
+Phaser III Game Prototyping: Building 100s of games using HTML and Phaser3 JavaScript Gaming Framework	0.0	1	
+Web Programming With HTML5, CSS, And Javascript	0.0	0	
+JavaScript: A Beginner's Guide, Fifth Edition	0.0	0	
+JavaScript for Sound Artists	0.0	0	
+精彩JavaScript程序设计	0.0	0	
+JavaScript网页特效实例解析	0.0	0	
+JavaScript 实例应用	0.0	0	
+HTML JavaScript与Java 三合一最新培训教程	0.0	0	
+Javascript Developer's Resource	0.0	0	
+Essentials for Design Javascript Comprehensive	0.0	0	
+Mastering Html and Javascript	0.0	0	
+Programming the Web Using XHTML and JavaScript	0.0	0	
+JavaScript for Dummies Quick Reference	0.0	0	
+Html & Javascript	0.0	0	
+Extending Acrobat Forms With Javascript	0.0	0	
+Adobe Bridge Official Javascript Reference	0.0	0	
+Advanced JavaScript	0.0	0	
+JavaScript应用基础	0.0	0	
+JavaScript + Css + DOM Magic (With CD-ROM)	0.0	0	
+JavaScript即用特效	0.0	0	
+如何設計JavaScript程式	0.0	0	
+精彩HTML與JavaScript網頁設計	0.0	0	
+Adobe GoLive CS2 Official JavaScript Reference	0.0	0	
+Teach Yourself JavaScript	0.0	0	
+Javascript Programmer's Reference	0.0	0	
+JavaScript: A Beginner''s Guide	0.0	0	
+HTML & JAVASCRIPT 網頁設計.	0.0	0	
+精彩JAVASCRIPT程式設計最新版.	0.0	0	
+精彩JAVASCRIPT程式設計	0.0	0	
+JavaScript程序开发手册/华工松联电脑丛书	0.0	0	
+JavaScript最新网页制作 (平装)	0.0	0	
+JAVASCRIPT程序设计入门学得快	0.0	0	
+JAVASCRIPT应用与开发指南	0.0	0	
+JavaScript / VBScript 网页编程实例解析	0.0	0	
+JavaScript 动态网页设计实务	0.0	0	
+JAVAScript 网页特效应用开发手册	0.0	0	
+程序设计JavaScript与JSP	0.0	0	
+新概念 JavaScript 教程	0.0	0	
+JavaScript 网页开发技术	0.0	0	
+JavaScript网页开发实例教程	0.0	0	
+HTML+JavaScript 30日完全掌握	0.0	0	
+JavaScript網頁製作徹底研究－第二版	0.0	0	
+HTML+JavaScript網頁程式設計第二版	0.0	0	
+Jumping JavaScript (Sunsoft Press Java Series)	0.0	0	
+HTML JAVASCRIPT與CSS網頁程式設計.	0.0	0	
+网页开发语言JavaScript实践教程	0.0	0	
+因特网与网页设计疑难问题解答—关于因特网、HTML、DHTML、CSS、CGI及JavaScript	0.0	0	
+JavaScript - Introductory, Second Edition (Web Warrior Series)	0.0	0	
+JavaScript程序设计	0.0	0	
+Sams Teach Yourself JavaScript in 21 Days (Sams Teach Yourself)	0.0	0	
+Das JavaScript Codebook	0.0	0	
+Even More Excellent Html With Xml, Xhtml, and Javascript	0.0	0	
+Instant Javascript	0.0	0	
+JavaScript in Easy Steps	0.0	0	
+JavaScript动态网页开发案例指导	0.0	0	
+Das Beste an JavaScript	0.0	0	
+Javascript Fundamentals I and II LiveLessons Bundle	0.0	0	
+Javascript Pocket Reference	0.0	0	
+Web Guru Guide to JavaScript	0.0	0	
+New Perspectives On Javascript	0.0	0	
+JavaScript for the World Wide Web, Fifth Student Edition	0.0	0	
+HTML and Javascript Basics	0.0	0	
+HTML, Javascript, and Advanced Internet Technologies	0.0	0	
+Designing with JavaScript	0.0	0	
+Perl, Cgi, and Javascript Complete	0.0	0	
+JavaScript for the Business Developer	0.0	0	
+JavaScript程序设计案例教程	0.0	0	
+JavaScript动态网页编程	0.0	0	
+Das eigene Web mit HTML, CSS und JavaScript.	0.0	0	
+Sams Teach Yourself JavaScript and Ajax	0.0	0	
+Javascript Fundamentals	0.0	0	
+JavaScript 2.1 Manual of Style	0.0	0	
+Javascript for the World Wide Web	0.0	0	
+New Perspectives on Javascript and Ajax	0.0	0	
+Review Pack for Barksdale/Turner's HTML and JavaScript Basics	0.0	0	
+JavaScript 1.5 by Example	0.0	0	
+JavaScript Goodies	0.0	0	
+Introduction to Computing Using Javascript And Html	0.0	0	
+Programmierung Eines Komfortablen Chronographen Mit HTML Und JavaScript	0.0	0	
+Programming in Java and JavaScript	0.0	0	
+Going Global with JavaScript and Globalize.Js	0.0	0	
+Building Windows 8 Apps with JavaScript	0.0	0	
+Understanding Java Including Java Virtual Machine, JavaScript, and the Java Development Kit	0.0	0	
+Beginning JavaScript	0.0	0	
+Instant JavaScript	0.0	0	
+21世纪高职高专规划教材-javascript程序设计	0.0	0	
+More Excellent HTML with an Introduction to JavaScript	0.0	0	
+Brewing JavaScript	0.0	0	
+Mastering the Internet, XHTML and Javascript	0.0	0	
+Mastering JavaScript	0.0	0	
+JavaScriptコーディング ベストプラクティス 高速かつ堅牢なコードを効率よく書くために	0.0	0	
+New Perspectives on Javascript and Ajax	0.0	0	
+HTML/CSS/JavaScript标准教程	0.0	0	
+JAVASCRIPT与HTML实用教程	0.0	0	
+JavaScript the Complete Reference	0.0	1	
+Internet Pro/JavaScript	0.0	0	
+Practical Javascript for the Usable Web	0.0	0	
+DOM Scripting 標準ガイドブック ~やさしく学ぶ、JavaScriptとDOMによるWebデザイン~	0.0	0	
+JavaScript语言与Ajax应用	0.0	0	
+GeoSpatial JavaScript and the Social Web	0.0	0	
+An Unauthorized Guide to JavaScript, Including Its Background, Specifications, Implementations and Usability	0.0	0	
+A Complete Guide to JavaScript	0.0	0	
+JavaScript Libraries, Including	0.0	0	
+The JavaScript Sourcebook	0.0	0	
+NARCISSUS JAVASCRIPT ENGINE	0.0	0	
+Entwicklung Eines LISP-Zu-JavaScript-Compilers	0.0	0	
+JavaScript Libraries	0.0	0	
+New Perspectives on JavaScript and AJAX Comprehensive International Edition	0.0	0	
+JavaScript 101	0.0	0	
+JavaScript for the World Wide Web Visual Quickstart Guide	0.0	0	
+Fluency with Info Tech& Aw JavaScript Ref Pk	0.0	0	
+Professional Xmpp Programming with JavaScript and Jquery	0.0	0	
+The Native Advantage with Titanium Developing IOS & Android Applications Using JavaScript	0.0	0	
+Brilliant Javascript	0.0	0	
+Web Wiz Guide HTML& Web Desgn& JavaScript Pkg	0.0	0	
+E Commerce Basc& Web Wiz GD to JavaScript Pk	0.0	0	
+Web Wizards HTML& JavaScript& XML& DHTML Pkg	0.0	0	
+Addison Wesley's Javascript Reference Card	0.0	0	
+Fluency with Info Tech Brf& JavaScript Study	0.0	0	
+Web Wizards Guide& XML& JavaScript& PHP Pkg	0.0	0	
+Domino 5 Web Programming with Java and JavaScript	0.0	0	
+Web Wiz Guides PHP XML DHTML& CSS& JavaScript	0.0	0	
+Stat?i S Primerami Koda JavaScript	0.0	0	
+IRCD HTML JAVASCRIPT BASICS	0.0	0	
+IRCD JAVASCRIPT WEB TECH SERIE	0.0	0	
+Sams Teach Yourself JavaScript 1.3 in 24 Hours	0.0	0	
+Javascript 2	0.0	0	
+JavaScript  Comprehensive	0.0	0	
+A Guide to JavaScript Comprehensive	0.0	0	
+HTML and JavaScript Basics	0.0	0	
+A Guide to JavaScript	0.0	0	
+Sams Teach Yourself Windows 8 Apps with JavaScript and HTML5 in 24 Hours	0.0	0	
+LSC CPS1 XHTML Javascript	0.0	0	
+Essentials Javascript	0.0	0	
+JavaScript Patterns	0.0	0	
+HTML Web Classrm&perl Exampl&javascript WW&	0.0	0	
+Web Wizrds GD JavaScript&Perl&desig&php Pkg	0.0	0	
+Dynamic Web Programming Using Java, JavaScript and Informix	0.0	0	
+Javascript World Wide Web and Java 2	0.0	0	
+JavaScript for the World Wide Web Visual Quickstart Guide AND HTML for the World Wide Web with XHTML and CSS	0.0	0	
+JavaScript for the World Wide Web Visual QuickStart Guide	0.0	0	
+JavaScript for the World Wide Web Visual QuickStart Guide	0.0	0	
+JavaScript Programming Language Family, Including	0.0	0	
+Essentials Javascript Compreh	0.0	0	
+Essentials for Design JavaScript Lv1& CC Pkg	0.0	0	
+Web Wiz Guide to JavaScript& XML& Xhtm Pkg	0.0	0	
+Essn for Design JavaScript Lev1& PHP WWW Pkg	0.0	0	
+Review Pack for Carey/Canovatchel's New Perspectives on JavaScript	0.0	0	
+Indesign Cs5 JavaScript	0.0	0	
+JAVASCRIPT FOR THE BUSINESS DEVELOPER	0.0	0	
+JavaScript for Macintosh	0.0	0	
+Mastering JavaScript Part 1	0.0	0	
+Javascript Projects	0.0	0	
+JavaScript and DHTML Cookbook	0.0	0	
+Beginning JavaScript	0.0	0	
+JavaScript Goodies	0.0	0	
+Making Use of JavaScript	0.0	0	
+JavaScript 1.5 by Example	0.0	0	
+JavaScript Programmer's Reference	0.0	0	
+Python: Tips and Tricks to Programming Code with Python (Python, Java, JavaScript, Code, Programming Language, Programming, Computer Programming) (Volume 2)	0.0	0	
+零点起飞学JavaScript+jQuery	0.0	0	
+网页设计技术--HTML5+CSS3+JavaScript(21世纪高等学校计算机应用技术规划教材)	0.0	0	
+Internet of Things Programming with JavaScript	0.0	0	
+Mobile Application Development: JavaScript Frameworks	0.0	0	
+JavaScript Recipes: A Problem-Solution Approach	0.0	0	
+JavaScript Absolute Beginner's Guide	0.0	1	
+jQuery 1.7 & jQuery UI. Une bibliothèque pour JavaScript.	0.0	0	
+JavaScript高级程序设计（套装共2册）	0.0	0	
+Jasmine JavaScript Testing	0.0	0	
+JavaScript Mobile Application Development	0.0	0	
+JavaScript Regular Expressions	0.0	0	
+Physics for JavaScript Games, Animation, and Simulations: with HTML5 Canvas	0.0	0	
+Sencha Touch 2 Mobile JavaScript Framework	0.0	0	
+Windows 8 Apps with HTML5 and JavaScript	0.0	0	
+The Javascript Adventure	0.0	0	
+JavaScript - For Interactive Web Development	0.0	0	
+Real World Windows 8 App Development with JavaScript	0.0	0	
+Building Mobile Apps with HTML, CSS, and JavaScript	0.0	0	
+Pro Javascript Best Practices	0.0	0	
+JavaScript快速查询手册	0.0	0	
+The Javascript CD Cookbook	0.0	0	
+New Perspectives on JavaScript and AJAX, Comprehensive (New Perspectives (Paperback Course Technology))	0.0	0	
+Danny Goodman's Javascript Handbook	0.0	0	
+Java 2 and JavaScript for C and C++ (Programmers, Revised Edition)	0.0	0	
+Java 1.2 and JavaScript for C and C++ Programmers	0.0	0	
+JavaScript, Third Edition	0.0	0	
+JavaScript Web开发技术	0.0	0	
+JavaScript Easy Web Design	0.0	0	
+Javascript in Easy Steps	0.0	0	
+HTML & JavaScript for Visual Learners	0.0	0	
+DHTML and JavaScript	0.0	0	
+JavaScript Unleashed (4th Edition)	0.0	0	
+Pure JavaScript	0.0	0	
+Javascript Training Course	0.0	0	
+Inside Javascript	0.0	0	
+Java & JavaScript 在数据库中的应用	0.0	0	
+Sams Teach Yourself JavaScript in 24 Hours (2nd Edition)	0.0	0	
+Sams Teach Yourself JavaScript and Ajax	0.0	0	
+Internet Programming with VBScript and JavaScript	0.0	0	
+Javascript Interview Questions, Answers, and Explanations	0.0	0	
+看实例学JavaScript	0.0	0	
+JavaScript Made Simple	0.0	0	
+The Html5 JavaScript Model	0.0	0	
+JavaScript in Easy Steps	0.0	0	
+Pro Object-Oriented JavaScript	0.0	0	
+JavaScriptクイックリファレンス	0.0	0	
+JavaScript程式設計與應用	0.0	0	
+JavaScript與jQuery網頁設計範例教本	0.0	0	
+Das JavaScript-Handbuch	0.0	0	
+JavaScript Interview Questions You'll Most Likely Be Asked	0.0	0	
+JavaScript Syntax	0.0	0	
+JAVASCRIPT V PRIMERAH	0.0	0	
+Android-Apps mit HTML, CSS und JavaScript	0.0	0	
+SAMOUCHITEL JAVASCRIPT	0.0	0	
+SOVREMENNYJ SAJT NA RNR I JAVASCRIPT	0.0	0	
+Fundamentos de JavaScript y Ajax - Para Desarrolladores y Dise Adores Web	0.0	0	
+JavaScript徹底攻略	0.0	0	
+The HTML5 JavaScript Model	0.0	0	
+Javascript CD Cookbook	0.0	0	
+Comparison of Server-Side JavaScript Solutions	0.0	0	
+Introduction to JavaScript Programming with XML and PHP	0.0	0	
+JavaScript Fur Dummies	0.0	0	
+Server-Side JavaScript	0.0	0	
+JavaScript: The New Toys	0.0	0	
+JavaScript并发编程(影印版)(英文版)	0.0	0	
+HTML5+CSS3+JavaScript从入门到精通（标准版）	0.0	4	
+Data Structures & Algorithms Using JavaScript	0.0	0	
+网页设计项目教程(HTML5+CSS3+JavaScript普通高等职业教育计算机系列规划教材)	0.0	0	
+IRK JAVASCRIPT COMPRHNSVE 2 E	0.0	0	
+JavaScript Syntax	0.0	0	
+Prototype JavaScript Framework	0.0	0	
+JavaScript网页编程从入门到精通(附光盘)/清华社视频大讲堂大系	0.0	0	
+HTML+CSS+JavaScript网页设计实用教程(计算机系列教材)	0.0	0	
+JavaScript网页游戏制作轻松学	0.0	1	
+Making Things Smart: Easy Embedded JavaScript Programming for Making Everyday Objects into Intelligent Machines	0.0	0	
+The Advanced Game Developer's Toolkit: Create Amazing Web-based Games with JavaScript and HTML5	0.0	0	
+Javascript Concepts: 1st Edition	0.0	0	
+Building Web Applications with Visual Studio 2017: Using .NET Core and Modern JavaScript Frameworks	0.0	0	
+Mastering Reactive JavaScript	0.0	0	
+HTML+CSS+JavaScript网页设计(十三五应用型人才培养规划教材)	0.0	0	
+プログラマのためのコードパズル ~JavaScriptで挑むコードゴルフとアルゴリズム	0.0	0	
+Introducing ArcGIS API 4 for JavaScript	0.0	0	
+JavaScript测试驱动开发	0.0	9	
+PHP, MySQL, & JavaScript All-in-One For Dummies	0.0	0	
+21天学通JavaScript（第5版）	0.0	0	
+JavaScript核心技术开发解密	0.0	7	
+Windows 8.1 Apps with HTML5 and JavaScript Unleashed	0.0	0	
+JavaScript: Novice to Ninja	0.0	1	
+JavaScript项目式实例教程	0.0	0	
+JavaScript by Example	0.0	0	
+Introducing JavaScript Game Development	0.0	0	
+Learning D3.js 4 Mapping - Second Edition: Build cutting-edge maps and visualizations with JavaScript	0.0	0	
+Mastering Immutable.js: Better JavaScript development using immutable data	0.0	0	
+2: Web Applications with Javascript or Java (De Gruyter Textbook)	0.0	0	
+Learning React Native: Building Native Mobile Apps with JavaScript	0.0	1	
+网页设计与制作案例教程(HTML5+CSS3+JavaScript高职高专计算机任务驱动模式教材)	0.0	0	
+HTML5 Web开发最佳实践  使用CSS JavaScript和多媒体	0.0	0	
+Adobe JavaScriptリファレンス (NextPublishing)	0.0	0	
+JavaScript函数式编程思想	0.0	6	
+HTML+CSS+JavaScript网页制作案例教程	0.0	0	
+JavaScript物联网架构与数据处理	0.0	1	
+软件开发新课堂：JavaScript基础与案例开发详解（附DVD光盘1张）	0.0	0	
+Beginning Functional JavaScript	0.0	0	
+javascript网页特效制作	0.0	0	
+PHP、MySQL和JavaScript入门经典(第6版)	0.0	0	
+HTML+JavaScript动态网页制作	0.0	0	
+JavaScript与jQuery实战教程/国家骨干高职院校建设成果·计算机项目化系列教材	0.0	0	
+网页设计与开发：HTML、CSS、JavaScript实例教程·第3版/21世纪高等学校计算机专业核心课程规划教材	0.0	0	
+网页设计与制作教程（HTML+CSS+JavaScript）第2版	0.0	0	
+JavaScript+jQuery动态网页设计案例课堂（第2版）/网站开发案例课堂	0.0	0	
+HTML+CSS+Javascript网站制作案例教程	0.0	0	
+JavaScript从入门到精通（第2版）（配光盘）（软件开发视频大讲堂）	0.0	0	
+HTML+CSS+JavaScript网页制作 第2版	0.0	0	
+HTML+CSS+JAVASCRIPT网页制作三合一案例教程	0.0	0	
+网页设计与制作——HTML+CSS+JavaScript(工业和信息化普通高等教育“十二五”规划	0.0	0	
+Web前端开发与应用教程（HTML5+CSS3+JavaScript）	0.0	0	
+Web编程基础：CSS、JavaScript、jQuery	0.0	0	
+Web客户端开发JavaScript & jQuery教学做一体化教程/高职高专计算机应用技能培养系列规划教材	0.0	0	
+HTML+CSS+JavaScript网页设计实用教程	0.0	0	
+Simplifying JavaScript	0.0	1	
+JavaScript与jQuery网页前端开发与设计/Web前端开发技术丛书	0.0	0	
+JavaScript从入门到项目实践(超值微视频版)/软件开发魔典	0.0	0	
+JavaScript函数式编程指南	7.9	16	
+网页设计与制作案例教程（HTML+CSS+DIV+JavaScript）	0.0	0	
+HTML5+CSS3+JavaScript网页设计项目教程	0.0	0	
+HTML CSS JavaScript从入门到精通（全新精华版 附DVD光盘）	0.0	0	
+JavaScript实战教程	0.0	0	
+实用现代JAVASCRIPT(影印版)	0.0	0	
+静态网页制作技术教程（HTML/CSS/JavaScript）	0.0	0	
+Web编程基础——HTML5、CSS3、JavaScript（第2版）（21世纪高等学校规划教材	0.0	0	
+HTML、CSS和JavaScript入门经典（第2版）	0.0	0	
+Web前端技术丛书：15天学会JavaScript（视频教学版）	0.0	0	
+网页设计与开发：HTML、CSS、JavaScript实验教程	0.0	0	
+Web前端开发实例教程——HTML、CSS、JavaScript	0.0	0	
+网页设计与制作（HTML5+CSS3+JavaScript）	0.0	0	
+JavaScript+jQuery开发实战	0.0	0	
+JavaScript与jQuery案例教程	0.0	0	
+JavaScript程式設計與應用（修訂第2版）	0.0	0	
+网页程序设计HTML5、JavaScript、CSS、XHTML、Ajax（第4版）	0.0	0	
+JavaScript前端开发模块化教程	0.0	0	
+JavaScript程序设计实例教程/全国高等职业教育规划教材	0.0	0	
+Web前端开发从学到用完美实践——HTML5+CSS3+JavaScript+jQuery+AJ	0.0	0	
+HTML5+CSS3+JavaScript从入门到精通（微课精编版）（视频大讲堂系列）	0.0	0	
+JavaScript语言与Ajax应用（第二版）	0.0	0	
+JavaScript程序设计案例教程（第2版）	0.0	0	
+Web前端技术丛书：HTML5+ CSS3+JavaScript 网页设计实战（视频教学版）	0.0	0	
+Web前端开发任务教程（HTML+CSS+JavaScript+jQuery）	0.0	0	
+HTML and JavaScript BASICS	0.0	0	
+网站开发案例课堂：HTML5+CSS3+JavaScript网页设计案例课堂（第2版）	0.0	0	
+Web前端学习笔记：HTML5+CSS3+JavaScript	0.0	0	
+网页设计与制作（HTML+CSS+JavaScript 第2版）	0.0	0	
+HTML+CSS+JavaScript网页设计从入门到精通（1DVD）	0.0	1	
+HTML5/CSS3/JavaScript技术大全	0.0	0	
+Windows Apps程式設計全攻略：使用Javascript	0.0	0	
+Web前端开发精品课 JavaScript基础教程	0.0	1	
+HTML+CSS+JavaScript网页设计简明教程（附光盘）	0.0	0	
+网页设计与制作（HTML+CSS+JavaScript）	0.0	0	
+JavaScript+  jQuery  Web交互程序设计	0.0	0	
+网页设计与制作教程（HTML5+CSS3+JavaScript+jQuery）（第2版）	0.0	0	
+HTML5+CSS+JavaScript网页布局从入门到精通	0.0	0	
+HTML+CSS+JavaScript 网页设计实战（配光盘）（实战从入门到精通(视频教学版)）	0.0	0	
+网页设计与开发——HTML、CSS、JavaScript	0.0	0	
+Web前端开发案例教程：HTML+CSS+JavaScript	0.0	0	
+JavaScript和jQuery实战手册（原书第3版）	0.0	0	
+JavaScript动态网站开发案例课堂/网站开发案例课堂（附光盘）	0.0	0	
+HTML+CSS+JavaScript网页制作从新手到高手	0.0	0	
+网页设计与制作项目教程（HTML+CSS+JavaScript）	0.0	0	
+Web前端开发技术实验与实践——HTML5、CSS3、JavaScript（第3版）	0.0	1	
+基于任务驱动模式的JavaScript程序设计案例教程	0.0	0	
+移动开发经典丛书·Android Web Game App高级编程 使用HTML5、 CSS3、JavaScript	0.0	0	
+JavaScript程序设计基础与实验指导	0.0	0	
+Web前端开发技术实验与实践：HTML、CSS、JavaScript（第2版）	0.0	0	
+网页设计与制作案例教程（Dreamweaver CS5+Div+CSS+JavaScript）/21世纪高等教育计算机规划教材	0.0	0	
+HTML+CSS+JavaScript网页设计与布局实用教程 (第2版)（高等院校计算机教育系列	0.0	0	
+JavaScript程序设计教程	0.0	0	
+Web客户端开发 HTML5+CSS+JavaScript实例教程/全国高等院校应用型创新规划教材	0.0	0	
+HTML5+CSS3+JavaScript 网页设计案例开发/21世纪高等学校计算机基础实用规划教材	0.0	0	
+网页设计（HTML5+CSS3+JavaScript）	0.0	0	
+网站前端开发技术：CSS+JavaScript+jQuery/新世纪高职高专网络专业系列规划教材	0.0	0	
+网站前端技术案例教程（HTML+CSS+JavaScript）/普通高等教育“十三五”规划教材	0.0	0	
+Web开发典藏大系：JavaScript网页特效实例大全	0.0	0	
+Web前端开发技术——HTML5、CSS3、JavaScript（第3版）（高等学校软件工程专业	0.0	0	
+Web前端开发技术：HTML、CSS、JavaScript（第2版）	0.0	0	
+HTML+CSS+JavaScript网站开发实用技术	0.0	0	
+Javascript特效实战	0.0	0	
+JavaScript設計與開發：透視新技術關鍵＋完全實力養成	0.0	0	
+HTML5+CSS3+JavaScript网页设计经典课堂（高等院校课程设计案例精编）	0.0	0	
+网页设计与制作实例教程（HTML+CSS+JavaScript）	0.0	0	
+JavaScript+jQuery程序开发实用教程/大学软件学院软件开发系列教材	0.0	0	
+HTML+CSS+JavaScript网页制作简明教程（高等学校应用型特色规划教材）	0.0	0	
+Web前端开发实例教程——HTML 5+JavaScript+jQuery（高职高专计算机任务驱	0.0	0	
+JavaScript前端开发程序设计教程（微课版）	0.0	0	
+【预订】I'm a JavaScript Games Maker: The Basics	0.0	0	
+HTML5+CSS3+JavaScript+jQuery程序设计基础教程（第2版）	0.0	1	
+WebGIS技术实验教程——基于ArcGIS API for JavaScript	0.0	0	
+HTML  CSS   JavaScript网页制作全能一本通	0.0	0	
+JavaScript+jQuery前端开发基础教程（微课版）	0.0	0	
+JavaScript与jQuery程序设计/21世纪计算机科学与技术实践型教程	0.0	0	
+JavaScript+jQuery Mobile+Node.js跨平台网页设计	0.0	0	
+Web前端开发实例教程――HTML5+CSS3+JavaScript	0.0	0	
+Html+JavaScript网页制作与开发完全学习手册（配光盘）（完全学习手册）	0.0	0	
+HTML5，CSS3，JavaScript开发手册	0.0	0	
+JavaScript前端开发实用技术教程	0.0	0	
+移动Web前端应用开发（HTML5+CSS3+JavaScript）	0.0	0	
+JavaScript技术应用（软件工程师培养丛书）	0.0	0	
+JavaScript网页特效案例教程	0.0	0	
+Web前端设计与开发-HTML+CSS+JavaScript+HTML 5+jQuery	0.0	0	
+HTML+CSS+JavaScript Web前端开发技术	0.0	0	
+DreamweaverCS6+HTML+CSS+DIV+JavaScript网站开发案例教程	0.0	0	
+网页设计与制作教程（HTML+CSS+JavaScript）	0.0	0	
+JavaScript网页设计与网站特效课堂实录	0.0	0	
+精通HTML5+CSS3+JavaScript网页设计（视频教学版）（第2版）	0.0	0	
+网页设计与制作——HTML5+CSS+JavaScript（第2版）（21世纪高等学校计算机系列规划教?35	0.0	0	
+JavaScript网页特效范例宝典	0.0	0	
+JavaScript程序设计(第2版)	0.0	0	
+HTML+CSS+JavaScript网页制作/全国高等职业教育规划教材·“十二五”职业教育国家规划教材	0.0	0	
+JavaScript程序设计基础教程	0.0	0	
+New Perspectives on HTML5, CSS3, and JavaScript	0.0	0	
+JavaScript : Moving to ES2015	0.0	0	
+New Programmers Start Here: An Introduction to Computer Programming Using JavaScript	0.0	0	
+【预订】I'm a JavaScript Games Maker: Advanced Coding	0.0	0	
+JavaScript前端开发案例教程	0.0	0	
+JavaScript与jQuery程序设计	0.0	0	
+JavaScript 程序设计教程/大学计算机基础与应用系列立体化教材	0.0	0	
+移动Web应用开发教程——HTML5+JavaScript框架全栈App开发	0.0	0	
+JavaScript程序设计基础与范例教程	0.0	0	
+Programming Java: Javascript, Coding: Programming Guide: Learn in a Day!	0.0	0	
+Javascript for Techies	0.0	0	
+Best of Javascript 2016: Google - Colorized Keyword Cross-reference Listing	0.0	0	
+I'm a JavaScript Games Maker: Advanced Coding	0.0	0	
+Reactjs: Web App Development: Learn One of the Most Popular Javascript Libraries	0.0	0	
+Web Applications with Javascript or Java: Volume 1: Constraint Validation, Enumerations, Special Datatypes	0.0	0	
+A Practical Guide to Developing Web 2.0 Rich Internet Applications: with HTML, CSS, JavaScript, AJAX, and PHP	0.0	0	
+网页设计与制作（HTML5+CSS3+JavaScript）	0.0	0	
+HTML、CSS和JavaScript实训教程	0.0	0	
+Web前端设计与开发：HTML5+CSS3+JavaScript-微课版	0.0	0	
+JavaScript动态网页开发案例教程	0.0	0	
+Web开发技术 HTML、CSS、JavaScript	0.0	0	
+JAVASCRIPT工作任务式教程(高职高专工学结合特色教材)	0.0	0	
+网页设计实战教程（HTML+CSS+JavaScript）/高职高专新课程体系规划教材·计算机系列	0.0	0	
+网页设计技术实用教程——从基础到前沿（HTML5+CSS3+JavaScript）	0.0	0	
+Secure Development for Mobile Apps: How to Design and Code Secure Mobile Applications with PHP and JavaScript	0.0	0	
+Start Programming Using HTML, CSS, and JavaScript	0.0	0	
+ノンプログラマのためのJavaScriptはじめの-歩	0.0	0	
+實戰Cordova/PhoneGap的123個問題:用HTML5+CSS3+JavaScript做出跨平台手機App	0.0	0	
+JavaScript for .NET Developers	0.0	0	
+Javascript for Students	0.0	0	
+Data Wrangling with JavaScript	0.0	0	
+Web前端设计基础 HTML5、CSS3、JavaScript	0.0	0	
+动态网页设计与制作（HTML5+CSS3+JavaScript）（第3版）	0.0	0	
+JavaScript Web开发技术（第2版）/高等学校计算机课程规划教材	0.0	0	
+Guía de HTML5, CSS3 y JavaScript. La Web 2.0	0.0	0	
+從HTML5/CSS3/JavaScript 到 jQuery/PhoneGap Android 程式設計(附光碟)	0.0	0	
+Javascript for Beginners	0.0	0	
+Javascript in a Day	0.0	0	
+JavaScript & jQuery:The Missing Manual國際中文版(第三版)	0.0	0	
+Front-End Reactive Architectures: Explore the Future of the Front-End using Reactive JavaScript Frameworks and Libraries	0.0	1	
+Javascript 100 Tests, Answers & Explanations: A Beginners's Guide	0.0	0	
+Javascript: Ultimate Beginners Guide	0.0	0	
+Learn Full-stack Javascript Development	0.0	0	
+JavaScript Professional Programming Made Easy	0.0	0	
+Node.js: Javascript Based Framework. Easy Guide Book	0.0	0	
+JavaScript大全(第六版)	0.0	0	
+建構Android應用程式:使用HTML、CSS 和JavaScript(第二版)	0.0	0	
+Enhancing Adobe Acrobat DC Forms with JavaScript	0.0	0	
+Inside JavaScript	0.0	0	
+Learn Advanced JavaScript Programming	0.0	0	
+MetodologÍa de la programación aplicada a JAVASCRIPT	0.0	0	
+Javascript Winner	0.0	0	
+La Guía Básica de JavaScript	0.0	0	
+JavaScript辞典 第3版	0.0	0	
+Web Coding Bible (18 Books in 1 -- Html, Css, Javascript, Php, Sql, XML, Svg, Canvas, Webgl, Java Applet, Actionscript, Htaccess, Jquery, Wordpress, Seo and Many More): An Accelerated Course	0.0	0	
+Unraveling Html5, Css3, and Javascript: The Ultimate Beginners Guide With over 170 Samples	0.0	0	
+Javascript for Starters	0.0	0	
+JavaScript 應用程式開發實務	0.0	0	
+Web Programming With Html, Css, Bootstrap, Javascript, Jquery, Php, and Mysql	0.0	0	
+Python Programming Professional Made Easy & JavaScript Professional Programming Made Easy	0.0	0	
+這樣學JavaScript又快又省力	0.0	0	
+Angularjs, Javascript, and Jquery All in One	0.0	0	
+JavaScript In No Time	0.0	0	
+Mission Javascript	0.0	0	
+仕事がはかどるJavaScript活用術 Word/Excelで自動処理して効率アップ	0.0	0	
+Learn Meteor - Node.Js and MongoDB JavaScript Platform	0.0	0	
+Javascript in Your Pocket	0.0	0	
+Einführung in Javascript	0.0	0	
+Windows 10 Development Recipes: A Problem-Solution Approach in HTML and JavaScript	0.0	0	
+HTML5+JavaScriptで作る魅せるFacebookページ	0.0	0	
+Best of Javascript 2016: Dressed-up and Colorized	0.0	0	
+HTML, CSS and JavaScript All in One, Sams Teach Yourself: Covering HTML5, CSS3, and jQuery (2nd Edition)	0.0	0	
+Getting Started with Meteor.js JavaScript Framework -	0.0	0	
+建構Android應用程式：使用HTML, CSS和JavaScript	0.0	0	
+Apache Solr入門 オープンソース全文検索エンジン RESTライク(HTTP/XML)なアプリケーション構築を実現 Java，PHP，Ruby，Python，Perl，JavaScript，VTL対応	0.0	0	
+Javascript for You!	0.0	0	
+網頁設計必學的程式實作技術：HTML5+CSS3+JavaScript	0.0	0	
+I'm a JavaScript Games Maker: The Basics	0.0	0	
+Master in JavaScript	0.0	0	
+Animation in Html, Css, and Javascript	0.0	0	
+JavaScript程序设计	0.0	0	
+Javascript for Web Designers	0.0	0	
+采用R和JavaScript的数据可视化	0.0	0	
+HTML5炼成记——Web前端开发（HTML5+CSS3+JavaScript）12堂必修课	0.0	0	
+HTML5+CSS3+JavaScript前端开发基础	0.0	0	
+HTML+CSS+JavaScript网页设计与布局 从新手到高手	0.0	0	
+Web前端设计从入门到实战——HTML5、CSS3、JavaScript项目案例开发（第2版）	0.0	0	
+HTML5+CSS3+JavaScript项目开发	0.0	0	
+JavaScript中的数据结构与算法（影印版）	0.0	0	
+Nginx完全开发指南：使用C、C++、JavaScript和Lua	0.0	1	
+実践プログラミングWebGL HTML & JavaScriptによる3Dグラフィックス開発	0.0	0	
+微軟MVP的HTML5､CSS､JavaScript網頁程式設計與MCSD 70-480認證教材	0.0	0	
+JavaScript+Vue+React全程实例（Web前端技术丛书）	0.0	0	
+HTML+CSS+JavaScript网页设计	0.0	1	
+HTML5+CSS3+JavaScript网页设计入门与应用	0.0	0	
+JavaScript编程思想:从ES5到ES9	0.0	3	
+JavaScript网页编程从入门到精通（微课精编版）	0.0	0	
+Modern JavaScript Web Development Cookbook	0.0	0	
+深入理解JavaScript特性	0.0	7	
+HTML5+CSS3+JavaScript网页设计教程/“十三五”高等职业教育规划教材	0.0	0	
+JavaScript+jQuery网页特效设计任务驱动教程	0.0	0	
+HTML5+CSS+JavaScript网页设计与制作（高等院校“十三五”应用技能培养规划教材·	0.0	0	
+HTML5+CSS3+JavaScript从入门到精通	0.0	0	
+HTML5+CSS3+JavaScript网页设计实用教程/高职高专工作过程·立体化创新规划教材	0.0	0	
+了不起的JavaScript工程师：从前端到全端高级进阶	9.3	10	
+JavaScript与JSON从入门到精通（第2版）	0.0	0	
+JavaScript Everywhere	0.0	0	
+JavaScript从入门到精通	0.0	0	
+JavaScript动态网页设计	0.0	0	
+Get Coding!: Learn HTML, CSS & JavaScript & Build a Website, App & Game	0.0	0	
+HTML CSS JavaScript 网页制作从入门到精通 第3版	0.0	0	
+HTML5+CSS3+JavaScript 从入门到项目实践(超值版)	0.0	2	
+区块链开发实战：基于JavaScript的公链与DApp开发	0.0	0	
+你不知道的JavaScript 上卷+中卷+下卷（套装共3册,京东）	0.0	0	
+JavaScript程序设计基础教程	0.0	0	
+HTML5+CSS3+JavaScript从入门到精通（实例版） web前端开发网页设计丛书	0.0	0	
+JavaScript与jQuery实战教程（第2版）（国家骨干高职院校建设成果  计算机项目化系	0.0	0	
+JavaScript物联网硬件编程	0.0	0	
+JavaScript机器人：用Raspberry Pi、Arduino和BeagleBone构建	0.0	0	
+Web前端开发任务驱动式教程（HTML5+CSS3+JavaScript）	0.0	0	
+网页设计与Web前端开发案例教程——HTML5、CSS3、JavaScript微课版	0.0	0	
+HTML 5+CSS 3+JavaScript网页设计与制作全程揭秘（网页设计与开发殿堂之路）	0.0	0	
+Web前端开发技术(HTML+CSS+JavaScript)（慕课版）	0.0	0	
+JavaScript实战	0.0	0	
+HTML+CSS+JavaScript编程从入门到精通 html5+css3基础自学教程web前	0.0	0	
+java从入门到精通 java语言程序设计框架开发软件编程教程书籍 javascript电脑计算	0.0	0	
+PYTHON PROGRAMMING: Practical Programming For Beginners. Learn It Quickly, Never Forget It. Also contains Smalltalk, Java, TCL, JavaScript, Perl, ...	0.0	0	
+JavaScript前端开发入门（21世纪高等学校计算机专业实用规划教材）	0.0	0	
+自己动手做智能产品：嵌入式JavaScript实现	0.0	0	
+JavaScript数据整理（大数据应用与技术丛书）	0.0	0	
+Sams Teach Yourself JavaScript in 24 Hours (7th Edition)	0.0	0	
+JavaScript动态网站开发案例课堂(微课版)（网站开发案例课堂）	0.0	0	
+JavaScript从入门到精通（第3版）（软件开发视频大讲堂）	0.0	0	
+JavaScript从入门到精通（微视频精编版）（软件开发微视频讲堂）	0.0	0	
+从0到1 HTML+CSS+JavaScript快速上手 微视频版	0.0	0	
+HTML5+CSS3+JavaScript从入门到精通	0.0	0	
+JavaScript程序设计基础与范例教程（第2版）	0.0	0	
+HTML5+CSS3+JavaScript案例实战(Web前端技术丛书)	0.0	0	
+深入浅出Ajax	8.4	65	
+Learning TypeScript中文版	6.8	34	
+HTML5秘籍（第2版）	8.7	12	
+ECMAScript6入门	8.2	186	
+ES6标准入门（第3版）	8.7	123	
+Node.js：来一打 C++ 扩展	9.1	21	
+HTML5高级程序设计	7.7	368	
+Java Script基础与案例开发详解	0.0	8	
+编写高质量代码	7.6	480	
+Ajax实战	8.0	393	
+用AngularJS开发下一代Web应用	7.1	253	
+Ajax基础教程	7.1	389	
+Java Script程序员参考手册	0.0	4	
+jQuery实战	7.9	296	
+Node.js硬实战：115个核心技巧	7.3	31	
+Java Script深度剖析	0.0	1	
+jQuery基础教程（第3版）	8.4	105	
+Java Script 开发使用手册	0.0	1	
+数据可视化实战	7.5	134	
+Node.js in Action	7.9	69	
+Node Web开发	6.8	99	
+精通AngularJS	8.6	60	
+jQuery基础教程	8.2	148	
+Java script&Dynamic html语法辞典	0.0	0	
+Interactive Data Visualization for the Web	8.6	98	
+jQuery 技术内幕	8.7	52	
+HTML5和CSS3实例教程	7.1	75	
+AngularJS	7.4	89	
+Even Faster Web Sites	8.5	56	
+深入浅出Ajax（中文版）	8.9	72	
+Dynamic HTML权威指南	8.0	39	
+ES6 标准入门（第2版）	8.3	212	
+跨终端Web	7.5	98	
+The Little Book on CoffeeScript	7.4	98	
+Ajax修炼之道	7.4	57	
+jQuery Cookbook	8.4	51	
+jQuery基础教程 （第4版）	8.5	106	
+深入浅出Ext JS	6.7	38	
+HTML5 Canvas基础教程	8.2	57	
+jQuery in Action	8.0	100	
+Web性能实践日志	8.4	41	
+jQuery权威指南	6.8	96	
+HTML5移动Web开发指南	5.4	62	
+Node.js入门经典	6.6	49	
+Node.js 实战	6.8	83	
+Bootstrap用户手册	5.7	65	
+Head First Ajax（中文版）	8.8	78	
+深入理解Bootstrap	7.2	72	
+Ajax in Action	7.7	35	
+Ajax设计模式	8.4	38	
+You Don't Know JS	9.2	97	
+jQuery	8.7	45	
+Head First jQuery	7.9	41	
+jQuery实战（第2版）	7.7	52	
+AngularJS深度剖析与最佳实践	9.2	44	
+Flex 3权威指南	8.1	82	
+The Node Beginner Book	8.7	94	
+jQuery攻略	6.8	44	
+Ajax模式与最佳实践	7.1	33	
+深入浅出Ext JS	6.9	33	
+Developing Backbone.js Applications	7.6	51	
+HTML5触摸界面设计与开发	7.0	29	
+Ajax与PHP基础教程	6.9	40	
+犀利开发	7.3	38	
+Chrome扩展及应用开发	8.1	44	
+征服Ajax Web2.0开发技术详解	7.8	46	
+Pro CSS and HTML Design Patterns	8.6	20	
+精通Dojo	7.6	30	
+Ajax与PHP Web开发	6.8	44	
+React Native入门与实战	6.6	41	
+React 进阶之路	6.9	58	
+超实用的jQuery代码段	6.9	18	
+HTML5 Canvas	7.9	23	
+Rails之道	7.9	21	
+You Don't Know JS	9.0	62	
+揭秘Angular 2	8.9	27	
+Ajax Hacks	7.5	25	
+AdvancED DOM Scripting	7.7	22	
+Bootstrap	6.0	41	
+Ext JS高级程序设计	7.2	18	
+深入HTML5应用开发	6.7	19	
+What Is Node	6.5	19	
+Ajax实战实例详解	7.9	27	
+Node Web Development	7.2	41	
+Getting Started with D3	6.2	26	
+前端函数式攻城指南	6.6	36	
+Web Standards Creativity	7.7	30	
+Regular Expressions Cookbook	8.4	20	
+D3.js数据可视化实战手册	7.0	28	
+Head Rush Ajax (Head First)	8.7	28	
+Bulletproof Ajax中文版	7.9	40	
+WebGL入门指南	6.2	22	
+ExtJS Web应用程序开发指南	6.3	20	
+CoffeeScript程序设计	7.7	35	
+Head First Ajax	8.5	34	
+深入浅出PhoneGap	7.2	25	
+精彩绝伦的jQuery	7.9	29	
+You Don't Know JS	8.0	69	
+DOM Enlightenment	7.1	13	
+高性能网站建设进阶指南（第二版）	7.4	13	
+WebGL	7.5	20	
+HTML5游戏开发实战	7.7	15	
+Backbone.js应用程序开发	8.7	14	
+Ajax高级程序设计	7.4	19	
+JSON必知必会	7.0	82	
+Closure	7.7	16	
+DOM启蒙	8.3	40	
+Greasemonkey Hacks	7.3	12	
+Bootstrap实战	6.0	24	
+Learning Web Design	8.6	20	
+HTML5数据推送应用开发	7.2	16	
+Mastering Web Application Development with AngularJS	7.5	15	
+前端架构设计	6.1	51	
+jQuery Mobile即学即用	7.1	17	
+You Don't Know JS	8.0	19	
+Ajax权威指南	0.0	8	
+Ext JS源码分析与开发实例宝典	6.6	13	
+Creating Applications with Mozilla	0.0	5	
+Ajax开发精要	7.1	12	
+ExtJS Web应用程序开发指南	7.0	20	
+Node学习指南	8.8	20	
+Prototype与script.aculo.us终极揭秘	7.2	13	
+ng-book	7.3	17	
+Dojo权威指南	8.0	18	
+HTML5经典实例	7.8	16	
+React Native开发指南	6.8	33	
+全栈性能测试修炼宝典 JMeter实战	7.8	39	
+Building Node Applications with MongoDB and Backbone	0.0	9	
+jQuery Mobile快速入门	6.7	19	
+SPA设计与架构：理解单页面Web应用	7.1	17	
+jQuery in Action, Second Edition	7.3	17	
+Learning jQuery  - Fourth Edition	0.0	6	
+微信公众平台JSSDK开发实战---公众号与HTML 5混合模式揭秘	6.8	13	
+Node.js权威指南	6.3	25	
+Pro AngularJS	8.6	27	
+Bulletproof Ajax	8.1	15	
+AJAX安全技术	7.6	18	
+HTML5游戏编程核心技术与实战	0.0	6	
+AngularJS: Up and Running, 2nd Edition	8.0	15	
+Programming Firefox	6.8	10	
+Node for Front-End Developers	7.1	21	
+You Don't Know JS	8.3	32	
+变幻之美	7.5	18	
+You Don't Know JS	8.4	31	
+Node.js 设计模式（第 2 版）	8.7	25	
+JQUERY从菜鸟到忍者（第二版）	7.8	12	
+Three.js入门指南	7.5	38	
+Foundations of Ajax	6.9	12	
+Unity 3.x游戏开发经典教程	8.0	17	
+Fiddler调试权威指南	6.3	15	
+HTML 5应用开发实践指南	6.1	16	
+WebGL高级编程	7.8	17	
+jQuery Cookbook中文版	7.0	19	
+HTML5 Canvas游戏开发实战	0.0	9	
+Node.js+MongoDB+AngularJS Web开发	5.8	15	
+使用HTML5和Node构建超媒体API	7.3	12	
+HTML5游戏开发进阶指南	8.7	14	
+jQuery开发技术详解	7.5	20	
+Vue.js前端开发	6.2	40	
+Sencha Touch权威指南	7.4	18	
+Ext JS权威指南	5.6	12	
+精通D3.js：交互式数据可视化高级编程	6.7	20	
+Node.js实战（第2季）	5.6	15	
+AngularJS高级程序设计	6.7	23	
+D3.js in Action	7.5	10	
+Cocos2d-JS开发之旅——从HTML 5到原生手机游戏	0.0	6	
+参考大全HTML	0.0	7	
+征服Ajax	7.4	14	
+Node.js项目实践	6.2	10	
+Ajax实战	0.0	9	
+Web开发人员参考大全	7.2	14	
+Ajax Design Patterns	0.0	9	
+HTML 5实战	6.7	16	
+基于J2EE的Ajax宝典	7.4	20	
+Building the Realtime User Experience	0.0	6	
+Dojo构建Ajax应用程序	0.0	8	
+PHP与jQuery开发实例	7.0	16	
+自己动手设计物联网	6.7	17	
+Getting MEAN with Mongo, Express, Angular, and Node	8.1	17	
+Professional Ajax	0.0	9	
+Learning Ext JS	8.0	21	
+jQuery UI开发指南	0.0	9	
+Angular权威教程	8.3	36	
+AJAX企业级开发	8.2	17	
+客户端存储技术	5.8	15	
+Dart语言程序设计	5.0	16	
+深入Ajax	0.0	3	
+Learning Node	7.8	16	
+Learning jQuery, Third Edition	7.7	16	
+MEAN Web Development	8.5	14	
+Building Hypermedia APIs with HTML5 and Node	0.0	3	
+Ajax Patterns and Best Practices (Expert's Voice)	0.0	6	
+Prototype and Scriptaculous in Action	0.0	8	
+巧用JQuery	6.3	18	
+Beginning Ajax with PHP	0.0	4	
+DWR实战	7.7	12	
+Adaptive Web Design	0.0	5	
+Ext江湖	0.0	9	
+jQuery UI	0.0	7	
+迈向Angular 2	7.0	15	
+MEAN Web开发	6.5	13	
+jQuery高级编程	7.5	10	
+HTML5实验室	0.0	7	
+React.js Essentials	7.2	13	
+Ext JS in Action	7.6	18	
+Node.js开发实战详解	7.4	12	
+SVG开发实践	0.0	6	
+Node.js Design Patterns	0.0	5	
+HTML5 Games Development by Example	0.0	7	
+React 精髓	6.2	22	
+ASP.NET AJAX实战	7.2	14	
+Learning jQuery 1.3	7.9	12	
+jQuery UI 1.7	7.2	10	
+The Definitive Guide to HTML5	0.0	7	
+AngularJS实战	6.5	15	
+精通jQuery（第2版）	7.6	10	
+Core HTML5 Canvas	7.7	13	
+Vue2实践揭秘	6.8	31	
+Express in Action	6.5	15	
+Introducing HTML5 Game Development	0.0	6	
+JQuery风暴	6.7	12	
+Interactive Data Visualization for the Web	9.0	10	
+Backbone.js实战	5.7	13	
+Ajax and REST Recipes中文版	0.0	7	
+YUI 3 Cookbook	0.0	7	
+Web Component实战：探索PolymerJS、Mozilla Brick、Bosonic与ReactJS框架	0.0	6	
+jQuery用户界面库学习指南	0.0	5	
+jQuery	0.0	4	
+jQuery Mobile	0.0	8	
+jQuery权威指南(第2版)	0.0	8	
+Reactive Programming with RxJS	8.3	11	
+HTML5与WebGL编程	0.0	2	
+Backbone.js开发秘笈	7.0	11	
+Dojo	7.8	12	
+Ajax设计模式	0.0	7	
+Head Rush Ajax	0.0	8	
+Web程序设计	7.2	16	
+Node.js, MongoDB, and AngularJS Web Development	0.0	7	
+Node.js in Practice	0.0	6	
+jQuery全面提速	0.0	5	
+YUI 3 Cookbook 中文版	7.4	10	
+AngularJS Directives	0.0	4	
+反应式Web应用开发	0.0	4	
+Google成功背后的技术	0.0	7	
+Learning Vue.js 2	8.5	16	
+Node.js微服务	4.9	19	
+React	0.0	9	
+Ajax	0.0	6	
+Google御用網頁語言Node.js	0.0	3	
+Web Audio API	0.0	7	
+Professional Ajax, 2nd Edition	0.0	1	
+Ecmascript Language Specification	0.0	1	
+Pragmatic Ajax	7.3	10	
+征服Ajax Web2.0快速入门与项目实践	0.0	8	
+HTML5 Games	0.0	3	
+智能手机跨平台开发高级教程	0.0	7	
+Web Development Recipes	0.0	2	
+Canvas Pocket Reference	0.0	4	
+AngularJS in Action	0.0	9	
+AJAX HACKS	0.0	6	
+深入浅出jQuery	0.0	4	
+Learning from jQuery	6.9	10	
+CORS in Action	0.0	4	
+jQuery Mobile First Look	0.0	5	
+Ajax与.NET 2.0高级程序设计	0.0	5	
+Facebook API Developers Guide (Firstpress)	0.0	5	
+Node.js Design Patterns - Second Edition	9.7	13	
+AngularJS即学即用	8.0	10	
+精通Web标准网页布局	0.0	6	
+Ajax Security	0.0	5	
+jQuery实战开发	0.0	8	
+Using the HTML5 Filesystem API	0.0	7	
+Practical Node.js	0.0	4	
+Game Development with Three.js	0.0	3	
+WebSocket	0.0	8	
+网页设计.爱上jQuery	0.0	8	
+Learning Highcharts	0.0	6	
+Ajax与Java高级程序设计	0.0	6	
+JavaWeb2.0项目开发实战	0.0	5	
+Ext JS开发实战	0.0	2	
+Pro jQuery Mobile	0.0	8	
+OpenLayers 2.10 Beginner's Guide	0.0	7	
+Express Web Application Development	0.0	9	
+HTML5基础知识、核心技术与前沿案例	8.2	15	
+代码逆袭 超实用的Node.js代码段	6.8	12	
+A Practical Guide to Designing for the Web	0.0	2	
+Socket.IO Real-Time Web Application Development	0.0	9	
+Serverless架构：无服务器单页应用开发	0.0	6	
+Rapid Application Development with Mozilla	0.0	1	
+Pro React	0.0	6	
+Web Performance in Action	0.0	4	
+React Native for iOS Development	0.0	0	
+CSS与DHTML精髓(第2版)	0.0	9	
+Ajax权威指南	0.0	4	
+CoffeeScript in Action	0.0	4	
+ASP第一步	0.0	4	
+HTML5+CSS3入门经典	0.0	1	
+CoffeeScript Programming with jQuery, Rails, and Node.js	0.0	5	
+The Definitive Guide to HTML5 WebSocket	0.0	4	
+jQuery Pocket Reference	0.0	8	
+Ext JS 4 First Look	0.0	7	
+jQuery参考手册	0.0	3	
+Node.Js for PHP Developers	0.0	5	
+React快速上手开发	7.7	15	
+Ajax For Dummies	0.0	1	
+Jump Start Node.js	0.0	4	
+Building Web Apps with Ember.js	0.0	4	
+jQuery UI 1.6	0.0	6	
+ZK框架	0.0	1	
+Pro IOS Web Design and Development	0.0	4	
+Appcelerator Titanium Smartphone App Development Cookbook	0.0	5	
+OpenLayers Cookbook	0.0	5	
+Node应用程序构建	0.0	6	
+Realtime Communication with WebRTC	0.0	3	
+React导学	0.0	5	
+Refactoring	0.0	8	
+Node.js in Action	0.0	2	
+Ajax宝典	0.0	4	
+Programming in CoffeeScript	0.0	4	
+精通Ext JS	0.0	3	
+交互式计算机图形学	8.5	12	
+Polymer：面向未来的Web组件开发	0.0	0	
+D3 API详解（全彩）	0.0	8	
+SurviveJS - Webpack and React	0.0	7	
+Building Scalable Apps with Redis and Node.js	0.0	1	
+Ext JS学习指南	0.0	3	
+CoffeeScript on Node.js	0.0	0	
+Knockout.js	0.0	6	
+J2EE整合详解与典型案例	0.0	5	
+Creating a Website	0.0	5	
+Learning React	8.3	23	
+Learning TypeScript	0.0	4	
+CoffeeScript应用开发	0.0	6	
+Smashing jQuery	0.0	3	
+20 Recipes for Programming PhoneGap	0.0	5	
+Web 2.0应用程序开发实践	0.0	5	
+Learning Ext Js 4	0.0	5	
+Ember.Js in Action	0.0	2	
+SPA Design and Architecture	0.0	7	
+WEB+DB PRESS 中文版 02	0.0	6	
+Cocos2d-x实战	0.0	3	
+Pro JQuery	0.0	4	
+Programming TypeScript	0.0	8	
+网页设计专家门诊	0.0	4	
+Ajax快速上手	0.0	1	
+Ajax Bible	0.0	1	
+Adding Ajax	0.0	2	
+Ajax in Practice	0.0	2	
+征服ASP.NET 2.0 Ajax典型应用	0.0	2	
+征服RIA	0.0	1	
+Pro Android Web Game Apps	0.0	2	
+Node.js进阶之路	0.0	9	
+Responsive Web Design with HTML5 and CSS3 - Second Edition	0.0	1	
+AngularJS学习手册	0.0	4	
+Pro HTML5 Games	0.0	5	
+Learning Raphael Js Vector Graphics	0.0	1	
+jQuery全能权威指南	0.0	4	
+Sencha Touch 2 Up and Running	0.0	4	
+Web开发权威指南	8.0	12	
+Introduction to React	0.0	4	
+Beginning WebGL for HTML5	0.0	2	
+Progressive Web Apps	0.0	1	
+React in Action	0.0	2	
+Ajax on Java	0.0	2	
+精通Ajax	0.0	1	
+HTML亲密接触	0.0	2	
+Enterprise AJAX	0.0	2	
+Beginning Ajax (Programmer to Programmer)	0.0	0	
+轻松玩转jQuery	0.0	3	
+Bootstrap开发精解	0.0	6	
+Extending JQuery	0.0	2	
+Enyo	0.0	4	
+Beginning Node.js	0.0	2	
+Mastering React	0.0	6	
+MooTools 1.2 Beginner's Guide	0.0	5	
+Ext JS实战	0.0	4	
+Programming Chrome Apps	0.0	1	
+Dynamic HTML	0.0	0	
+HTML, XHTML, and CSS Bible	0.0	1	
+Web Development Solutions	0.0	2	
+Ext JS 4 Web Application Development Cookbook	0.0	3	
+Professional Website Performance	0.0	2	
+Mastering D3.js	0.0	0	
+Getting Started with HTML5 WebSocket Programming	0.0	1	
+jQuery Mobile开发指南	0.0	0	
+Learning ECMAScript 6	0.0	1	
+Deploying Node.js	0.0	3	
+Vue.js 2 Cookbook	0.0	3	
+MongoDB实战 架构、开发与管理	0.0	2	
+Full Stack Web Development with Backbone.js	0.0	3	
+KnockoutJS Starter	0.0	2	
+Codin' for the Web	0.0	0	
+Pro DOM Scripting with Ajax, APIs and Libraries	0.0	0	
+Yahoo! Hacks	0.0	0	
+Practical Dojo Projects	0.0	4	
+Ajax完全手册	0.0	4	
+HTML5 Multimedia Development Cookbook	0.0	2	
+Pro Smartphone Cross-Platform Development	0.0	3	
+Sencha Touch in Action	0.0	5	
+WebGL Game Development	0.0	2	
+Node.js Recipes	0.0	1	
+Learning React	0.0	7	
+Backbone.js in Action	0.0	0	
+jQuery、jQuery UI及jQuery Mobile技巧与示例	0.0	0	
+Front-End Architecture	0.0	4	
+Node.js Blueprints	0.0	2	
+Getting Started with PhantomJS	0.0	2	
+AngularJS	0.0	3	
+Unity开发实战	0.0	2	
+Node.js by Examples	0.0	1	
+Ajax for Web Application Developers	0.0	1	
+Pro Internet Explorer 8 & 9 Development	0.0	2	
+RESTful Web API Design with Node.JS - Second Edition	0.0	1	
+Learning Node.js for Mobile Application Development	0.0	1	
+JS.Next	0.0	0	
+Ext JS实战（第2版）	0.0	1	
+Pro Express.js	0.0	2	
+Apache Cordova in Action	0.0	4	
+AngularJS开发秘籍	0.0	2	
+Learning AngularJS	0.0	2	
+HTML5 & CSS3 For The Real World	0.0	0	
+WebRTC Cookbook	0.0	2	
+Getting StartED with Dojo	0.0	4	
+Instant Raphael JS Starter	0.0	1	
+Map Scripting 101	0.0	2	
+Meteor in Action	0.0	0	
+CSS插件工具箱	0.0	2	
+深入学习	0.0	1	
+Ajax 关键技术与典型案例	0.0	0	
+Pro JSF and Ajax	0.0	1	
+Dreamweaver MX 2004网页设计标准教材（中文版）	0.0	3	
+深入浅出XML	0.0	1	
+Pro Ajax and Java Frameworks	0.0	1	
+Sams Teach Yourself: Web Publishing with HTML and CSS in One Hour a Day	0.0	4	
+Ajax完全学习手册	0.0	0	
+动态网页设计与制作	0.0	1	
+网页设计与开发	0.0	2	
+qooxdoo Beginner's Guide	0.0	1	
+What's New in Ecmascript 5	0.0	0	
+jQuery实战	0.0	5	
+Backbone.js Cookbook	0.0	2	
+Learning Highcharts 4	0.0	1	
+Learning Web Development with Bootstrap and Angular	0.0	1	
+PhantomJS Cookbook	0.0	1	
+Client-Side Data Storage	0.0	2	
+Mastering OAuth 2.0	0.0	5	
+Learning Underscore.js	0.0	1	
+Learning Html5 Modernizr	0.0	0	
+Isomorphic Web Applications	0.0	1	
+ASP.NET AJAX实用开发详解	0.0	3	
+Ajax	0.0	1	
+WordPress 3.0 jQuery	0.0	0	
+Ext JS in Action	0.0	1	
+Jquery Ui 1.8	0.0	0	
+ArcGIS Web Development	0.0	1	
+Developing a Redux Edge	0.0	1	
+Learning Ionic - Build Hybrid Mobile Applications with HTML5	0.0	2	
+Building Responsive Data Visualization for the Web	0.0	0	
+Using WebPageTest	0.0	3	
+Mastering Responsive Web Design with HTML5 and CSS3	0.0	2	
+Learning Web Component Development	0.0	2	
+Getting Started with Gulp	0.0	3	
+jQuery For Dummies	0.0	3	
+Instant PhoneGap Social App Development	0.0	2	
+零基础学Java Script	0.0	2	
+Web Designer's Reference	0.0	0	
+Meteor实战	0.0	0	
+Mastering TypeScript - Second Edition	0.0	3	
+Offline First Web Development	0.0	0	
+Building Single-page Web Apps with Meteor	0.0	0	
+SurviveJS - Webpack	0.0	3	
+AngularJS Web Application Development Cookbook	0.0	0	
+React Native 精解与实战	0.0	0	
+Building a Web Site with Ajax	0.0	0	
+Professional Rich Internet Applications	0.0	0	
+Foundation Mac OS X Web Development	0.0	0	
+Shaking the Tree	0.0	0	
+Json 296 Success Secrets - 296 Most Asked Questions on Json - What You Need to Know	0.0	0	
+Instant Dependency Management with  RequireJS How-to	0.0	0	
+Web Development Recipes	0.0	0	
+Instant Selenium Testing Tools Starter	0.0	1	
+AngularJS Test-driven Development	0.0	1	
+Highcharts Cookbook	0.0	0	
+AngularJS by Example	0.0	0	
+Jquery Hotshot	0.0	1	
+Testing Backbone.Js	0.0	1	
+Yui Library	0.0	0	
+TypeScript Deep Dive	0.0	2	
+Developing an Electron Edge	0.0	1	
+Practical React Native	0.0	1	
+9 Practical Node.js Projects	0.0	1	
+Web前端开发技术实验与实践-HTML.CSS.JavaScript	0.0	3	
+Java Script实例精通	0.0	2	
+Java script入门与提高	0.0	0	
+Java Script網頁特效絕招	0.0	0	
+Java Script	0.0	0	
+Java Script示例导学	0.0	0	
+JavaScript1.5实例教程	0.0	0	
+Java Script私房書	0.0	0	
+JAVA SCRIPT動態網頁範例集.	0.0	0	
+JAVA SCRIPT 範例程式集.	0.0	0	
+Java Script 网页制作快速入门	0.0	0	
+Java Script 1.1开发指南	0.0	0	
+Java Script pour les nuls	0.0	0	
+Javascriptmvc	0.0	0	
+Java Scripture: Poetry by Tony Fusco	0.0	0	
+Java Script in Your Pocket	0.0	0	
+HTML．CSS．Javascript三合一網頁設計萬用辭典	0.0	1	

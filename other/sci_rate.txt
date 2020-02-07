@@ -1,0 +1,2100 @@
+Steel Designers' Manual	0.0	0	
+科幻编年史	8.7	126	
+有生之年非看不可的101部科幻电影	8.5	70	
+如何撰写和发表SCI期刊论文	7.9	51	
+当代美国科幻小说选	8.3	56	
+经典的真身	8.8	203	
+Sci	0.0	0	
+Sci	0.0	0	
+Sci	0.0	0	
+SCI论文写作和发表	7.3	24	
+阿瑟•克拉克中短篇科幻小说集	8.8	76	
+SCIENCE-FICTION & FANTASY CINEMA	0.0	0	
+说服SCI审稿人	0.0	8	
+灭绝与演化	9.2	57	
+Japanese Cinema Encyclopedia	0.0	0	
+新型神经网络及其英文SCI论文评审论辩	0.0	5	
+英文SCI生物医学论文写作教程	0.0	2	
+人类科技创新简史	6.8	15	
+MOEBIUS - MOCKBA	0.0	0	
+生命通史	0.0	4	
+System and Structure	0.0	0	
+I Talked with a Zombie	0.0	3	
+Astronmy&Edmund&Sci Amer	0.0	0	
+The Kraken Wakes	0.0	0	
+化学之书	8.0	19	
+睡眠之谜	7.9	27	
+The Classic Sci-Fi Filmbook	0.0	1	
+The Greatest Sci-fi Movies Never Made (Fully Revised and Updated Edition)	0.0	0	
+电子期刊信息源	0.0	0	
+Beyond	0.0	0	
+Obsidian Worlds	0.0	1	
+【预订】Mechanika, Revised and Updated: Creating the Art of Space, Aliens, Robots and Sci-Fi	0.0	0	
+运动生理学	8.2	41	
+Physical Science	0.0	0	
+Who Goes There?	0.0	0	
+On the Edge of a Razor Blade	0.0	0	
+e-ville®	0.0	0	
+Physical Science	0.0	0	
+Selections from Dreamsongs 2	0.0	0	
+Unplugged	0.0	0	
+Resistance 1991	0.0	0	
+A Fall of Moondust	0.0	0	
+The Tomorrow People	0.0	0	
+Catalogue of the Fishes in the British Museum	0.0	0	
+Modeling and Control in Vibrational and Structural Dynamics	0.0	0	
+Conventions in Canada	0.0	0	
+The Mechanics of Piano Technic	0.0	0	
+Biology	0.0	0	
+Environmt	0.0	0	
+Igenetics	0.0	0	
+Essn Enviro	0.0	0	
+Biolgy	0.0	0	
+Chem	0.0	0	
+Hum Biolgy	0.0	0	
+Environmt	0.0	0	
+Enviro	0.0	0	
+Envirn	0.0	0	
+Biology	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chemistry	0.0	0	
+Science K-8	0.0	0	
+Science K-8	0.0	0	
+Bio&Eval O/L&Humn Genome	0.0	0	
+World Prehistory	0.0	0	
+Biology	0.0	0	
+Science K-8	0.0	0	
+Genetics	0.0	0	
+Physics Principles Applic +Sci	0.0	0	
+Physics	0.0	0	
+Human Physiolgy	0.0	0	
+Bio	0.0	0	
+Politcl Sci	0.0	0	
+Chemistry	0.0	0	
+Chemistry	0.0	0	
+Bio	0.0	0	
+Chem	0.0	0	
+Biolgy	0.0	0	
+Biolgy	0.0	0	
+Biology	0.0	0	
+Biology	0.0	0	
+Bio	0.0	0	
+Bio	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Biology	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Elem Geosys	0.0	0	
+Essential Envirnmnt	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Contemp Society	0.0	0	
+Psychology	0.0	0	
+Archaeology	0.0	0	
+Teachg Childrn Sci	0.0	0	
+Psych	0.0	0	
+Psychology	0.0	0	
+Evolutnry Psych	0.0	0	
+Intro to Counselg	0.0	0	
+Teachg Childrn Sci	0.0	0	
+Teachg Childrn Sci	0.0	0	
+Teachg Childrn Sci	0.0	0	
+Teachg Childrn Sci	0.0	0	
+Teachg Childrn Sci	0.0	0	
+Archaeolgy	0.0	0	
+Psych	0.0	0	
+Psych	0.0	0	
+Psy	0.0	0	
+Intro to Counselg	0.0	0	
+Psych	0.0	0	
+Psychology	0.0	0	
+Psychology	0.0	0	
+Chemistry	0.0	0	
+Java	0.0	0	
+Chemistry	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Cognition & APS	0.0	0	
+Learng& Behavr& APS	0.0	0	
+Biology	0.0	0	
+Bio	0.0	0	
+Chem	0.0	0	
+Cognitn Psy & APS	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Bio	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Biolgcl Anthro	0.0	0	
+Biology	0.0	0	
+Biology	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Bio	0.0	0	
+STATS	0.0	0	
+STATS	0.0	0	
+Glen Sci	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Chem	0.0	0	
+Biology	0.0	0	
+Glencoe Introduction to Physical Science, Grade 8, Student Edition (GLEN SCI	0.0	0	
+Wayout West Trade Paperback 1	0.0	0	
+Star Trek	0.0	0	
+Cult Camp Classics Volume 1	0.0	0	
+Tcm Greatest Classic Films	0.0	0	
+Tcm Greatest Classic Films	0.0	0	
+The Whacking of Maddy Exotica	0.0	0	
+You Won't Believe Your Eyes	0.0	0	
+Chemistry	0.0	0	
+Comedy Space Tales	0.0	0	
+War Machine	0.0	0	
+Agent-Mediated Electronic Commerce. Automated Negotiation and Strategy Design for Electronic Markets	0.0	0	
+Harry's Halloween Tale	0.0	0	
+A Strategic Model of Chinese Checkers	0.0	0	
+The Hyperboreans	0.0	0	
+Chemistry	0.0	0	
+Monsters, Mutants and Heavenly Creatures	0.0	0	
+The Day of the Triffids	0.0	0	
+You Call This the Future?	0.0	0	
+From Beyond Space and Time	0.0	0	
+The Black Hole Experiments	0.0	0	
+Final Prey	0.0	0	
+Creator	0.0	0	
+Hologrammar + Spykology	0.0	0	
+It Came from Beyond the Sun	0.0	0	
+Doll Bodies	0.0	0	
+WH Smith National Tests	0.0	0	
+The Year of the Geek	0.0	0	
+America City	0.0	0	
+Durkheim fut-il durkheimien?	0.0	0	
+Defragmenting Daniel	0.0	0	
+大脑与认知	9.5	42	
+弦理论	6.0	74	
+大自然的社交网络	8.4	258	
+虚无	8.0	33	
+登月	8.0	110	
+The Ghost Brigades (Sci Fi Essential Books)	8.2	23	
+Sci-Fi Private Eye	0.0	1	
+水的密码	9.3	38	
+SCI论文写作解析	0.0	9	
+SCI医学英文论文的撰写与发表	0.0	5	
+SCI文章词汇比较应用	0.0	0	
+与达尔文共进晚餐	8.3	19	
+Boneshaker (Sci Fi Essential Books)	0.0	5	
+Sci-Fi Art Now	0.0	2	
+Sci-Fi Art	0.0	3	
+ONRAMP No. 2	0.0	2	
+如何撰写和发表SCI期刊论文	0.0	5	
+The Rough Guide to Sci-fi Movies	0.0	5	
+SCI论文撰写与发表	0.0	1	
+Sci-fi Art Now	0.0	5	
+伯克利物理学教程（SI版）第1卷 力学	9.4	23	
+SCI投稿指南	0.0	1	
+Building Sci-Fi Moviescapes	0.0	2	
+Phys Sci& Engr V1& Phys Sci V2& Phys Sci V3	0.0	0	
+Game Sci Educ& Sci Cont Tchg Child Sci Pkg	0.0	0	
+Teachg Sci Inq&actv Integrtg Sci&sci Intrnt	0.0	0	
+101 Sci-Fi Movies You Must See Before You Die	0.0	0	
+The Unincorporated Man (Sci Fi Essential Books)	0.0	0	
+The Roswell Dig Diaries (Sci Fi Channel Books)	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 27, Part 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 47, Part 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Part 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 71	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 50, Part 4	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 67	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 82, Part 4	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 167	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 58	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 5	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 65, Part 3	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 168	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 64, Part 2	0.0	0	
+Glo Sci Wkshp/Earth Sci/Universe Txc 92	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 16	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 76	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 19	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 163	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 164	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 51, Part 1	0.0	0	
+Sg Research Meth in Soci Sci 7e Sg Research Meth in Soci Sci 7e	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Memoires de L'Academie Imperiale Des Sciences, Inscriptions Et Belles-Lettres	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Petits Traites, Volume 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 9	0.0	0	
+Phy Sci& Eng Vol2& Phys Sci& Eng Vol 3 Pkg	0.0	0	
+GB Sci Wkshp/Phys Sci/Chem Change Txc 92	0.0	0	
+GB Sci Wkshp/Phys Sci/Electricity Txc 92	0.0	0	
+Physics Sci & Engr V4&phys Sci&engrs V3 Pkg	0.0	0	
+Physics Sci & Eng V4&phy Sci&eng Vol 3	0.0	0	
+Calc Busn Econ Life Sci&soc Sci Alc&ssm Pkg	0.0	0	
+Phys for Sci& Engr V4& Phy Sci& Engn V3 Pkg	0.0	0	
+Biological Sci Vol1 & Biological Sci Vol2	0.0	0	
+Meth for Teachg Sci&actv Tchg Sci as Inqry	0.0	0	
+Biol Sci for Life& Sci Eval Ol Res W/Rsrch	0.0	0	
+Biol Sci Vol2& PH GD Evalg Ol Resr W/RN Sci	0.0	0	
+Sci in Elem Edu&actv for Integratg Sci&math	0.0	0	
+Bio Sci& Cw+grdbk&s/G&sci Eval Ol&peng DIC&	0.0	0	
+Biologc Sci Vol1&cw+grbk&bio Sci V2&sg&bb	0.0	0	
+History of Western Sci & Sci&its Ways Pkg	0.0	0	
+Methd Teach Sci Inquiry&intgrt Natl Sci Pkg	0.0	0	
+Sci Instuct Mid&elem Sch&intgrt Natl Sci Pkg	0.0	0	
+Political Sci& Politcal Sci Studt Writr Pkg	0.0	0	
+Cases in Mid& Secondary Sci Educ&sci Int Pk	0.0	0	
+Teachg Secondary Sch Sci & Sci on Int Pkg	0.0	0	
+Cases Middle&secondary Sci&sci Int Pkg	0.0	0	
+Biology Sci Life &Studt Lect Ntbk&sci Amer	0.0	0	
+Biol Sci Vol1& Cw& Unit 5 Bio Sci & S/G Pkg	0.0	0	
+Finite Math for Busn Econ Life Sci& Socl Sci	0.0	0	
+Astronomy Today& Eduund Sci& Starry& Sci Pkg	0.0	0	
+Introducg Studnts Sci Inquiry& Sci Contnt Pk	0.0	0	
+Teach Child Sci Appr MLS& Whiz& Wondr Sci ACT	0.0	0	
+Essentials Elem Sci& Sci Cont Tchg Child Pkg	0.0	0	
+Teachg Childrn Sci& Whizbangrs Samplr Sci Pk	0.0	0	
+Teachg Childrn Sci& Whizbangrs Samplr Sci Pk	0.0	0	
+Teachg Childrn Sci& Whizbangrs Samplr Sci Pk	0.0	0	
+Social Sci Intro Study Soc& S/G Soc Sci Pkg	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds K Sci 08	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds 1 Sci 08	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds 2 Sci 08	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds 3 Sci 08	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds 4 Sci 08	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds 5 Sci 08	0.0	0	
+CA Sci Cnt Stndrds Vocab Crds 6 Sci 08	0.0	0	
+Audiocd LM Sci Life Sci	0.0	0	
+Audiocd LM Sci Earth Sci	0.0	0	
+Audiocd LM Sci Phys Sci	0.0	0	
+Calc for Busn Econ Life Sci&socl Sci&ssm Pk	0.0	0	
+Span Sci Explorer Environmental Sci Se 2000c	0.0	0	
+Sci Explorer Integrated Sci Lab Man 2000c	0.0	0	
+Sci Insruction& SEC Sch&inten Sci Edu&prep	0.0	0	
+Benchmark Sci Lit/Sci All Amer	0.0	0	
+Biological Sci Vol3&cw Acc Card&sci Amer Pk	0.0	0	
+Activ for Integ Sci&math on Int&sci Int Pkg	0.0	0	
+Teachg Sci as Inquiry&case Std Elem Sci Pkg	0.0	0	
+Teachg Sci as Invstgtns&integrtg Nat Sci Pk	0.0	0	
+Teach Sci for Undrstndg&integrtg Nat Sci Pk	0.0	0	
+Teachg Sci as Inquiry&tchg Sci&tchr Prep Pk	0.0	0	
+Methds Teachg Elem Sci&integrtg Nat Sci Edu	0.0	0	
+Sci Elem Educ& Sampler& Integrtg Nat Sci Pk	0.0	0	
+Teachg SEC Sch Sci&integrtg Nat Sci Educ Pk	0.0	0	
+Teaching Sci Inquiry& Activ& Sci& Integrtg Pkg	0.0	0	
+Multiling Glossary for Sci Holt Sci 2007	0.0	0	
+Ch 1 Intro to Sci Sci Spec 2004	0.0	0	
+Poster LM Sci Life Sci	0.0	0	
+Poster LM Sci Earth Sci	0.0	0	
+CA Sci Contnt Rdr Coll(1 EA) Gr 5 Sci 08	0.0	0	
+XGCSE SCI REV OCR SCI HIG WORK	0.0	0	
+Sci-Fi Streetz: The Book of Hip Hop Sci-Fi Stories	0.0	0	
+Sci-Phi	0.0	0	
+Silver Age Sci-Fi Companion	0.0	1	
+60 Great Sci-Fi Movie Posters (Illustrated History of Movies Through Posters, Volume 20)	0.0	0	
+Sci-Fi Art	0.0	0	
+SCI/SSCI论文精选	0.0	0	
+Steel Designers' Manual	0.0	1	
+医学SCI期刊论文的撰写与发表	0.0	0	
+Holy Sci-Fi!	0.0	0	
+CLOG: SCI-FI	0.0	0	
+Sci-Fi Chronicles	0.0	4	
+Sci‐Fi HARRY―The comic 1	0.0	1	
+SCI、SCIE来源期刊信息指南	0.0	0	
+破解SCI论文写作奥秘. 化工 材料 能源	0.0	1	
+高等医药院校配套教材•SCI收录生物医学期刊投稿指南 (平装)	0.0	0	
+Wheater's Basic Histopathology	0.0	0	
+Sci-Fi Movies	0.0	0	
+农业及其相关学科SCI来源期刊指南	0.0	0	
+Digital Sci-Fi Art	0.0	0	
+Clinical Naturopathic Medicine	0.0	0	
+Sci-fi Art	0.0	1	
+The Rocks of Kansas. by G. C. S. and F. H. with Descriptions of New Permian Fossils by G. C. S. Ext. from Trans. Acad. Sci. St. Louis. Vol. I. No. 2.	0.0	0	
+Prod Spp Wbs, Selling Art,Sci,	0.0	0	
+Environmental Geology & Sci on	0.0	0	
+Biology Sci for Life&1key Webct S/Acc Pkg	0.0	1	
+Sci-fi & Fantasy Modeller	0.0	1	
+SCI攻略	0.0	1	
+Sketching from the Imagination: Sci-fi	0.0	0	
+Cine Digital / Building Sci-Fi Moviescapes	0.0	0	
+SCI收录生物医学期刊信息要览	0.0	0	
+Human Performance Modification	0.0	1	
+Horror, Sci-Fi and Fantasy Movie Posters	0.0	0	
+SCI论文写作和发表	0.0	3	
+Digital Sci-Fi Art[数码科幻艺术]	0.0	1	
+Sci-Fi Chronicles	0.0	0	
+最新SCI源期刊要目总览	0.0	0	
+The Sky People (Sci Fi Essential Books)	0.0	0	
+Planning for Online Search Service in Sci-Tech Librares (Science & Technology Libraries)	0.0	0	
+Sci-Rotica	0.0	0	
+Oceans 2020	0.0	0	
+Bobcat Research Conference Proceedings	0.0	0	
+Planning Facilities for Sci-Tech Libraries	0.0	0	
+医学教育	0.0	0	
+Zap! How to Draw Fantastic Sci-fi Comics	0.0	0	
+Grad Guides Book 3	0.0	3	
+Frontiers in Science & Tech	0.0	0	
+Outlook for science and technology	0.0	0	
+SCI、EI简介及入选期刊分析	0.0	0	
+太空战士SCI-FIGHTGRS(DVD)	0.0	0	
+Mod Exp Psych 6e Sp and Sg and Sci AM Reader	0.0	0	
+Mod Psych 7e sp and PsyInq and Sci and Hm and Impr Rdrs and Psysi	0.0	0	
+Ency Env Sci and Eng 5ed	0.0	0	
+Chemistry Central Sci & Full S	0.0	0	
+IEEE Standard for Scalable Coherent Interface (SCI)	0.0	0	
+Sci Amer Reader T/a Psych	0.0	0	
+Hdbk Laser Sci & Technology Gas Lasers Vol 2 (CRC handbook of laser science and technology)	0.0	0	
+Debt Relief Initiatives And Poverty Alleviation	0.0	0	
+Blw-LV Rdr Earth Plce Solr G3 Sci 06	0.0	0	
+Organic Chemistry - Series One (MTP Internat. Review of Sci. S)	0.0	0	
+FL AB-LV Rdr Bldng Btr Plants G4 Sci 07	0.0	0	
+Sci Tech Library Networks Within Organizations (The Science & Technology Library Series)	0.0	0	
+Una Nueva Solucion Para el Sci	0.0	0	
+SCI投稿指南	0.0	0	
+Mystat Wkbk - Intro to Stat Soc Beh Sci	0.0	0	
+Workbook - Intro Stat F/Soc Beh Sci	0.0	0	
+Sci-fi Baby Names	0.0	0	
+Sci-Fi Western	0.0	0	
+How to Build Sci-Fi Model Spacecraft	0.0	0	
+Randomization and Approximation Techniques in Computer Science	0.0	0	
+Teaching the Social Sciences and Historyin Secondary Schools	0.0	0	
+科幻少年SCI-FI HAPPY.1	0.0	0	
+INTRODUCTION MANAGEMENT SCI	0.0	0	
+Painting Indiana II	0.0	0	
+ELECTROLES NICKEL PLATING (CAMBRIDGE SCI	0.0	0	
+Mmh ] Sci 2006 Grade 4 Florida Pupil's Edition ] 2006 ] 1	0.0	0	
+Sci 2006 Grade 5 Florida Pupil's Edition	0.0	0	
+Study GD Sci Spectrum 2001 Phys	0.0	0	
+The Sci-Fi Factor	0.0	0	
+Jewish Sci-Fi Stories for Kids	0.0	0	
+America Becoming	0.0	0	
+Sci-Fi Aesthetics (Art & Design Monographs (Paper))	0.0	0	
+Collection Development in Sci Tech Libraries	0.0	0	
+Training of Sci-Tech Librarians and Library Users	0.0	0	
+Data Manipulation in Sci-Tech Libraries	0.0	0	
+Role of Computers in Sci-Tech Libraries	0.0	0	
+Role of Standards in Sci-Tech Libraries	0.0	0	
+Sci-Fi Stories	0.0	0	
+Ssm Tps Life Sci 2e	0.0	0	
+Sci-Spy Complete Series	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 4	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 15	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 61, Part 3	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Part 1	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 89, Part 3	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 56, Part 2	0.0	0	
+Revue Des Travaux de L'Academie Des Sciences Morales Et Politiques Et Comptes Rendus de Ses Sances, Volumes 131-154	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 2	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 86, Part 4	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 46, Part 4	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 56	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 152	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volumes 1-130	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 66, Part 4	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 78	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 85, Part 3	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volumes 17-18	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 124	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Part 6	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 43, Part 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 72, Part 2	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 92, Part 2	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 79, Part 1	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 170	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 60, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 54	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 31, Part 1 - Volume 32, Part 2	0.0	0	
+The Greatest Sci-fi, Fantasy, and Horror Props	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Part 4	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 165	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 74	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 73, Part 3	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 39, Part 1 - Volume 40, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 10	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 52	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 67, Part 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 94	0.0	0	
+Bookweb 4 Sci Face To Face	0.0	0	
+Bookweb Plus 3 Sci The Perfect Lawn	0.0	0	
+Bookweb Plus 3 Sci Monster In Pitman	0.0	0	
+Bookweb Plus 4 Sci Light Camera Space	0.0	0	
+Bookweb 4 Sci Beyond The Black Hole	0.0	0	
+Bookweb 4 Sci Keep Calm!	0.0	0	
+Bookweb 5 Sci Inspector Grub/Fizzer Spy	0.0	0	
+Bookweb 5 Sci Vanished!	0.0	0	
+Bookweb 5 Sci Germ Warfare	0.0	0	
+Bookweb 6 Sci Red Hot Rocks!	0.0	0	
+Bookweb 6 Sci Chef's Lab	0.0	0	
+Bookweb 3 Sci Abominable Snowman	0.0	0	
+Bookweb 3 Sci Dog'S Gde To Humans	0.0	0	
+Bookweb 3 Sci Hugo & Splot	0.0	0	
+Bookweb Plus 4 Sci The Bones Museum	0.0	0	
+Bookweb Plus 5 Sci Project Underwater	0.0	0	
+Bookweb Plus 5 Sci Looking At Light	0.0	0	
+Bookweb Plus 5 Sci At The Aquarium	0.0	0	
+Bookweb Plus 5 Sci In The Dark	0.0	0	
+Glo Sci Wkshp/Chem/Mixtures&solut Txc 92	0.0	0	
+Tg LVL a Sci Read All about It	0.0	0	
+Cass Physical Sci-Senses	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 5	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 115	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 41, Part 3 - Volume 42, Part 4	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 118	0.0	0	
+Jewish Sci-Fi Stories for Kids	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 35, Part 1 - Volume 36, Part 2	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 37, Part 3 - Volume 38, Part 4	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 107	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 116	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volumes 13-16	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 168	0.0	0	
+de La Philosophie Allemande	0.0	0	
+Sg Ess STATS Behavioral Sci	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 55, Part 1	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 21	0.0	0	
+American Journal of Pharmacy, Volume 78	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 91	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 28, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 81	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 79	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 84, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 10	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 157	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 91, Part 1	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 88, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 48, Part 2	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 52, Part 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 49, Part 3	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 169	0.0	0	
+Bookweb 5 Sci Earthquake!	0.0	0	
+Bookweb 6 Sci Crisis Maximus	0.0	0	
+Bookweb Plus 6 Sci Half Moon Harry	0.0	0	
+Report of the Director of the State Museum and Science Department, Issues 219-220	0.0	0	
+Hmh Sci L Rdr Clct Set	0.0	0	
+Ab-Lv Rdrs Coll G2 Sci 09	0.0	0	
+Ab-Lv Rdrs Coll G1 Sci 09	0.0	0	
+Ab-Lv Rdrs Coll G3 Sci 09	0.0	0	
+Blw-Lv Rdrs Tg Coll Gr6 Sci 09	0.0	0	
+Blw-Lv Rdrs Tg Coll Gr5 Sci 09	0.0	0	
+Ab-Lv Rdrs Coll G5 Sci 09	0.0	0	
+Ab-Lv Rdrs Coll G6 Sci 09	0.0	0	
+On-Lv Rdrs Coll Gr3 Sci 09	0.0	0	
+On-Lv Rdrs Coll Gr2 Sci 09	0.0	0	
+On-Lv Rdrs Coll Gr4 Sci 09	0.0	0	
+Ab-Lv Rdrs Coll G4 Sci 09	0.0	0	
+On-Lv Rdrs Coll Gr1 Sci 09	0.0	0	
+On-Lv Rdrs Coll Gr5 Sci 09	0.0	0	
+Blw-Lv Rdrs Coll Gr2 Sci 09	0.0	0	
+On-Lv Rdrs Coll Gr6 Sci 09	0.0	0	
+Blw-Lv Rdrs Coll Gr1 Sci 09	0.0	0	
+Blw-Lv Rdrs Coll Gr3 Sci 09	0.0	0	
+Blw-Lv Rdrs Coll Gr4 Sci 09	0.0	0	
+Blw-Lv Rdrs Coll Gr5 Sci 09	0.0	0	
+Blw-Lv Rdrs Coll Gr6 Sci 09	0.0	0	
+Hsp Sci Ab-Lv Rdrs Coll Gr K	0.0	0	
+Hsp Sci On-Lv Rdrs Coll Gr K	0.0	0	
+Hsp Sci Ab-Lv Rdrs Tg Set Of 1 Gr K	0.0	0	
+Hsp Sci Blw-Lv Rdrs Coll Gr K	0.0	0	
+Ab-Lv Rdrs Tg Coll G1 Sci 09	0.0	0	
+Ab-Lv Rdrs Tg Coll G2 Sci 09	0.0	0	
+Ab-Lv Rdrs Tg Coll G3 Sci 09	0.0	0	
+Ab-Lv Rdrs Tg Coll G4 Sci 09	0.0	0	
+Ab-Lv Rdrs Tg Coll G5 Sci 09	0.0	0	
+Ab-Lv Rdrs Tg Coll G6 Sci 09	0.0	0	
+On-Lv Rdrs Tg Coll Gr1 Sci 09	0.0	0	
+Hsp Sci On-Lv Rdrs Tg Set Of 1 Gr K	0.0	0	
+Hsp Sci On-Lv Rdrs Tg Coll Gr3	0.0	0	
+On-Lv Rdrs Tg Coll Gr6 Sci 09	0.0	0	
+On-Lv Rdrs Tg Coll Gr4 Sci 09	0.0	0	
+Hsp Sci Blw-Lv Rdrs Tg Set Of 1 Gr K	0.0	0	
+On-Lv Rdrs Tg Coll Gr2 Sci 09	0.0	0	
+On-Lv Rdrs Tg Coll Gr5 Sci 09	0.0	0	
+Blw-Lv Rdrs Tg Coll Gr1 Sci 09	0.0	0	
+Blw-Lv Rdrs Tg Coll Gr2 Sci 09	0.0	0	
+Blw-Lv Rdrs Tg Coll Gr4 Sci 09	0.0	0	
+Blw-Lv Rdrs Tg Coll Gr3 Sci 09	0.0	0	
+Hsp Sci Lvld Rdr Tg Coll Gr 5	0.0	0	
+Hsp Sci L Rdr Dlx Bx 5Pk Gr05	0.0	0	
+GB Success in Sci	0.0	0	
+Aise-Ism-Physics Sci & Eng Vol 1	0.0	0	
+Aise-Ssm/Sg-Physics For Sci &Eng Vol 2	0.0	0	
+Aise-Ism-Physics F/Sci & Eng V2	0.0	0	
+Aise-Ssm/Sg-Physics For Sci And Eng Vol 1	0.0	0	
+HER Int Sci	0.0	0	
+de La R Pression P Nale, de Ses Formes Et de Ses Effets	0.0	0	
+A Source Book of Practical Experiments in Physiology Requiring Minimal Equipment	0.0	0	
+Clifford Simak Collection of Sci Fi; Hellhounds of the Cosmos, Project Mastodon, the World That Couldn't Be, the Street That Wasn't There	0.0	0	
+Ae-WWII Retro Sci-Fi Occult Expansion	0.0	0	
+STATS Beh Sci 2e&iclicker	0.0	0	
+How Child Dev 3ell&rdgs&sci Am Rdr	0.0	0	
+Intr Psy Ll&sg&vtk&sci Am	0.0	0	
+Mod Exp Psy 7e P&visual&inq&sci Am	0.0	0	
+Psych 6e C&psy Port&sg&sci Am Rdr	0.0	0	
+Stat Beh Sci 2e&sg	0.0	0	
+Stat Beh Sci 2e&portal Acs Crd	0.0	0	
+STATS Beh Sci 2e&spss Cdr V18	0.0	0	
+Psych&sg&sci Am Rdr	0.0	0	
+Fund AB Psych 6e Ll&cs&sci Am Read	0.0	0	
+Intl Trade&dismal Sci ACT Crd	0.0	0	
+How Children Dev 3e&sci Am Rdr 2e	0.0	0	
+Prac STATS Life Sci&cdr&osc Acs Crd	0.0	0	
+Psychology&sci Am Mind	0.0	0	
+Psych&sci Am Rdr Imp Mind&brain	0.0	0	
+Psych&sci Am Rdr Hidden Mind	0.0	0	
+Prac Stat Life Sci&cd&ssm&jmp Cdrv6	0.0	0	
+Psy 8ec&psyport Acs Crd&sci Am Mind	0.0	0	
+STATS Behav Sci&spss Manual&spssv16	0.0	0	
+Intl Macroecon&dismal Sci ACT Crd	0.0	0	
+Intl Econ&dismal Sci ACT Crd	0.0	0	
+Pub Finance 2e&dismal Sci ACT Crd	0.0	0	
+Mod Prin of Econ&dis Sci ACT Crd	0.0	0	
+Mod Prin Micro&dis Sci ACT Crd	0.0	0	
+Microecon 2e & Dismal Sci ACT Crd	0.0	0	
+The Classification of Animals Based on the Principle of Cephalization. from the Amer. Journ. of Sci	0.0	0	
+The Mathematician's Cult - A Spiritual Sci-Fi	0.0	0	
+NYC Se Unit 2 Weather&seasons G1 Sci 08	0.0	0	
+NYC Se Unit 1 Forces&motion G2 Sci 08	0.0	0	
+NYC Se Unit 1 Proprties/Matter G1 Sci 08	0.0	0	
+NYC Se Unit 2 Earth Materials G2 Sci 08	0.0	0	
+Readers Theatre Sci & Soc Stud Gr 4	0.0	0	
+Readers Theatre Sci & Soc Stud Gr 5	0.0	0	
+Readers Theatre Sci & Soc Stud Gr 7	0.0	0	
+Readers Theatre Sci & Soc Stud Gr 6	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Gr02	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Gr01	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Grk	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Gr05	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Grk	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Gr03	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Gr04	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Lang Supt Gr06	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Gr01	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Gr02	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Grk	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Gr06	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Gr05	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Gr03	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Blw L Gr04	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Gr01	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Gr05	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Gr03	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Gr04	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Grk	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Gr02	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Gr01	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Gr06	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Gr04	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Gr03	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Gr05	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Tchr Res Kit Abv L Gr06	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Tchr Res Kit On L Gr02	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr Lang Supt Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr Blw L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr On L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+Hm Sci L Rdr Abv L Strnd Set	0.0	0	
+CRACK AP ENVIRO SCI 2012	0.0	0	
+Sci-Fi Savant	0.0	0	
+HER Int Sci	0.0	0	
+HER Int Sci	0.0	0	
+HER Int Sci	0.0	0	
+Study Guide B CA Sci 2007 Earth	0.0	0	
+Ten Sci-Fi Shorts	0.0	0	
+Psychology 7e & Study Guide & Pursuing Human Strengths & Sci Am Rdr.	0.0	0	
+Earth & Space Sci. Strand	0.0	0	
+Fritz Heider"notebooks"vol 1, Meth Princ Philosoph Sci	0.0	0	
+Building Ocean Science Partnerships	0.0	0	
+Sci-fi Architecture	0.0	0	
+Baen B&n Drake Weber Sci Fi Adventure Backlist Display Prepack 24	0.0	0	
+Writing Your A+ Sci/Tech Paper	0.0	0	
+Readers Theatre Sci & Soc Stud Gr 3	0.0	0	
+Readers Theatre Sci & Soc Stud Gr 8	0.0	0	
+Make Your Own Sci-Fi Flick	0.0	0	
+Sci-Fi Movie Freak	0.0	0	
+Beyond Sci-Fi	0.0	0	
+How to Draw Sci-Fi Pocket Manga	0.0	0	
+GB Success in Sci	0.0	0	
+Environ Sci Populations Trm 95	0.0	0	
+Janus Physical Sci Clsrm Set 96c	0.0	0	
+Electronic Resources and Services in Sci-Tech Libraries	0.0	0	
+Subject Directory of Special Libraries 33 V2 Cmptr Engrg Sci	0.0	0	
+Subject Directory of Special Libraries 33 V3 Hlth Sci	0.0	0	
+Sci-Fi & Fantasy	0.0	0	
+Omni Book of Sci Fi - 5	0.0	0	
+Mod Prin Macro&dis Sci ACT Crd	0.0	0	
+Ess STATS Behav Sci&spss Vers 17 CD	0.0	0	
+Exp Psych 7e P&sci Amer Mind 2007	0.0	0	
+Seventh Omni Book of Sci-Fi	0.0	0	
+Omni Book Sci Fi -1	0.0	0	
+Omni Book Sci Fi -2	0.0	0	
+Omni Book of Sci Fi-4	0.0	0	
+Omni Book of Sci Fi-3	0.0	0	
+Fcat Prac Bk Pe Gr 3 Sci 00	0.0	0	
+Fcat Prac Bk Pe Gr 5 Sci 00	0.0	0	
+Fcat Prac Bk Pe Gr 4 Sci 00	0.0	0	
+Fcat Prac Bk Pe Gr 1 Sci 00	0.0	0	
+Fcat Prac Bk Pe Gr 2 Sci 00	0.0	0	
+Fcat Prac Bk Pe Gr 6 Sci 00	0.0	0	
+Study Guide a CA Sci 2007 Earth	0.0	0	
+Ae-WWII Retro Sci-Fi Basra 1946	0.0	0	
+Sci-Fi Movie Posters Postcards	0.0	0	
+100 Sci-Fi Adventure Seeds	0.0	0	
+Mod Exp Psych 7e P&sg&sci Am Mind	0.0	0	
+More Sci-Fi from the Rock	0.0	0	
+How to Draw Sci-Fi	0.0	0	
+A Sci-Fi Swarm and Horror Horde	0.0	0	
+Phys Sci 2	0.0	0	
+Draw Sci Fi	0.0	0	
+Sci-Hi	0.0	0	
+The Duad or Line Exemplified in the Pythagorean Triangle or the Duad or Line Exemplified in the Pythagorean Triangle or the Science of Numbers the Sci	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 57, Part 3	0.0	0	
+Seances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 90, Part 4	0.0	0	
+Annales de L'Academie de M[con	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 3	0.0	0	
+Top 100 Sci-Fi Movies	0.0	0	
+World of Sci Fic	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Sci-Hi	0.0	0	
+Little Book of Vintage Sci-Fi	0.0	0	
+WEBSITE-ESS PRAC MGT SCI	0.0	0	
+Cme, Fund Stat Beh Sci-CD/INF	0.0	0	
+SG Earth Sci and Enviro 3e	0.0	0	
+Ise Chem Ml Sci-CD/Now/INF 2e	0.0	0	
+Dec Tools Pract Mgt Sci 2e	0.0	0	
+SM INTRO SCI COMPUTAT PROG	0.0	0	
+ONLINE CSM-APPL STATS F/SCI	0.0	0	
+INST CD-ESS PRACT MGT SCI	0.0	0	
+BCA TST PROB STAT ENG SCI 6E	0.0	0	
+PHYSICS SCI ENG 6E V2	0.0	0	
+BCA TUTOR PHYSIC SCI/ENG 6E	0.0	0	
+PBLM SUPP PHYSIC SCI ENG 6E	0.0	0	
+Im/TB Environmental Sci 11e	0.0	0	
+Pract TST-Physic Sci/Eng 6e	0.0	0	
+Earth Science Now-Earth Sci	0.0	0	
+Website Environ Sci 10e	0.0	0	
+Demo CD-Earth Sci/Env 3e	0.0	0	
+IRCD Appl Stat F/Eng-Sci 2e	0.0	0	
+Im Teaching Elem Sci 8e	0.0	0	
+Cme, Stat Analysis Social Sci	0.0	0	
+LIBRARY INFO SCI RESEARCH	0.0	0	
+TST Win/MAC Stat Beh Sci 5e	0.0	0	
+Im/TB Stat F/Beh Sci 5e	0.0	0	
+Im/TB Funda Stat Beh Sci 8e	0.0	0	
+Funda Stat Beh Sci 9e	0.0	0	
+SG FUNDA STAT BEH SCI 9E	0.0	0	
+IM TB FUNDA STAT BEH SCI 9E	0.0	0	
+Elec Tra CD Sta F/Beh Sci 5e	0.0	0	
+CME ELEM SCI TCH	0.0	0	
+Ism Comp Sci Struc PR C 2e	0.0	0	
+Ocean Invit Marin Sci-Infotrac	0.0	0	
+PKG ACP MAN LIFE SCI CHEM LAB	0.0	0	
+Lm Inv Comp Sci Java Vrs 2e	0.0	0	
+TB Calc MGR,Life,Soc Sci 7e	0.0	0	
+CME SCI EDUC F ELEM TEACHERS	0.0	0	
+Analy Politcs Intro Pol Sci	0.0	0	
+Im-Discrete Math F/Comp Sci	0.0	0	
+Reincarnation a New Hor in Sci	0.0	0	
+Globe Physical Sci Work-A-Txt 87 C	0.0	0	
+659626 Globe Life Sci Work-A-Txt 87 C	0.0	0	
+Globe Physical Sci Work-A-Txt Ate 87	0.0	0	
+659669 Globe Work-A-Txt Earth Sci 87 C	0.0	0	
+Globe Work-A-Txt Earth Sci Ate 87 C	0.0	0	
+Glo Intro Gen Sci Work-A-Txt Ate 87c	0.0	0	
+IM TB ESS STAT F BEH SCI 7E	0.0	0	
+IE POLI SCI 2013 EDITION	0.0	0	
+POLI SCI TEXAS BK FAIR	0.0	0	
+POLI SCI CALIFORNIA BK FAIR	0.0	0	
+SSO PRE WBS SCI PRA SER ED PSY	0.0	0	
+EPIN SSO SCI PRA SER ED PSY	0.0	0	
+Joinin Kit-Env Sci 11e	0.0	0	
+IM ELEMENETARY SCI METH 5E	0.0	0	
+IM TB RES METHODS BEH SCI 3E	0.0	0	
+TST RES METH BEH SCI 3E	0.0	0	
+HS EBOOK BIOLOGY DYN SCI	0.0	0	
+ANIMATION ARC CD EARTH SCI	0.0	0	
+IAC RSRCH METH POLITCAL SCI 7E	0.0	0	
+PWRLECTURE STATS F BEH SCI 8E	0.0	0	
+AISE IRCD PR STAT EGR SCI 3E	0.0	0	
+AP GDE PHYS SCI ENGS 7E	0.0	0	
+IM CHEM MOLECULAR SCI 3E	0.0	0	
+TB PHYSICS SCI ENG V1 7E	0.0	0	
+TB PHYSICS SCI ENG V2 7E	0.0	0	
+EXVW TST PHYS SCI ENG V2 7E	0.0	0	
+TST WIN MAC EARTH SCI ENV 4E	0.0	0	
+Turn Kit Res Meth/Beh Sci 2e	0.0	0	
+ISM CALC MGR LIFE SOC SCI 8E	0.0	0	
+BUNDLE SP	0.0	0	
+APPLIED STATS FOR ENG SCI SPSS	0.0	0	
+HS EBK PHY SCI ENG C 1 39 7E	0.0	0	
+TST WIN MAC ENVIR SCI 13E	0.0	0	
+ABC DVD WKBK ENVIR SCI 08 2E	0.0	0	
+Turn Pt Res Meth/Beh Sci 2e	0.0	0	
+Turn Pt Method Sci Beh/Exp 8e	0.0	0	
+Joinin CD-Env Sci 11e	0.0	0	
+DIG ABC CD ENVIRO SCI V2	0.0	0	
+SSM Pract Mgt Sci 3e	0.0	0	
+SCI ENGIN OF MATERIAL ISM	0.0	0	
+JOININ UNDRS STAT BEH SCI 8E	0.0	0	
+ELEC TRA CD STAT BEH SCI 7E	0.0	0	
+MM MGR EARTH SCI ENVI 4E	0.0	0	
+Sci-Hi	0.0	0	
+New Mod Sci Gcse	0.0	0	
+New Mod Sci Gcse	0.0	0	
+Tude Sur Fran OIS Bacon	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 38	0.0	0	
+Discours Sur Les Avantages Des Sci Ed 1752	0.0	0	
+TRANSACTIONS OF THE UTAH ACADEMY OF SCI	0.0	0	
+Principes Sci Des Beaux Arts Ed 1878	0.0	0	
+LA PHOTOGRAPHIE ET SES APPLICATIONS SCI	0.0	0	
+MEMORIE DELLA REALE ACCADEMIA DELLE SCI	0.0	0	
+ATTI DEL REALE ISTITUTO LOMBARDO DI SCI	0.0	0	
+SNIPING IN FRANCE WITH NOTES ON THE SCI	0.0	0	
+THE SENSE AND NONSENSE OF CHRISTIAN SCI	0.0	0	
+SNIPING IN FRANCE WITH NOTES ON THE SCI	0.0	0	
+MEMORIE DELLA REALE ACCADEMIA DELLE SCI	0.0	0	
+WHERE THERES A WILL THERES A WAY OR SCI	0.0	0	
+PRECIOUS STONES CONSIDERED IN THEIR SCI	0.0	0	
+PRECIOUS STONES CONSIDERED IN THEIR SCI	0.0	0	
+A REFERENCE HANDBOOK OF THE MEDICAL SCI	0.0	0	
+A REFERENCE HANDBOOK OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+Ass Fra Ava Sci 14 Grenoble 2p Ed 1886	0.0	0	
+Ass Fra Ava Sci 15 Nancy 2p Ed 1887	0.0	0	
+Ass Fra Ava Sci 15 Nancy 1p Ed 1887	0.0	0	
+Histoire Sci Math Italie T1 Ed 1838 1841	0.0	0	
+Histoire Sci Math Italie T2 Ed 1838 1841	0.0	0	
+Histoire Sci Math Italie T3 Ed 1838 1841	0.0	0	
+Histoire Sci Math Italie T4 Ed 1838 1841	0.0	0	
+Voyage Sci Autour de Ma Chambre Ed 1862	0.0	0	
+Nouvelles Et Curiosites Sci Ed 1883	0.0	0	
+Ass Fra Ava Sci 14 Grenoble 1p Ed 1886	0.0	0	
+Ass Fra Ava Sci 2 Ed 1874	0.0	0	
+MEMOIRES DE LACADEMIE IMPERIALE DES SCI	0.0	0	
+AN INTRODUCTION TO GEOMETRY AND THE SCI	0.0	0	
+LUNION MEDICALE JOUNAL DES INTERETS SCI	0.0	0	
+THE HEALTH GUIDE AIMING AT A HIGHER SCI	0.0	0	
+PROCEEDINGS AND TRANSACTIONS OF THE SCI	0.0	0	
+THE TRUE WITNESS OF THINGS LITERARY SCI	0.0	0	
+A REPORT TO THE NATIONAL ACADEMY OF SCI	0.0	0	
+MEMOIRES DE LA SOCI T ROYALE DES SCI	0.0	0	
+ENCYCLOPEDIA REPUBLICANA REVISTA DE SCI	0.0	0	
+IOANNIS UNTERBERG CURIOSA MATHESEOS SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+Dict Sci Medicales 1s a E T18 Ed 1864 1888	0.0	0	
+Dict Sci Medicales 1s a E T12 Ed 1864 1888	0.0	0	
+Dict Sci Medicales 1s a E T15 Ed 1864 1888	0.0	0	
+Dict Sci Medicales 1s a E T28 Ed 1864 1888	0.0	0	
+Dict Sci Medicales 4s F K T11 Ed 1877 1889	0.0	0	
+Dict Sci Medicales 4s F K T5 Ed 1877 1889	0.0	0	
+Dict Sci Medicales 4s F K T14 Ed 1877 1889	0.0	0	
+Dict Sci Medicales 4s F K T4 Ed 1877 1889	0.0	0	
+Dict Sci Medicales 4s F K T7 Ed 1877 1889	0.0	0	
+Dict Sci Medicales 4s F K T1 Ed 1877 1889	0.0	0	
+Dict Sci Medicales 3s Q T T5 Ed 1874 1885	0.0	0	
+Dict Sci Medicales 3s Q T T18 Ed 1874 1885	0.0	0	
+Dict Sci Medicales 3s Q T T11 Ed 1874 1885	0.0	0	
+Dict Sci Medicales 3s Q T T16 Ed 1874 1885	0.0	0	
+Dict Sci Medicales 2s L P T9 Ed 1874 1889	0.0	0	
+Dict Sci Medicales 2s L P T14 Ed 1874 1889	0.0	0	
+Dict Sci Medicales 2s L P T22 Ed 1874 1889	0.0	0	
+Dict Sci Medicales 2s L P T27 Ed 1874 1889	0.0	0	
+Dict Sci Medicales 1s a E T2 Ed 1864 1888	0.0	0	
+Dict Sci Medicales 1s a E T26 Ed 1864 1888	0.0	0	
+Dict Sci Medicales 3s Q T T7 Ed 1874 1885	0.0	0	
+Dict Sci Medicales 3s Q T T6 Ed 1874 1885	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+THE AMERICAN JOURNAL OF THE MEDICAL SCI	0.0	0	
+Disposal Options for the Rocket Motors from Nerve Agent Rockets Stored at Blue Grass Army Depot	0.0	0	
+HM SCI L RDR CMPL SET	0.0	0	
+HM SCI L RDR CMPL SET	0.0	0	
+HM SCI RDR CMPL SET	0.0	0	
+HM SCI RDR CMPL SET	0.0	0	
+HM SCI RDR CMPL SET	0.0	0	
+Iml F/Lml-Sci of Animal Agricu	0.0	0	
+Iml-Lab Mnl-Sci of Agriculture	0.0	0	
+Zur Kenntniss Des Echten Und Des Giftigen Sternanis	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 5	0.0	0	
+Annales	0.0	0	
+What Is Contained in Henry Cornelius Agrippa's Second Book Owhat Is Contained in Henry Cornelius Agrippa's Second Book of Occult Science? F Occult Sci	0.0	0	
+Annales	0.0	0	
+Annales	0.0	0	
+Annales de L'Academie de Macon	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 77	0.0	0	
+Archives	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 26	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 12	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 89	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 13	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 57	0.0	0	
+Progrs Des Etudes Classiques Et Du Moyen GE, Philologie Celtique, Numismatique. (Recueil de Rapports Sur L'Tat Des Lett. Et Les Progrs Des Sci. En Fra	0.0	0	
+Memoires de La Socit D'Mulation de Montbliard, Volume 26	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 111	0.0	0	
+Religious Beliefs of Scientists, Including One Hundred Hithereligious Beliefs of Scientists, Including One Hundred Hitherto Unpublished Letters on Sci	0.0	0	
+Sances Et Travaux de L'Acadmie Des Sciences Morales Et Politiques, Compte Rendu, Volume 59	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 95	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 87	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 18	0.0	0	
+Annales de L'Academie de M[con	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 10	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 12	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Dissertaes Chronologicas E Criticas Sobre a Historia E Jurisprudencia Ecclesiastica E Civil de Portugal, Publ. Pelo J.P. Ribeiro. (Acad. Real Das Sci.	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 3	0.0	0	
+Annales	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 163	0.0	0	
+An  Elegiac Poem, Sacred to the Memory and Virtues of the Honourable Sir William Jones; ... Containing an Historical Retrospect on the Progress of Sci	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 70	0.0	0	
+Dissertaes Chronologicas E Criticas Sobre a Historia E Jurisprudencia Ecclesiastica E Civil de Portugal, Publ. Pelo J.P. Ribeiro. (Acad. Real Das Sci.	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 63	0.0	0	
+Annales	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 11	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 7	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 4	0.0	0	
+Annales	0.0	0	
+Petits Trait S, Volume 3	0.0	0	
+Annales	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 64	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 93	0.0	0	
+Atti Dell' Accademia Gioenia Di Scienze Naturali Di Satania Serie Seconda-Tomo XI	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Archives	0.0	0	
+Annales	0.0	0	
+Annales de L'Academie de Macon	0.0	0	
+Histoire Des Classes Ouvrires En France Depuis La Conqute de Jules Csar Jusqu' La Revolution. Ouvrage Couronn Par L'Acad. Des Sci. Morales Et Pol	0.0	0	
+Memoires de La Socit D'Mulation de Montbliard, Volume 31	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 82	0.0	0	
+Memorie Della Classe Di Scienze Fisiche, Matematiche E Naturali	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 104	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 113	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 112	0.0	0	
+Les Moralistes Francais Du Seizi Me Si Cle	0.0	0	
+Annales de L'Academie de M[con	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 136	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 125	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 105	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 119	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 117	0.0	0	
+Annales	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 101	0.0	0	
+Petits Trait S, Volume 2	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 66	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Seances Et Travaux De L'academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 11	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 2	0.0	0	
+Annales	0.0	0	
+Atti del Congresso Internazionale Di Scienze Storiche	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 2	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Supplement to the Catalogue of the Manchester Mechanics' Institution, Containing the Additions Made to the Library from Aug., 1849, to Nov., 1850	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 50	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 83	0.0	0	
+Collec O de Not Cias Para a Hist RIA E Geografia Das Na Es Ultramarinas, Que Vivem Nos Dominios Portuguezes, Ou Ches S O Visinhas. (Acad. Real Das Sci	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 8	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 85	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Petits Traits, Volume 5	0.0	0	
+Annales de L'Academie de M[con	0.0	0	
+The Life and Adventures of Sir William Wallace	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 24	0.0	0	
+American Journal of Pharmacy Volume 52	0.0	0	
+American Journal of Pharmacy Volume 60	0.0	0	
+American Journal of Pharmacy Volume 91	0.0	0	
+American Journal of Pharmacy Volume 81	0.0	0	
+American Journal of Pharmacy Volume 78	0.0	0	
+American Journal of Pharmacy Volume 67	0.0	0	
+American Journal of Pharmacy, Volume 77	0.0	0	
+American Journal of Pharmacy, Volume 24	0.0	0	
+American Journal of Pharmacy, Volume 36	0.0	0	
+American Journal of Pharmacy, Volume 22	0.0	0	
+American Journal of Pharmacy, Volume 20	0.0	0	
+American Journal of Pharmacy Volume 73 N.12	0.0	0	
+American Journal of Pharmacy Volume 73 N.10	0.0	0	
+American Journal of Pharmacy Volume 73 N.11	0.0	0	
+American Journal of Pharmacy Volume 73 N.5	0.0	0	
+American Journal of Pharmacy, Volume 70	0.0	0	
+American Journal of Pharmacy, Volume 20	0.0	0	
+American Journal of Pharmacy, Volume 71	0.0	0	
+American Journal of Pharmacy, Volume 25	0.0	0	
+Report on Meteorology, Museum and Horticultural Gardens in the Province of Oudh	0.0	0	
+Blennorrhagia and Syphilis; Their Nature and Treatment, Being an Analysis of the Letters of Ricord. from the Dublin Quarterly Journ. of Med. Sci	0.0	0	
+Lectures on Literature and Art, Delivered in the Royal College of Science Dublin, by J.P. Mahaffy	0.0	0	
+Recueil de Toutes Les Pieces Qui Ont T Publi Es A L'Occasion Du Discours de M. J. J. Rousseau Sur Cette Question Propos E Si Le R Tablissement Des Sci	0.0	0	
+American Journal of Pharmacy, Volume 21	0.0	0	
+American Journal of Pharmacy, Volume 53	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 149	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 106	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 137	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 135	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 103	0.0	0	
+Atti del Congresso Internazionale Di Scienze Storiche	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 139	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 160	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 133	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 109	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 134	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 126	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 99	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 167	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 110	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 102	0.0	0	
+Revue de La Normandie.Liitterature, -Sciences, -Beaux-Arts, -Histoire, Archeologie.Tome Second.Annee 1863	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 80	0.0	0	
+Memoires de La Socit Historique, Littraire Et Scientifique Du Cher	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 55	0.0	0	
+Histoire Des Classes Ouvrires En France Depuis 1789 Jusqu' Nos Jours. Ouvrage Couronn Par L'Acad. Des Sci. Morales Et Pol	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 25	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Report on Meteorology, Museum and Horticultural Gardens in the Province of Oudh	0.0	0	
+American Journal of Pharmacy, Volume 23	0.0	0	
+American Journal of Pharmacy, Volume 37	0.0	0	
+American Journal of Pharmacy, Volumes 1-42	0.0	0	
+American Journal of Pharmacy Volume 2	0.0	0	
+American Journal of Pharmacy, Volume 19	0.0	0	
+American Journal of Pharmacy, Volume 87	0.0	0	
+American Journal of Pharmacy Volume 73 N.7	0.0	0	
+American Journal of Pharmacy Volume 73 N.9	0.0	0	
+American Journal of Pharmacy Volume 73 N.1	0.0	0	
+American Journal of Pharmacy Volume 73 N.2	0.0	0	
+American Journal of Pharmacy Volume 73 N.4	0.0	0	
+American Journal of Pharmacy Volume 73 N.6	0.0	0	
+Course in Domestic Science	0.0	0	
+American Journal of Pharmacy, Volume 29	0.0	0	
+American Journal of Pharmacy Volume 6	0.0	0	
+American Journal of Pharmacy Volume 1	0.0	0	
+American Journal of Pharmacy Volume 90	0.0	0	
+American Journal of Pharmacy Volume 54	0.0	0	
+American Journal of Pharmacy Volume 68	0.0	0	
+American Journal of Pharmacy Volume 92	0.0	0	
+American Journal of Pharmacy Volume 69	0.0	0	
+American Journal of Pharmacy Volume 11	0.0	0	
+American Journal of Pharmacy Volume 64	0.0	0	
+American Journal of Pharmacy Volume 21	0.0	0	
+American Journal of Pharmacy Volume 14	0.0	0	
+American Journal of Pharmacy Volume 12	0.0	0	
+American Journal of Pharmacy Volume 30	0.0	0	
+American Journal of Pharmacy Volume 8	0.0	0	
+American Journal of Pharmacy Volume 32	0.0	0	
+American Journal of Pharmacy Volume 27	0.0	0	
+American Journal of Pharmacy Volume 39	0.0	0	
+American Journal of Pharmacy Volume 42	0.0	0	
+American Journal of Pharmacy Volume 65	0.0	0	
+American Journal of Pharmacy Volume 63	0.0	0	
+American Journal of Pharmacy Volume 46	0.0	0	
+American Journal of Pharmacy Volume 77	0.0	0	
+American Journal of Pharmacy Volume 86	0.0	0	
+American Journal of Pharmacy Volume 59	0.0	0	
+American Journal of Pharmacy Volume 40	0.0	0	
+American Journal of Pharmacy Volume 83	0.0	0	
+American Journal of Pharmacy Volume 25	0.0	0	
+American Journal of Pharmacy Volume 87	0.0	0	
+American Journal of Pharmacy Volume 43	0.0	0	
+American Journal of Pharmacy Volume 15	0.0	0	
+American Journal of Pharmacy Volume 5	0.0	0	
+American Journal of Pharmacy Volume 19	0.0	0	
+American Journal of Pharmacy Volume 13	0.0	0	
+American Journal of Pharmacy Volume 9	0.0	0	
+American Journal of Pharmacy Volume 24	0.0	0	
+American Journal of Pharmacy Volume 17	0.0	0	
+American Journal of Pharmacy Volume 10	0.0	0	
+American Journal of Pharmacy Volume 4	0.0	0	
+American Journal of Pharmacy Volume 16	0.0	0	
+American Journal of Pharmacy Volume 37	0.0	0	
+American Journal of Pharmacy Volume 22	0.0	0	
+American Journal of Pharmacy Volume 34	0.0	0	
+American Journal of Pharmacy Volume 85	0.0	0	
+American Journal of Pharmacy Volume 57	0.0	0	
+American Journal of Pharmacy Volume 75	0.0	0	
+American Journal of Pharmacy Volume 49	0.0	0	
+American Journal of Pharmacy Volume 84	0.0	0	
+American Journal of Pharmacy Volume 79	0.0	0	
+American Journal of Pharmacy Volume 82	0.0	0	
+American Journal of Pharmacy Volume 41	0.0	0	
+American Journal of Pharmacy Volume 51	0.0	0	
+American Journal of Pharmacy Volume 80	0.0	0	
+American Journal of Pharmacy Volume 66	0.0	0	
+American Journal of Pharmacy Volume 72	0.0	0	
+American Journal of Pharmacy Volume 36	0.0	0	
+American Journal of Pharmacy Volume 89	0.0	0	
+American Journal of Pharmacy Volume 26	0.0	0	
+American Journal of Pharmacy Volume 94	0.0	0	
+American Journal of Pharmacy Volume 33	0.0	0	
+American Journal of Pharmacy Volume 31	0.0	0	
+American Journal of Pharmacy Volume 29	0.0	0	
+American Journal of Pharmacy Volume 38	0.0	0	
+American Journal of Pharmacy Volume 61	0.0	0	
+American Journal of Pharmacy Volume 55	0.0	0	
+American Journal of Pharmacy Volume 28	0.0	0	
+American Journal of Pharmacy Volume 62	0.0	0	
+American Journal of Pharmacy Volume 45	0.0	0	
+American Journal of Pharmacy Volume 76	0.0	0	
+American Journal of Pharmacy Volume 50	0.0	0	
+American Journal of Pharmacy Volume 23	0.0	0	
+American Journal of Pharmacy Volume 71	0.0	0	
+American Journal of Pharmacy Volume 48	0.0	0	
+American Journal of Pharmacy Volume 35	0.0	0	
+American Journal of Pharmacy Volume 74	0.0	0	
+American Journal of Pharmacy Volume 70	0.0	0	
+American Journal of Pharmacy Volume 44	0.0	0	
+American Journal of Pharmacy Volume 20	0.0	0	
+American Journal of Pharmacy Volume 18	0.0	0	
+American Journal of Pharmacy Volume 3	0.0	0	
+American Journal of Pharmacy Volume 93	0.0	0	
+American Journal of Pharmacy Volume 58	0.0	0	
+American Journal of Pharmacy Volume 88	0.0	0	
+American Journal of Pharmacy Volume 53	0.0	0	
+American Journal of Pharmacy Volume 47	0.0	0	
+Atti del Congresso Internazionale Di Scienze Storiche	0.0	0	
+Lo Stipo Di Barbara D'Austria. Estr. Dall'albo Offerto Dalla R. Acad. Modense Di Sci. Lett. Ed Arti Agli Sposi Francesco Ferdinando D'Este E Adelgonda	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Compte-Rendu Des Travaux ...	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 1	0.0	0	
+Annales de La Facult Des Sciences de Toulouse, Volume 6	0.0	0	
+Dissertaes Chronologicas E Criticas Sobre a Historia E Jurisprudencia Ecclesiastica E Civil de Portugal, Publ. Pelo J.P. Ribeiro. (Acad. Real Das Sci.	0.0	0	
+Histoire Des Classes Ouvrires En France Depuis 1789 Jusqu' Nos Jours. Ouvrage Couronn Par L'Acad. Des Sci. Morales Et Pol	0.0	0	
+Archives	0.0	0	
+Tude Sur Franois Bacon	0.0	0	
+Memoires de L'Academie Des Sciences, Inscriptions, Belles-Lettres, Beaux-Arts, &C. Nouvellement Tablie Troyes En Champagne	0.0	0	
+Annales	0.0	0	
+Annales	0.0	0	
+Memoires de La Societe D'Emulation de Montbeliard, Volumes 29-30	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+Histoire Des Classes Ouvrires En France Depuis La Conqute de Jules Csar Jusqu' La Revolution. Ouvrage Couronn Par L'Acad. Des Sci. Morales Et Pol	0.0	0	
+Collection Des Ordonnances Des Rois de France	0.0	0	
+S Ances Et Travaux de L'Acad Mie Des Sciences Morales Et Politiques, Compte Rendu, Volume 73	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 120	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 98	0.0	0	
+Atti Dell'i.R. Istituto Lombardo Di Scienze, Lettere Ed Arti, Volume 1	0.0	0	
+Lectures on Literature and Art, Delivered in the ... Royal College of Science ... Dublin, by J.P. Mahaffy	0.0	0	
+Notices Biographiques Et Bibliographiques 1906-1907	0.0	0	
+Integ Sci Jun Sec1 Pb S Leone	0.0	0	
+Physics for Sci& Engrs Mstr& Prs $20 Rebt Crd	0.0	0	
+Phy Sci& Eng Vol1 Ch1-15& V2& V3& V4& V5 Pkg	0.0	0	
+Physics Engrs& Sci V1 W/Mstrg& Physics V4& Prs	0.0	0	
+Essential Envirnmnt Sci& Themes Times Env Pk	0.0	0	
+Physics Sci& Engrs Chap1-36 Alt& Prs Pkg	0.0	0	
+Igenetics Molecular Apprch& Sg& Sci Amer Pkg	0.0	0	
+Phys Sci & Eng Vl1 Chp1-15& Wkbk V1& Prs Pkg	0.0	0	
+Environment Sci Behind& Themes Environmt Pkg	0.0	0	
+Phy Sci & Eng V2ch16-19& V3ch20-24& V4ch25-36	0.0	0	
+World of Cell& Sols Mnl& Sci Am& Rdg Prim Lit	0.0	0	
+Teaching Primary Sci Peacock	0.0	0	
+Political Economy of Regional Cooperation in the Middle East	0.0	0	
+Building Math for Common Core State Standards - 3 Book Series	0.0	0	
+Supplement to the Catalogue of the Manchester Mechanics' Institution, Containing the Additions Made to the Library from Aug., 1849, to Nov., 1850	0.0	0	
+CLASSMASTER CD SCI ANIMAL AGRI	0.0	0	
+Ency Lib Sci V35-Indx	0.0	0	
+Nuclear & Particle Sci.	0.0	0	
+Nuclear & Particle Sci	0.0	0	
+Nuclear & Particle Sci	0.0	0	
+Earth & Planetary Sci	0.0	0	
+Earth and Planetary Sci.	0.0	0	
+Earth & Planetary Sci.	0.0	0	
+Ency Lib Sci V20	0.0	0	
+Sci Dw Pupil Edition Level 2 00	0.0	0	
+Sci Dw Pupil Edition Level 3 00	0.0	0	
+Sci Dw Pupil Edition Level 4 00	0.0	0	
+At Home with Sci Drip Drop Scr 93c	0.0	0	
+Crosstabs Workbook for Wilson's American Government, 2nd	0.0	0	
+Documentos Des Chancelarias Reais Anteriores a 1531 Relativos a Marrocos, Pub. Por Ordem Da Academia Das Sci Ncias de Lisboa E Sob a Direc O de Pedro de Azevedo Volume 01	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 65	0.0	0	
+Indexes to the Apocalypse Revealed. I. of Words, Names, and Things. II. of the Memorable Relations. III. of Passages of Scripture. Relating to the Sci	0.0	0	
+Bulletin de La Station Biologique D'Arcachon Volume No. 3	0.0	0	
+Bulletin de La Station Biologique D'Arcachon Volume No. 16	0.0	0	
+Mathematics, Science, and Technology Education	0.0	0	
+Interdisciplinary Research in Mathematics, Science, and Technology Education	0.0	0	
+Report of a Workshop on the Pedagogical Aspects of Computational Thinking	0.0	0	
+Integ Sci Jamaica Bk3 2e	0.0	0	
+Take off MAC Pri Sci Crse 1 Pb	0.0	0	
+Take off MAC Pri Sci Crse 2 Pb	0.0	0	
+Take off MAC Pri Sci Crse 3 Pb	0.0	0	
+Essn C++ for Engrs& Sci& C++ Builder 6.0 Pkg	0.0	0	
+Conceptual Phy with Out Pract& Sci Sound Pkg	0.0	0	
+Essential C++ Engineer& Sci& Linux Progrm Pk	0.0	0	
+Phy Sci& Engr V1& V3& Ssm V1& Prs $20 Rbt Crd	0.0	0	
+Environment Sci Behind Stories& Webct Acc Pk	0.0	0	
+Technical Comm& Short GD Writ about Sci Pkg	0.0	0	
+Phy Sci & Engineers Ch1-42 & Prs Pkg	0.0	0	
+Physic Sci & Engnr Vol 3 & Vol 4 & Prs Pkg	0.0	0	
+Physc Sci& Engrs V2 Ch16-19& Prs$20reb Crd Pk	0.0	0	
+Physics for Sci & Engrs V1 W/MP & Prs Pkg	0.0	0	
+Physics for Sci& Engrs V1 W/MP& V3 & Prs Pk	0.0	0	
+Writg in the Sci& Mtcl Web Studt A/C VP Pkg	0.0	0	
+Enviromt Sci Behind Stories& Themes Time Pkg	0.0	0	
+Conceptual Physcl Sci& Prac Bk& BB Crd& Tc Pkg	0.0	0	
+Physic Sci& Engnr V2 Ch16-19& V3 Ch20-24 Pkg	0.0	0	
+Conceptual Physical Sci & Prs $20 Rebte Pkg	0.0	0	
+Physics for Sci & Engrs V4 & Prs Rebate Pkg	0.0	0	
+Physcs for Sci& Engrs V1& V2& Prs Rebate Pk	0.0	0	
+Conceptual Physical Sci& Prs $20 Reb& BB Pkg	0.0	0	
+Bascs Amer Poltcs& Wrtg Pol Sci& Amusg Oursel	0.0	0	
+Phys Sci& Eng Vol1ch1-15& V2c16-19& V4ch25-36	0.0	0	
+Short Guide Writg Abt Soc Sci& Rsrch& Writ Pk	0.0	0	
+Phys Sci& Engn V1 Ch1-15& Vol 2 Ch 16-19 Pkg	0.0	0	
+Esstl Biol& Phys& Concpt Phys Sci& Curr ISS V2	0.0	0	
+Physics Sci& Engrs V1 Ch1-15& V3 20-24& $20 Pk	0.0	0	
+Empirical Politcl Analy& Writg Politcl Sci	0.0	0	
+Conceptual Physical Sci& $20 Rebate Crd Pkg	0.0	0	
+Modern Physics Sci& Engrs Stnd& Mastrg& Educue	0.0	0	
+Phys Sci& Engrs V4 Ch25-36& V3 Ch20-34& $25 Pk	0.0	0	
+Phys Sci& Engn V4 Ch25-36& Phys V5 Ch36-42	0.0	0	
+Igenetics Mendelian Approach& Sci Amer Pkg	0.0	0	
+Molecular Biology of the Gene& Sci Amer Pkg	0.0	0	
+Modern Phys Sci & Engnrg& Mast& Reba Card Pkg	0.0	0	
+Physics Sci& Engin V2 Chp16-19& Vol3& Vol5 Pk	0.0	0	
+Physics for Sci& Engrs Mastr& Prs $20 Rbt Crd	0.0	0	
+World of the Cell& Sci AME Curr ISS Cell Pk	0.0	0	
+Igenetics Molecular Appr& Sci Amer Curr Pkg	0.0	0	
+Physics for Sci& Engrs V2& V3& Prs Rebate Pk	0.0	0	
+Physics for Sci&stu Study GD&Webassign Acc	0.0	0	
+Biological Sci W/Mstrg V2&dict of Biology	0.0	0	
+Biological Sci Withmastergbio V1&dict Biol	0.0	0	
+Biological Sci with Mstrgbio V1&v2&v3&dict	0.0	0	
+Physics Sci& Engrs V4& Mstrg Phys Acc Kit Pk	0.0	0	
+Phys Sci & Engn Vol 4 Ch 25-36& Prs Rebate Pkg	0.0	0	
+Phys Sci & Engn Vol4 Ch25-36& V3 Ch20-24 Pkg	0.0	0	
+Biostats for Biologcl& Health Sci& Ssm Pkg	0.0	0	
+Molecular Bio Gene& Sci Amer& Rdg Primary Lit	0.0	0	
+Practicing Sci for Conceptual & Lab Mnl Pkg	0.0	0	
+Phy Sci & Eng V4 Ch25-36& V3& 20-34& V2 16-19pk	0.0	0	
+Biostats for Biologc& Health Sci& Ssm& SPSS Pk	0.0	0	
+Phy Sci& Engr Vol1 Ch1-15& Prs $20 Rebt Card	0.0	0	
+Igenetcs Mendeln Appr& Sg& Sci AME& CC S/A Crd	0.0	0	
+Environ Sci Behind Stor& Themes1& 2& CC Ebk Pk	0.0	0	
+Pract Sci Concptl& Enzyme& Mitochon& Evol& Popu	0.0	0	
+Physics for Sci& Engrs V4 Ch25-36 & Prs Pkg	0.0	0	
+Bio Sci with Matergbio&bb Acc Crd Bundle VR	0.0	0	
+Ess Igenetics& Sci Am&und&gene&stem&genetic	0.0	0	
+Phys Sci& Eng V4 Ch26-37&eng V3 Ch20-25 Mst	0.0	0	
+Bio Sci with Mastergbio&investigatg Bio Lab	0.0	0	
+Applicatn & Investigatn Earth Sci&atlas Pkg	0.0	0	
+Phys Sci&eng	0.0	0	
+Biolgcl Sci with Mastergbio&dict of Bio Pkg	0.0	0	
+Bio Sci with Mastrgbio&practcg&get Ready&cc	0.0	0	
+World of the Cell Wit CD& Sci ISS& Rdg& Prs Pk	0.0	0	
+Pract Sci Conceptl& Intro Chem& Enzyme Lab&	0.0	0	
+Biology& Sci AME Curr ISS Cell& Rdg Prim Lit	0.0	0	
+Bio Sci Vol 1& Cw+grtrackr& Bio V3& Blast& Dict	0.0	0	
+Phys Sci& Engineers& Physlet& Prs $20 Rebate	0.0	0	
+Phys Sci& Eng V1& Chptrs 16-19& Prs $20 Rebate	0.0	0	
+Bio Sci& Cw& Gradetrck& Eval& Rdrng& Dict& Nav	0.0	0	
+Igenet Moleclr Approach& Sg& SM& Sci& BB Acc Pk	0.0	0	
+Biological Sci Vol2& Cw+grdebtrk& Prs Card Pk	0.0	0	
+Astronomy Today Vol 2& Lect& Edumnd Sci Pkg	0.0	0	
+Phys Sci& Engrs V2 Ch 20-35&physlet Physics	0.0	0	
+Esstls of Genetics& Sci Amer Curr ISS Cell	0.0	0	
+Biological Sci Vol 2& Cw+grdtrkr& Sg& Dict Pkg	0.0	0	
+Biologcl Sci& Comp Web+grdtrk A/C& Sg& Dict Pk	0.0	0	
+Bio Sci Vol1& Cw+grdetrackr A/C& Sg& Dict Pkg	0.0	0	
+Bio Sci Vol1& Cw+grdtrkr A/C& V2& 3& Sg& DIC Pk	0.0	0	
+Bio Sci Vol1& Cw+grdtrkr A/C& V2& 3& Dict Pkg	0.0	0	
+Biologicl Sci Vol1& Cw+grdtrk AC& Rdg Prim Pk	0.0	0	
+Esst of Genetcs& Gen Lab Investgtn&sci Amer	0.0	0	
+Physic for Sci&engrs W/Modn&stu Study GD	0.0	0	
+Physics Sci&eng V4 Chp26-37&v2 Ch 16-19 Pkg	0.0	0	
+Physics Sci & Engnr V2 & Webassign Pkg	0.0	0	
+Bio Sci with Mstrgbio&curr ISS V2&v3&v4 Pkg	0.0	0	
+Biological Sci with Mastrg Bio Vol2&vol3	0.0	0	
+Astro& Starry Night&lect Tutr&edumnd Sci&1k	0.0	0	
+Conceptual Integrated Sci&cc Studt Access	0.0	0	
+Foundatns of Earth Sci& Dire Predictions Pk	0.0	0	
+Phys Sci Ch1-37w/Mstrg&s/S/G&sm V1&2&physlet	0.0	0	
+Acp Kip Pkg Contemp Mgt Sci W Excel	0.0	0	
+Phy Sci&Engineers Ch1-36	0.0	0	
+Physic Sci & Engnr	0.0	0	
+Using Cereal Sci and Tech 12 Inl	0.0	0	
+Clinical Lab Sci Series	0.0	0	
+Sel Annual Reviews of the Analt Scis	0.0	0	
+CLASSMASTER CD AQUACULT SCI 3E	0.0	0	
+LAB MNL CD AQUACULT SCI 3E	0.0	0	
+POLI SCI 4 YR	0.0	0	
+HUM SOC SCI LIBRARY	0.0	0	
+IM TST FUND STATS BEHAV SCI 7E	0.0	0	
+IM TST BAS STAT BEHAV SCI 6ED	0.0	0	
+IAC PRM WBS ORG BEH SCI THE	0.0	0	
+Yarn Tech Sci Tech Econ	0.0	0	
+HLTH PROMO BEHVL SCI IN PUBLIC HEALTH	0.0	0	
+K12 TCH MNL ENV SCI	0.0	0	
+IM TB UNDRS STATS BEH SCI	0.0	0	
+IAC PRM WBS ORG BEH SCI THE	0.0	0	
+IR INVITATION TO COMP SCI 6E	0.0	0	
+ISE IAC CRSMT W EBK F SCI	0.0	0	
+K12 PDF EBK CD EQUINE SCI 3E	0.0	0	
+PKG 25 SEAT 6YR K12 ART SCI LI	0.0	0	
+PKG 5 SEAT 6YR K12 ARE SCI LIV	0.0	0	
+PKG 1 SEAT 6YR K12 ART SCI LIV	0.0	0	
+IE HYBRD PHY SCI ENGS MOD 8E	0.0	0	
+PKG 1SEAT 6YR K12 FORENSIC SCI	0.0	0	
+IRCD MOD PHYS F SCI ENGNR 4E	0.0	0	
+MICROCASE F T SOC SCI	0.0	0	
+AISE IMAGE BANK C PROGRPRIN PRAC SCI ENG	0.0	0	
+Ibss Poli Sci 29 1980	0.0	0	
+TURFGRASS SCI MAN IML LMIML E3	0.0	0	
+Elements Social Sci Thinking	0.0	0	
+IML SCI OF AGRICULTURE 2E	0.0	0	
+CDR SCI OF AGRICULTURE 2E	0.0	0	
+IML LML SCI OF AGRICULTURE 2E	0.0	0	
+IML SCI OF EARTH SYSTMS	0.0	0	
+IML LML SCI OF EARTH SYSTEMS	0.0	0	
+IML EQUINE SCI 2E	0.0	0	
+CLASSMASTER CD INTRO FOOD SCI	0.0	0	
+Iml/Lml-Turfgrass Sci/Mgmt 3e	0.0	0	
+Continuing Innovation in Information Technology	0.0	0	
+Biology of Humans & Sci Amer Curr ISS Pkg	0.0	0	
+Biology Sci for Life W/Phys& Curr ISS Vl4 Pkg	0.0	0	
+Physcs Sci& Engrs1& Ssg W/Sel Sols& PH Grd2& Pk	0.0	0	
+Bio Sci& Comp Webste/Grtrckr& 1ky Webct& Dict	0.0	0	
+Bio Sci& Comp Website& S/G& 1key CC& Eval& Dict	0.0	0	
+Bio Sci Vol 2& Cw W/Grtracker& Dict Bio Pkg	0.0	0	
+Bio Sci Vol 1& Cw& Grtracker& Dict of Bio Pk	0.0	0	
+Practicing Sci Conceptual&cc&pract&lab/M Pk	0.0	0	
+Bio Sci& Cw& Gradetrckr& Investiating Bio Pkg	0.0	0	
+Physcs for Sci&engrs V1 Ch1-20&s/Sg&mcat Pk	0.0	0	
+Bio Sci& Cw& Gradetrck& Get Ready for Bio Pkg	0.0	0	
+Chemistry Central Sci&masterg&iclicker Pkg	0.0	0	
+Biology & Coursecmp Studt Acc& Pract& Sci Pkg	0.0	0	
+Physics Sci& Engrs V1& V3& Mastrg Physics Pk	0.0	0	
+Molec Bio Gene& Sci Amer& Bio Terror& HIV& AIDS	0.0	0	
+Phys Sci& Engnr V1 Ch1-15& V2 Ch16-19& Prs Pkg	0.0	0	
+Biostats for Bio& Hlth Sci W/Disk& Minitab Pk	0.0	0	
+Conceptual Physical Sci& Prac Bk& Prs $20 Pkg	0.0	0	
+1995 Conf Quantum Elect Laser Sci	0.0	0	
+Biology Concepts& Conn& Sci AME& CC Stu A/Crd	0.0	0	
+Biology Concepts & Connctn& Sci Amer Curr Pkg	0.0	0	
+Physics for Sci & Engrs V3 & V5 Pkg	0.0	0	
+Phy Sci& Eng V2 Ch16-19& V4 Ch25-36& Prs$20	0.0	0	
+Esstl Igentics& Sci Amer Curr ISS Cell Pkg	0.0	0	
+Phy Sci& Engr V1& Ch 1-15& V2 16-19& V3& V4 Pkg	0.0	0	
+Earth vs. the Sci-fi Filmmakers	0.0	0	
+Problem Solvg with Java Upd& Comptr Sci Pkg	0.0	0	
+Physics for Sci& Engrs& Mod 1-45& Masterg Pkg	0.0	0	
+Mod Physcs Sci& Engrs Stndrd& Mstrg Physcs Pk	0.0	0	
+Conceptual Physcl Sci& Lab Mnl& Pract Bk Pkg	0.0	0	
+Conceptual Physical Sci & Lab Manual Pkg	0.0	0	
+Conceptual Physicl Sci& Pract Bk& Build Yr Pk	0.0	0	
+Calc for Eng& the Sci Full Ver& Math Tut Pkg	0.0	0	
+Calc for Eng & Sci Pt1& Tutor Ctr Pkg	0.0	0	
+Calc for Eng & Sci Pt2& Tutor Center Pkg	0.0	0	
+Calc for Eng & Sci Full Ver & Ssm1& 2 Pkg	0.0	0	
+Calc for Eng& Sci Full Ver & Dig VID Tut Pkg	0.0	0	
+Calc for Eng & Sci PT 1 & Dig VID Tut Pkg	0.0	0	
+Physics for Sci& Engrs V2 V3& V5& Mastrg Pk	0.0	0	
+Physics Sci& Engr&e&m Tipers&rankg Task Exe	0.0	0	
+Biologicl Sci with Masteringbio&sg&dict Pkg	0.0	0	
+Biolgcl Sci with Mastergbio V1&get Ready Pk	0.0	0	
+Essentl Environmnt Sci Behind Stor&dire Pkg	0.0	0	
+Earth Sci Books Alc&applctns&geosci CDROM	0.0	0	
+Foundtns Earth Sci Alc& App&inv&sticker Pkg	0.0	0	
+Earth Sci Alc& Dire Predictns& Goodes Atlas	0.0	0	
+Physcs Sci& Engr1-37/Mstrg&sg&sm V1&physlet	0.0	0	
+Physcs for Sci& Engrs V1 W/Mastrg&vol 4 Pkg	0.0	0	
+Biolgcl Sci with Mastergbio& S/G& CC W/Ebk	0.0	0	
+Physics Sci& Eng V2&ssg&sel SM V1&2&physlt&	0.0	0	
+Physic Sci& Engrs V3 Ch36-44&mod&ssg&sel Pk	0.0	0	
+Calc for Busn Econ Life Sci&mml Sak&cdls Pk	0.0	0	
+Physics for Sci & Engrs V4&s/S/M V2&masterg	0.0	0	
+Earth Sci Alc& Appl&investigatns& Encounter	0.0	0	
+Esstl of Envir Sci Behnd Alc&viewpts Envir	0.0	0	
+Esstl of Environ Sci Behnd&bb Acc Crd Bndle	0.0	0	
+Calculus for Busn Econ Life Sci&soc&i/A Pkg	0.0	0	
+Phys Sci& Engrs V1&mast&ssg&sm2&physlet Pkg	0.0	0	
+STATS Art& Sci of Learng&minitab Rel14.0win	0.0	0	
+Statstcl Meth Soc Sci&statcrnch 12mo AC&S/C	0.0	0	
+Foundatns Earth Sci Alc& Encounter&dire Pkg	0.0	0	
+Earth Sci& Appl&investgtns&sg&lect&encountr	0.0	0	
+Conceptual Physical Sci&pract Physics Concp	0.0	0	
+World of Cell& Ssm World of Cell&sci Amer	0.0	0	
+Biological Sci with Masterbio&sg Unbnd Pkg	0.0	0	
+Concepts of Genetics&sci Amer Curr ISS Pkg	0.0	0	
+Chem Centrl Sci&mastr Chem W/Ebk&bas Med Pk	0.0	0	
+Earth Sci& Applicatns&investigtns& CC S/A/C	0.0	0	
+Enviro Sci	0.0	0	
+Biologicl Sci with Mstrgbio&dict&get Rdy Pk	0.0	0	
+Conceptual Physical Sci Explr&bb A/Card Pkg	0.0	0	
+Physics Sci& Eng Vol2 W/Mstry&v3&v4 Pkg	0.0	0	
+Physics for Sci&engrs Stratgc&mast Phys Pkg	0.0	0	
+Concptl Physcl Sci&prac Bk&einstructn Coupn	0.0	0	
+Bio Sci with Mastrg&practcg&rdg Primry&into	0.0	0	
+Mastrgbio with eBook Biolgcl Sci & Iclicker	0.0	0	
+Conceptl Integrtd Sci&pract Bk&einstruction	0.0	0	
+Physcs Sci& Engrs W/Mstrg&ssm V1&v2&iclickr	0.0	0	
+Astro Beginnr Guide&starry Nite&edmund Sci&	0.0	0	
+Bio Sci with Mastrgbio&intr Chem Bio&dict&	0.0	0	
+Bio Sci for Life Alc W/S/Crd&bb&curr V2&5pk	0.0	0	
+Biologicl Sci with Mstrgbio&iclicker Reb Pk	0.0	0	
+Phys Sci&eng V1 1-15 W/WB&Mp&v3 W/WB&Wbk1&3	0.0	0	
+Phys Sci& Eng	0.0	0	
+Physcs Sci& Engn V1&vol2&mstrg Phy Sak&s/WB	0.0	0	
+Chemistry Central Sci&lab/Exp&sol&master Pk	0.0	0	
+Biological Sci with Mastergbio&get Ready Pk	0.0	0	
+Elementl Geosystms& Sci Endeavor&goodes Pkg	0.0	0	
+Conceptual Physical Sci&lab Mnl&practice Bk	0.0	0	
+Conceptl Integratd Sci&into Jungle Grt Adve	0.0	0	
+Bio Sci for Life Alc W/S/Crd&cc W/Eb Sak Pk	0.0	0	
+Phys Sci&eng W/Mod Bks Alc&mstrg Chem W/Ebk	0.0	0	
+Physics Sci& Eng W/Mod Alc&mstrg Phys Sac&	0.0	0	
+Biologicl Sci with Mastergbio V1&bb Acc Pkg	0.0	0	
+Biological Sci with Mastergbio V1&bio V2&3	0.0	0	
+Astronomy Beginner Guide&edmund Sci Star Pk	0.0	0	
+Physcs for Sci&engrs W/Mastrg&elnstruct Cpn	0.0	0	
+Calc for Bus Econ Life Sci&addtnl&i/A Mthxl	0.0	0	
+Biologicl Sci with Mstrgbio&get Rdy&prac&pk	0.0	0	
+Physics Sci&eng V1&elnstruct $10 Rebate	0.0	0	
+Physics Sci&eng V1&ssg V1&physlet&$10 Rebate	0.0	0	
+Phys Sci&eng Combined&ssg&sm&sss V1&phy&$10	0.0	0	
+Bio Sci with Mstrgbio&dict Bio&sg&rdg Prim	0.0	0	
+Biology Sci for Life W/Phys&einstruct$10 RB	0.0	0	
+Biology Sci Life W/Physio&lab Mnl&iclickr10	0.0	0	
+Biostats for Biolog&health Sci&spss17.0win	0.0	0	
+Biological Expolortns& Sci W/Mstrgbio V1&v3	0.0	0	
+Bio Sci with Mastrgbio&get Rdy&prac Bio WB&	0.0	0	
+Astro Beginner Guide&edmund Sci Star&einstr	0.0	0	
+Elem of Ecology&bio Sci W/Mstrg2&evolutn&pk	0.0	0	
+Physics Sci& Engrs V1&2 Masterg&s/Sg Phy Pk	0.0	0	
+Essential Environmnt Sci&into the Jungle Pk	0.0	0	
+Conceptual Physcl Sci Alc & Practice Bk Pkg	0.0	0	
+Comptr Sci& Overvw& Visl C++ Net Manl Prob	0.0	0	
+Phy Sci & Eng Vl1 Ch1-15& Ssm& Phy V3& Rebt Pk	0.0	0	
+Physics for Sci& Engrs& Hitt Rebate Card Pk	0.0	0	
+Physics for Sci& Engrs V1 1-15& V2 16-19 Pk	0.0	0	
+Physcs Sci& Engr V3 20-24& V4 25-36& V5 36-42	0.0	0	
+Physics Sci& Engr& Ssm V1 Ch1-19& V2 Ch20-42	0.0	0	
+Phy Sci & Eng Vl1 Chp1-15& Phy Sci25-36 V4pk	0.0	0	
+Physics for Sci & Engrs Vols 2 & 3 & 5 Pkg	0.0	0	
+Comptr Sci	0.0	0	
+Physics for Sci & Engrs V2 & V3 & V4 Pkg	0.0	0	
+Physics for Sci & Engrs Vol 3 & Vol 4 Pkg	0.0	0	
+Phys Sci& Engnv3ch20-24& V4ch25-36& V5ch36-42	0.0	0	
+Phys Sci& Engn Vol4 Ch25-36& Vol5 Ch36-42 Pk	0.0	0	
+Sci Endeavor Primer& Stem Cell& Clong Bklt Pk	0.0	0	
+Conceptl Physci Sci& 20 Rebate Crd Educue Pk	0.0	0	
+Physics for Sci & Engrs V3 & V4 & Hitt Pkg	0.0	0	
+Igenetc Solutn& Labrty DNA Sci& Sg& Genom& Fly	0.0	0	
+Physics for Sci & Engrs V2& V3 & Educue Pkg	0.0	0	
+Phys Sci& Engr V3 Ch20-24& V4 25-30& V5 36-42	0.0	0	
+Macroecon & Dismal.com Sci 12 Wk Subscrp Pkg	0.0	0	
+Physics Sci& Engrs V1& V2& Mastrphysics& Hitt	0.0	0	
+Conceptual Phys Sci& Lab Mnl& Prac Bk& BB Pkg	0.0	0	
+Concptl Physcl Sci Lab Mnl& Prac Bk& BB Bunpk	0.0	0	
+Calc for Energ& Sci& Ssm Pt1& Ssm Pt2& MML A/Kt	0.0	0	
+Physics Sci& Engrs V1 Ch1-15& V2 Ch 16-19 Pkg	0.0	0	
+Physics for Sci& Engrs V1& V2& Hitt Rebate Pk	0.0	0	
+President& Congress& Careers in Poli Sci Pk	0.0	0	
+Comptr Sci	0.0	0	
+Physics Sci& Engrs Stndard Ch1-36& Educue Pk	0.0	0	
+Mod Physics Sci& S/S/M& Mastrg Physics& Educue	0.0	0	
+Struggl for Democ W/LP.Com& Careers Pol Sci	0.0	0	
+New Amer Democ Alt W/LP.Com& Careers Pol Sci	0.0	0	
+New Amer Democrcy W/LP.Com& Careers Pol Sci	0.0	0	
+Struggle for Democ W/LP.Com& Careers Pol Sci	0.0	0	
+Which Side Are You on & Careers Poli Sci Pk	0.0	0	
+Essn Anat& Physio& Appl Mnl& S/S/G& Sci Int Pk	0.0	0	
+Conceptual Physcl Sci & CC Access Kit Pkg	0.0	0	
+Essntl Biology& Sci Amer& Biology Today Pkg	0.0	0	
+Concptual Physcl Sci& Prac Bk& Psplace A/Card	0.0	0	
+Physics Sci& Engrs& V4 C25-36& Vl2 C16-19 Pkg	0.0	0	
+Calc Singl Var Part1& Ssm Sci& MML Acc Kit VP	0.0	0	
+Calc Engr Sci& Gen MML Stu Kit& MML Insd Star	0.0	0	
+Comptr Sci	0.0	0	
+Comptr Sci	0.0	0	
+UNDER STATS BEHAV SCI 3 5 DB	0.0	0	
+Cps-Pom Sel Mtrl Mgt Sci Ua-Cn Ed	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 22	0.0	0	
+Isthmus of Suez Ship Canal	0.0	0	
+Annales	0.0	0	
+Annales de L'Academie de M[con	0.0	0	
+101 Sci-fi Movies You Must See Before You Die	0.0	0	
+Biomes/Sci of the Biomes Collection	0.0	0	
+Philosophy of the Unconscious, Speculative Results According to the Inductive Method of Physical Sci	0.0	0	
+Philosophy of the Unconscious, Speculative Results According to the Inductive Method of Physical Sci	0.0	0	
+Philosophy of the Unconscious, Speculative Results According to the Inductive Method of Physical Sci	0.0	0	
+Philosophy of the Unconscious, Speculative Results According to the Inductive Method of Physical Sci	0.0	0	
+Sances Et Travaux de L'Academie Des Sciences Morales Et Politiques, Compte Rendu, Volume 127	0.0	0	
+Stub - Sci	0.0	0	
+American Journal of Pharmacy, Volume 83	0.0	0	
+Vincitori Della Coppa Europa Di Sci Alpino	0.0	0	
+Bulletin de La Station Biologique D'Arcachon Volume No. 18	0.0	0	
+Anatomical and Behavioral Correlates to Sensory & Motor Deficits Following Sci	0.0	0	
+American Journal of Pharmacy, Volume 86	0.0	0	
+American Journal of Pharmacy, Volume 24	0.0	0	
+Secrets of Correct Table Service ..	0.0	0	
+Bulletin de La Station Biologique D'Arcachon Volume No. 17	0.0	0	
+American Journal of Pharmacy, Volume 68	0.0	0	
+Memorie Dell'i. R. Istituto Lombardo Di Scienze, Lettere Ed Arti, Volume 8	0.0	0	
+Atti del Congresso Internazionale Di Scienze Storiche	0.0	0	
+Pedagogical and Curricular Thinking of Professional Astronomers Teaching the Hertzsprung-Russell Diagram in Introductory Astronomy Courses for Non-Sci	0.0	0	
+Sci-Fi Filmsorozatok	0.0	0	
+Sci-Fi T M K	0.0	0	
+Sci-Fi T M J List K	0.0	0	
+Sci-Fi Reg Nyek	0.0	0	
+Sci-Fi J T Kok	0.0	0	
+Amerikai Sci-Fi Szerz?k	0.0	0	
+Sci-Fi Novell K, Novell Sk Tetek	0.0	0	
+Americk Sci-Fi Filmy	0.0	0	
+Vincitori Della Coppa del Mondo Di Sci Alpino	0.0	0	
+Sci Alpino	0.0	0	
+Atti Dell' I.R. Istituto Lombardo Di Scienze, Lettere Ed Arti	0.0	0	
+A Historical Account of Useful Inventions and Scientific Discoveries	0.0	0	
+Sci Fi	0.0	0	
+Sci-Fi Filmek	0.0	0	
+Sci-Fi Univerzumok	0.0	0	
+Sci-Fi	0.0	0	
+Sci-Fi Filmy	0.0	0	
+Competizioni Di Sci Alpino	0.0	0	
+Voyages ... En Scandinavie, En Laponie, Au Spitzberg Et Aux Fer E, Pendant ... 1838, 1839 Et 1840, Publ. Sous La Direction de P. Gaimard	0.0	0	
+Sci in Italia	0.0	0	
+Coppa del Mondo Di Sci Alpino	0.0	0	
+Coppa del Mondo Di Sci Di Fondo	0.0	0	
+COL ALG BUS SCI	0.0	0	
+EBOOK CD FORENSIC SCI FNDMNTLS	0.0	0	
+IAC PRM EBK FOR PHYSICS F SCI	0.0	0	
+C Ap Comp Sci Exam Study Gde	0.0	0	
+Sci Links Stud Ed Mod 14	0.0	0	
+ABC NEWS ENVIR SCI HDLN 2E	0.0	0	
+IRCD FUND JAVA AP COMP SCI ESS	0.0	0	
+Sci Probe ASM	0.0	0	
+PREV ED EARTH F EARTH SCI ENVR	0.0	0	
+EXMVW EARTH F EARTH SCI ENVIR	0.0	0	
+PWRLCT EARTH F EARTH SCI ENVIR	0.0	0	
+CHEM PRAC SCI MEE HM TESTING	0.0	0	
+CA BUS LIFE SCI	0.0	0	
+CA BUS LIFE SCI	0.0	0	
+COL ALG W APPS BUS SCI	0.0	0	
+US POLITICS ATLAS F SALES	0.0	0	
+INTERNATIONAL POLITICS ATLAS F	0.0	0	
+IRCD FORENSIC SCI ADV INVEST	0.0	0	
+WTE FORENSIC SCI II ADV INVEST	0.0	0	
+EXMVW FORENSIC SCI II ADV INV	0.0	0	
+IRM BIOLOGY DYNAMIC SCI 2E	0.0	0	
+WTE FORENSIC SCI FUNDMNTL MED	0.0	0	
+IRCD FORENSIC SCI FUNDMN 2012	0.0	0	
+Sci Links Stud Ed Mod 11	0.0	0	
+Sci Links Stud Ed Mod 12	0.0	0	
+Sci Links Stud Ed Mod 13	0.0	0	
+IAC NOW INFO NUTRITNL SCI 2E	0.0	0	
+IE PKG EARTH EARTH SCI ENVIRON	0.0	0	
+IRCD FORENSIC SCI CONCEPETS	0.0	0	
+AIE FORENSIC SCI CONCEPTS	0.0	0	
+SciーFi HARRY 2	0.0	0	
+SciーFi HARRY 1	0.0	0	
+Sci-fi Womanthology	0.0	0	
+PHYS SCI 12E EDU BKT EBK F SAL	0.0	0	
+Computer Sci Vol 1 & 2	0.0	0	
+Great Source Sciencesaurus	0.0	0	
+US POLITICS ATLAS F PKG	0.0	0	
+CHEM PRAC SCI W YGA PSKY	0.0	0	
+EDU EGOOD CHEM PRACT SCI	0.0	0	
+INT PHYS SCI HB 11EALBANY ST	0.0	0	
+Intr Cmptr Sci Usng C Sft CV	0.0	0	
+INT COMPUTER SCI C	0.0	0	
+International Politics Atlas	0.0	0	
+CHEM PRAC SCI YGA BKLT F PKG	0.0	0	
+CHEM PRAC SCI	0.0	0	
+INTRO PHY SCI BB WEB CD 11E	0.0	0	
+CHEM PRAC SCI W YGA PSKEY	0.0	0	
+CHEM PRAC SCI EDU	0.0	0	
+APPL CALC LIFE SOC SCI HMTESTI	0.0	0	
+PHYS SCI 12E WEB BKLT EBK F SA	0.0	0	
+INTRO PHYS SCI HMTESTING 12E	0.0	0	
+IR VISUAL C#.NET COMPUTER SCI	0.0	0	
+Sci Dw Extra Practice Blms LV 1 03	0.0	0	
+Sci Dw Think Like Scientist LV 1 03	0.0	0	
+MIDEAST MAP SUPP	0.0	0	
+Pocket Sci-Fi Year 2 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 2 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 6 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 6 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 6 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 2 Space Mates	0.0	0	
+Pocket Sci-Fi Year 2 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 4 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 4 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 5 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 5 Science Fiction	0.0	0	
+Pocket Sci-fi Year 4 Friends and Foes	0.0	0	
+Pocket Sci-fi Year 4 Quests and Tests	0.0	0	
+Pocket Sci-fi Year 4 Tricks and Traps	0.0	0	
+Pocket Sci-Fi Year 6 the Final Frontier	0.0	0	
+Pocket Sci-Fi Year 3 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 3 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 3 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 5 Science Fiction	0.0	0	
+Pocket Sci-Fi Year 2 Techno Trouble	0.0	0	
+Pocket Sci-Fi Year 2 Dragon Fuel	0.0	0	
+Pocket Sci-Fi Year 3 They're Here	0.0	0	
+Pocket Sci-Fi Year 3 Screen Wars	0.0	0	
+Pocket Sci-Fi Year 5 on the Edge	0.0	0	
+Pocket Sci-Fi Year 6 Time Zones	0.0	0	
+Science Voyages Blue Phyical Sci Ca Student Edition Package 2001	0.0	0	
+Progress Through Partnership	0.0	0	
+SI 2007279 SCI TECH FACILITIES	0.0	0	
+Chemistry for Health Sci& Alld Hlth Chem Pkg	0.0	0	
+Forensic Sci Handbk Vol1 & Time Cj Spec Pkg	0.0	0	
+Physic Sci&Geng&Phga Gd	0.0	0	
+Phys for Sci & Engr Ext& Rankg Task Exer Pkg	0.0	0	
+Phys for Sci& Engr V1& Modn V2& Rbt Crd& Sg& Sg	0.0	0	
+Astro Tody& Res Obs Skychrt& Lec Tut& Edm Sci	0.0	0	
+Intro Engrg Comm & Intro Matl Sci Engrs Pkg	0.0	0	
+Expl Bas Bio&Sci Eor Pkg	0.0	0	
+Multism Lite& Sci Electr Analog Devices Pkg	0.0	0	
+Multisim Lite& Sci of Electronics Digtl Pkg	0.0	0	
+Teachg Sci Inquiry& Glenn McKnight Case CD	0.0	0	
+Methods Teachg Sci& Glenn McKnight Case CD	0.0	0	
+Teachg Sci as Inq&artifact Cas&no Child Lft	0.0	0	
+Intro Materials Sci Engr& 1key BB S/Acc Kit	0.0	0	
+Teachg Sci Inq&esol Strts Tchg&plnng Instr	0.0	0	
+Teachg Sci as Inq&elem VID Case Studies Pkg	0.0	0	
+Physc Sci&Eng&Por Tav1&2	0.0	0	
+Physcs Sci& Engr Vol 3& Rankg Task Exerc Pkg	0.0	0	
+Phys Sci&Eng&Portbl V1&2	0.0	0	
+Physc Sci& Engr Std Ver& Rankg Task Exer Pkg	0.0	0	
+Phys Sci&Eng V1&Porbl Pk	0.0	0	
+Physc Sci& Engr V1 & Rankg Task Exer Stu Pkg	0.0	0	
+Phy Sci&Eng V2&Portbl	0.0	0	
+Phys Sci& Engr V2 & Rankg Task Exer Stu Pkg	0.0	0	
+Physc Sci& Engr V3 & Portable Ta Vol 2 Pkg	0.0	0	
+Phys Sci&Engr&Prtb V2 Pk	0.0	0	
+Physics Sci& Engrs V1& Interwri& S/G& Ssm& MCAT	0.0	0	
+Elect Workben Studt Ste V7&sci Anal Devices	0.0	0	
+Elect Workben Studt Ste V7&sci Electr Digtl	0.0	0	
+Physcs Sci& Engr&s/G&ph Gr Asst Qckstr&math	0.0	0	
+Intro Theories Learng & Curr Dir Cogntv Sci	0.0	0	
+Digtl Elect Prac Apprch&lab Mnl Sci Elec Pk	0.0	0	
+Learng& Behavr& Curr Dir Cognitive Sci Pkg	0.0	0	
+Physics Sci& Engineers& Webct Pkg	0.0	0	
+Biol Sci Vol1 Cell&cw+grdtrkr&1key BB Sak&	0.0	0	
+Chem Centrl Sci&math Revw Tlkt&tstprep VID	0.0	0	
+Bio Sci& Comptr Web+grtrk& Sg& Prs$20rb& 1kcc&	0.0	0	
+Astronomy Beginnrs GD& Edmund Sci Star& Prs	0.0	0	
+Art& Sci of Leadership& Neteffect Series Pk	0.0	0	
+Chem Centrl Sci&sols to Exer&prs $20 Rbt	0.0	0	
+Bio Sci for Life& PH Blast Bio Lec Anamintn	0.0	0	
+Biology Sci for Life& Onekey Webct Sak Pkg	0.0	0	
+Chemistry Central Sci& Basc& Test Prep Video	0.0	0	
+Chem Centrl Sci&math Revw Tlkt&stdy Crd&vid	0.0	0	
+Cognitn Thinkg Animal&curr Dir in Cogn Sci	0.0	0	
+Bio Sci& Comptr Web+grd&prs $20 Rbt& Sg Pkg	0.0	0	
+Physics Sci& Engrs V2& Prs $20 Rebate Card	0.0	0	
+Physics for Sci& Engrs V1& Intwrt& Prs$20 Rbt	0.0	0	
+Astronomy& Edmund Sci Star& Lec Tut& 1ky BB	0.0	0	
+Forensic Sci Handbk Vol1& Criminalistics	0.0	0	
+Biol Sci for Life&interwrit Rebt Cpn Card	0.0	0	
+Bio Sci for Life& PH Generic Crs Promo Card	0.0	0	
+Astro& Edmund Sci Star& Starry Nite Pro 4.0	0.0	0	
+Biol Sci for Life& Lab Mnl& PH Blast Bio Lec	0.0	0	
+Statis Art& Sci& S/Stdy Pck& T183 Ref Crd Pkg	0.0	0	
+Astro Today Vol2& & Prs$20 Rbt& Edmund Sci& Lec	0.0	0	
+Statis Art& Sci& Minitab Rel 14& MML Msl S/VR	0.0	0	
+Biology Sci Life&prs $20 Rbt Crd&1ky Webct	0.0	0	
+Bio Sci& Comptr Web+grdtrkr& PH Blast Pkg	0.0	0	
+Physics for Sci&engr&ssg W/Sel&ph Gr Asst2&	0.0	0	
+Physics Sci& Engr& PH Gr Asst2& Ssg W/Sel& Prs	0.0	0	
+Biological Sci & Cw+grd& 1key BB& Dict& Prs Pk	0.0	0	
+Cultural Anthropol Global Persp& Sci Amer Pk	0.0	0	
+Chem Centl Sci&sols Red Exer&ph Periodc Tbl	0.0	0	
+Earth Sci& Stu GD& Stu Lect Ntbk& Nav Web Sg	0.0	0	
+Earth Sci& Studt GD& Studt Lect Notebk Pkg	0.0	0	
+Astro Today& Nortons Star Atlas& Edmund Sci&	0.0	0	
+Learng Math in Elem& MIDDL& Actv Integrtg Sci	0.0	0	
+Diversty Amid Globlztn& Sci Eval Ol Res W/RN	0.0	0	
+Chem Central Sci& Stu Lecture Notebook Pkg	0.0	0	
+Biolgcl Sci Vol1& PH GD Eval Ol Resrc W/RN	0.0	0	
+Biological Sci Vol3& Penguin Dict of Bio Pkg	0.0	0	
+Biol Sci Vol2& Scif Amer Humn Evoltn Edit	0.0	0	
+Biolg Sci Vol2& Penguin Dict of Biology Pkg	0.0	0	
+Biol Sci Vol1& Scitfc Amer Humn Evoltn Edit	0.0	0	
+Biol Sci+cw Gradebk&scitfc Amer Hum Evol Ed	0.0	0	
+Biol Sci+cw Gradebk&ph GD Eval Ol Res W/RN	0.0	0	
+Biological Sci& Cw+ Gradebk& Study GD Pkg	0.0	0	
+Biologicl Sci Vol1& Cw+grdebk& Study GD Pkg	0.0	0	
+Biological Sci Vol2& Cw+grdebk& Study GD Pkg	0.0	0	
+Biological Sci Vol3& Cw+ Grdebk& Study GD Pk	0.0	0	
+Chemistry Centrl Sci& PH Periodic Table Pkg	0.0	0	
+Chem Cenrl Sci&bsc Media&1ky Web&sols Red&	0.0	0	
+Bio Sci& Cw+graebk A/Crd&peng Dic&1ky Webct	0.0	0	
+Earth Sci& Stu Lect Notbk&geolgy VID Lib Pk	0.0	0	
+Biolgcl Anth Natrl Hist& Sci AME Spec Editn	0.0	0	
+Chem Centl Sci&mth Revw Toolkt&studt GD Pkg	0.0	0	
+Physics Sci& Engineers Vol1& Webct Bunpk Pkg	0.0	0	
+Chem Centrl Sci&sols Exer Chem&1ky BB A/Kit	0.0	0	
+Chem Centrl Sci&bsc Med Pak&study Card Pkg	0.0	0	
+Biolg Sci Compn& Cw+grdbk A/Crd& 1ky Web& Educ	0.0	0	
+Actv Experncs for Actv Chldrn Sci& Tchr Prep	0.0	0	
+Biologcl Sci Vol1 Cell Gene&cw Grtrkr&biol	0.0	0	
+Physics for Sci& Engr V1& Probl Supplmt Pkg	0.0	0	
+Physcs for Sci& Eng V1& W/Modn V2& Prob Suppl	0.0	0	
+Physc for Sci& Engr W/Modn& Sg& Ssm& Prob Suppl	0.0	0	
+Phys for Sci& Engr W/Mod V2& Sg& Ssm& Prob Sup	0.0	0	
+Phys for Sci& Eng V1& W/Modn V2& Sg& Ssm& Probl	0.0	0	
+Phys for Sci& Eng V1& Sg& Ssm& Probl Supplmt	0.0	0	
+Bio Sci Vol1&v2&v3&cw+grdbk&sg&11ed Dict Pk	0.0	0	
+Bio Sci Vol1& Kill Diseases& Peng Dict Bio Pk	0.0	0	
+Bio Sci Vol3 & Study GD & Peng Dict Bio Pkg	0.0	0	
+Biol Sci Vol1& Penguin Dict of Bio 11ed Pkg	0.0	0	
+Communicatn Sci&disorder & Case Studies Pkg	0.0	0	
+Astronomy Today& Edmund Sci& Atlas& Star CD Pk	0.0	0	
+Bio Sci& Comp Web+grbk A/Crd& Inter& 1ky BB Pk	0.0	0	
+Chem Cen Sci Webct 1key&math&interwrt Pkg	0.0	0	
+Physics Sci& Enginrs Vl1& Interwri& Phy& S/G Pk	0.0	0	
+Methods Teachg Sci&activity&case Std&int Pk	0.0	0	
+Astronomy Beg Guid&obs Res&sky&edmund Sci Pkg	0.0	0	
+Chem Centrl Sci&basc Med&ph Periodic&tlkt Pkg	0.0	0	
+Astronomy & Lect Tut Intro&edmund Sci Pkg	0.0	0	
+Comm Sci&disorders & Tchr Prep A/C Card Pkg	0.0	0	
+Bio Sci Vol1&cw+grdbk A/C&bio2&sg&educue Pk	0.0	0	
+Read&writ Prim Grades&sci Exp&tchr Prep Pkg	0.0	0	
+Probabil Engrs& Sci&minitab Rel Win Pkg	0.0	0	
+Actv Teach Sci Inquiry&integratng Natl Pkg	0.0	0	
+Phys Sci& Engr V1& 2& Intrwrt Rbt& Physl& Sg& Pk	0.0	0	
+Teach Science Inquiry&intgrt Natl Sci Pkg	0.0	0	
+Science K-8 Integrated&intrgt Natl Sci Pkg	0.0	0	
+Chem Centl Sci& Stu Lect Notbk&ph Periodc&	0.0	0	
+Physcs for Sci& Engr V1& V2& S/S/G V1& V2& V3&	0.0	0	
+Sci Exprc Early&socl Studies Preschl Child	0.0	0	
+Chem Centrl Sci&lab Exprmt&s/G&sols Red Exc	0.0	0	
+Biol Sci+cw Gradebk& Penguin Dict Biol Pkg	0.0	0	
+Chem Centrl Sci&soltn Blk Exer&bsc Media Pk	0.0	0	
+Chem Centrl Sci& Studt GD& Basic Media Wrp Pk	0.0	0	
+Chem Centrl Sci&sols Exer&sg&math Revw Tlkt	0.0	0	
+Chem Centrl Sci& Math Revw&sol to Red Exer	0.0	0	
+Chem Centrl Sci&bsc Media&mth Revw&sols Blk	0.0	0	
+Sci& Sample Natl Edu Std&dynam Soc Studt Pk	0.0	0	
+Chemistry for Health Sci&lab Mnl Chem Hlth	0.0	0	
+Earth Sci& Stu Lct Ntbk&1ky BB A/Kt&qks/Crd	0.0	0	
+Physics Sci& Engr& Interwrit Prs Rebat Cpn	0.0	0	
+Chem Centrl Sci&peer Led&stu Crd&educue&mth	0.0	0	
+Chem Centrl Sci& Bas Media Pk&phga S/Qk GD	0.0	0	
+Statistics Art& Sci& S/Study Pck Intro STATS	0.0	0	
+Statistc Art& Sci of Lrng& MML Studt Version	0.0	0	
+Geo Engrs& Envir Sci& Lab Mnl Phys Geol Pkg	0.0	0	
+Methods Teachg Elem Sch Sci&sampl Natl Educ	0.0	0	
+Earth Sci& Oneky BB& Appl& Investg& Wards PH	0.0	0	
+Chem Centrl Sci&peer Led Team&bsc Med Pak&	0.0	0	
+Biolgcl Sci Vol1&biolg V2&penquin Dict Bio	0.0	0	
+Crimnl Justc Brief& Sg& S/Wrtr Jnl& Sci Eval	0.0	0	
+Bio Sci Vol2 Cw Grdbk& S/G& Penguin Dict Pkg	0.0	0	
+Earth Sci& Appl& Investgtn& Qck Stdy Crd Pkg	0.0	0	
+Physics for Sci& Engr V2& Studt S/G W/Selctd	0.0	0	
+Biological Sci Vol3& Cw+grdtrckr& PH Blast	0.0	0	
+Physics for Sci& Engr& Problems Supplemt Pkg	0.0	0	
+Physcs for Sci& Engr W/Modn Vol2& Prob Suppl	0.0	0	
+Physcs for Sci& Engr W/Modn Phys& Prob Suppl	0.0	0	
+Physcs for Sci& Engr& S/G& S/S/M& Prob Suppl	0.0	0	
+Physics for Sci& Engrs W/Mod Phys& Webct Pkg	0.0	0	
+Intro Management Sci & Qm Win Ver2& Ebiz Pkg	0.0	0	
+Linear Alg for Engrs & Sci & S/S/M Pkg	0.0	0	
+Foundtns Earth Sci Webct Bundle Card Pkg	0.0	0	
+Phys Sci&engrs W/Mod V2&port V2&web Acc Pkg	0.0	0	
+C for Sci & Engineers & C	0.0	0	
+Comp Intro Pol Sci& Methods Pol Inquiry Pkg	0.0	0	
+Phys Sci Engin Vol1 Web Pinpk	0.0	0	
+Physcs for Sci& Engrs&s/G&s/S/	0.0	0	
+Physics Sci & Engrs& Physlet&	0.0	0	
+Physics Sci& Engrs V1&s/G&s/S/	0.0	0	
+Physics Sci& Engrs W/Mod&Webas	0.0	0	
+Physics Sci & Engrs W/Modrn&s/	0.0	0	
+Actv Exprnc Actv Chldrn Sci& ACT Exprnc Math	0.0	0	
+Physics Sci& Engrs V1&2 & Port	0.0	0	
+Physics for Sci&Engr W/Modrn&S	0.0	0	
+Physics Sci & Engineers& Phga Pkg	0.0	0	
+Physic Sci & Engineers Vl1& Physlet& Phga Pkg	0.0	0	
+Physc Sci&Eng&Physlet Pk	0.0	0	
+Physics&Sci Int&Webassign Pkg	0.0	0	
+Fund Mtrl Sci Tech&SM Pk	0.0	0	
+Physic for Sci& Engineer&SG&SS	0.0	0	
+Physics for Sci& Engrs V1& Physlet Physcs Pk	0.0	0	
+Astronomy Today & Edmund Sci Star& Planet Pk	0.0	0	
+Astronmy Today Vol 1& Edmund Sci Star& Planet	0.0	0	
+Astronomy Today& Sci Amer& Eval O/L Resrc Pk	0.0	0	
+Astronomy Today Vol 1& Sci Amer& Eval O/L Pkg	0.0	0	
+Astronmy Today Vol 2& Edmund Sci Star& Planet	0.0	0	
+Physics Sci& Engrs Extnd&physlet&grade Asst	0.0	0	
+STATS for Behavrl& Socl Sci & Onesearch Pkg	0.0	0	
+Physics Sci& Engrs V1& 2& S/G& Ssm& MCAT S/G Pk	0.0	0	
+Forensic Sci Handbk V2 & Crime Scene CD Pkg	0.0	0	
+Forensic Sci Handbk V2 & Eval O/L Resrcs Pk	0.0	0	
+Intro Managemt Sci& Stdnt CD& Tips Excel02 Pk	0.0	0	
+Gen Chem& Sci Eval O/L&blkbd Prem A/Card Pk	0.0	0	
+Chem Centrl Sci&cc 1ky Media&test Prep VID&	0.0	0	
+Astronomy Today Vol 2& Sci Amer& Eval O/L Pkg	0.0	0	
+Case Studi Clin Lab Sci&clin Lab Hemotology	0.0	0	
+Linear Alg for Engrs& Sci& Labs W/Mathlab Pk	0.0	0	
+Linear Alg for Engrs & Sci & Atlast Mnl Pkg	0.0	0	
+Genrl Chem& Sci Eval Online&lab Exprimts Pk	0.0	0	
+Intro Mgt Sci&CD&Data Pk	0.0	0	
+Astro Beginnrs Guide& Starnite& Edmund Sci&	0.0	0	
+Sci Ab1802 10pkc&tchrs M	0.0	0	
+Astronomy& Edmund Sci Star&lec Tut&prs $20	0.0	0	
+Phy Sci & Engineers Vol1&Vol2&	0.0	0	
+Intro to Managemt Sci& Studt CD& POM Qm& BB Pk	0.0	0	
+Applicatn & Investment Earth Sci& Explor Pkg	0.0	0	
+Physics Sci & Engineers Vl2& Phga Pkg	0.0	0	
+Physics Sci & Engineers Extended& Phga Pkg	0.0	0	
+Physics for Sci& Engrs&Webassi	0.0	0	
+Physics Sci& Engrs V1&V2&s/G&S	0.0	0	
+Physics Sci& Engrs V2&s/G&s/S/	0.0	0	
+Soils Introduction & Soil Sci Lab Mnl Pkg	0.0	0	
+Environmentl Policy Paradox&sci Eval Ol Pkg	0.0	0	
+Statistics for Engineers&sci&stdnt Sol Mnl Pkg	0.0	0	
+Statistics for Engineers&sci&tech Mnl Pkg	0.0	0	
+Foundations of Earth Sci&student Lect Notebk	0.0	0	
+Chemistry Centrl Sci &Bas&webct 1key Pkg	0.0	0	
+Chemistry Central Sci&bas Med&phga&stud GD	0.0	0	
+Climatology Atmospheric Sci & Goodes Atlas	0.0	0	
+Teachg Sci Understndg&cases Middle&tchr Prep	0.0	0	
+Teaching Science Inquiry&actv Tchng Sci Pkg	0.0	0	
+Physcs for Sci&Engrs W/Modrn&P	0.0	0	
+Physics for Sci& Engrs& Physlet Physics Pkg	0.0	0	
+Physics for Sci&Engrs V1& Port	0.0	0	
+Physics Sci& Engrs W/Mod Phys& V1 Webct Bunpk	0.0	0	
+Physics for Sci& Engrs& Homewk Tutorials Pkg	0.0	0	
+Physics for Sci&Engrs Extended	0.0	0	
+Behav Prin Everyday Life&sci of Emotion Pkg	0.0	0	
+Sci Explorer Physical Science Student Edition 2001c	0.0	0	
+Applied STATS Engineers & Sci & Ssm Pkg	0.0	0	
+Physics for Sci&Engr & Port Ta	0.0	0	
+Physics for Sci&Engnrs Ext Ver	0.0	0	
+Pren Hall Anth Sci Fict& Fant & Naw Dict Pkg	0.0	0	
+Chemistry Cent Sci& Ssg& 2wabassign& PH Per Pk	0.0	0	
+Soc Stdies&Actv Expr Sci	0.0	0	
+Physcs Sci&Rankg&Physlet	0.0	0	
+Astronomy Today Vol1& Edmund& Tutrls& Sci Amer	0.0	0	
+Astronmy Today& Edmund&tutrls&homewk&sci Am	0.0	0	
+Gen Chem& Study GD& Sel S/M&sci Eval O/L Pk	0.0	0	
+Gen Chem& Sci Eval&molec Model&math Revw&bb	0.0	0	
+Astronomy Today& Onekey Webct& Edmund Sci Pk	0.0	0	
+Whos Running America & Poli Sci 1search Pkg	0.0	0	
+Internatnl Relatns Theory&poli Sci 1srch Pk	0.0	0	
+STATS for Behavrl& Soc Sci& S/G& Comp Wkbk Pk	0.0	0	
+Childrens Thinkg& Currnt Dir Cognitv Sci Pk	0.0	0	
+Activities Teachg Sci as Inquiry & ASCD Pkg	0.0	0	
+STATS for Behavrl& Socl Sci& Tips02 Excel Pk	0.0	0	
+Cognition & Current Directns Cognitv Sci Pk	0.0	0	
+Defending Govtmnt Why Big&poli Sci 1srch Pk	0.0	0	
+Sci in Elem Educ& a Samplr Natl Edu Stnd Pkg	0.0	0	
+Bio Sci& Comp Web&gradebk&1key BB&Peng Dict	0.0	0	
+Biolgcl Sci V2 & V3 & Cw+ Gradebk A/Card Pk	0.0	0	
+Earth Science& Appl& Invstigtns Earth Sci Pk	0.0	0	
+Chem Cent Sci&webct 1key&studt/G&sol Red Pk	0.0	0	
+Chemistry Centrl Sci&stdy Card&math Revw Pk	0.0	0	
+Chemistry Cent Sci& Blkbd Onekey Media Pkg	0.0	0	
+Chemistry Cent Sci& Webct Onekey Media Pkg	0.0	0	
+Learn Math Elem&mid Schl&method Tchg Sci Pk	0.0	0	
+Chemistry Cent Sci&chem BB&Sol Red&math Pkg	0.0	0	
+Biological Sci Vol123&penguin Dictionary Pk	0.0	0	
+Biologcl Sci Vol 1& Cw+gradebk& S/G& Peng Dict	0.0	0	
+Biological Anthro Naturl Hist& Wrkbk& Sci Pkg	0.0	0	
+Teachg Sci Undrstd Mid&tchr Prep A/Card Pkg	0.0	0	
+Calculus for Busn & Econ Life Sci& Mxl12 Pkg	0.0	0	
+Teachg Sci as Inquiry&tchr Prep&no Child Pk	0.0	0	
+Chem Centrl Sci&basic Med&s/Red Ex&prep Pkg	0.0	0	
+Chem Cent Sci&basic Med&table&prep VID Pkg	0.0	0	
+Calculus for Busn & Econ Life Sci&mxl24 Pkg	0.0	0	
+Coll Math for Busn Econ Life Sci& Mxl12 Pkg	0.0	0	
+Finite Math for Busn Econ Life Sci& Mxl12 Pk	0.0	0	
+Coll Math for Busn Econmcs Life Sci&ssp Pkg	0.0	0	
+General Chemistry & Sci Eval Ol&sols Mnl Pk	0.0	0	
+Politcl Sci	0.0	0	
+Physcs Sci& Engr V3& Sg W/Sel Sols V1-2-3 Pk	0.0	0	
+Biological Sci&cw+grdtrk A/Crd&sg&genes Pkg	0.0	0	
+Teachg Secondary Sch Sci	0.0	0	
+Teachg Sci as Inq&case Studies&inv&tchr Pkg	0.0	0	
+Physics for Sci & Engrs V2 & S/G& S/S/M Pkg	0.0	0	
+Pren Hall Anth Sci Fictn&fant&dr Jekyll Pkg	0.0	0	
+STATS Concepts for the Beh Sci& Tc& Stkr Pkg	0.0	0	
+Statistcl Analysis for Socl Sci& Tc& Stkr Pkg	0.0	0	
+CLASSMASTER VET SCI ASSISTING	0.0	0	
+Socl Sci	0.0	0	
+Elem& Mid Sch Math& Tchg Sci& Field& Blcks& MLS	0.0	0	
+Psychology from Sci& Mpl Web Studt A/Crd Pk	0.0	0	
+IE SIMPLE GDE SPSS F POLI SCI	0.0	0	
+Teachg Sci Inq Lesn MLS& Sea Otter Rescue Pk	0.0	0	
+Teachg Sci Inq Meth MLS& Sea Otter Rescue Pk	0.0	0	
+Teachg Child Sci	0.0	0	
+Teachg Child Sci	0.0	0	
+Sci Content Elem& Mid Mylabsch& Sea Otter Pk	0.0	0	
+Teachg Child Sci	0.0	0	
+Teachg Sci Inq Appr MLS& Sea Otter Rescue Pk	0.0	0	
+Essl Elem Sci MLS& Sea Otter Rescue Pkg	0.0	0	
+Math Context Elem& Socl Studs& Sci Cont Pkg	0.0	0	
+IML VETERINARY SCI ASSISTING	0.0	0	
+CD ILLUS GD ANIMAL SCI TERMIN	0.0	0	
+POLI SCI REP TOOL 2010	0.0	0	
+EXMV RES METHODS F BEH SCI 4E	0.0	0	
+Essentls of Elem Sci& Ess Elem Socl Studies	0.0	0	
+IE METH TOWARD SCI BEH EXP 10E	0.0	0	
+Teachg Sci All W/VW & Lrn& Tch K-8 Math W/VW	0.0	0	
+Learning& Teachng K-8 Math MLS& Tchg Sci Pkg	0.0	0	
+Elementary & Middle School Math& Tchg Sci Pk	0.0	0	
+Game of Science Eductn & Elem Sci Casebk Pk	0.0	0	
+Essntls Elem Science & Elem Sci Casebk Pkg	0.0	0	
+Teachg Sci to Childrn W/VW & Mylabschool Pk	0.0	0	
+EV METH TWRD SCI BEH EXP 10E	0.0	0	
+Essn Elem Sci& Essn Elem Math& Mylabsch Pkg	0.0	0	
+Ess Elem Sci MLS& Soc Studies& Math Cont Pkg	0.0	0	
+Teach Scienc All Child& Sci Cont Elem& Mid Pk	0.0	0	
+Ess Elem Soc Stud MLS& Ess Elem Sci MLS Pkg	0.0	0	
+SSM CHEMISTRY PRACTCL SCI 2E	0.0	0	
+SG CHEMISTRY PRACTICAL SCI 2E	0.0	0	
+IE CHEMISTRY PRACTICAL SCI 2E	0.0	0	
+Elem& Mid Sch Math& Tchg Sci MLS& Field Exprn	0.0	0	
+Conformty& Conflct Readg& Themes Times Sci	0.0	0	
+Teachg Childrn Sci& Whizbangers& Mls3.0 CC Pk	0.0	0	
+LAB MNL TURFGRASS SCI MGMT 5	0.0	0	
+LAB MNL CD TURFGRASS SCI MGMT	0.0	0	
+LML IG INTRO VETERINARY SCI 3E	0.0	0	
+STATS Concpts Behvrl Sci& SPSS Win 13.0 Pkg	0.0	0	
+IAC CRSEMTW EBK NUTRITN SCI 2E	0.0	0	
+Psycholgy from Sci to Prac& Card& Study GD Pk	0.0	0	
+K12 EBK CD FORNSC SCI CPY UPDT	0.0	0	
+ISM ESSENT MATERIAL SCI ENG 3E	0.0	0	
+Elem& Middle Sch& Tchg Sci& Field Exp& Manip Pk	0.0	0	
+Models Strat& Meth Eff& Sci Cont& Soc Studies	0.0	0	
+Psych from Sci to Prac Bks ALA Carte+mpl CC	0.0	0	
+Psych Sci of Behv& Mpl Web S/Acc Card Pk	0.0	0	
+SI ISM ESSENT MATRL SCI ENG 3E	0.0	0	
+Elem& Mid School Math& Tchg Sci All& Fld GD Pk	0.0	0	
+Proceedings of the American Association for the Advancement of Science	0.0	0	
+Proceedings of the American Association for the Advancement of Science	0.0	0	
+K12 EBK ON CD PHY SCI ENG 8E	0.0	0	
+Socl Studies Elem& Teachg Childn Sci Dis ACT	0.0	0	
+IAC FORENSIC SCI VIRT BONES IN	0.0	0	
+Psychology Sci of Behavr& Majorg in Psych	0.0	0	
+IRM NUTRITION YOUR LIFE SCI	0.0	0	
+Models Strats& Meth Eff Tchg& Tch Chld Sci Pk	0.0	0	
+Calc Engrg& Sci Pt1& 2000ti Rebate& Stickr Pk	0.0	0	
+Calc Engineer Sci Pt2& 00ti Rebate& Stickr Pk	0.0	0	
+TB DISCOVERING PSYCH SCI MIND	0.0	0	
+IE UNDERSTND STATS BEH SCI 10E	0.0	0	
+Archaeology Sci Hum Past& Themes Times Pkg	0.0	0	
+Elem & Middle School Math & Tch Chld Sci Pkg	0.0	0	
+Teachg Childrn Sci MLS Edtn& What	0.0	0	
+Essl Elem Sci MLS& Ess Leme Socl Studies& Mth	0.0	0	
+STATS Concepts Behavrl Sci& SPSS 14.0 Win Pkg	0.0	0	
+Teachg Science Inq Appc& Sci Contnt Elem& Mid	0.0	0	
+Statstcl Analy Socl Sci& Spss14.0 Win CD Pk	0.0	0	
+EV UNDRSTAND STAT BEH SCI 10E	0.0	0	
+PKG IE INTRO MGMT SCI REV MS	0.0	0	
+Psych Sci of Behavr Grade Aid& Maj& How to Pk	0.0	0	
+Statstcl Analy for Soc Sci& SPSS Win CD Pkg	0.0	0	
+Sci for All Childrn	0.0	0	
+Teachg Sci for All Children& What Every Pkg	0.0	0	
+Basic STATS Behavr Sci Res& SPSS Win Std Pkg	0.0	0	
+STATS Analy Soc Sci& SPSS Win& Actvstats SPSS	0.0	0	
+Teachg Childrn Sci& Whizbangrs& Math Cntnt Pk	0.0	0	
+Teachg Childrn Sci& Acc Card C& I Suprsite Pk	0.0	0	
+Game of Sci Educ& Whizbanger& Wonderments Pk	0.0	0	
+Essn Elem Sci& Ess Elem Math& Whizbangrs& What	0.0	0	
+Teachg Childrn Sci& Whizbangrs& Math Cntnt Pk	0.0	0	
+Teachg Childrn Sci& Math Contnt Elem& Mid Pkg	0.0	0	
+Essn of Elem Sci & Whizbangers& Wondermts Pk	0.0	0	
+Teachg Childrn Sci& Math Contnt Elem& Mid Pkg	0.0	0	
+Teachg Childrn Sci& Math Contnt Elem& Mid Pkg	0.0	0	
+Teachg Childrn Sci& Whizbangrs& Math Cntnt Pk	0.0	0	
+Speech Sci	0.0	0	
+Teachg Children Sci & Resrch Nav GD Educ Pk	0.0	0	
+IG ANIMAL SCI BIOLOGY TECHNOLO	0.0	0	
+Teachg Childrn Sci& Essn Elem Socl Stdies Pk	0.0	0	
+Teachg Sci for All Chldrn W/CD& Mylabsch Pk	0.0	0	
+Psycholgy Sci of Behv& A& B Mnd Mattr& Strt Sg	0.0	0	
+Teachg Children Sci& Whiz& Wonder& MLS Kit Pkg	0.0	0	
+Sci am Reader Solar System	0.0	0	
+Lehninger Prin of Biochem & Cdr & Study Guide & Sci Amer Rdr & Exploring Genomes	0.0	0	
+Uwm Lehninger Pack - Prin of Biochem & Cdr & Study Guide & Sci Amer Rdr & Quest	0.0	0	
+PHENOMENA 1 REAL SCI-FI	0.0	0	
+ORBIT SCI FI YEARBOOK 3 PB	0.0	0	
+Space Pirates and Other Sci-fi Stories	0.0	0	
+Statistcl Concpts Behv Sci&spss from A-Z Pk	0.0	0	
+STATS Behav& Soc Sci& SPSS from A to Z	0.0	0	
+Cognitv Psych Apply Sci&colorful&cogsim1 Pk	0.0	0	
+STATS Behavrl&socl Sci&spss 16.0 CD SBS Pkg	0.0	0	
+Short Guide Writing about Soc Sci&thinkg Pk	0.0	0	
+STATS Behv&soc Sci&spss Win SBS&Spss16.0&sg	0.0	0	
+AISE IAC CRSMT W EBK MANG SCI	0.0	0	
+Teachg& Learng Elem Soc St& Models& Tchg Sci	0.0	0	
+Debates Intl Relations& Careers Politcl Sci	0.0	0	
+Statstcl Concpts Behavrl Sci & SPSS 16.0 CD	0.0	0	
+Stat Concept Behavrl Sci&spss17.0&a to Z Pk	0.0	0	
+Teachg Sci Inq Approch& What Evry Tchr Educ	0.0	0	
+Brief Penguin Handbk & Writg in Poli Sci Pk	0.0	0	
+Cognitive Psych& Curr Dir in Cognitive Sci	0.0	0	
+Social Sci Intro Study Soc& Res Nav Pkg	0.0	0	
+Social Sci Intro Study Soc& Themes Times Pkg	0.0	0	
+Teachg Childrn Sci Mylabsch& Whizbangers Pk	0.0	0	
+Intl Rel Brief 06-07& Wrtg Polt Sci& LM Atlas	0.0	0	
+Basic STATS Behav Sci& Wesska Citing Src Pkg	0.0	0	
+Psychology Sci of Behavior&mypsychlab W/Ebk	0.0	0	
+STATS for Behavrl& Soc Sci&usg SPSS Win&mac	0.0	0	
+Publc Admn&pub Affairs&poli Sci S/Wri/M&msl	0.0	0	
+CA Pict Crds Gr K Sci 08	0.0	0	
+CA Pict Crds Gr 1 Sci 08	0.0	0	
+CA Pict Crds Gr 3 Sci 08	0.0	0	
+CA Sci Cnt Stndrd Voc Crds 1 Ciencias08	0.0	0	
+CA Sci Cnt Stndrd Voc Crds 2 Ciencias08	0.0	0	
+Picture Sorting Crds Gr 1 Sci 09	0.0	0	
+Picture Sorting Crds Gr 2 Sci 09	0.0	0	
+Materials Mat Gr 5 Sci 09	0.0	0	
+Materials Mat Gr 6 Sci 09	0.0	0	
+CA Sci Cnt Stndrd Voc Crds 3 Ciencias08	0.0	0	
+CA Sci Cnt Stndrd Voc Crds 4 Ciencias08	0.0	0	
+CA Sci Cnt Stndrd Voc Crds 5 Ciencias08	0.0	0	
+CA Sci Cnt Stndrd Voc Crds 6 Ciencias08	0.0	0	
+Ga Vocab Crds Gr 1 Sci 09	0.0	0	
+Ga Vocab Crds Gr 2 Sci 09	0.0	0	
+Ga Vocab Crds Gr 4 Sci 09	0.0	0	
+Ga Vocab Crds Gr 5 Sci 09	0.0	0	
+Picture Sorting Crds Gr 3 Sci 09	0.0	0	
+Materials Mat Gr 4 Sci 09	0.0	0	
+Unit Replacement Pkg Unit a G4 Sci	0.0	0	
+Unit Replacement Pkg Unit C G4 Sci	0.0	0	
+Unit Replacement Pkg Unit C G5 Sci	0.0	0	
+Unit Replacement Pkg Unit E G5 Sci	0.0	0	
+Unit Replacement Pkg Unit a G6 Sci	0.0	0	
+Unit Replacement Pkg Unit B G6 Sci	0.0	0	
+Ga Pe Test Prep Gr1 Harc Sci 02	0.0	0	
+Ga Pe Test Prep Gr2 Harc Sci 02	0.0	0	
+Ga Pe Test Prep Gr3 Harc Sci 02	0.0	0	
+Ga Pe Test Prep Gr4 Harc Sci 02	0.0	0	

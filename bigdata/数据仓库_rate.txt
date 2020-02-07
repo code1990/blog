@@ -1,0 +1,180 @@
+数据仓库	7.2	161	
+数据仓库工具箱（第3版）	8.1	78	
+数据仓库	7.3	20	
+数据仓库工具箱	8.4	37	
+数据仓库生命周期工具箱	9.0	25	
+DW2.0	6.3	18	
+点击流数据仓库	7.0	16	
+Star Schema完全参考手册	8.0	16	
+数据仓库生命周期工具箱	0.0	7	
+数据仓库	0.0	3	
+数据仓库设计	7.1	15	
+数据仓库应用指南	0.0	8	
+数据架构	6.2	20	
+数据仓库设计	0.0	9	
+数据仓库基础	7.3	12	
+公共仓库元模型:数据仓库集成标准导论 (平装)	0.0	2	
+数据仓库、挖掘和可视化	0.0	4	
+数据仓库与数据挖掘技术	0.0	1	
+数据仓库和数据挖掘	0.0	4	
+Microsoft数据仓库工具箱	0.0	4	
+掌握数据仓库数据聚合 Mastering Data Warehouse Aggregates	0.0	2	
+电子商务中的数据仓库技术	0.0	5	
+数据仓库与OLAP实践教程	0.0	4	
+Web 数据仓库构建指南	0.0	4	
+企业级数据仓库	0.0	3	
+数据仓库项目管理实践	0.0	1	
+支持CRM的数据仓库设计	0.0	2	
+Hadoop构建数据仓库实践	8.7	32	
+数据仓库与数据挖掘教程	0.0	1	
+数据仓库工具箱	0.0	4	
+IBM数据仓库及IBM商务智能工具	0.0	1	
+数据仓库与数据挖掘	0.0	4	
+疑难数据仓库专家解决方案	0.0	2	
+数据仓库与数据挖掘原理及应用	0.0	0	
+大数据与数据仓库：集成、架构与管理	0.0	3	
+数据仓库及其在电信领域中的应用	0.0	3	
+数据仓库与数据挖掘技术	0.0	2	
+基于数据仓库的数据挖掘技术	0.0	2	
+企业数据仓库 规划 建立与实现	0.0	1	
+数据仓库与商业智能宝典(成功设计部署和维护DW\BI系统第2版)/大数据应用与技术丛书	0.0	2	
+SQL Server2000数据仓库与Analysis Services	0.0	0	
+敏捷分析	0.0	3	
+数据仓库结构设计与实施	0.0	5	
+数据仓库与数据挖掘教程	0.0	3	
+数据仓库与数据挖掘原理及应用	0.0	2	
+数据仓库与数据挖掘	0.0	1	
+数据仓库与数据挖掘技术	0.0	0	
+数据库系统	0.0	3	
+数据仓库与数据分析教程	0.0	2	
+决策支持与数据仓库系统	0.0	0	
+数据仓库技术与联机分析处理	0.0	2	
+数据仓库项目管理	0.0	0	
+医学数据仓库与数据挖掘	0.0	0	
+数据仓库管理	0.0	1	
+数据仓库结构设计与实施	0.0	4	
+数据仓库与数据挖掘原理.工具及应用	0.0	2	
+数据仓库与数据挖掘原理及应用	0.0	1	
+数据仓库与数据挖掘	0.0	2	
+数据仓库与数据挖掘技术	0.0	0	
+数据仓库与数据挖掘导论	0.0	1	
+数据仓库技术指南	0.0	1	
+数据仓库与决策支持	0.0	0	
+数据仓库原理、设计与应用	0.0	2	
+数据仓库与数据挖掘技术	0.0	1	
+数据库创建、数据仓库与优化	0.0	0	
+数据仓库技术与实现	0.0	2	
+数据仓库与数据挖掘的原理及应用	0.0	0	
+数据仓库与数据挖掘	0.0	1	
+数据仓库、数据发掘和联机分析处理.	0.0	1	
+数据仓库与数据挖掘	0.0	1	
+数据仓库与数据挖掘	0.0	1	
+数据仓库与数据挖掘技术原理及应用	0.0	2	
+电子商务技术与数据仓库应用教程	0.0	1	
+Oracle 8数据仓库分析、构建实用指南	0.0	1	
+数据仓库原理与实践	0.0	1	
+数据仓库原理与应用	0.0	1	
+数据仓库与数据挖掘	0.0	0	
+医学数据仓库与数据挖掘	0.0	0	
+HAWQ数据仓库与数据挖掘实战	0.0	1	
+决策支持和数据仓库系统	0.0	0	
+数据仓库与决策支持系统	0.0	0	
+Power Designer--WarehouseArchitect数据仓库结构用户开发指南	0.0	0	
+Oracle 9i数据仓库构建技术	0.0	0	
+SQL Server 2000数据仓库设计和使用指南	0.0	1	
+Oracle8i数据仓库	0.0	0	
+高校数据仓库系统建设与应用	0.0	1	
+数据仓库与数据挖掘 高等教育大数据科学与技术“十三五”规划教材	0.0	0	
+SQL SERVER 2000数据库和数据仓库	0.0	0	
+数据存储、数据仓库Zachman框架	0.0	0	
+数据仓库与数据挖掘	0.0	0	
+Ioformix 向导-数据库及数据仓库设计	0.0	0	
+数据仓库与数据挖掘技术	0.0	0	
+数据库与数据仓库	0.0	0	
+数据仓库与数据挖掘	0.0	0	
+数据仓库与数据挖掘原理及应用（第二版）	0.0	0	
+数据仓库与数据挖掘应用教程	0.0	0	
+数据仓库与数据挖掘教程	0.0	0	
+数据仓库与数据挖掘概念方法及图书馆应用	0.0	0	
+数据仓库与数据挖掘实践	0.0	0	
+数据仓库与数据挖掘（第二版）/21世纪高等学校计算机专业核心课程规划教材	0.0	0	
+数据仓库与数据挖掘实务/21世纪高职高专规划教材	0.0	0	
+“十三五”普通高等教育规划教材 电力企业信息化系列教材 数据仓库与数据挖掘原理、工具及应用（第二版）	0.0	0	
+数据仓库与数据挖掘	0.0	0	
+计算机科学与技术学科研究生教材：数据仓库与数据挖掘	0.0	0	
+大数据时代数据仓库技术研究	0.0	0	
+大数据智慧管理与分析之技术和实践：从数据仓库 OLAP到NoSQL和NewSQL	0.0	0	
+数据仓库中的决策支持	0.0	0	
+Data Warehousing and Knowledge Discovery 数据仓库与知识发现/会议录	0.0	0	
+数据仓库技术及其应用	0.0	0	
+数据仓库技术	0.0	0	
+数据仓库工程方法论	0.0	0	
+数据仓库-客户/服务器计算指南	0.0	0	
+Microsoft SQL Server 7数据仓库技术指南	0.0	0	
+Informix/Red Brick数据仓库开发指南	0.0	0	
+SQL Server2000数据仓库应用与开发	0.0	0	
+Microsoft SQL Server 7.0数据仓库开发技术 含盘	0.0	0	
+SQL Server7 数据仓库	0.0	0	
+SQL Server7.0 数据仓库开发技术(影印版)	0.0	0	
+实时数据仓库技术	0.0	0	
+地质灾害数据仓库构建及应用	0.0	0	
+Hadoop构建数据仓库与实战分析	0.0	0	
+电力数据仓库系统建设及应用	0.0	0	
+元数据仓储的构建与管理	0.0	2	
+数据仓储	0.0	0	
+基于元数据驱动通用操作器的数据仓储构建	0.0	0	
+数据仓储与知识发现	0.0	0	
+公共图书馆元数据仓储编目规则	0.0	0	
+面向对象数据库仓库设计	0.0	0	
+数据挖掘概念与技术	7.7	522	
+元数据	7.2	58	
+数据挖掘	9.0	32	
+The Data Warehouse Toolkit	9.3	21	
+商务智能	8.0	22	
+The Data Warehouse ETL Toolkit	7.8	11	
+Pentaho Kettle解决方案：使用PDI构建开源ETL解决方案	8.5	18	
+DAMA数据管理知识体系指南	8.0	24	
+商业智能深入浅出	5.3	18	
+SQL Server 2005数据挖掘与商业智能完全解决方案	0.0	6	
+商务智能	0.0	4	
+Greenplum企业应用实战	8.3	29	
+OLAP解决方案：创建多维信息系统（第二版）	0.0	4	
+The Data Warehouse Lifecycle Toolkit	0.0	6	
+MDX解决方案	0.0	8	
+The Data Warehouse Toolkit	0.0	6	
+Building the Data Warehouse (Third Edition)	0.0	4	
+Building the Data Warehouse	0.0	5	
+公共仓库元模型开发指南	0.0	3	
+设计有效的数据库系统	0.0	8	
+商务智能	0.0	8	
+客户关系管理	0.0	2	
+数据架构与商业智能	0.0	4	
+Data Warehousing in the Age of Big Data	0.0	1	
+Dimensional Data Warehousing with MySQL	0.0	4	
+Kimball's Data Warehouse Toolkit Classics	0.0	0	
+商业智能深入浅出	0.0	2	
+Mastering Data Warehouse Design	0.0	3	
+Star Schema The Complete Reference	0.0	6	
+The Data Warehouse Toolkit	0.0	3	
+Data Warehousing Fundamentals	0.0	4	
+Data Architecture	0.0	2	
+基于大数据的商务智能分析	0.0	0	
+Data Modeler's Workbench	0.0	1	
+Corporate Information Factory	0.0	2	
+Constructing Data Warehouses with Metadata-Driven Generic Operators, and More	0.0	1	
+The Kimball Group Reader	0.0	2	
+数据湖架构	7.4	21	
+Oracle Data Warehouse Tuning for 10g	0.0	0	
+Data Warehousing Fundamentals for IT Professionals	0.0	1	
+Index Structures for Data Warehouses	0.0	0	
+The Data Warehouse Lifecycle Toolkit	0.0	0	
+The Kimball Group Reader	0.0	0	
+Data Warehouse Design	0.0	0	
+Data Warehousing for E-Business	0.0	0	
+DAMA-DMBOK: Data Management Body of Knowledge (2nd Edition)	0.0	2	
+Common Warehouse Metamodel Developer's Guide	0.0	0	
+The Encyclopedia of Data Warehousing and Mining	0.0	1	
+Data Warehousing for IT Professionals	0.0	0	
+Connecting the Data	0.0	0	
+Data Warehouse Systems	0.0	0	
+Testing the Data Warehouse Practicum	0.0	0	

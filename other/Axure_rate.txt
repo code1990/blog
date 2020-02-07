@@ -1,0 +1,44 @@
+网站蓝图	7.1	140	
+Axure RP 7 原型设计精髓	8.9	40	
+Axure RP 6原型设计精髓	7.8	159	
+APP蓝图	6.6	42	
+网站蓝图3.0	0.0	2	
+Axure RP7网站和APP原型制作从入门到精通	6.4	56	
+Axure RP 6 Prototyping Essentials	7.3	14	
+Axure RP 7.0从入门到精通	7.8	31	
+Axure	0.0	0	
+Axure RP8 网站和APP原型制作 从入门到精通	5.9	24	
+Axure RP8 实战手册 网站和APP原型制作案例精粹	7.6	36	
+Axure RP 8.0 入门宝典	4.8	14	
+Mobile Prototyping with Axure 7	0.0	3	
+Prototyping Essentials with Axure	0.0	5	
+網站藍圖：使用Axure RP速成高擬真網頁	0.0	4	
+Instant Axure RP Starter	0.0	3	
+移动互联网之路：Axure RP 8.0网站与APP原型设计从入门到精通	0.0	1	
+玩转Axure RP——Axure RP 7.0高保真网页、APP原型设计	0.0	0	
+原型设计大师：Axure RP网站与APP设计从入门到精通	0.0	8	
+Axure原型蓝图	0.0	3	
+Axure RP Prototyping Cookbook	0.0	0	
+用户体验及Axure交互设计——不懂交互的设计师不是好设计师！	0.0	2	
+Axure Rp	0.0	0	
+Axure RP7 网站和APP原型制作从入门到精通 60小时案例版	0.0	0	
+Axure RP8原型设计图解视频教程Web+App	0.0	4	
+Axure RP8网站与APP原型设计	0.0	1	
+Axure RP8入门手册	7.2	16	
+Axure RP8 产品原型设计快速上手指南	0.0	8	
+Axure RP原型设计基础与案例实战	0.0	3	
+Axure RP 8.0原型设计完全自学一本通（含DVD光盘1张 全彩）	0.0	0	
+Axure RP 原型设计实践（Web+APP）	0.0	1	
+Axure RP 8交互原型设计案例教程（微课版）	0.0	0	
+软件原型设计与应用：基于Axure RP8交互设计项目实战/企业级卓越人才培养解决方案“十三五”规划教材	0.0	0	
+Axure原型设计实战	0.0	0	
+Axure RP原型设计图解微课视频教程 Web+App	0.0	0	
+Web前端开发实用案例教程（Axure RP+HTML5+CSS3+Photoshop）	0.0	0	
+Axure Prototyping Blueprints	0.0	0	
+Axure RP 8.0中文版原型设计从入门到精通	0.0	0	
+Axure RP 9实用教程：原型+高保真+交互+设计（全彩）	0.0	1	
+Axure RP8网站与App原型设计经典实例教程 超值版	0.0	0	
+Axure RP 8.0网站产品原型设计全程揭秘（网页设计与开发殿堂之路）	0.0	0	
+跟小楼老师学用Axure RP 9 玩转产品原型设计	0.0	0	
+AxureRP8网站与App原型设计	0.0	1	
+AxureRP案例教程/中等职业学校计算机网络技术一体化丛书	0.0	0	

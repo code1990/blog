@@ -1,0 +1,1528 @@
+第一行代码	8.5	480	
+第一行代码：Android（第2版）	8.6	369	
+仿生人会梦见电子羊吗？	8.7	7126	
+仿生人会梦见电子羊吗？	8.7	4884	
+Android软件安全与逆向分析	8.0	119	
+Android 4高级编程	7.7	61	
+Android开发艺术探索	8.3	296	
+Android编程权威指南	8.5	237	
+深入理解Android	8.0	138	
+深入理解Android 卷III	9.3	23	
+Android系统源代码情景分析	8.8	70	
+深入理解Android内核设计思想	8.4	50	
+疯狂Android讲义	7.0	112	
+Android 源码设计模式解析与实战	8.8	97	
+深入理解Android：Wi-Fi、NFC和GPS卷	9.1	14	
+Android框架揭秘	8.8	56	
+Do Androids Dream of Electric Sheep?	8.9	387	
+Android进阶之光	7.1	251	
+Android高级进阶	5.9	58	
+Android编程权威指南（第3版）	8.4	40	
+深入理解Android内核设计思想（第2版 套装上下册）	8.2	12	
+Android群英传	6.2	127	
+Android	5.1	20	
+Android移动性能实战	8.8	22	
+Android基础教程	7.1	84	
+Android安全攻防权威指南	7.8	18	
+大话移动APP测试：Android与 iOS应用测试指南	7.6	63	
+Programming Your Home	0.0	7	
+cocos2d-x手机游戏开发	3.9	66	
+打造高质量Android应用	8.0	21	
+Android开发精要	8.1	168	
+Head First Android Development	8.0	28	
+深入剖析Android系统	9.6	11	
+深入理解Android网络编程	5.1	25	
+It's Android Time	6.7	18	
+Google Android开发入门与实战	6.3	243	
+Efficient Android Threading	9.4	34	
+Android应用开发揭秘	6.6	234	
+Android内核剖析	8.2	97	
+Strange Flesh	0.0	0	
+Google Android开发入门指南	7.7	121	
+疯狂Android讲义	7.3	242	
+精通Android游戏开发	7.0	25	
+Android应用性能优化	7.8	62	
+安佐之梦	7.7	41	
+Android应用UI设计模式	7.3	41	
+Android技术内幕	6.9	59	
+Android开发入门教程	7.0	35	
+使用HTML、CSS和JavaScript开发Android程序	6.8	56	
+Android群英传	6.8	31	
+Building Android Apps with HTML, CSS, and JavaScript	6.4	19	
+Google Android SDK开发范例大全	6.8	94	
+腾讯Android自动化测试实战	8.0	19	
+精通Android 2	7.1	44	
+Android游戏开发大全	0.0	9	
+Android系统原理及开发要点详解	7.1	83	
+深入理解Android	8.1	46	
+Learning Android（中文版）	8.0	53	
+The Android Developer's Cookbook	7.2	14	
+Pro Android Python with SL4A	8.0	11	
+Pro Android 2	8.0	54	
+Android高薪之路	5.7	11	
+精彩绝伦的Android UI设计	7.0	15	
+深入浅出Google Android	6.7	85	
+RxJava Essentials	6.3	23	
+Google Android揭秘	7.2	43	
+Making Musical Apps	0.0	5	
+Android基础教程 （第3版）	6.9	35	
+Learn Java for Android Development	0.0	8	
+精通Android 3	6.8	32	
+Android的设计与实现	7.5	30	
+android传感器高级编程	0.0	4	
+Android应用开发	7.2	57	
+Android Security Internals	0.0	6	
+Pro Android Web Apps	0.0	8	
+Android 4游戏编程入门经典	7.8	16	
+Android开发实战经典	7.0	10	
+Professional Android 2 Application Development	8.5	35	
+Android	0.0	1	
+Android编程权威指南（第2版）	8.9	53	
+Android Application Testing Guide	8.5	16	
+Android 开发范例代码大全（第2版）	0.0	1	
+精通Android	7.4	25	
+Android高级编程	7.2	25	
+Learning Android	8.0	55	
+Beginning Android 2	7.7	37	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android	0.0	0	
+Android编程实战	7.9	16	
+Android程序设计	0.0	7	
+Android应用开发详解	7.0	38	
+Hello, Android	7.4	32	
+Android基础教程（第3版·修订版）	7.0	16	
+Android系统级深入开发	6.2	20	
+Android 4编程入门经典	6.4	21	
+Google Android SDK开发范例大全	7.3	34	
+Android Programming	8.8	27	
+Embedded Programming with Android	0.0	2	
+Learning Android Game Programming	0.0	5	
+Kotlin for Android Developers	7.4	13	
+Android APP开发入门	0.0	8	
+Beginning Smartphone Web Development	0.0	3	
+品味移动设计	6.8	42	
+Pro Android C++ with the NDK	7.7	23	
+Android Hacker's Handbook	0.0	9	
+Android多媒体开发技术实战详解	0.0	0	
+Android C++高级编程	6.8	20	
+Learn Android Studio	0.0	3	
+Android系统下Java编程详解	0.0	3	
+Android游戏编程之从零开始	7.1	20	
+Android移动开发一本就够	7.3	17	
+Android应用测试与调试实战	0.0	8	
+Android从入门到精通	5.3	33	
+Android 2.0游戏开发实战宝典	6.7	31	
+疯狂Android讲义	7.8	39	
+Introduction to Android Application Development	0.0	2	
+Android开发秘籍	7.0	15	
+Android开发权威指南	6.6	28	
+Professional Android Application Development	7.9	30	
+Embedded Android	8.8	23	
+Beginning Nfc	0.0	1	
+从零开始学Android编程	0.0	4	
+Android开发实例大全	0.0	2	
+拨云见日	0.0	2	
+The Busy Coder's Guide to Android Development	8.6	13	
+Android UI基础教程	6.3	21	
+Android和PHP开发最佳实践	6.8	14	
+音视频开发进阶指南:基于Android与iOS平台的实践	7.8	29	
+Google Android SDK开发范例大全	7.7	22	
+Android嵌入式系统程序开发	0.0	0	
+Android核心技术与实例详解	7.1	17	
+Professional Android 4 Application Development	7.3	18	
+Android 安全架构深究	9.2	12	
+Android开发入门与实战	6.5	26	
+Android游戏开发实践指南	0.0	1	
+深入理解Android	0.0	9	
+Android/OPhone开发完全讲义(china-pub首发)	6.9	20	
+Android用户界面设计（全彩）	7.4	14	
+Hello, Android	7.5	24	
+Android游戏开发技术实战详解	0.0	0	
+轻松学Android开发	0.0	6	
+Android网络开发技术实战详解	0.0	1	
+Pro Android 4	7.6	16	
+Android 2高级编程	7.0	14	
+Android 3D游戏开发技术详解与典型案例	7.2	14	
+Android NDK Beginner's Guide	7.2	11	
+Arduino+Android互动智作	7.4	11	
+Android开发进阶	6.7	26	
+50 Android Hacks	7.2	16	
+创意之钥	0.0	3	
+深入理解Android自动化测试	0.0	7	
+Android程序设计	0.0	2	
+Unlocking Android	7.0	16	
+Android程序设计	0.0	2	
+Gradle Recipes for Android	0.0	4	
+Android可穿戴设备高级编程	0.0	1	
+Android Application Development	7.2	11	
+Android深度探索（卷1）	0.0	9	
+Android开发完全讲义	5.6	16	
+Google！Android 手機應用程式設計入門	0.0	7	
+Android Design Patterns	0.0	7	
+安卓工程师教你玩转Android	0.0	7	
+OpenGL ES应用开发实践指南	8.7	17	
+Android設計招式之美	0.0	6	
+Android安全机制解析与应用实践	4.9	14	
+Android安全技术揭秘与防范	7.8	13	
+深入解析Android 5.0系统	8.3	12	
+Android平台开发之旅	0.0	3	
+深入浅出Android源代码	0.0	4	
+Android安全攻防实战	0.0	5	
+Android移动应用开发从入门到精通	0.0	9	
+Android应用开发攻略	0.0	9	
+Pro OpenGL ES for Android	0.0	8	
+Android應用框架原理與程式設計36技	5.6	15	
+Android多媒体开发高级编程	0.0	8	
+Programming Android	7.4	15	
+Android应用案例开发大全	0.0	7	
+C#开发Android应用实战	0.0	6	
+Android UI设计	0.0	2	
+突破关键	0.0	1	
+Android应用开发精解	0.0	2	
+Pro Android 3	7.5	13	
+大话企业级Android应用开发实战	7.2	10	
+Beginning Android 4 Application Development	7.2	15	
+深入Android应用开发	0.0	8	
+AIR Android应用开发实战	0.0	9	
+Android取证实战	0.0	5	
+Android Application Development Cookbook - Second Edition	0.0	1	
+Beginning Android	7.1	13	
+Android应用安全防护和逆向分析	7.4	16	
+Android底层开发技术实战详解	0.0	7	
+Pro Android	7.1	14	
+Enterprise Android	0.0	1	
+Pro Android Flash Games	0.0	1	
+Hello App Inventor!	0.0	0	
+高性能Android应用开发	7.2	19	
+Android系统服务开发	0.0	5	
+Android應用軟體架構設計	0.0	4	
+Android Essentials (Firstpress)	6.6	17	
+Android应用开发实战	6.9	12	
+NFC：Arduino、Android与PhoneGap近场通信	7.0	16	
+Pro Android Games	7.4	10	
+Android应用开发入门	0.0	9	
+Android 4.0网络编程详解	6.1	14	
+Android应用程序开发权威指南（第四版）	9.4	14	
+iPad/Android/XOOM/GALAXY Tab电子书制作与发布	0.0	9	
+Android移动开发技术丛书 Android底层开发技术实战详解——内核、移植和驱动（第2版）	0.0	4	
+Android Programming In a Day!	0.0	0	
+Smashing Android UI	0.0	7	
+Android进阶解密	7.7	174	
+Application Security for the Android Platform	0.0	7	
+Android开发权威指南	0.0	9	
+Android插件化开发指南	7.5	16	
+Android Cookbook	0.0	9	
+Android深度探索（卷2）	0.0	9	
+Android系统源代码情景分析（修订版）（含CD光盘1张）	0.0	3	
+Pro Android Apps Performance Optimization	0.0	9	
+Android底层接口与驱动开发技术详解	0.0	2	
+Android语法范例参考大全	0.0	2	
+Android User Interface Development	0.0	6	
+Android in Practice	9.2	10	
+Gradle for Android	8.9	14	
+Android in Action, Second Edition	0.0	8	
+Android平台开发之旅	7.2	10	
+Android恶意代码分析与渗透测试	0.0	4	
+Android Programming	7.8	10	
+Multimobile Development	0.0	1	
+Android任务驱动式教程	0.0	0	
+practical mobile forensics（3ed）	0.0	1	
+Arduino + Android Projects for the Evil Genius	0.0	1	
+Android in Action	0.0	6	
+Android移动应用开发	0.0	5	
+Android 3D游戏开发技术宝典	0.0	9	
+Android Dalvik虚拟机结构及机制剖析	0.0	7	
+Hello, Android	7.4	10	
+Android移动开发案例详解	0.0	6	
+Android移动开发入门与进阶	0.0	8	
+Android攻略	0.0	5	
+Qt on Android 核心编程	0.0	5	
+Programming Android	0.0	7	
+Android Wireless Application Development	0.0	5	
+Gradle for Android 中文版	0.0	6	
+Learning Android中文版	7.3	14	
+OpenGL ES 2.0游戏与图形编程——适用于iOS 和 Android	0.0	1	
+Android Web应用高级编程	0.0	7	
+Android Dalvik虚拟机结构及机制剖析	0.0	7	
+Android项目实战	0.0	3	
+Android程序设计基础	0.0	7	
+Android应用程序安全	0.0	6	
+Android Recipes	0.0	7	
+Game and Graphics Programming for IOS and Android with OpenGL ES 2.0	0.0	1	
+Beginning Android Games	0.0	5	
+Rapid Android Development	0.0	0	
+Google Geek's Guide to the Android Enabled Phone	0.0	1	
+深入解析Android虚拟机	0.0	3	
+细说Android 4.0 NDK编程	6.2	13	
+OpenGL ES 2 for Android	0.0	4	
+Android Developer Tools Essentials	0.0	7	
+Beginning Android 3	0.0	9	
+Android 超级用户工具箱	6.9	11	
+Android 2.3应用开发实战	0.0	5	
+Android 4游戏高级编程	0.0	1	
+Developing Android on  Android	0.0	1	
+Android平板电脑编程基础教程	0.0	2	
+Android应用开发完全自学手册	0.0	1	
+Beginning Android 4	0.0	9	
+Android经典应用程序开发	0.0	6	
+Creating Dynamic UI with Android Fragments	0.0	5	
+Android应用程序开发	0.0	7	
+Android UI Fundamentals	0.0	7	
+Android高级开发实战:UI、NDK与安全	0.0	2	
+移动应用UI设计模式（第2版）	8.1	218	
+Android应用开发入门经典	0.0	4	
+The Busy Coder's Guide to Advanced Android Development	0.0	5	
+Android网络开发从入门到精通	0.0	2	
+Android开发秘籍	0.0	6	
+Practical Android Projects	0.0	6	
+Android核心原理与系统级应用高效开发	0.0	2	
+Android Programming	9.8	11	
+Android开发三剑客	0.0	4	
+Android编程入门经典	0.0	3	
+Head First Android Development	0.0	7	
+Android Gradle权威指南	5.1	23	
+Android全埋点解决方案	8.5	29	
+Professional Android Programming with Mono for Android and .NET/C#	0.0	3	
+Android编程典型实例与项目开发	0.0	5	
+XDA Developers' Android Hacker's Toolkit	0.0	2	
+Learning Android, 2nd Edition	0.0	4	
+The Busy Coder's Guide to Advanced Android Development	0.0	2	
+Android與物件導向技術	0.0	3	
+DIY四轴飞行器	0.0	2	
+Android开发应用从入门到精通	0.0	5	
+深入淺出 Android 系統移植與開發測試	0.0	2	
+Android多媒体编程从初学到精通	0.0	0	
+Android编程入门很简单	0.0	3	
+Android Forensics	0.0	6	
+Google Android手机游戏设计达人讲座	0.0	1	
+Android手机游戏开发从入门到精通	0.0	2	
+Android手机程序设计入门、应用到精通	0.0	5	
+Android Application Development for Dummies	0.0	8	
+Powenko新车间 Android 手机/平板电脑开发新挑战（含DVD光盘1张）	7.2	10	
+Do Androids Dream of Electric Sheep?	8.8	47	
+Expert Android	0.0	4	
+Learn Java for Android Development	0.0	4	
+Getting Started with NFC	0.0	0	
+Android Studio实战快速高效地构建Android应用/移动开发经典丛书	0.0	2	
+Google Android 2.X应用开发实战	0.0	6	
+Android应用开发全程实录	0.0	5	
+Android Database Programming	0.0	5	
+Pro Android Ui	0.0	2	
+Decompiling Android	0.0	2	
+Android Apps for Absolute Beginners	0.0	6	
+Android实例开发完全手册	0.0	1	
+Android Studio Application Development	0.0	3	
+Building Hybrid Android Apps with Java and JavaScript	0.0	3	
+Developing Android Applications with Flex 4.5	0.0	6	
+Professional Android Sensor Programming	0.0	3	
+Pro Android Augmented Reality	0.0	2	
+Android驱动开发与移植实战详解	0.0	3	
+Asynchronous Android	0.0	4	
+Android系统安全和反编译实战	0.0	2	
+Android Internals	0.0	4	
+Android编程经典200例	0.0	4	
+Android 5.0开发范例代码大全：第4版	0.0	3	
+深入理解Android：WebKit卷	0.0	8	
+Android User Interface Design	0.0	3	
+Android程序设计 第二版	0.0	3	
+Android项目开发详解	0.0	1	
+Building Android Apps with HTML, CSS, and JavaScript	0.0	4	
+Android板级支持与硬件相关子系统	0.0	1	
+Beginning Android Application Development	0.0	6	
+Beginning Android 4 Games Development	0.0	2	
+Android应用开发实战	0.0	4	
+Pro Android Web Game Apps	0.0	2	
+Android Application Programming with OpenCV	0.0	5	
+Best Android Apps	0.0	5	
+Appcelerator Titanium Smartphone App Development Cookbook	0.0	5	
+Android 3.0 Animations	0.0	3	
+Android Application Development	0.0	0	
+Developing Android Applications with Adobe AIR	0.0	5	
+Practical Android 4 Games Development	0.0	2	
+Android热门应用开发详解	0.0	3	
+Android 4游戏实战编程	0.0	1	
+Android程序设计	0.0	1	
+Android开发应用实战详解	0.0	2	
+Android开发关键技术之旅	0.0	4	
+Android江湖	0.0	1	
+Pro Android Media	0.0	4	
+深入剖析Android开发	0.0	0	
+Pro Android Graphics	0.0	1	
+基于Material Design的Android用户界面设计	0.0	5	
+Android High Performance Programming	0.0	1	
+High Performance Android Apps	0.0	3	
+Android优化技术详解	0.0	4	
+Google Android程序设计指南	0.0	2	
+Android移动应用开发	0.0	3	
+The Android's Dream	0.0	9	
+20 Recipes for Programming PhoneGap	0.0	5	
+Android for Programmers	0.0	2	
+Android典型技术模块开发详解	0.0	1	
+Making Android Accessories with IOIO	0.0	0	
+Android Apps with Eclipse	0.0	5	
+HTML5 for IOS and Android	0.0	1	
+Android Netrunner Living Card Game	0.0	2	
+Android NFC开发实战详解	0.0	2	
+Xamarin Mobile Application Development for Android	0.0	0	
+Android系统移植和驱动开发	0.0	3	
+Android应用开发	0.0	4	
+Android应用开发案例精解	0.0	1	
+Android Native Development Kit Cookbook	0.0	3	
+Android Recipes	0.0	2	
+Android游戏编程入门经典	0.0	1	
+Professional NFC Application Development for Android	0.0	1	
+构建安全的Android App	0.0	2	
+Android移动应用开发	0.0	1	
+Android移动应用开发从入门到精通	0.0	5	
+深入理解Android	9.4	13	
+构建嵌入式Android系统	0.0	2	
+Android开发秘籍 第2版	0.0	0	
+Android商业软件开发全程实战	0.0	1	
+Google Android手机必装发烧软件200+	0.0	5	
+Android开发从入门到精通	0.0	1	
+Beginning Android Tablet Games Programming	0.0	1	
+Google Android SDK开发实战演练	0.0	3	
+Android多媒体应用开发实战详解	0.0	1	
+Pro Android Games	0.0	2	
+Android Programming: The Big Nerd Ranch Guide (3rd Edition) (Big Nerd Ranch Guides)	0.0	6	
+精通Android UI设计	0.0	0	
+Sams Teach Yourself Android Application Development in 24 Hours (Sams Teach Yourself -- Hours)	0.0	1	
+Android for Work	0.0	1	
+Android基础开发与实践	0.0	0	
+Android应用性能优化最佳实践	4.9	17	
+Android游戏开发案例与关键技术	0.0	2	
+Learning Android Canvas	0.0	2	
+Android数据库应用编程——为企业开发数据驱动Android应用	0.0	1	
+Android应用开发	0.0	1	
+Android应用开发范例精解	0.0	1	
+The Business of Android Apps Development	0.0	3	
+Learning Android Application Programming for the Kindle Fire	0.0	2	
+Android应用开发与系统改造实战	0.0	2	
+Pro Android 3 Games	0.0	1	
+Android开发案例驱动教程	0.0	1	
+Android Programming Tutorials	0.0	0	
+Android Recipes (3rd Edition)	0.0	2	
+深入OpenCV Android应用开发	0.0	1	
+Android三维程序设计	0.0	2	
+Android Best Practices	0.0	2	
+Android Programming Tutorials, 2nd Edition	0.0	2	
+Learn Android App Development	0.0	0	
+Android平板电脑开发实战详解和典型案例	0.0	0	
+Android Studio开发实战	0.0	3	
+Android物联网开发从入门到实战（附光盘）	0.0	2	
+Windows Phone编程精要	0.0	2	
+Learning Android Intents	0.0	3	
+Mobile Development with C#	0.0	2	
+Android应用程序开发	0.0	6	
+Pro Smartphone Cross-Platform Development	0.0	3	
+Google Android應用程式開發實戰第三版－適用Android SDK 2.x/3.x	0.0	0	
+Android物联网开发：基于Android Studio环境	0.0	1	
+Using OpenGL Es 2.0 for Android Development	0.0	0	
+Pro Android Best Practices	0.0	0	
+Android Application Development All-in-One For Dummies	0.0	0	
+Android Wireless Application Development	0.0	1	
+Android Application Development	0.0	2	
+Android Arcade Game App	0.0	1	
+实战Android应用开发	0.0	1	
+Android Application Development Cookbook	0.0	2	
+Android 面试宝典	0.0	6	
+The Android Tablet Developer's Cookbook	0.0	1	
+The Android Developer's Cookbook	0.0	1	
+Pro Android 5	0.0	1	
+Android 3D游戏开发与应用案例详解	0.0	0	
+Bulletproof Android	0.0	1	
+Learn HTML5 and JavaScript for Android	0.0	0	
+Android从入门到精通	0.0	2	
+Beginning Android Tablet Programming	0.0	1	
+Android Fully Loaded	0.0	0	
+Android 3.0 Application Development Cookbook	0.0	2	
+Pro Android Flash	0.0	1	
+Beginning Android Web Apps Development	0.0	1	
+Android开发基础教程	0.0	2	
+Android 4.1游戏高级编程	0.0	0	
+Android移动网站开发详解	0.0	0	
+Android Application Security Essentials	0.0	0	
+Android Studio Cookbook	0.0	0	
+Mastering Android NDK	0.0	1	
+Android 5 Programming by Example	0.0	2	
+Android平板电脑开发秘籍	0.0	1	
+Beginning Android C++ Game Development	0.0	0	
+Android应用案例开发大全(第3版)	0.0	1	
+Android 4	0.0	1	
+Instant Spring for Android Starter	0.0	2	
+Android 4.X手机/平板电脑程序设计入门、应用到精通	0.0	0	
+Android Concurrency	0.0	0	
+Android Robotics Projects	0.0	0	
+Android BSP與系統移植開發	0.0	1	
+想到做到	0.0	1	
+让安卓飞	0.0	1	
+Android 4.X App 開發教戰手冊－適用Android 4.x~2.x	0.0	0	
+Android应用开发教程	0.0	2	
+Android移动应用设计与开发	0.0	3	
+未来的夏娃	7.3	138	
+Android Wireless Application Development Volume I	0.0	1	
+Android系统原理和实战应用	0.0	0	
+Android Application Development For Dummies	0.0	1	
+Android Application Development for Java Programmers	0.0	1	
+Android学习精要	0.0	0	
+Google！Android 3手機應用程式設計入門 第四版/XP11177	0.0	0	
+Arduino Android Blueprints	0.0	0	
+Android应用开发从入门到精通	0.0	2	
+Android Phones For Dummies	0.0	1	
+Migrating to Swift from Android	0.0	0	
+Learning Android Application Programming	0.0	1	
+Android网络游戏开发实战	0.0	0	
+Android 开发与实践	0.0	1	
+Android 2.X 手機程式開發教戰手冊	0.0	1	
+Android Tablets for Seniors in Easy Steps	0.0	0	
+Unboxing Android USB	0.0	2	
+Android数据库程序设计	0.0	1	
+深入理解Android 5 源代码	0.0	1	
+Android System Programming	0.0	0	
+Amazing Android Apps For Dummies	0.0	1	
+Google on the Go	0.0	0	
+Android智能手机软件开发教程	0.0	1	
+Construct 2 遊戲程式設計	0.0	0	
+青少年科技创新丛书·当安卓遇上乐高	0.0	1	
+Android开发与应用	0.0	1	
+程序员藏经阁	0.0	2	
+移动终端应用开发技术	0.0	1	
+第一季Kotlin崛起(次世代Android开发)/移动开发系列	0.0	2	
+Expert Android Studio	0.0	0	
+Exploring SE for Android	0.0	0	
+Flash Mobile	0.0	0	
+Flash Mobile	0.0	0	
+Flash Mobile	0.0	0	
+App研发录：架构设计、Crash分析和竞品技术分析	8.2	145	
+Free Fall	0.0	1	
+Learning Pentesting for Android Device	0.0	0	
+Android入门经典	0.0	1	
+Android (Operating System)	0.0	0	
+基于Android的手机应用软件开发教程	0.0	0	
+Android应用程序开发与典型案例	0.0	0	
+Spasm	0.0	1	
+App Inventor 2	0.0	1	
+Android、iPhone、Windows Phone手机网页及网站设计	0.0	5	
+Android App 视觉与体验设计指南	7.4	12	
+AdvancED Flash Lite	0.0	0	
+Android程序设计教程	0.0	0	
+Learning Mobile App Development	0.0	1	
+普通高等教育"十三五"规划教材·计算机类本科规划教材	0.0	0	
+Create Mobile Games with Corona	0.0	0	
+Android应用开发基础教程	0.0	1	
+OpenGL ES 3.0 Cookbook	0.0	0	
+极致玩家	0.0	1	
+玩转Android手机	0.0	1	
+Android系统结构及应用编程	0.0	0	
+Creating Mobile Apps with Xamarin.Forms	0.0	0	
+Android操作系统与应用开发	0.0	0	
+The Definitive Guide to Firebase	0.0	0	
+Hacking Android	0.0	1	
+Learn ARCore - Fundamentals of Google ARCore	0.0	1	
+Android高性能编程	7.7	11	
+Programming Kotlin	0.0	0	
+Android手机拍照·处理秘技	0.0	1	
+Philip K. Dick	0.0	6	
+玩家必备	0.0	1	
+玩家必备	0.0	0	
+Infiltration	0.0	0	
+Google Android开发技术	0.0	0	
+Android开发简明教程	0.0	0	
+Android程序设计实用教程	0.0	0	
+Android应用程序设计	0.0	0	
+Manga of 1972	0.0	0	
+Fictional Robots	0.0	0	
+How to Talk to Your Android	0.0	0	
+Develop an Android App in Less Than a Day with No Programming Skills Required	0.0	0	
+Android 雲端實務程式設計－適用Android 2.x~4.x	0.0	0	
+高等职业院校教学改革创新示范教材·软件开发系列	0.0	0	
+Android Software Development: A Collection of Practical Projects	0.0	0	
+Android系统开发与实践	0.0	0	
+創意之鑰	0.0	0	
+Android 程式設計範例經典	0.0	0	
+Android应用开发案例教程	0.0	0	
+Introduction to Android Application Development	0.0	0	
+Android Cookbook	0.0	1	
+Mobile App Marketing And Monetization	0.0	0	
+Flash Mobile	0.0	0	
+Mastering Android Game Development with Unity	0.0	1	
+Reactive Android Programming	0.0	2	
+Reactive Programming in Kotlin: Design and build non-blocking, asynchronous Kotlin applications with RXKotlin, Reactor-Kotlin, Android, and Spring	0.0	1	
+React Native - Building Mobile Apps with JavaScript	0.0	0	
+Android Development with Kotlin: Enhance your skills for Android development using Kotlin	0.0	1	
+Learning Kotlin by building Android Applications	0.0	0	
+Kotlin Programming Cookbook	0.0	0	
+Android程序设计入门、应用到精通 适用Android L，1.X~4.X，Android Wear穿戴式设备?	0.0	0	
+Native Mobile Development	0.0	0	
+Beginning Android Games	8.5	15	
+Do Androids Dream Of Electric Sheep?	8.1	13	
+Android音视频开发	7.0	15	
+深入探索Android热修复技术原理	7.8	11	
+Do Androids Dream of Electric Sheep?	8.5	17	
+零成本实现Android/iOS自动化测试	0.0	6	
+智能手机跨平台开发高级教程	0.0	7	
+アンドロイドは電気羊の夢を見るか？	0.0	9	
+Androids, Humanoids, and Other Folklore Monsters: Science and Soul in Science Fiction Films	0.0	1	
+Android自学视频教程	0.0	1	
+銀翼殺手	7.8	17	
+Android Security Cookbook	0.0	4	
+Retrofitting Blade Runner	0.0	0	
+使用HTML、CSS和JavaScript开发Android程序（第2版）	0.0	3	
+Do Androids Dream of Electric Sheep? (Oxford Bookworms Library)	0.0	6	
+Do Androids Dream of Electric Sheep?	0.0	8	
+DO ANDROIDS DREAM OF ELECTRIC SHEEP	0.0	7	
+Android Karenina	0.0	2	
+Android and Arduino	0.0	1	
+Beginning Android ADK with Arduino	0.0	1	
+Android 平板电脑应用开发入门经典	0.0	1	
+Android开发入门与实战体验	0.0	4	
+Head First Android开发	0.0	5	
+Android系统安全与攻防	0.0	1	
+终极极客——“Android之父”安迪•鲁宾	0.0	6	
+Google！Android 手機應用程式設計入門第二版	0.0	3	
+Do Androids Dream Of Electric Sheep? Dust To Dust,  Vol. 1	0.0	1	
+Android 4.X开发完全上手—— 手把手构建完整Android App范例\	0.0	1	
+Android 機器人‧安娜	0.0	0	
+Professional Android Open Accessory Programming with Arduino	0.0	1	
+Five Great Novels	0.0	2	
+Android移动编程实用教程	0.0	1	
+Android开发宝典	0.0	1	
+Android进阶实践	0.0	3	
+Android基础教程（第4版）	0.0	1	
+Android 6开发秘籍(第5版)	0.0	0	
+The Android's Dream	0.0	1	
+Do Androids Dream Of Electric Sheep? Vol 1	0.0	2	
+Do Androids Dream Of Electric Sheep?	0.0	8	
+疯狂Android讲义（第4版）	0.0	0	
+Android Studio Development Essentials - Android 6 Edition	0.0	1	
+Android项目开发范例大全	0.0	1	
+Google Android手机必玩发烧游戏100%强推荐	0.0	3	
+Advanced Android 4 Games	0.0	1	
+Android 4.X从入门到精通	0.0	0	
+巧用Gradle构建Android应用	0.0	5	
+App Inventor for Android	0.0	1	
+玩转我的Android手机	0.0	1	
+Programming for the Android Dalvik Virtual Machine	0.0	0	
+Android创意实例详解	0.0	3	
+Android网络开发与应用实战详解	0.0	1	
+Android Apps Security	0.0	1	
+Android Security	0.0	2	
+Android 3D游戏案例开发大全	0.0	2	
+Android底层接口与驱动开发技术详解	0.0	1	
+Android程序开发实用教程-免费赠送PPT电子课件及习题答案	0.0	2	
+Do Androids Dream of Electric Sheep? Vol 2	0.0	1	
+Blade Runner	0.0	4	
+Andengine for Android Game Development Cookbook	0.0	0	
+Androids in the Enlightenment	0.0	1	
+Java和Android开发学习指南(第二版)	0.0	1	
+Android移动开发技术丛书 Android开发实例大全（第2版）	0.0	0	
+Android App Development in Android Studio: Java + Android Edition for Beginners	0.0	0	
+Android移动应用开发任务驱动教程（Android 9.0+ Android Studio	0.0	0	
+Thinking About Android Epistemology	0.0	0	
+The Android Animorphs No. 10	0.0	1	
+Android Wireless Application Development Volume II	0.0	0	
+解析Google Android SDK	0.0	1	
+Android手机达人活用宝典	0.0	3	
+轻松玩转Android手机	0.0	0	
+玩转Android手机平板软件300+	0.0	2	
+Do Androids Dream of Electric Sheep Vol 4	0.0	0	
+Do Androids Dream of Electric Sheep	0.0	1	
+Windows Phone 7 Programming for Android and IOS Developers	0.0	2	
+Android Launcher应用开发	0.0	3	
+Android开发实战	0.0	1	
+Android实战指南	0.0	0	
+Android驱动开发权威指南	0.0	0	
+Advanced Android Application Development	0.0	0	
+太牛了！Android手机可以这样玩	0.0	0	
+乐享Arduino+Android+PC创意制作	0.0	1	
+Android移动开发教程	0.0	1	
+できるポケット+ OneNote 2010/Android/iPad/iPhone/Windows Phone対応	0.0	0	
+Android SDK程序设计与开发范例	0.0	2	
+Do Androids Dream of Electric Sheep?	0.0	5	
+Mastering Android Application Development	0.0	2	
+Android Boot Camp for Developers Using Java, Introductory a Beginner's Guide to Creating Your First Android Apps	0.0	0	
+Android Mobile Computing Using Samsung Tablets and Smartphones Running Android 2.3	0.0	0	
+Android 遊戲程式開發攻略－動手撰寫你的第一支Android 遊戲程式	0.0	0	
+Android Continuous Integration: Build-Deploy-Test Automation for Android Mobile Apps	0.0	1	
+Beginning Android Programming with Android Studio	0.0	0	
+Android Studio 2.3 Development Essentials - Android 7 Edition	0.0	0	
+Mastering Android Studio 3: Build Dynamic and Robust Android applications	0.0	0	
+Mastering Android Development with Kotlin: Deep dive into the world of Android to create robust applications with Kotlin	0.0	0	
+Learn Android Studio 3: Efficient Android App Development	0.0	0	
+Expert Android Programming: Master skills to build enterprise grade Android applications	0.0	0	
+Android模块化开发项目式教程（Android Studio）	0.0	0	
+Android应用开发基础（基于Android 4.2、任务驱动式 双色印刷）/“十二五”职业教育国家规划教材	0.0	0	
+Android App开发入门：使用Android Studio 2.X开发环境 第2版	0.0	0	
+Android程序设计与开发（Android Studio版）/“在实践中成长”丛书	0.0	0	
+Android移动网络程序设计案例教程 Android Studio版/21世纪高等学校计算机专业实用规划教材	0.0	0	
+Android实用教程（基于Android Studio?含视频分析）	0.0	0	
+Android应用程序开发教程 Android Studio版	0.0	0	
+Android移动开发案例教程——基于Android Studio开发环境	0.0	0	
+移动应用系列丛书：Android程序设计实用教程 Android Studio版	0.0	0	
+Android移动应用设计与开发（第2版）——基于Android Studio开发环境	0.0	0	
+Android 4.X 应用与开发实战手册：适用Android 4.X-2.X（第2版）	0.0	0	
+Androidセンサ機能別アプリ開発 Androidスマホ内蔵のセンサでアプリを作る	0.0	0	
+學習Android的開始:開發我的第一支Android應用程式	0.0	0	
+Android 5.x App開發教戰手冊:使用Android Studio開發(附DVD)	0.0	0	
+A Newbies Guide to Android Ice Cream Sandwich: Getting the Most Out of Android	0.0	0	
+Android Studio Curso Básico/ Android Studio Basic Course: Aprenda paso a paso/ Learn step by step	0.0	0	
+Design and Development of Android Applications: Set of Android Apps Solving Real Life Problems	0.0	0	
+Android Lollipop: A Beginner's Guide to the Android Operating System	0.0	0	
+Android Tablets for Seniors in easy steps, 3rd Edition: Covers Android 7.0 Nougat	0.0	0	
+Android初學特訓班 (第四版) (超人氣暢銷改版,適用Android 4.X~2.X,附影音教學)	0.0	0	
+Android / Unlocking Android: Guia para desarrolladores / A Developer's Guide	0.0	0	
+Android初學特訓班(第五版)(超人氣暢銷改版,適用全新Android 5,附關鍵影音教學)	0.0	0	
+Android移动应用基础教程（Android Studio）（第2版）	0.0	1	
+Android应用开发入门（基于Android Studio开发环境、任务驱动式）	0.0	0	
+Android程序设计教程（Android Studio版）	0.0	0	
+Android项目实战——手机安全卫士（Android Studio）(第2版）	0.0	0	
+ROBOT BLUES ['Do Androids Dream of Electric Sheep?']	0.0	1	
+Android手机/平板电脑程序开发教练	0.0	0	
+玩到极致 Android手机让你不一样	0.0	1	
+OPhone/Android游戏开发与推广指南	0.0	0	
+iP ad / Android 互動電子雜誌超簡單輕鬆做	0.0	0	
+ARM官方开发工具丛书·Linux/Android开发利器	0.0	1	
+Ａｎｄｒｏｉｄフォン英語学習法―あなたの手元の最強英語ツール	0.0	0	
+Android 编程宝典	0.0	2	
+基于Android的嵌入式手机应用开发实训教程	0.0	1	
+仿人机器人原理与实战	0.0	1	
+Android 5.X App开发实战	0.0	1	
+The Android Game Developer's Handbook	0.0	0	
+Hello, Android: Introducing Google's Mobile Development Platform	0.0	2	
+Android NDK Beginners Guide 2nd	0.0	1	
+Android经典应用	0.0	1	
+Agile Android	0.0	0	
+Android开发实战体验	0.0	0	
+可视化开发android运用程序	0.0	1	
+Do Androids Dream of Electric Sheep Omnibus	0.0	0	
+Android经典项目开发实战	0.0	1	
+Android OpenCV应用程序设计	0.0	0	
+煮酒论android	0.0	1	
+Paranoid Android and House of Cards	0.0	0	
+Getting Started with iPhone SDK, Android and others	0.0	0	
+Robots!	0.0	1	
+アンドロイドは電気羊の夢を見るか?―Do androids dream of electric sheep?	0.0	1	
+App Inventor 2 Android应用开发实战	0.0	0	
+Getting Started With Android Studio	0.0	0	
+爱上Android	0.0	1	
+精通Android Studio	0.0	1	
+Android项目开发实战入门（全彩版）	0.0	0	
+零基础学Android（全彩版）	0.0	0	
+Android Epistemology	0.0	0	
+Robots, Androids and  Animatrons, Second Edition	0.0	0	
+The Melancholy Android	0.0	1	
+Creating Android Applications	0.0	0	
+Android Apps with App Inventor	0.0	0	
+玩转Android平板电脑	0.0	1	
+Android手机玩家进阶活用100%	0.0	1	
+Android Application Sketch Book	0.0	0	
+Sams Teach Yourself Android Game Programming in 24 Hours	0.0	1	
+Android手机软件宝典	0.0	0	
+Beginning Android Tablet Application Development	0.0	1	
+玩转Android手机	0.0	1	
+Do Androids Dream of Electric Sheep? Vol. 6	0.0	0	
+Android Apps Marketing	0.0	1	
+Do Androids Dream Of Electric Sheep? Vol 3	0.0	0	
+Android玩家必备	0.0	0	
+Do Androids Dream of Electric Sheep? Vol. 5	0.0	0	
+Android Market	0.0	0	
+Android Cookbook	0.0	1	
+Blade Runner	0.0	0	
+The Complete Guide to Google Android	0.0	1	
+The Androids of Tara	0.0	1	
+Android移动应用程序开发教程	0.0	0	
+Android经典项目案例开发实战宝典	0.0	0	
+Android开发模式与最佳实践	0.0	0	
+Android Programming for Beginners	0.0	0	
+Pro iOS and Android Apps for Business	0.0	0	
+Voice Application Development for Android	0.0	0	
+深入浅出Android软件开发教程	0.0	1	
+Android 移动应用基础教程	0.0	1	
+Android 6 for Programmers	0.0	0	
+Html5 Mobile for Android and IOS	0.0	1	
+Android Studio Essentials	0.0	1	
+Android APP UI介面與程式設計觀念	0.0	0	
+不會寫程式也可以學 Android 來賺錢	0.0	0	
+Android Studio Game Development: Concepts and Design	0.0	0	
+android应用开发基础教程	0.0	0	
+Android核心技术与实例详解	0.0	1	
+Android-Apps entwickeln	0.0	0	
+Do Androids Dream of Electric Sheep	0.0	1	
+Android on x86	0.0	0	
+Android Apps for Absolute Beginners	0.0	0	
+Android Protection System	0.0	0	
+Learning Android Forensics	0.0	1	
+Blade Runner - Do Androids Dream of Electric Sheep? / The Game-Players of Titan / A Maze of Death HARDCOVER BOOK IN RUSSIAN CONTAINS ILLUSTRATIONS	0.0	1	
+Do Android Crows Fly Over the Skies of an Electronic Tokyo?	0.0	0	
+Android开发完全实战宝典	0.0	0	
+Android Programming Unleashed	0.0	0	
+Android初學特訓班	0.0	1	
+Android应用开发教程	0.0	2	
+Android Dreams	0.0	0	
+Java Programming for Android Developers For Dummies	0.0	1	
+Android开发实战(从学习到产品)/移动开发丛书	0.0	2	
+Android系统源代码情景分析（第三版）	0.0	0	
+Asynchronous Android Programming	0.0	1	
+基于Android平台的移动互联网应用开发(第2版高等学校计算机专业规划教材)	0.0	0	
+Android游戏开发详解	0.0	0	
+RxJava for Android App Development	0.0	1	
+Android软件安全权威指南	0.0	2	
+Android Game Programming For Dummies	0.0	1	
+Android开发详解（全彩版）	0.0	0	
+Android精彩编程200例（全彩版）	0.0	0	
+My Fair Ladies	0.0	0	
+Blade Runner	0.0	7	
+Blade Runner	0.0	0	
+Alien Androids Assault Arizona	0.0	0	
+The Melancholy Android	0.0	0	
+Blade Runner (Do Androids Dream of Electric Sheep)	0.0	0	
+Do Androids Dream of Electric Sheep?. Mit Materialien	0.0	0	
+Gods and Androids	0.0	0	
+Gods And Androids	0.0	0	
+Robots， Androids， and Animatrons: 12 Incredible Projects You Can Build	0.0	0	
+Robots and Androids	0.0	0	
+Do Androids Dream of Electric Sheep?	0.0	0	
+Android Development with Flash	0.0	0	
+The Rise of the Human Androids	0.0	0	
+Do Androids Dream of Electric Sheep?	0.0	1	
+Androids Rule	0.0	0	
+Androids from Milk	0.0	0	
+Android App Development and Design	0.0	0	
+Kipton and the Android	0.0	0	
+Sams Teach Yourself Android Application Development in 24 Hours	0.0	0	
+Sams Teach Yourself Google Music for Android in 10 Minutes	0.0	0	
+Expert Android Application Development	0.0	0	
+The Complete Android Guide	0.0	0	
+Android Programming	0.0	0	
+Android App Development Fundamentals LiveLessons Bundle	0.0	0	
+The Rough Guide to Android Phones and Tablets	0.0	0	
+Android开发从入门到精通	0.0	0	
+Android Complete Bible超活用聖經	0.0	0	
+Android之改機懶人包	0.0	0	
+Android ALS Jcp-Unabh Ngige Laufzeitumgebung F R Jcp-Abh Ngige Implementierungen	0.0	0	
+Android Photography	0.0	0	
+轻松玩转Android智能手机	0.0	1	
+Revenge of the Androids	0.0	0	
+The Android Chronicles	0.0	0	
+The Trouble with Androids	0.0	0	
+The Trouble with Androids	0.0	0	
+Android Application Development for Dummies	0.0	0	
+Android Application Development for Dummies	0.0	0	
+Die Unterscheidung Zwischen Mensch Und Android in Philip K. Dicks Roman "Tr Umen Androiden Von Elektrischen Schafen?"	0.0	0	
+Android - Grundlagen, Anwendungsentwicklung Und M Gliche Verdienstformen.	0.0	0	
+Android Tablet Development Recipes	0.0	0	
+Best Android Apps	0.0	0	
+The Androids Are Coming	0.0	0	
+Android Tablet Application Development For Dummies	0.0	0	
+ジオモバイルプログラミング—iPhone＆Androidで位置情報アプリを作ろう—	0.0	0	
+Android Phones For Dummies	0.0	0	
+Android Fully Loaded	0.0	0	
+Android Photography	0.0	0	
+Building Android Apps in Easy Steps	0.0	0	
+Android 4 Programming 24-Hour Trainer	0.0	0	
+The Android Myth	0.0	0	
+The Android's Best Applications Available	0.0	0	
+Dr Who & Android Invasion 9	0.0	0	
+The Rough Guide to Android Phones	0.0	0	
+Pro Web Gadgets Across iPhone, Android, Windows, Mac, iGoogle and More	0.0	0	
+初めてのAndroid 第3版	0.0	0	
+Android 3 SDK Programming For Dummies	0.0	0	
+Android Tablets Made Simple	0.0	0	
+Taking Your Android Tablets to the Max	0.0	0	
+iPhone & Android HTML5ではじめるアプリ制作の手引き	0.0	0	
+Google Android 2手機APP開發入門	0.0	0	
+Android手机玩家秘笈	0.0	0	
+Male Android Companion	0.0	0	
+Rhodes Framework for Android Platform and BlackBerry Smartphones	0.0	0	
+How to Build an Android	0.0	0	
+How to Build an Android	0.0	0	
+How to Build an Android	0.0	0	
+How to Build an Android	0.0	0	
+Tablet PC's - Android vs. IOS	0.0	0	
+Android Software, Including	0.0	0	
+Android Films, Including	0.0	0	
+Android Software, Including	0.0	0	
+Articles on Android Devices, Including	0.0	0	
+The Rough Guide to the Best Android Apps	0.0	0	
+Android OS	0.0	0	
+How to Build an Android	0.0	0	
+Android Nim	0.0	0	
+Android Developer Challenge	0.0	0	
+Paranoid Android	0.0	0	
+Android Software Development	0.0	0	
+Android Version History	0.0	0	
+Android Tablets For Dummies	0.0	0	
+Lists of Fictional Characters	0.0	0	
+Lists of Fictional Things	0.0	0	
+Android Software	0.0	0	
+Android Films	0.0	0	
+Androids and Intelligent Networks in Early Modern Literature and Culture	0.0	0	
+Dr Who-Androids of Tara	0.0	0	
+Android嵌入式应用开发	0.0	0	
+Do Androids Dream of Electric Sheep?	0.0	1	
+IRCD ANDROID BOOT DEV JAVA	0.0	0	
+Android Boot Camp Developer Java Computer Beginner's Guide	0.0	0	
+The Native Advantage with Titanium Developing IOS & Android Applications Using JavaScript	0.0	0	
+Androids	0.0	0	
+Logiciel Android	0.0	0	
+An Android Approach to the Web Services Resource Framework.	0.0	0	
+Android-Software	0.0	0	
+Ustro?stva Na Baze Android	0.0	0	
+Android Du N M	0.0	0	
+Android y Ngg?musofuto	0.0	0	
+Android Du?n M	0.0	0	
+Android Ru N Ji N	0.0	0	
+The Essential Android Tablet Handbook 2012	0.0	0	
+達人評選！Android手機必裝軟體300+	0.0	0	
+Android超熱門軟體排行榜	0.0	0	
+達人揭密！Android最強極技完全制霸	0.0	0	
+Android App Development Fundamentals Part I LiveLessons	0.0	0	
+Android Development Software, Including	0.0	0	
+Android Films, Including	0.0	0	
+Android手機究極活用玩樂術	0.0	0	
+A級娛樂 Android × iPhone 情趣Apps 120+	0.0	0	
+Android Programming Tutorials, 3rd Edition	0.0	0	
+Dragonball Fanon - Androids	0.0	0	
+Fictional Androids	0.0	0	
+Android Development Interview Questions You'll Most Likely Be Asked	0.0	0	
+Fill in the Blanks to Learning Android 4 - Ice Cream Sandwich	0.0	0	
+Genius Android Marketing	0.0	0	
+Dr. Who	0.0	0	
+Fill in the Blanks to Learning Android Tablet Computers	0.0	0	
+A Simpler Guide to the Best Free Android Apps	0.0	0	
+Android Ui Design with XML	0.0	0	
+Android Development for Beginners	0.0	0	
+Android Forensics Handbook	0.0	0	
+GOTAB 10.1 ANDROID 4.0 TABLET	0.0	0	
+Losing the Head of Philip K. Dick A Bizarre But True Tale of Androids, Kill Switches and Left Luggage	0.0	0	
+GOTAB 7 CAPACITIVE ANDROID 4. TABLET	0.0	0	
+GOTAB 7 CAPACITIVE ANDROID 4. TABLET	0.0	0	
+Flash Development for Android Cookbook	0.0	0	
+Android How to Boot Camp	0.0	0	
+Android Dreams	0.0	0	
+Android開發應用	0.0	0	
+Android Application Development with Augmented Reality	0.0	0	
+Learning zANTI2 for Android Pentesting	0.0	0	
+Android应用程序安全	0.0	0	
+Android系统优化从入门到精通	0.0	0	
+Android Studio 2 Essentials	0.0	0	
+Android User Interface Design: Implementing Material Design for Developers (2nd Edition) (Usability)	0.0	0	
+Learning Android Application Development	0.0	0	
+Android 4游戏入门经典（第3版）	0.0	0	
+Android Application Security: A Semantics and Context-Aware Approach (SpringerBriefs in Computer Science)	0.0	0	
+Android Design Patterns and Best Practices	0.0	1	
+Mastering Android Wear Application Development	0.0	0	
+Android NDK Game Development Cookbook	0.0	0	
+Android Recipes: A Problem-Solution Approach	0.0	0	
+Android Tablets For Dummies	0.0	0	
+Android Database Best Practices	0.0	0	
+Android系统安全和反编译实战	0.0	1	
+Android Hardware Interfacing with the BeagleBone Black	0.0	0	
+Android高级开发技术案例教程	0.0	0	
+Learning Java by Building Android Games	0.0	0	
+精通Android 实例开发	0.0	0	
+Android UI Design	0.0	0	
+Automated Security Analysis of Android and iOS Applications with Mobile Security Framework	0.0	0	
+Android应用程序设计	0.0	0	
+Android外设开发实战	0.0	0	
+Android应用开发学习	0.0	0	
+Android应用开发范例大全	0.0	0	
+达人鉴定！Android 首选必装 App 300+	0.0	0	
+Testing and Securing Android Studio Applications	0.0	0	
+Android Development Tools for Eclipse	0.0	0	
+Android底层开发实战	0.0	0	
+Android 4.X應用程式開發之鑰	0.0	0	
+Android手機程式超簡單！！App Inventor入門卷	0.0	0	
+ファミ通App iPhone&Android NO.006	0.0	0	
+Android核心剖析	0.0	0	
+Android 初學特訓班	0.0	0	
+Android應用程式開發極速上手	0.0	0	
+Android APP範例完全學習手冊	0.0	0	
+Android Netrunner Lcg	0.0	0	
+Androids	0.0	0	
+Android 實戰活用學	0.0	0	
+An Analysis of Open Security Issues of Android Interfaces to Cloud Computing Platforms.	0.0	0	
+C Programming Professional Made Easy & Android Programming In a Day!	0.0	0	
+Mastering Android Game Development	0.0	0	
+Android Phones for Dummies	0.0	0	
+Android Phones for Dummies	0.0	0	
+Android Malware	0.0	0	
+Android Phones for Dummies	0.0	0	
+Start Programming with Android	0.0	0	
+Android Application Development in 24 Hours, Sams Teach Yourself	0.0	0	
+Teach Yourself Visually Android Phones and Tablets	0.0	0	
+Java and Android Application Development for Dummies eBook Set	0.0	0	
+Android Netrunner Lcg	0.0	0	
+Creating Websites for Ipad and Android Honeycomb Tablets	0.0	0	
+Android Epistemology	0.0	0	
+Androids in the Enlightenment	0.0	0	
+Android Apps in One Hour for Lawyers	0.0	0	
+Java Fur Android-Entwickler Fur Dummies	0.0	0	
+The Business of Android Apps Development	0.0	0	
+Trade Weekly Options Using Android Mobile Devices	0.0	0	
+Programming the Finite Element Method in Java and Android	0.0	0	
+Androids and My Best Friend	0.0	0	
+Android Angels	0.0	0	
+Android App Development For Dummies	0.0	0	
+Android SQLite Essentials	0.0	1	
+Learning Android Application Testing	0.0	0	
+Le Programmeur L'art Du Developpement Android	0.0	0	
+The Rise of the Human Androids	0.0	0	
+GradeSaver (TM) ClassicNotes	0.0	0	
+Androids 2 Posatronic and Other Stories (Man's Story 2, Collectors Issue, Number 1)	0.0	0	
+Do Androids Sleep with Electric Sheep?	0.0	0	
+Android Compass Data Quality	0.0	0	
+Android - Die 100 Wichtigsten App-Bausteine	0.0	0	
+Ubuntu for Android	0.0	0	
+Android Netrunner Card Game Study in Static	0.0	0	
+Robots, Androids, and Mechanical Oddities	0.0	0	
+Instant Android Fragmentation Management How-to	0.0	0	
+Androidアプリガイド890	0.0	0	
+Google Chrome for Android	0.0	0	
+App Inventor for Android	0.0	0	
+Android OS-Phone & Tablet	0.0	0	
+Android Wireless Application Development	0.0	0	
+Android Wireless Application Development	0.0	0	
+Hello, Android	0.0	0	
+Google Android 2.X應用程式開發實戰→	0.0	0	
+Android 2.X 手機程式設計入門、應用到精通（附DVD)	0.0	0	
+Java SE 7 與Android 4.x 程式設計範例教本	0.0	0	
+第一次學Android 就上手－從Java程式設計到行動裝置專題製作	0.0	0	
+Android Apps初學必修課	0.0	0	
+Android 4.X 手機?平板電腦程式設計入門、應用到精通	0.0	0	
+TQC+行動裝置應用程式設計認證指南Android 2	0.0	0	
+用PC玩Android 、MacOS	0.0	0	
+Android技術內幕	0.0	0	
+TQC+行動裝置進階應用程式設計認證指南Android 2	0.0	0	
+Android 4.X App 開發教戰手冊	0.0	0	
+Google Android 2.X應用程式開發實戰  第二版	0.0	0	
+Android 2.X 應用程式開發經典	0.0	0	
+Android 案例開發完全講義	0.0	0	
+玩全Android －聰明工作x 智慧生活x 休閒娛樂x 解放極限	0.0	0	
+Android App Inventor for the Absolute Beginner	0.0	0	
+Android Programming Tutorials	0.0	0	
+Android Market	0.0	0	
+Android Developer Challenge	0.0	0	
+Android Dev Phone	0.0	0	
+Reg's Practical Guide to Using Your Android Phone	0.0	0	
+App Blanks for Android Mobile OS	0.0	0	
+逆引きAndroidアプリガイド	0.0	0	
+Android Down	0.0	0	
+Androidスマートフォンをビジネスで100倍使いこなす本	0.0	0	
+Androidアプリ事典512 2011年度版	0.0	0	
+Android Apps Perfect GuideBook	0.0	0	
+Android仕事便利帳―スマートフォンを使いこなす280の活用法	0.0	0	
+Android-Based Game Development	0.0	0	
+Urdu T9 and Word Prediction Messaging System for Android	0.0	0	
+Android Apps Entwicklung Fur Dummies	0.0	0	
+Reg's Practical Guide to Using Your Android Phone	0.0	0	
+Building Your First Android App	0.0	0	
+Programming Business Applications For The Android Tablet	0.0	0	
+Development of Reporter's Video Recorder Based on Android	0.0	0	
+Android Kikaider	0.0	0	
+Android-Apps mit HTML, CSS und JavaScript	0.0	0	
+Android Tablets in Easy Steps	0.0	0	
+Desarrollo de aplicaciones con Android	0.0	0	
+Fictional Robots and Androids	0.0	0	
+Android Lawn Statues	0.0	0	
+Android App Entwicklung Fur Dummies	0.0	0	
+Android Privacy Guard	0.0	0	
+Starting Out with App Inventor for Android	0.0	0	
+Paranoid Android	0.0	0	
+HTML5-Spieleentwicklung - Browsergames Und Spiele-apps Fur iPhone, Android Und Windows Phone	0.0	0	
+Android Cloud to Device Messaging Service	0.0	0	
+Learning Embedded Android N Programming	0.0	0	
+Android Sensor Programming By Example	0.0	0	
+Cardboard VR Projects for Android	0.0	0	
+Robot Alchemy	0.0	0	
+Building Android UIs with Custom Views	0.0	0	
+acid android archives side-a	0.0	0	
+acid android archives side-b	0.0	0	
+Teach Yourself Visually Android Phones and Tablets	0.0	0	
+Creating Websites for Ipad and Android Honeycomb Tablets	0.0	0	
+Robots, Androids, and Mechanical Oddities	0.0	0	
+玩转智能手机(附光盘iPhone+Android)/轻松学电脑教程系列	0.0	0	
+Android Phones for Seniors in easy steps	0.0	0	
+Android开发从入门到精通(项目案例版)/软件开发微视频讲解大系	0.0	1	
+Android开发(从0到1)/清华开发者书库	0.0	0	
+Android things Projects	0.0	0	
+Android Programming Succinctly	0.0	0	
+Augmented Reality for Android Application Development	0.0	0	
+Learning Android Game Development	0.0	0	
+Learn Unity for Android Game Development	0.0	0	
+Android底层驱动分析和移植	0.0	0	
+Android游戏开发(服务外包产教融合系列教材普通高等教育十三五规划教材)	0.0	0	
+精通Android网络开发	0.0	0	
+Android Wear Projects	0.0	0	
+深入理解Android系统	0.0	1	
+Build Android-Based Smart Applications	0.0	0	
+Android移动应用项目化教程(职业教育规划教材)/智能家居系列	0.0	0	
+Android安全攻防实践	0.0	0	
+Continuous Delivery for Mobile with fastlane: Automating mobile application development and deployment for iOS and Android	0.0	0	
+How to Build an Android	0.0	0	
+How to Build an Android	0.0	0	
+基于移动电商项目实战的移动互联Android应用设计与开发	0.0	0	
+Android实例详解	0.0	0	
+深入解析Android虚拟机	0.0	2	
+Practical Android: 14 Complete Projects on Advanced Techniques and Approaches	0.0	0	
+Android 源码设计模式解析与实战（第2版）	0.0	7	
+Android Studio高级编程	0.0	0	
+Processing for Android: Create Mobile, Sensor-Aware, and VR Applications Using Processing	0.0	1	
+深入剖析Android新特性	0.0	3	
+Android组件化架构	4.9	24	
+Android应用开发进阶	0.0	3	
+Android Tablets For Dummies	0.0	0	
+Android移动开发详解--从基础入门到乐享开发(普通高等教育十三五规划教材)	0.0	0	
+Java 和 Android 开发实战详解	0.0	0	
+Android移动开发基础案例教程	0.0	0	
+Android嵌入式系统开发实战 玩转Linux内核驱动开发	0.0	0	
+Android程序设计实用教程	0.0	0	
+Android开发工程师案例教程	0.0	0	
+零点起飞学编程：Android开发（附DVD-ROM光盘1张）	0.0	0	
+Android全面啟動: 全球年度嚴選最佳手機軟體年鑑	0.0	0	
+Android APP程序开发剖析	0.0	0	
+Android应用开发教程/全国高等职业教育规划教材	0.0	0	
+Android应用程序设计基础(附光盘十三五高等职业教育计算机类专业规划教材)	0.0	0	
+移动应用开发任务式驱动教程：基于Android Studio	0.0	0	
+移动应用软件测试项目教程（Android版）	0.0	0	
+Android移动应用开发实践教程（高等院校信息技术规划教材）	0.0	0	
+Android Studio程序设计案例教程	0.0	0	
+Android平台应用软件开发	0.0	0	
+Android并发开发	0.0	1	
+Kotlin从零到精通Android开发	0.0	6	
+Android App开发从入门到精通	0.0	0	
+Head First Android Development: A Brain-Friendly Guide, 2nd Edition	0.0	0	
+Androids Among Us	0.0	0	
+Android Studio移动应用开发从入门到实战-微课版/21世纪高等学校计算机类课程创新规划教材	0.0	0	
+Android程序设计与应用/21世纪高等学校计算机教育实用规划教材	0.0	0	
+Head First Android开发（第二版）	0.0	0	
+Android项目式程序设计/企业级卓越人才培养（信息类专业集群）解决方案“十三五”规划教材	0.0	0	
+Android软件安全攻防实例分析	0.0	1	
+Android游戏开发案例教程	0.0	0	
+Android经典应用实例	0.0	0	
+Android程序设计教程	0.0	0	
+Android软件开发教程（第2版）/深入浅出系列规划教材	0.0	0	
+基于工作任务的Android应用教程	0.0	0	
+Android基础教程/高职高专教育“十二五”规划教材	0.0	0	
+Visual C++ & Android程序设计综合实训（第二版）	0.0	0	
+Android应用案例开发大全 第4版	0.0	0	
+Android项目驱动式开发教程/高职高专计算机类专业规划教材	0.0	0	
+Android编程经典案例解析	0.0	0	
+MIT App Inventor完全上手：不会编程也能“乐高式”构建Android应用的编程神	0.0	0	
+Java与Android移动应用开发：技术、方法与实践	0.0	0	
+Android 应用开发实践教程	0.0	0	
+Android项目开发实践/高等学校软件工程专业校企深度合作系列实践教材	0.0	0	
+Android Telephony原理解析与开发指南	0.0	0	
+Android大螢幕手機最佳玩法：生活、娛樂、工作複合式聰明運用	0.0	0	
+Android移动应用开发教程/21世纪高等学校规划教材·计算机应用	0.0	0	
+Android开发基础	0.0	0	
+Android开发范例实战宝典（附光盘）	0.0	0	
+Android开发案例教程与项目实战（在线实验+在线测试）	0.0	0	
+Android程序设计与应用开发教程/高等学校“十二五”规划教材·计算机软件工程系列	0.0	0	
+Google Android SDK开发实战演练 第2版	0.0	0	
+Android开源项目开发技术与案例教程	0.0	0	
+Android应用程序设计（修订版）（21世纪高等学校计算机类课程创新规划教材·微课版）	0.0	0	
+The Sky Is Falling: How Vampires, Zombies, Androids, and Sup	0.0	0	
+最强Android书：架构大剖析	8.7	12	
+Android Phones for Dummies, 4th Edition	0.0	0	
+Modern Consciousness Research and the Understanding of Art	0.0	0	
+Android自定义控件开发入门与实战	0.0	6	
+疯狂Android讲义（Kotlin版）	0.0	0	
+高级Android开发强化实战	5.7	21	
+Android高级开发	0.0	0	
+基于新信息技术的Android实战基础教程	0.0	0	
+Android产品实战从零开始	0.0	0	
+Android应用开发实战（原书第2版）	0.0	0	
+Android 应用开发项目实战	0.0	0	
+Android项目实战：手机安全卫士	0.0	0	
+Android程序开发入门教程/普通高等教育应用型规划教材·计算机类	0.0	0	
+Android应用程序开发/21世纪重点大学规划教材	0.0	0	
+Android 应用测试指南	0.0	0	
+Android应用开发基础教程/普通高等教育“十三五”规划教材（软件工程专业）	0.0	0	
+Android App Inventor项目开发教程	0.0	0	
+Android应用开发/“十二五”职业教育国家规划教材	0.0	0	
+Android应用程序开发（第2版）	0.0	0	
+Android手机程序设计实用教程/高等学校Java课程系列教材	0.0	0	
+Android移动应用开发教程	0.0	0	
+Android APP开发实战 从规划到上线全程详解	0.0	3	
+Android网上班级管理实例：“我的班班”APP平台建设	0.0	0	
+Android应用与项目开发基础	0.0	0	
+Android应用开发入门经典(第3版)	0.0	0	
+Android程序设计及实践	0.0	0	
+The Complete Idiot's Guide to Android App Development	0.0	0	
+精通Android 5 多媒体开发	0.0	0	
+Android程序设计教程	0.0	0	
+Android游戏开发从入门到精通	0.0	0	
+Android Studio应用开发实战详解	0.0	0	
+Android编程实战学习手册	0.0	0	
+Android网络开发从入门到精通	0.0	0	
+Android技术及应用	0.0	0	
+Android系统应用开发实战详解	0.0	0	
+新编Android应用开发从入门到精通	0.0	0	
+Android 嵌入式编程	0.0	1	
+Android之父安迪．魯賓: 科技大神真人傳記	0.0	0	
+Android应用程序设计（第2版）/新编应用型系列技能丛书	0.0	0	
+Android项目开发入门教程	0.0	0	
+Android初级应用开发	0.0	0	
+Android应用开发项目实战（普通高等教育“十三五”规划教材（软件工程专业））	0.0	0	
+Android编程经典案例解析 英文版	0.0	0	
+Android应用程序开发·第3版/高等院校信息技术规划教材	0.0	0	
+Google ARCore的基本原理：学习利用ARCore1.0构建Android、Unity和Wed平台下的增强现实App	0.0	1	
+Android项目开发实战教程	0.0	0	
+Android项目驱动式开发教程 第2版	0.0	0	
+Android物联网应用开发	0.0	0	
+Android云计算应用开发入门与实战	0.0	0	
+Android移动网络程序设计案例教程/21世纪高等学校规划教材·计算机应用	0.0	0	
+Android 项目开发教程	0.0	0	
+Android移动应用开发基础教程（微课版）	0.0	0	
+移动开发经典丛书·Android Web Game App高级编程 使用HTML5、 CSS3、JavaScript	0.0	0	
+Android高级应用编程实战/“十二五”高等职业教育计算机类专业规划教材	0.0	0	
+TQC+ 行动装置应用程序设计认证指南 Android 6	0.0	0	
+Android应用程序开发与案例分析/21世纪高等学校规划教材·计算机应用	0.0	0	
+精通Android应用开发	0.0	0	
+Android物联网应用程序开发	0.0	0	
+Android应用开发从入门到精通/21世纪高等学校计算机应用技术规划教材	0.0	0	
+Android移动平台应用开发高级教程	0.0	0	
+软件工程实训项目案例2：Android移动应用开发篇	0.0	0	
+Android传感器开发与智能设备案例实战	0.0	0	
+Android移动开发技术	0.0	0	
+Android企业级项目实战教程	0.0	0	
+Android 智能手机与8051单片机应用与开发实战	0.0	0	
+移动操作系统原理与实践——基于Java语言的Android应用开发	0.0	0	
+Android应用开发深入学习实录（附加值DVD）	0.0	0	
+Android移动应用开发案例教程	0.0	0	
+移动开发丛书·Android Studio开发实战：从零基础到App上线(第2版)	0.0	3	
+App Inventor 2 中文版开发实战：Android智能应用开发前传	0.0	0	
+Android App开发者必修16堂课	0.0	0	
+Android软件应用与实践/高等职业教育精品示范教材·电子信息课程群	0.0	0	
+Android应用开发教学做一体化教程/高等学校“十三五”规划教材，高职高专计算机应用技能培养系列规划教材	0.0	0	
+Android项目开发实战/高等职业教育“十三五”规划教材（移动互联应用技术专业）	0.0	0	
+智能手机APP软件开发：Android/国家示范性中等职业技术教育精品教材	0.0	0	
+Android应用开发项目化教程/高职高专“十三五”规划教材	0.0	0	
+Android应用程序开发―项目式教程(含CD光盘1张)	0.0	0	
+Android 移动应用开发	0.0	0	
+基于Android平台的移动开发技术（普通高等教育“十三五”规划教材（软件工程专业））	0.0	0	
+Android应用程序设计	0.0	0	
+Android嵌入式应用开发（第2版）	0.0	0	
+Android程序设计/高等学校计算机专业规划教材	0.0	0	
+Android智能穿戴设备开发指南	0.0	0	
+高职院校移动应用开发系列教材：Android平板应用开发教程	0.0	0	
+Android开发基础教程/高等职业教育“十三五”规划教材（移动互联应用技术专业）	0.0	0	
+Android应用程序开发教程	0.0	0	
+Android模块化项目实战/企业级卓越人才培养解决方案“十三五”规划教材	0.0	0	
+Android实战基础教程	0.0	0	
+Android应用开发基础教程/高职高专“十二五”计算机类专业规划教材	0.0	0	
+Android Apps for Absolute Beginners	0.0	0	
+基于Android平台的移动互联网开发/高等学校计算机专业规划教材	0.0	0	
+App Inventor：零基础Android移动应用开发	0.0	0	
+Android应用开发教程 高等院校信息技术规划教材	0.0	0	
+Android应用开发教程/21世纪高等学校计算机专业实用规划教材	0.0	0	
+Android源码分析实录	0.0	0	
+Android项目开发教程（高职高专计算机教学改革新体系规划教材）	0.0	0	
+Android系统软件开发（底层）	0.0	0	
+Android程序设计/21世纪高等学校计算机专业实用规划教材	0.0	0	
+Android手机游戏开发实战	0.0	0	
+Android 游戏案例开发大全 第4版	0.0	1	
+嵌入式系统与云计算开发——基于Android系统的实验案例基础教程	0.0	0	
+Android 7应用程序开发教程	0.0	0	
+Android项目实战——博学谷	0.0	0	
+Android移动开发项目式教程（第2版）	0.0	0	
+Android微博应用开发实践	0.0	0	
+Android开发技术	0.0	0	
+android应用程序开发	0.0	0	
+变身程序猿——Android应用开发	0.0	0	
+高性能Android应用（影印版）	0.0	0	
+Android开发入门百战经典	0.0	0	
+Android 6 应用开发案例精解（第三版）	0.0	0	
+Android应用开发技术	0.0	0	
+Android脚本应用开发技术	0.0	0	
+Android开发实用教程/普通高等教育“十二五”规划教材	0.0	0	
+Android从入门到精通	0.0	0	
+Android程序设计与应用开发教程	0.0	0	
+Android应用开发完全学习手册 完全学习手册	0.0	0	
+深入浅出Android开发（影印版）	0.0	0	
+Android 5从入门到精通	0.0	0	
+Android编程	0.0	0	
+Android物联网开发细致入门与最佳实践	0.0	1	
+Android应用程序设计	0.0	0	
+实用Android系统测量软件开发技术	0.0	0	
+Android程序设计基础教程	0.0	0	
+Android实例详解：基础进阶开发	0.0	0	
+Android移动开发技术与应用	0.0	0	
+Android编程 第二版（影印版）	0.0	0	
+Android开发与实战（热点技术，新版本；实例丰富，操作性强。）	0.0	0	
+Android智能手机APP界面设计实战教程	0.0	0	
+Android移动设备应用程序开发	0.0	0	
+基于工作项目的Android高级开发实战	0.0	0	
+Android应用程序设计教程	0.0	1	
+Android和PHP开发最佳实践（第2版）	0.0	0	
+Android开发从入门到精通（第2版）	0.0	0	
+手机终端软件开发实验Android版	0.0	0	
+Android手机应用开发简明教程/高等学校应用型特色规划教材	0.0	0	
+Android用户体验与UI设计	0.0	0	
+Android移动开发 慕课版	0.0	0	
+Android Studio移动开发教程	0.0	0	
+Android 游戏开发大全（第3版）	0.0	0	
+Android程序设计	0.0	0	
+Android智能穿戴设备开发实战详解（含盘）	0.0	0	
+Android开发完全讲义（第三版）	0.0	0	
+学Arduino玩转Android应用	0.0	0	
+Android程序开发范例宝典（附光盘）	0.0	0	
+Android应用案例开发大全(第二版)	0.0	0	
+Android游戏开发大全(第二版)	0.0	0	
+Golden-eyed Android Grid Notebook	0.0	0	
+Android Programming Concepts	0.0	0	
+The Ultimate Pokemon Go Guide: Secrets, Hints, Tricks, All Info for Android and Ios	0.0	0	
+アプリを作ろう!  ANDROID入門	0.0	0	
+My Android Phone	0.0	0	
+iPad / Android 互動電子雜誌超簡單輕鬆做(第三版)	0.0	0	
+基于Android平台的移动终端应用开发实践	0.0	0	
+Android项目驱动教程/高职高专“十二五”规划教材	0.0	0	
+Android高级编程技术/高等学校计算机专业规划教材	0.0	0	
+ANDROID应用开发项目教程(含光盘)	0.0	0	
+Android 刷機必裝私房軟體	0.0	0	
+Pro Android Wearables: Building Apps for Smartwatches	0.0	0	
+Google好上手:Android 多媒體應用程式開發	0.0	0	
+Android程式超實用開發:全方位360度手機衛士案例	0.0	0	
+Android Programming in 5 Hours	0.0	0	
+Near Field Communication with Android Cookbook	0.0	0	
+Android APP範例完全學習手冊(第三版)附範例CD	0.0	0	
+Drawswell's Androids and Aliens Coloring Book	0.0	0	
+深入淺出Android系統原理及開發要點	0.0	0	
+【预订】Three Tales: The Ghost; The Brazen Android; The Carpenter (Classic Reprint)	0.0	0	
+Android开发课堂实录 课堂实录	0.0	0	
+PHP Web和Android开发入门与实践/高等院校信息技术规划教材	0.0	0	
+Android移动应用开发实用教程	0.0	0	
+Android移动应用开发	0.0	0	
+移动互联网应用开发（基于Android平台）	0.0	0	
+Android Programming for IT Students	0.0	0	
+Android Design Methods: Nov 2013 - Api19	0.0	0	
+Android Ice Cream Sandwich	0.0	0	
+Android App Entwicklung fur Dummies	0.0	0	
+Android Application Programming with OpenCV 3	0.0	0	
+Android程式設計(第二版)	0.0	0	
+工业机器人运动仿真编程实践 基于Android和OpenGL	0.0	0	
+Android移动应用测试实战（高职）	0.0	0	
+Android移动互联应用开发/高职高专软件技术系列教材	0.0	0	
+Android项目式案例开发/企业级卓越人才培养解决方案“十三五”规划教材	0.0	0	
+App Inventor ２程式開發實戰演練：正確學會Android App設計技巧的１６堂課	0.0	0	
+Android Paradox	0.0	0	
+從HTML5/CSS3/JavaScript 到 jQuery/PhoneGap Android 程式設計(附光碟)	0.0	0	
+Android Programming Winner	0.0	0	
+3D Android Game Development with A.I	0.0	0	
+The Starter's Guide to Android 4	0.0	0	
+How to Maximize Your Productivity: 20 Most Useful Apps for Iphone, Ipad, Android and Kindle Fire	0.0	0	
+Entwicklung Und Implementierung Eines Mathematischen Tools Fur Android	0.0	0	
+Caring for Your Mark One Female Android: A Detailed Service Manual	0.0	0	
+Android+iOS UIDesign行動裝置介面設計(附光碟)	0.0	0	
+Android Game Programming by Example	0.0	0	
+Android Oreo: Professional Dashboard	0.0	0	
+Sqlite for Mobile Apps Simplified: Step by Step Details to Create and Access Database from Android, Blackberry and Iphone Apps	0.0	0	
+Sven Carter & the Android Army	0.0	0	
+Google御用Android開發語言：Kotlin一書搞定	0.0	0	
+Android Programming Essentials	0.0	0	
+Murach's Android Programming	0.0	0	
+跨平台 Android/iPhone 程式開發：使用 PhoneGap/jQuery Mobile(附光碟)	0.0	0	
+Pokemon Go for Android and Google Devices: An Unofficial Game Guide	0.0	0	
+Android从入门到精通	0.0	1	
+Androidプログラミングレシピ増補改訂版 メディア/データ/システム/ライブラリ/NDK編	0.0	0	
+Android Developer Work Log	0.0	0	
+深入淺出Android專題實作之無線點餐系統、多媒體、遊戲、GPS與網路應用程式開發(附CD)	0.0	0	
+Android App Development & Programming Guide: Learn in a Day!	0.0	0	
+Androidアプリケーション技術者認定試験ベーシック対策実践問題集 改訂版	0.0	0	
+Differentiating Learning With the Android	0.0	0	
+Android App Development	0.0	0	
+Java Programming for Android Developers For Dummies	0.0	0	
+Java SE11與Android 9.x程式設計範例教本	0.0	0	
+Android新版4.1/4.2 Jelly Bean活用教本	0.0	0	
+Android Programming for Newbies	0.0	0	
+Android系統原理深入解析	0.0	0	
+建構Android應用程式:使用HTML、CSS 和JavaScript(第二版)	0.0	0	
+The Last Android: Beware, Not Beware, the First Intelligence...	0.0	0	
+Werbung Im Android OS	0.0	0	
+The Ultimate Pokemon Go Guide: Secrets, Hints, Tricks, and All Info for Android and Ios	0.0	0	
+深入淺出Android遊戲程式開發範例大全(附DVD)	0.0	0	
+Android Auto: Instant Insight	0.0	0	
+Android 深度攻略250+Free+30情境活用	0.0	0	
+Android Programming Winner	0.0	0	
+Home Security Systems Diy Using Android and Arduino	0.0	0	
+Android: App Development & Programming Guide	0.0	0	
+Android 無料下載500+2014強攻版	0.0	0	
+Nsa Note Su Android	0.0	0	
+Android Application Package: The Definitive Guide	0.0	0	
+B4A: Ultra-Fast Android App Development Using Basic	0.0	0	
+Android Programming and Open Source Tools	0.0	0	
+A.I.D.E.N.N. the Android Robot	0.0	0	
+100 Questions and Answers to Help You Land Your Dream Android Job: Or to Hire the Right Candidate!	0.0	0	
+Android介面設計模式	0.0	0	
+Android Programming in Your Pocket	0.0	0	
+Leistungsvergleich Apple Appstore Und Android Market	0.0	0	
+Android Application Development for the Intel Platform	0.0	0	
+Super Mario Run the Ultimate Full Guide: Super Mario Run Game Tricks, Hints, Tactics, Tips, Strategy & Secrets for Ios, Android	0.0	0	
+Android Programming for Bizzies	0.0	0	
+Entwicklung Von Apps Fur Android	0.0	0	
+Google! Android 2手機應用程式設計入門	0.0	0	
+Android Programming for Starters	0.0	0	
+Android: App Development & Programming Guide: Learn in a Day!	0.0	0	
+iPhone X Android激手電玩全攻略	0.0	0	
+Corona SDKで作るiPhone/Androidアプリプログラミング	0.0	0	
+初めてのAndroid 第4版	0.0	0	
+Samsung Android Basics: Expert Advice, Made Easy	0.0	0	
+Android Fun	0.0	0	
+達人認證!Android全面補給必選下載APP 300+	0.0	0	
+Android Programming for Newbies	0.0	0	
+Android標準機能で使える超便利テク	0.0	0	
+App Sense: Understanding and Using Apps on Kindle Fire, Apple and Android Devices	0.0	0	
+iOS、Android一書雙修!秘笈寶典	0.0	0	
+Android: Programming for Developers	0.0	0	
+Android Programming for Newbies	0.0	0	
+Android/iPhone/Windows Phone対応 jQuery Mobileスマートフォンアプリ開発	0.0	0	
+What Do You Know About Kodi: 100% Simplified Manual On How To: Install & Upgrade To Kodi v17.6 On iPhone or iPad, Mac, PC or Window, Amazon FireStick or Fire TV, Android TV Box, Phone Or Tablets & The Installation Of: IP Vanish, Area-51 IPTV, VPN & Mouse 	0.0	0	
+Google Play 玩不累：Android App 發燒特輯	0.0	0	
+Android Programming in a Day	0.0	0	
+Usare App Inventor Scrivere E Distribuire App Per Cellulari E Tablet Android	0.0	0	
+Web应用&移动应用开发系列规划教材·普通高等教育十三五规划教材:Android应用开发案例教程	0.0	0	
+Trouble With Robots: Two Hot Techs Battle Android Anarchy	0.0	0	
+深入理解Android 3D遊戲:開發商業版硬體加速實戰	0.0	0	
+完全詳解！Android App 活用事典	0.0	0	
+Children Creativity Apps: 20 Free Iphone, Ipad, Android and Kindle Fire Apps	0.0	0	
+Scar V: A Speech Controlled Android Robot with Vision	0.0	0	
+Beginning Android Development	0.0	0	
+建構Android應用程式：使用HTML, CSS和JavaScript	0.0	0	
+本格アプリを作ろう! Androidプログラミングレシピ	0.0	0	
+Bedrohungsanalyse Von Android. Die Ausnutzung Von Stagefright	0.0	0	
+Android Programming for Beginners	0.0	0	
+Free Apps for Android	0.0	0	
+Android TV: An Easy Guide to over 50 of the Best Features	0.0	0	
+Android: Pocket Primer	0.0	0	
+初歩からわかるAndroid最新プログラミング 増補改訂版	0.0	0	
+Android Wearable Programming	0.0	0	
+Android TV Apps Development: Building for Media and Games	0.0	0	
+Ubros: The Odyssey Begins: an Android's Adventures Through the Cosmos on a Mission from God	0.0	0	
+’18 Androidタブレット便 改訂	0.0	0	
+Android APP範例完全學習手冊(第二版)((附範例CD)	0.0	0	
+Google Nexus 7 (Android 4.4 Kitkat Edition)	0.0	0	
+Controle de Iluminacao Residencial Utilizando Arduino E Android	0.0	0	
+Android高级应用开发案例教程	0.0	0	
+Android 無料下載500+終極版	0.0	0	
+Android应用程序开发与典型案例（微课版）	0.0	0	
+Android 9编程通俗演义	0.0	0	
+Android工程化最佳实践	0.0	4	
+Android 编程基础	0.0	0	
+零基础学Kotlin之Android项目开发实战	0.0	0	
+Android系统源代码分析	0.0	0	
+Android炫酷应用300例.实战篇	0.0	0	
+AppInventor实践教程——Android智能应用开发前传	0.0	0	
+Android玩家進階攻略 秘技教學	0.0	0	
+American Androids: Special Edition	0.0	0	
+Beginning Android Games	0.0	0	
+Android工业平板电脑编程实例	0.0	0	
+Android Programming: The Big Nerd Ranch Guide	0.0	0	
+Android移动应用开发	0.0	0	
+基于Kotlin的Android应用程序开发	0.0	1	
+高性能Android开发技术	0.0	2	
+Android移动开发案例课堂	0.0	0	
+Android网络应用程序设计	0.0	0	
+软件测试策略、设计及其自动化实战——Linux、Android、Windows、Web的全面软件测试	0.0	0	
+Android应用开发案例教程	0.0	0	
+Learning Java by Building Android Games - Second Edition	0.0	0	
+Android APP应用程序开发完全学习教程	0.0	0	
+Android高级开发及实践	0.0	0	
+Android移动应用基础教程	0.0	0	
+基于Android的智能设备应用开发	0.0	0	
+Android程序设计及实践（第二版）	0.0	0	
+Android项目实战——智能农业移动管理系统开发	0.0	0	
+Android程序设计项目化教程（高职高专立体化教材计算机系列）	0.0	0	
+Android移动开发基础教程	0.0	0	
+Android高效进阶：从数据到AI	0.0	1	
+Android Studio移动应用开发基础	0.0	0	
+Android大学教程（第二版）	0.0	0	
+Android嵌入式开发及实训	0.0	0	
+Android开发工程师案例教程（第2版）	0.0	0	
+Android基础程序设计	0.0	0	
+Learning Android Forensics - Second Edition	0.0	0	
+Android开发与应用	0.0	0	
+Advanced.Android.App.Architecture	0.0	0	
+Android移动互联网的开发	0.0	0	
+移动应用Android技术	0.0	0	
+Android 从入门到项目实践（超值版）（软件开发魔典）	0.0	0	
+Android程序设计教程（第2版）/高等学校计算机专业规划教材	0.0	0	
+App Inventor Android移动应用开发实战	0.0	0	
+Android 高级编程（第4版）（移动开发经典丛书）	0.0	0	
+Android 从入门到精通	0.0	0	
+Android核心编程：Activity、BroadcastReceiver、Service与ContentProvid	0.0	0	
+SQLite权威指南	7.5	62	
+App 后台开发运维和架构实践	7.2	69	
+人人都玩开心网	6.9	18	
+Kotlin in Action	9.4	32	
+Cocos2D-x权威指南	5.6	25	
+智能手机Web标准开发实战	6.9	15	
+移动App性能评测与优化	8.4	30	
+构建iPhone企业级应用	0.0	9	
+Sencha Touch权威指南	7.4	18	
+Gradle in Action	7.7	14	
+App Store创赢艺术	7.7	11	
+Java(TM) Native Interface	7.4	15	
+PhoneGap Beginner's Guide	7.0	15	
+Designing Multi-Device Experiences	0.0	7	
+Cocos2d-x游戏开发之旅	5.5	14	
+数据库系统概念（本科教学版）	0.0	7	
+Learning Reactive Programming With Java 8	8.1	10	
+Tomorrow's Eve	0.0	8	
+Qt Quick核心编程	6.6	18	
+GoogleAndroid2手机应用程序设计入门第3版	0.0	7	
+Arduino权威指南(第2版）	0.0	8	
+谷歌之神	5.6	12	
+Beginning PhoneGap	0.0	7	
+Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications	9.6	10	
+写给大家看的安卓应用开发书	0.0	5	
+OPhone应用开发权威指南	0.0	3	
+App Inventor	0.0	4	
+Edison's Eve	0.0	1	
+Nim Chimpsky	0.0	1	
+触控设计观念与创意应用	0.0	1	
+Beginning Building Mobile Application Development in the Cloud	0.0	0	
+iOS应用开发详解	0.0	3	
+PhoneGap 3.0移动应用开发实战详解	0.0	1	
+Mobile Malware Attacks and Defense	0.0	0	
+Null Subjects	0.0	0	
+移动应用开发技术	0.0	2	
+Golem	0.0	0	
+Xamarin Mobile Application Development	0.0	0	
+Hands-On Mobile App Testing	0.0	0	
+Professional Flash Mobile Development	0.0	2	
+OMAP3原理及系统设计	0.0	1	
+Mimic	0.0	0	
+PhoneGap 3, Beginner's Guide, 2nd Edition	0.0	1	
+AndroidStudio应用程序设计(第2版微课版21世纪高等学校计算机类课程创新规划教材)	0.0	1	
+Android7编程入门经典(第4版)/移动开发经典丛书	0.0	1	
+Androide Karenina	0.0	0	
+Androidpit	0.0	0	
+Androide	0.0	0	
+Androidi E Robot Immaginari	0.0	0	
+Androidnosofutou EA	0.0	0	
+AndroidStudio应用开发--基础入门与应用实战(新工科建设之路软件工程规划教材)	0.0	0	
+GONOTE 10 TOUCHSCREEN ANDROID4 NOTEBOOK	0.0	0	
+AppInventor2Android应用开发实务：正确学会AppInventor开发技巧的16堂课	0.0	0	

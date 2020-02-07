@@ -1,0 +1,691 @@
+弹性	7.3	51	
+Elastic	0.0	6	
+Elastic	0.0	1	
+Flexible Web Design	0.0	1	
+Pro Amazon EC2 and WS	0.0	0	
+Paper Money Collapse	0.0	2	
+An Introduction to the Mathematical Theory of Vibrations of Elastic Plates	0.0	2	
+Stability of Structures	0.0	0	
+Heat, Bearings, and Lubrication	0.0	0	
+Mastering Elastic Stack	0.0	1	
+Total Workplace	0.0	1	
+Total Cross-Sections for Reactions of High Energy Particles (Including Elastic, Topological, Inclusive and Exclusive Reactions) / Totale Wirkungsquerschnitte Fur Reaktionen Hochenergetischer Teilchen (einschliesslich Elastischer,Topologischer, Inklusiver 	0.0	0	
+Total Cross-Sections for Reactions of High Energy Particles (Including Elastic, Topological, Inclusive and Exclusive Reactions) / Totale Wirkungsquerschnitte Fur Reaktionen Hochenergetischer Teilchen (einschliesslich Elastischer,Topologischer, Inklusiver 	0.0	0	
+Elastic, Piezoelectric, Pyroelectric, Piezooptic, Electrooptic Constants, and Nonlinear Dielectric Susceptibilities of Crystals / Elastische, Piezoelektrische, Pyroelektrische, Piezooptische, Elektrooptische Konstantenund Nichtlineare Dielektrische Suszep	0.0	0	
+Methods and Results of Phenomenological Analyses	0.0	0	
+A Course in Continuum Mechanics Volume 4	0.0	0	
+Progress in Crystal Physics, V1	0.0	0	
+Progress in Crystal Physics, V1	0.0	0	
+Physical Methods of Chemistry	0.0	0	
+Endure	0.0	3	
+Cloud Native Development Patterns and Best Practices	0.0	1	
+Learning Elastic Stack 6.0: A beginner's guide to distributed search, analytics, and visualization using Elasticsearch, Logstash and Kibana	0.0	1	
+Endure	0.0	0	
+Endure	0.0	0	
+Design and the Elastic Mind	9.4	19	
+Theory of Elastic Stability	0.0	2	
+Wave Propagation in Elastic Solids	0.0	0	
+Theory and Analysis of Elastic Plates and Shells	0.0	0	
+Wave Motion in Elastic Solids	0.0	1	
+Non-linear Elastic Deformations	0.0	4	
+Theatre, Time and Temporality	0.0	2	
+Programming Elastic MapReduce	0.0	1	
+The Rational Mechanics of Flexible or Elastic Bodies 1638 - 1788	0.0	1	
+Elastic Beanstalk	0.0	1	
+Elastic and Inelastic Stress Analysis	0.0	1	
+The Effects of Cold-Working on the Elastic Properties of Stethe Effects of Cold-Working on the Elastic Properties of Steel	0.0	0	
+精通Elastic Stack	0.0	4	
+Elastic Waves at High Frequencies: Techniques for Radiation and Diffraction of Elastic and Surface Waves	0.0	0	
+A Theoretical and Practical Treatise on the Strength of Beams and Columns: In Which the Ultimate and the Elastic Limit Strength of Beams and Columns Is Computed from the Ultimate and Elastic Limit Compressive and Tensile Strength of the Material, by Means	0.0	0	
+RHEOLOGICAL BEHAVIOUR AND ELASTIC VISCOPLASTIC MODELLING OF SOIL	0.0	2	
+Integral Equation Methods for Electromagnetic and Elastic Waves (Synthesis Lectures on Computational Electromagnetics)	0.0	1	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies. Being Lectures On Mathematical Physics, by Arthur Gordon Webster.	0.0	0	
+Ultrasound and Elastic Waves	0.0	2	
+钱伟长博士学位论文	0.0	0	
+Design Analysis of Beams, Circular Plates and Cylindrical Tanks on Elastic Foundations	0.0	0	
+Phase Transitions in Ferroelastic and Co-elastic Crystals	0.0	0	
+Elastic Wave Propagation and Generation in Seismology	0.0	1	
+Analysis of Beams on Elastic Foundations	0.0	0	
+Elastic Media with Microstructure	0.0	0	
+Mathematical Theory of Elastic Structures	0.0	0	
+Geometric Methods in the Elastic Theory of Membranes in Liquid Crystal Phases	0.0	0	
+Elastic/Plastic Fracture Mechanics	0.0	0	
+Crystal acoustics; introduction to the study of elastic waves and vibrations in crystals	0.0	1	
+Foundations of Linear Elastic Fracture Mechanics	0.0	0	
+Your Fantastic, Elastic Brain	0.0	1	
+The Elastic Enterprise	0.0	0	
+Elastic Language	0.0	0	
+Analysis of Beams and Frames on Elastic Foundation	0.0	0	
+Vibrations of Elastic Structural Members	0.0	0	
+Elastic Leadership	0.0	0	
+Elastic Stable Intramedullary Nailing	0.0	0	
+elastic analysis of structures	0.0	0	
+The Crack Tip Opening Displacement in Elastic-Plastic Fracture Mechanics	0.0	0	
+The Scientific and Clinical Application of Elastic Resistance	0.0	0	
+Mathematical Theory of Elastic Structures	0.0	0	
+Elastic Waves in Random Media	0.0	0	
+Nonlinear Waves in Elastic Media	0.0	0	
+Complex Variable Methods in Elastic	0.0	0	
+Asymptotic Methods for Elastic Structures	0.0	0	
+Asymptotic Methods in the Buckling Theory of Elastic Shells	0.0	0	
+Elastic Lidar	0.0	0	
+Elastic And Elastoplastic Contact Analysis	0.0	0	
+W. T. Koiter's Elastic Stability of Solids and Structures	0.0	0	
+Elastic Filaments of the Cell (Advances in Experimental Medicine and Biology)	0.0	0	
+Fresh Elastic for Stretched Out Moms	0.0	0	
+Fresh Elastic for Stretched-Out Moms	0.0	0	
+The Elastic Closet	0.0	0	
+Acoustic and Elastic Wave Fields in Geophysics III	0.0	0	
+Elastic Waves in Solids 1	0.0	0	
+Elastic Wave Propagation and Generation in Seismology	0.0	0	
+Elastic-Plastic Mixed-Mode Fracture Criteria and Parameters	0.0	0	
+Elastic and Inelastic Scattering in Electron Diffraction and Imaging	0.0	1	
+Elastic Beams and Frames	0.0	0	
+Gum-Elastic and Its Varieties	0.0	0	
+Do We Want an Elastic Currency?	0.0	0	
+Paris Elastic Notebook	0.0	0	
+Mask Elastic Notebook	0.0	0	
+Bike Elastic Notebook	0.0	0	
+Man on Bike Elastic Notebook	0.0	0	
+Boats Elastic Notebook	0.0	0	
+A Treatise on the Various Kinds of Permanently Elastic Fluids, or Gases. the Second Edition, Revised.	0.0	0	
+What Color Is Your Knicker Elastic? a Guide to Better Relationships	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids	0.0	0	
+Elastic Rayleigh Wave for Nondestructive Health Monitoring of Concrete Structure	0.0	0	
+Dynamical Problems of Rigid-elastic Systems and Structures	0.0	0	
+Plates and Junctions in Elastic Multi-Structures	0.0	0	
+Elastic Contact Analysis by Boundary Elements	0.0	0	
+Interface Effects in Elastic Wave Scattering	0.0	0	
+Glass Is Elastic	0.0	0	
+Mathematical Theory of Elastic Equilibrium	0.0	0	
+Antiplane Elastic Systems	0.0	0	
+Elastic, Piezoelectric, Piezooptic and Electrooptic Constants of Crystals / Elastische, Piezoelektrische, Piezooptische Und Elektrooptische Konstanten	0.0	0	
+The Crack Tip Opening Displacement in Elastic-Plastic Fracture Mechanics	0.0	0	
+Elastic Media with Microstructure I	0.0	0	
+Dynamics of Elastic Containers Partially Filled with Liquid	0.0	0	
+Plane Elastic Systems	0.0	0	
+Elastic, Piezoelectric, Pyroelectric, Piezooptic, Electrooptic Constant, and Nonlinear Dielectric Susceptibilities of Crystals / Elastische, Piezoelek	0.0	0	
+Polarization Gradient in Elastic Dielectrics	0.0	0	
+Einflu Felder Elastischer Platten / Influence Surfaces of Elastic Plates	0.0	0	
+On the Thermodynamics of Elastic Materials and of Reacting Fluid Mixtures	0.0	0	
+Mechanics of Visco-Elastic Media and Bodies	0.0	0	
+Vibrations of Elastic Systems	0.0	0	
+Stability Theory of Elastic Rods	0.0	0	
+Elastic and Diffractive Scattering	0.0	0	
+Elastic Wave Propagation in Transversely Isotropic Media	0.0	0	
+Theories of Elastic Plates	0.0	0	
+The Theory of Anisotropic Elastic Plates	0.0	0	
+IUTAM Symposium on Multiscale Modeling and Characterization of Elastic-Inelastic Behavior of Engineering Materials	0.0	0	
+Random Vibrations of Elastic Systems	0.0	0	
+Elastic Multibody Dynamics	0.0	0	
+Three-Dimensional Elastic Bodies in Rolling Contact	0.0	0	
+Nonlinear Theory of Dislocations and Disclinations in Elastic Bodies	0.0	0	
+Acoustic Interactions with Submerged Elastic Structures	0.0	0	
+Elastic, Piezoelectric, Piezooptic, Electrooptic Constants, and Nonlinear Dieelectric Susceptibilities of Crystals / Elastische, Piezoelektrische, Pie	0.0	0	
+Elastic Models of Crystal Defects	0.0	0	
+Matrix Analysis of Discrete Elastic Systems	0.0	0	
+Static Parameters of Beams on Elastic Foundation	0.0	0	
+Boundary Layer Flow Over Elastic Surfaces	0.0	0	
+Mechanics and Electrodynamics of Magneto- And Electro-Elastic Materials	0.0	0	
+Quasi-Elastic Neutron Scattering Conference 2006	0.0	0	
+Stability of Elastic Structures	0.0	0	
+Electromagnetic Interactions in Elastic Solids	0.0	0	
+Nonlinear Dynamics of Elastic Bodies	0.0	0	
+Influence Surfaces of Elastic Plates	0.0	0	
+Analysis of Elastic Arches	0.0	0	
+Mechanics of Elastic Biomolecules	0.0	0	
+Weak Elastic	0.0	0	
+Linear Elastic Waves	0.0	0	
+A Primer for Finite Elements in Elastic Structures	0.0	0	
+Constitutive Equations of Nonlinear Electromagnetic-Elastic Crystals	0.0	0	
+Analysis and Design of Elastic Beams	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies. Being Lectures on Mathematical Physics	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+Do We Want an Elastic Currency?	0.0	0	
+In Celebration of Elastic Waistbands	0.0	0	
+Stationary Oscillations of Elastic Plates	0.0	0	
+Modelling, Analysis and Control of Dynamic Elastic Multi-Link Structures	0.0	0	
+Dalmation in a Car Small Journal with Elastic	0.0	0	
+Dress Small Journal with Elastic	0.0	0	
+Lone Gondola Small Journal with Elastic	0.0	0	
+Italian Holiday Small Journal with Elastic	0.0	0	
+Vintage Venice Lined Elastic Large Journal	0.0	0	
+Geisha Lined Elastic Large Journal	0.0	0	
+Paris Twilight Lined Elastic Large Journal	0.0	0	
+Ocean View Lined Elastic Large Journal	0.0	0	
+Waves and Rays in Elastic Continua	0.0	0	
+Theory of Solid and Braced Elastic Arches	0.0	0	
+An Investigation Into the Elastic Constants of Rocks	0.0	0	
+Elastic Waves at High Frequencies	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+An Investigation Into the Elastic Constants of Rocks	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+An Investigation Into the Elastic Constants of Rocks	0.0	0	
+Anisotropic Elastic Plates	0.0	0	
+London Elastic Notebook	0.0	0	
+Mini Car Elastic Notebook	0.0	0	
+Scooter Elastic Notebook	0.0	0	
+An Investigation Into the Elastic Constants of Rocks	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+The Elastic Arch	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+Elastic Models of Crystal Defects	0.0	0	
+Do We Want an Elastic Currency?	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Oracle Exalogic Elastic Cloud Handbook	0.0	0	
+Do We Want an Elastic Currency?	0.0	0	
+Elastic and Charge Exchange Scattering of Elementary Particles / Elastische Und Ladungsaustausch-Streuung Von Elementarteilchen	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Analysis of Elastic Arches	0.0	0	
+A Treatise on the Various Kinds of Permanently Elastic Fluids, or Gases.	0.0	0	
+An  Experimental Enquiry Into the Mineral Elastic Spirit, or Air, Contained in Spa Water; As Well as the Mephitic Qualities of This Spirit. by William	0.0	0	
+Account of an Elastic Trochar, Constructed on a New Principle, for Tapping the Hydrocele, or Watery Rupture	0.0	0	
+Every Man His Own Rupture Curer; Or, the True Method of Reducing Ruptures, and Applying the Elastic Truss. with Several Testimonies ... and Many Authe	0.0	0	
+Elastic Stop Nut Corporation, Petitioner, V. National Labor Relations Board. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+American Elastics, Inc., Petitioner, V. United States of America. U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Dynamics of Elastic Containers	0.0	0	
+Acoustic and Elastic Wave Fields in Geophysics, Part II	0.0	0	
+Non-Classical Problems in the Theory of Elastic Stability	0.0	0	
+Introduction to the Elastic Stability of Structures	0.0	0	
+The Elastic Analysis of Flat Grillages	0.0	0	
+Mathematical Models for Elastic Structures	0.0	0	
+The Excitation and Propagation of Elastic Waves	0.0	0	
+The Nonlinear Theory of Elastic Shells	0.0	0	
+Mathematical Models for Elastic Structures	0.0	0	
+Linear Elastic Waves	0.0	0	
+The Nonlinear Theory of Elastic Shells	0.0	0	
+Non-Classical Problems in the Theory of Elastic Stability	0.0	0	
+W. T. Koiter's Elastic Stability of Solids and Structures	0.0	0	
+Analysis of Structures on Elastic Foundations	0.0	0	
+Abnormalities of Dermal Fibrous and Elastic Tissue, Including	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+Introduction to Elastic Wave Propagation	0.0	0	
+Vibrations of Elastic Plates	0.0	0	
+Constitutive Equations of Nonlinear Electromagnetic-Elastic Crystals	0.0	0	
+Elastic Media with Microstructure I	0.0	0	
+Elastic Media with Microstructure II	0.0	0	
+The Crack Tip Opening Displacement in Elastic-Plastic Fracture Mechanics	0.0	0	
+Dynamical Problems of Rigid-Elastic Systems and Structures	0.0	0	
+Elastic Bandage	0.0	0	
+LGE JNL ELASTIC GONDOLA VENICE	0.0	0	
+ELASTIC NOTEBOOKS SMALL ROBIN	0.0	0	
+ELASTIC NOTEBOOKS SMALL BLUE BUTT	0.0	0	
+ELASTIC NOTEBOOKS SMALL CHAFFINCH	0.0	0	
+ELASTIC NOTEBOOKS SMALL YELLOW BU	0.0	0	
+ELASTIC NOTEBOOK LARGE	0.0	0	
+ELASTIC NOTEBOOK LARGE HOLLY BLUE	0.0	0	
+ELASTIC NOTEBOOK LARGE HOLLY BLUE	0.0	0	
+ELASTIC NOTEBOOK LARGE HUMMINGBIR	0.0	0	
+ELASTIC NOTEBOOK LARGE GOLDCREST	0.0	0	
+Jacky Elastic	0.0	0	
+Elastic Artery	0.0	0	
+Weigert's Elastic Stain	0.0	0	
+A CHEMICAL STUDY OF YELLOW ELASTIC CONN	0.0	0	
+Internal Elastic Lamina	0.0	0	
+An Investigation Into the Elastic Constants of Rocks, More Especially with Reference to Cubic Compressibility	0.0	0	
+Elastic Collision	0.0	0	
+AMAZON ELASTIC COMPUTE CLOUD	0.0	0	
+GUM-ELASTIC AND ITS VARIETIES WITH A DE	0.0	0	
+Avid Elastic Reality	0.0	0	
+Affine Elastic Curves in R Degrees2 and R Degrees3	0.0	0	
+Solutions of Some Problems in Mechanics of Elastic Media	0.0	0	
+Axes and Planes of Symmetry of an An-Isotropic Elastic Material	0.0	0	
+Elastin and Elastic Tissue	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+Elastic Plates	0.0	0	
+Elements of Elastic Strength of Guns; A Text Book for the Use of Student Officers of the U.S. Artillery School	0.0	0	
+The Elastic Strength of Guns	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+The Elastic Arch	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids, with a Short Account of Viscous Fluids	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies	0.0	0	
+Currency, Self-Regulating and Elastic, Explained in a Letter to His Grace the Duke of Argyll; With Introductory Chapters on the Nature of	0.0	0	
+Currency, Self-Regulating and Elastic; Explained in a Letter to His Grace the Duke of Argyll with Introductory Chapters on the Nature of Capital, and	0.0	0	
+Analysis of Elastic Arches, Three-Hinged, Two-Hinged, and Hingeless, of Steel, Masonry, and Reinforced Concrete	0.0	0	
+Currency, Self-Regulating and Elastic, Explained in a Letter to His Grace the Duke of Argyll; With Introductory Chapters on the Nature of Capital, and	0.0	0	
+Nonlinear Analysis of Dynamic Stability of Elastic Shells of Revolution.	0.0	0	
+Non-Adiabatic Treatment of Elastic Scattering of Electrons by Atomic Hydrogen	0.0	0	
+On Finite Deformations of an Elastic Isotropic Material	0.0	0	
+The Effects of Cold-Working on the Elastic Properties of Steel	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids, with a Short Account of Viscous Fluids	0.0	0	
+The Elastic Strength of Guns	0.0	0	
+The Elastic Strength of Guns	0.0	0	
+An  Historical and Descriptive Account of the Steam Engine; Comprising a General View of the Various Modes of Employing Elastic Vapour as a Prime Move	0.0	0	
+A Perturbation Calculation of the Elastic Scattering of Electrons by Hydrogen Atoms	0.0	0	
+Kinematics, Statics, Kinetics, Statics of Rigid Bodies and of Elastic Solids	0.0	0	
+The Elastic Strength of Guns	0.0	0	
+Automatic Elastic Currency	0.0	0	
+Parallelizing an Algorithm of Charles S. Peskin for Describing Incompressible Flow of a Fluid Coupled to an Elastic Membrane	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies; Being Lectures on Mathematical Physics	0.0	0	
+A Perturbation Calculation of the Elastic Scattering of Electrons by Hydrogen Atoms	0.0	0	
+A Chemical Study of Yellow Elastic Connective Tissue	0.0	0	
+An Elastic Currency	0.0	0	
+Vibrations of Elastic Plates	0.0	0	
+Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids; With a Short Account of Viscous Fluids	0.0	0	
+The Elastic Arch	0.0	0	
+The Theory of Anisotropic Elastic Plates	0.0	0	
+Glendale Elastic Fabrics Co V. Smith U.S. Supreme Court Transcript of Record with Supporting Pleadings	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Theory of Stability of Continuous Elastic Struc	0.0	0	
+Analysis of Elastic Arches, Three-Hinged, Two-Hinged, and Hingeless, of Steel, Masonry, and Reinforced Concrete	0.0	0	
+Introduction to Guided Nonlinear Elastic Waves	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids; With a Short Account of Viscous Fluids	0.0	0	
+Are the Extrinsic Muscles of the Air-Bladder in Some Siluroidae and the \Elastic Spring\" Apparatus of Others Subordinate to the Voluntary Production o"	0.0	0	
+Manual on Elastic-Plastic Fracture Laboratory Test Procedures	0.0	0	
+Three-Dimensional Elastic Bodies in Rolling Contact	0.0	0	
+Geometric Method for Stability of Non-Linear Elastic Thin Shells	0.0	0	
+The Scientiic and Clinical Application of Elastic Resistance	0.0	0	
+Bounds on Elements of the S Matrix for Elastic Scattering	0.0	0	
+Two-Dimensional Log-Elastographic Methods for Tissue Shear Stiffness Reconstruction Using a Two-Dimensional Plane Strain Elastic System.	0.0	0	
+Relating Cohesive Zone Model to Linear Elastic Fracture Mechanics	0.0	0	
+Analysis of Mathematical Models of Electrostatically Deformed Elastic Bodies.	0.0	0	
+Elastic Modulus and Biaxial Fracture Strength of Thermally Fatigued Hot Pressed Last and Lastt Thermoelectric Materials.	0.0	0	
+I.- Multi-Component Direct Nonlinear Inversion for Elastic Earth Properties Using the Inverse Scattering Series; II.- Multi-Parameter Depth Imaging Us	0.0	0	
+Reservoir Characterization Combining Elastic Velocities and Electrical Resistivity Measurements.	0.0	0	
+A Parametric Evaluation of Residual Stress Resulting from Abrasive Waterjet Surface Treatments with Elastic Prestress	0.0	0	
+Alpha-Capture and Alpha-Elastic Scattering on P-Nuclei to Probe the Hauser-Feshbach Framework.	0.0	0	
+Elastic Light Scattering from Aerosol Particles and Direct Coupling of Micro-Resonators.	0.0	0	
+Probing the Nanoscale Interaction Forces and Elastic Properties of Organic and Inorganic Materials Using Force-Distance	0.0	0	
+On Auxeticity and Its Acoustic Signature in Elastic Crystals.	0.0	0	
+On the Ability of Indentation to Capture the Anisotropic Elastic Properties of the Pyrolytic Carbon.	0.0	0	
+Elastic Plates	0.0	0	
+Three-Dimensional Generic Elastic Models for Two-Dimensional Pose Synthesis and Face Recognition.	0.0	0	
+Elements of Elastic Strength of Guns	0.0	0	
+Modeling, Analysis, and Control of a Hypersonic Vehicle with Significant Aero-Thermo-Elastic-Propulsion Interactions	0.0	0	
+Compensating Reflected Seismic Primary Amplitudes for Elastic and Absorptive Transmission Losses When the Physical Properties of the Overburden Are Un	0.0	0	
+Tribological Properties of Pseudo-Elastic Nickel-Titanium.	0.0	0	
+Nonlinear Dynamics of Elastic Filaments Conveying a Fluid and Numerical Applications to the Static Kirchhoff Equations.	0.0	0	
+A Non-Linear Finite Element Model for the Determination of Elastic and Thermal Properties of Nanocomposites.	0.0	0	
+Magnetic Damping of an Elastic Conductor.	0.0	0	
+Local Estimation of Modeling Error in Multi-Scale Modeling of Heterogeneous Elastic Solids.	0.0	0	
+Investigation of the Effect of Heat Upon the Crushing Strength and Elastic Properties of Concrete	0.0	0	
+Spin-Yaw Lockin of an Elastic Finned Projectile	0.0	0	
+Thermo-Elastic Analysis of Internally Cooled Structures Using a Higher Order Theory	0.0	0	
+Computational Methods for a Class of Problems in Acoustic, Elastic and Water Waves.	0.0	0	
+Elastic Tunable Grating Powered by Mems Actuators for Fluorescence Spectroscopy Applications.	0.0	0	
+Cell-Mediated Elastic Matrix Regeneration Toward Regression of Abdominal Aortic Aneurysms.	0.0	0	
+Retrieval of Aerosol Mass Concentration from Elastic Lidar Data.	0.0	0	
+Identification and Evaluation of Pulse Effects on the Elastic and Inelastic Responses of Single Degree-Of-Freedom Systems.	0.0	0	
+Mechanics, Dynamics, and Structures of DNA as an Elastic Rod .	0.0	0	
+Biaxial Mechanical Characterization and Microstructure-Driven Modeling of Elastic Pulmonary Artery Walls of Large Mammals Under Hypertensive Condition	0.0	0	
+One-Sided Ultrasonic Determination of Third Order Elastic Constants Using Angle-Beam Acoustoelasticity Measurements.	0.0	0	
+A Parallel Geometric Multigrid Method for Finite Elements on Octree Meshes Applied to Elastic Image Registration.	0.0	0	
+Elastic Guided Wave Dispersion in Layered Piezoelectric Plates	0.0	0	
+Topology Optimization for Wave Propagation and Vibration Phenomena in Elastic and Piezoelectric Solids.	0.0	0	
+Elastic Image Registration Based on Strain Energy Minimization	0.0	0	
+Gum-Elastic and Its Varieties Volume 2; With a Detailed Account of Its Applications and Uses, and of the Discovery of Vulcanization	0.0	0	
+Are the Extrinsic Muscles of the Air-Bladder in Some Siluroidae and the \Elastic Spring\" Apparatus of Others Subordinate to the Voluntary Production o"	0.0	0	
+\Boys are Elastic	0.0	0	
+A Chemical Study of Yellow Elastic Connective Tissue	0.0	0	
+A   Popular and Descriptive Account of the Steam Engine; Comprising a General View of the Various Modes of Employing Elastic Vapour as a Prime Mover i	0.0	0	
+The Elastic Arch; With Special Reference to the Re-Enforced Concrete Arch	0.0	0	
+Seismic Waves and Rays in Elastic Media	0.0	0	
+Dynamics of Thin Walled Elastic Bodies	0.0	0	
+Handbook of Elastic Properties of Solids, Liquids, and Gases	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Nonlinear Waves in Elastic Crystals	0.0	0	
+Theory of Solid and Braced Elastic Arches; Applied to Arch Bridges and Roofs in Iron, Wood, Concrete or Other Materials	0.0	0	
+Analysis of Beams on Elastic Foundations	0.0	0	
+Elastic Analysis of Raft Foundations	0.0	0	
+The Renaissance of the Vocal Art; A Practical Study of Vitality, Vitalized Energy, of the Physical, Mental and Emotional Powers of the Singer, Through Flexible, Elastic Bodily Movements	0.0	0	
+Non-classical Elastic Solids	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies ...	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies ...	0.0	0	
+Microstructures in Elastic Media	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Abnormalities of Dermal Fibrous and Elastic Tissue, Including	0.0	0	
+Non-Linear Elastic Deformations	0.0	0	
+The Effects of Cold-Working on the Elastic Properties of Steel	0.0	0	
+Three-Dimensional Elastic-Plastic Analysis of Shallow Cracks in Single-Edge-Crack-Tension Specimens	0.0	0	
+A Variational Calculation of the Elastic Scattering of Electrons by Hydrogen Atoms	0.0	0	
+An Investigation Into the Elastic Constants of Rocks, More Especially with Reference to Cubic Compressibility	0.0	0	
+Proton-Nucleus Elastic Cross Sections Using Two-Body In-Medium Scattering Amplitudes	0.0	0	
+Transient Scattering of a Plane Sh Wave by a Rough Cavity of Arbitrary Shape Embedded in an Elastic Half-Space.	0.0	0	
+Multiscale Studies of the Elastic Properties and Fracture of Monolayer Graphene and the Bridging Domain Method.	0.0	0	
+Instability of Thick Elastic Solids	0.0	0	
+Scalable and Elastic Transactional Data Stores for Cloud Computing Platforms.	0.0	0	
+Time Domain Simulation of Soil-Retaining Wall Interaction in Elastic and Elastoplastic Soils.	0.0	0	
+Three-Dimensional Wrapping of Stiff Elastic Belts Around Rollers.	0.0	0	
+Elastic Waves in Layered Media	0.0	0	
+Common-Image Gathers in the Angle Domain from Reverse Time Migration in 2D Isotropic Acoustic, Elastic and Vti Media.	0.0	0	
+Elastic Structures with Defects.	0.0	0	
+Flight Motion of a Continuously Elastic Finned Missile	0.0	0	
+Proposed Moduli of Dry Rock and Their Application to Predicting Elastic Velocities of Sandstones	0.0	0	
+Plate and Butt-Weld Stresses Beyond Elastic Limit, Material and Structural Modeling	0.0	0	
+Three-Dimensional Elastic-Plastic Finite-Element Analysis of Fatigue Crack Propagation	0.0	0	
+Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids; With a Short Account of Viscous Fluids	0.0	0	
+The Role of Molecular Weight and Temperature on the Elastic and Viscoelastic Properties of a Glassy Thermoplastic Polyimide	0.0	0	
+On the Propagation of Tremors Over the Surface of an Elastic Solid...	0.0	0	
+Theory of Elastic Stability	0.0	0	
+A Study of the Distribution of Elastic Fibers in the Lung...	0.0	0	
+Piercing the Elastic Limit - An Epic Fable	0.0	0	
+Space, Elastic and Impeding	0.0	0	
+Mechanics of Elastic Composites	0.0	0	
+Ray Method and Nongeometrical Phenomena in Elastic Wave Theory	0.0	0	
+Kinematics, Statics, Kinetics, Statics of Rigid Bodies and of Elastic Solids...	0.0	0	
+Invariant Object Recognition Based on Elastic Graph Matching	0.0	0	
+Types of Potential Energy Including Gravitational, Elastic, Chemical, Electric, and Nuclear Potential Energy	0.0	0	
+Types of Potential Energy Including Gravitational, Elastic, Chemical, Electrical, and Nuclear Potential Energy	0.0	0	
+The Effects of Cold-Working on the Elastic Properties of Steel	0.0	0	
+Elastic Plates	0.0	0	
+SMALL ELASTIC JOURNAL RED SCOOTER	0.0	0	
+SMALL ELASTIC JOURNAL PARIS SPRIN	0.0	0	
+Analysis of Elastic Arches	0.0	0	
+Analysis of Elastic Arches	0.0	0	
+MR Elastic Brain	0.0	0	
+Do We Want an Elastic Currency?	0.0	0	
+Linear Elastic Fracture Mechanics for Engineers	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+On Wave Propogation in Elastic Solids with Cracks	0.0	0	
+Introduction to the Mathematical Theory of the Stress and Strain of Elastic Solids	0.0	0	
+Solid and Braced Elastic Arches - Arch Bridges & Roofs	0.0	0	
+Analysis of Elastic Arches, Three-Hinged, Two-Hinged, and Hingeless, of Steel, Masonry, and Reinforced Concrete	0.0	0	
+Catalogue of Surgical and Dental Instruments, Elastic Trusses, Syringes, &C.	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic and Fluid Bodies	0.0	0	
+Having Fun? Large Notebook with Elastic	0.0	0	
+I'm So Over This! Large Notebook with Elastic	0.0	0	
+Beautiful Pug Large Notebook with Elastic	0.0	0	
+Beginning Elastic Stack	0.0	1	
+Single Crystal Elastic Constants and Calculated Aggregate Properties	0.0	0	
+Design Analysis of Beams, Circular Plates and Cylindrical Tanks on Elastic Foundations	0.0	0	
+Solid State Physics Program, the Elastic Properties of Copper and Copper-Nickel Alloys	0.0	0	
+A First-Principles Study of Elastic and Diffusion Properties of Magnesium Based Alloys.	0.0	0	
+Simulation of a Moving Elastic Beam Using Hamilton's Weak Principle	0.0	0	
+An Analysis of Nonlinear Elastic Deformations for a Homogeneous Beam at Varying Tip Loads and Pitch Angles	0.0	0	
+A New Application of the Channel Packet Method for Low Energy 1-D Elastic Scattering	0.0	0	
+Estimation of Local Energy Norms of Modeling Error in Multi-Scale Modeling of Linearly Elastic Heterogeneous Solids.	0.0	0	
+On the Modeling of Contact Problems for Curved and Straight Elastic Thin Continuums with Application to Non-Pneumatic Tires.	0.0	0	
+An Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids, with a Short Account of Viscous Fluids	0.0	0	
+Elastic Mechanisms in Animal Movement	0.0	0	
+Nonlinear Elastic Waves in Materials	0.0	0	
+Mechanics of Elastic Biomolecules	0.0	0	
+Dynamics of an Elastic Satellite with Internal Friction. Asymptotic Stability Vs Collision or Expulsion	0.0	0	
+Modeling, Analysis and Control of Dynamic Elastic Multi-Link Structures	0.0	0	
+Lge Jnl Elastic Big Ben	0.0	0	
+Circumferential Guided Waves in Elastic and Viscoelastic Multilayered Annuli.	0.0	0	
+Large Elastic Journal - Hearts	0.0	0	
+The Dynamics of Particles and of Rigid, Elastic, and Fluid Bodies. Being Lectures on Mathematical Physics	0.0	0	
+Large Elastic Journal - Birds	0.0	0	
+Mechanics of Elastic Structures with Inclined Members	0.0	0	
+Elastic Waves in Anisotropic Laminates	0.0	0	
+Classical and Generalized Models of Elastic Rods	0.0	0	
+Mechanics of Elastic Structures with Inclined Members	0.0	0	
+Elastic Multibody Dynamics	0.0	0	
+ELASTIC-PLASTIC FRATURE MECHANICS AN	0.0	0	
+ELASTIC-PLASTIC FRATURE MECHANICS AN	0.0	0	
+Elastic Waves in Composite Media and Structures	0.0	0	
+Vibrations of Elastic Structural Members	0.0	0	
+Fresh Elastic for Stretched Out Moms	0.0	0	
+Elastic Beam Calculations Handbook	0.0	0	
+Classics of Elastic Wave Theory	0.0	0	
+Elastic Properties of Materials	0.0	0	
+Elastic Properties of Piezoelectric & Relaxor Ferroelectric Crystals	0.0	0	
+Self-Excited Oscillations of Elastic Tubes	0.0	0	
+Nonlinear Dynamics of Continuous Elastic Systems	0.0	0	
+Large Elastic Closure Journal - Woman in Lace	0.0	0	
+Small Elastic Closure Journal - Girl with Balloons	0.0	0	
+Small Elastic Closure Journal - Girl in Yellow Sundress	0.0	0	
+Large Elastic Closure Journals - Country Chapel	0.0	0	
+Small Elastic Closure Journal - Wood Carving	0.0	0	
+Small Elastic Closure Journal - Buttons	0.0	0	
+Large Elastic Closure Journals - Girl & a Suitcase	0.0	0	
+Moving Layers	0.0	0	
+Electronic, Elastic, and Magnetic Properties of Gdn and Mgn	0.0	0	
+A Study of Nuclear Momentum Distributions and Elastic Form Factors	0.0	0	
+Elastic Path	0.0	0	
+Elastic Interface Bus	0.0	0	
+Phase Transitions in Ferroelastic and Co-elastic Crystals	0.0	0	
+Elastic Mechanisms in Animal Movement	0.0	0	
+Modeling and Imaging Elastic Waves in Heterogeneous Media.	0.0	0	
+The Excitation and Propagation of Elastic Waves	0.0	0	
+Elastic and Plastic Deformation of Carbon Nanotubes	0.0	0	
+Elastic Fiber	0.0	0	
+State of the Art of Simplified Methods to Account for Elastic Follow-up in Creep  Nuclear Science and Technology	0.0	0	
+Tidal Deformations on a Rotating, Spherically Asymmetric, Visco-Elastic and Laterally Heterogeneous Earth	0.0	0	
+Theory of Solid and Braced Elastic Arches	0.0	0	
+Material Instabilities in Elastic and Plastic Solids	0.0	0	
+Elastic Multibody Systems with Frictional Contacts	0.0	0	
+Beyond the Elastic Limit	0.0	0	
+Elastic and Limit Analysis of R. C. Skew Slabs	0.0	0	
+Advanced Elastic-Plastic Constitutive and Numerical Modeling	0.0	0	
+Elastic Properties of Fractured Porous Media	0.0	0	
+Vibratory Drum Interaction with Layered Elastic Media	0.0	0	
+Kinking Nonlinear Elastic Solids	0.0	0	
+Finite-Amplitude Waves in Deformed Elastic Materials	0.0	0	
+Buckling & Dynamics of Thermo-Elastic Plates	0.0	0	
+Elastic / Plastic Buckling of Spherical Shells Under Various Loading	0.0	0	
+Numerical Assessments of Cracks in Elastic-Plastic Materials	0.0	0	
+Thermal Elastic-Plastic Stress Analysis of Composite Plates	0.0	0	
+Interactive Elastic Two-Layer Soft Body Simulation with OpenGL	0.0	0	
+Elastic Properties of Di-Atomic Solids	0.0	0	
+Heat Transfer in Visco-Elastic Fluids	0.0	0	
+Meshfree Analysis of Elastic Bar	0.0	0	
+Viscous Elastic Properties of Wood Circular Saws	0.0	0	
+New 3-D Stability Approach for the Elastic Cable-Stayed Towers	0.0	0	
+Optimal Control Theory for the Damping of Vibrations of Simple Elastic Systems	0.0	0	
+Some Problems in Elastic Plastic and Creep in Mechanical Engineering	0.0	0	
+Nonlinear Dynamics of Continuous Elastic Systems	0.0	0	
+Diffraction by an Immersed Elastic Wedge	0.0	0	
+Nonlinear Theory of Dislocations and Disclinations in Elastic Bodies	0.0	0	
+Elastic Waves in Solids II	0.0	0	
+Contact, Adhesion and Rupture of Elastic Solids	0.0	0	
+Stability of Elastic Structures	0.0	0	
+Elastic Stable Intramedullary Nailing	0.0	0	
+Elastics and Elastomerics	0.0	0	
+Elastic Morality	0.0	0	
+Stability of Elastic Structures	0.0	0	
+Elastic Waves in Solids II	0.0	0	
+Elastic Waves in Solids I	0.0	0	
+Contact, Adhesion and Rupture of Elastic Solids	0.0	0	
+Plane Waves in Elastic Material with Voids	0.0	0	
+Convective Heat Transfer Analysis for Visco-Elastic Fluids	0.0	0	
+Elastic Scattering of Heavy Ions	0.0	0	
+Analysis of Elastic Filaments Conveying a Fluid and a Numerical Study	0.0	0	
+Visco Elastic Fluids	0.0	0	
+ANALYSIS OF ELASTIC ARCHES THREE-HINGED	0.0	0	
+ELASTIC WAVES IN LAYERED MEDIA	0.0	0	
+ELASTIC PROPERTIES IN TENSION AND SHEAR	0.0	0	
+Elastic Matching	0.0	0	
+Flow Problems of Viscous and Visco-Elastic Fluids Through Porous Media	0.0	0	
+Amazon Elastic Compute Cloud	0.0	0	
+Elastic Collision	0.0	0	
+ELASTIC NOTEBOOK LARGE WATERCOLOU	0.0	0	
+ELASTIC NOTEBOOK LARGE RED WHIT	0.0	0	
+ELASTIC NOTEBOOK LARGE JAPANESE B	0.0	0	
+ELASTIC NOTEBOOKS SMALL BLACK W	0.0	0	
+ELASTIC NOTEBOOKS SMALL BLOSSOM B	0.0	0	
+ELASTIC NOTEBOOKS SMALL ELEGANT A	0.0	0	
+Chatterbox Elastics Grade 3 2005c	0.0	0	
+Chatterbox Elastics Six Pack Grade 3 2005c	0.0	0	
+Currency, Self-Regulating and Elastic, Explained in a Letter to His Grace the Duke of Argyll; With Introductory Chapters on the Nature of Capital, and	0.0	0	
+Stability of Elastic Systems	0.0	0	
+Random Vibrations of Elastic Systems	0.0	0	
+Elastic Analysis of Slab Structures	0.0	0	
+Stability of Elastic Systems	0.0	0	
+Vibrations of Elastic Structural Members	0.0	0	
+Amazon Elastic Block Store	0.0	0	
+ELEMENTS OF ELASTIC STRENGTH OF GUNS A	0.0	0	
+Elements of Elastic Strength of Guns	0.0	0	
+Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids; With a Short Account of Viscous Fluids	0.0	0	
+Theory of Elastic Stability	0.0	0	
+Thrusts, Moments, and Shears in Elastic Arches	0.0	0	
+Thrusts, Moments, and Shears in Elastic Arches	0.0	0	
+Elastic Architecture	0.0	0	
+【预订】An Investigation Into the Elastic Constants of Rocks: More Especially with Reference to Cubic Compressibility, Issue 46	0.0	0	
+【预订】An Investigation Into the Elastic Constants of Rocks: More Especially with Reference to Cubic Compressibility	0.0	0	
+【预订】An Investigation Into the Elastic Constants of Rocks: More Especially with Reference to Cubic Compressibility	0.0	0	
+Partial Stabilization and Control of Distributed Parameter Systems with Elastic Elements	0.0	0	
+Correlation Filters for Elastic-Distorted Live-Scan Fingerprint Recognition	0.0	0	
+【预订】An Investigation Into the Elastic Constants of Rocks: More Especially with Reference to Cubic Compressibility	0.0	0	
+Paper Money Collapse: The Folly of Elastic Money and the Coming Monetary Breakdown	0.0	0	
+Elastic Trans: Lessons Learned at Cape Cod National Seashore	0.0	0	
+On Finite Deformations of an Elastic Isotropic Material (Classic Reprint)	0.0	0	
+【预订】An Historical and Descriptive Account of the Steam Engine: Comprising a General View of the Various Modes of Employing Elastic Vapour as a Prime Mover	0.0	0	
+【预订】An Investigation Into the Elastic Constants of Rocks: More Especially with Reference to Cubic Compressibility	0.0	0	
+Cold Hibernated Elastic Memory Structure: Self-Deployable Technology and Its Applications	0.0	0	
+Mechanics of Visco-Elastic Media and Bodies: Symposium Gothenburg/Sweden September 2–6, 1974	0.0	0	
+Small elastic deformations of thin shells	0.0	0	
+A Perturbation Calculation of the Elastic Scattering of Electrons by Hydrogen Atoms (Classic Reprint)	0.0	0	
+Elastic Shape Analysis of Three-Dimensional Objects	0.0	0	
+Biology and Pathology of Elastic Tissues	0.0	0	
+Dynamic Routing and Resource Allocation in Elastic Optical Networks	0.0	0	
+The Elastic Arch: With Special Reference to the Re-Enforced Concrete Arch	0.0	0	
+Dot Journal (Black): A dotted, blank journal for list-making, journaling, goal-setting: 256 pages  with elastic closure and ribbon marker	0.0	0	
+Mathematical Theory of Elastic Structures	0.0	0	
+Elastic Stresses in Structures: Translated from Castigliano's Théorem de l'equibre des systèmes élastiques et ses applications	0.0	0	
+Thermal Elastic  Mechanics Problems of Concrete Rectangular Thin Plate	0.0	0	
+The Mechanics of Engineering, Vol. 1: Kinematics, Statics, Kinetics, Statics of Rigid Bodies and of Elastic Solids (Classic Reprint)	0.0	0	
+Mathematical Theory of Elastic Structures	0.0	0	
+Elastic Analysis of Slab Structures	0.0	0	
+Elastic, Plastic and Yield Design of Reinforced Structures	0.0	0	
+Whoosh Boom Splat: Build Jam Jar Jets, Elastic Zip Cannons, Clothespin Snap Shooters, and More Legendary Launchers	0.0	0	
+Amazon Elastic Block Store	0.0	0	
+A Popular and Descriptive Account of the Steam Engine: Comprising a General View of the Various Modes of Employing Elastic Vapour as a Prime Mover in Mechanics; And on Steam Navigation; With an Appendix of Patents and Parliamentary Papers Connected with T	0.0	0	
+Analytic Solutions of Elastic Tunneling Problems	0.0	0	
+The One: An Elastic Sphere in Motion	0.0	0	
+Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance	0.0	0	
+IUTAM Symposium on Multiscale Modeling and Characterization of Elastic-Inelastic Behavior of Engineering Materials: Proceedings of the IUTAM Symposium held in Marrakech, Morocco, 20–25 October 2002	0.0	0	
+Characterization of Interfaces by Elastic Light Scattering and Profilometry	0.0	0	
+Elementary Treatise on the Mathematical Theory of Perfectly Elastic Solids; With a Short Account of Viscous Fluids	0.0	0	
+Catalogue of Surgical and Dental Instruments, Elastic Trusses, Syringes, &c: Manufactured by Horatio G. Kern, No. 25 North Sixth Street, Above Commerce, Philadelphia (Classic Reprint)	0.0	0	
+El Ejercicio Fisico Con Cinta Elastica/ Physical Exercise With Elastic Bands	0.0	0	
+Elastic Scattering of Electromagnetic Radiation: Analytic Solutions in Diverse Backgrounds	0.0	0	
+Smart Rotor Modeling: Aero-Servo-Elastic Modeling of a Smart Rotor with Adaptive Trailing Edge Flaps	0.0	0	
+Vibrations of Elastic Systems: With Applications to MEMS and NEMS	0.0	0	
+Amazon Elastic Block Store	0.0	0	
+Simplified Analytical Methods of Elastic Plates	0.0	0	
+An Inquiry Into the Cause of Natural Death: Or, Death from Old Age; Developing a New and Certain Method of Preventing the Consolidation or Ossification of the Body, and of Thus Indefinitely Prolonging Vigorous, Elastic and Bouyant Health; And of Renderi	0.0	0	
+Questions About Elastic Waves	0.0	0	
+Nonlinear Theory of Elastic Plates	0.0	0	
+Advances in Crystals and Elastic Metamaterials, Part 1, Volume 51	0.0	0	
+Mechanics of Elastic/Plastic Fracture	0.0	0	
+Non-Linear Elastic Deformations	0.0	0	
+Uniqueness and Stability in Determining a Rigid Inclusion in an Elastic Body	0.0	0	
+Symmetrical Masonry Arches: Including Natural Stone, Plain-Concrete, and Reinforced-Concrete Arches; For the Use of Technical Schools, Engineers, and Computers in Designing Arches According to the Elastic Theory (Classic Reprint)	0.0	0	
+Mathematical Methods for Elastic Plates	0.0	0	
+The Elastic Behaviour of Dual Moduli Materials in Bending	0.0	0	
+Elastic Optical Networks: Architectures, Technologies, and Control	0.0	0	
+Smart Rotor Modeling: Aero-Servo-Elastic Modeling of a Smart Rotor with Adaptive Trailing Edge Flaps	0.0	0	
+Paper Money Collapse: The Folly of Elastic Money	0.0	0	
+El concreto armado en las estructuras/ The reinforced concrete in structures: Teoria Elastica. Diseno Plastico/ Elastic Theory. Plastic Design	0.0	0	
+Investigation of the Effect of Heat Upon, the Crushing Strength and Elastic, Properties of Concrete (Classic Reprint)	0.0	0	
+Elastic Heart	0.0	0	
+An Historical and Descriptive Account of the Steam Engine: Comprising a General View of the Various Modes of Employing Elastic Vapour as a Prime Mover in Mechanics	0.0	0	
+Elastic Stack应用宝典	0.0	0	
+Elasticsearch: The Definitive Guide	8.7	105	
+Elasticsearch Essentials	0.0	2	
+Elasticsearch服务器开发（第2版）	6.2	56	
+Elasticsearch实战	7.8	25	
+Elasticsearch 技术解析与实战	4.2	24	
+Elasticsearch源码解析与优化实战	7.4	20	
+ElasticSearch	6.9	35	
+Elasticsearch in Action	8.2	24	
+ElasticSearch Server	0.0	7	
+The Turing Test	0.0	0	
+Other Voices	0.0	0	
+Alsiso Project, The	0.0	0	
+Binding Energy	0.0	0	
+ElasticSearch Server Second Edition	0.0	5	
+ELASTICITY AND PLASTICITY	0.0	2	
+ElasticSearch Cookbook, Second Edition	0.0	4	
+Elasticity and Geometry	0.0	1	
+Elastica	0.0	0	
+Elasticsearch Blueprints	0.0	2	
+Elasticsearch Server - Third Edition	0.0	1	
+Elasticity, Second Edition	0.0	1	
+Elasticity and Geomechanics	0.0	0	
+ElasticSearch 5.0 Cookbook - Third Edition	0.0	2	
+Elasticity (Solid Mechanics and Its Applications)	0.0	0	
+Elasticity and Plasticity of Large Deformations	0.0	0	
+Elasticity	0.0	0	
+Elasticity and Geomechanics	0.0	1	
+Elasticity	0.0	0	
+ElasticSearch Indexing	0.0	0	
+Elasticsearch搜索引擎开发实战	0.0	6	
+金属的弹性与滞弹性	0.0	0	
+Elastica (Illustrated Story)	0.0	0	
+Elasticity	0.0	0	
+Elasticity of Transversely Isotropic Materials	0.0	0	
+Elasticity Theory and Applications	0.0	0	
+Elasticity	0.0	0	
+Elasticit T Und Festigkeit	0.0	0	
+Elasticitat Und Festigkeit	0.0	0	
+Elasticitat Und Festigkeit	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction ...	0.0	0	
+Elasticity and Plasticity of Large Deformations	0.0	0	
+Elasticity	0.0	0	
+Elasticity of Love	0.0	0	
+Elasticity and Strength of Bone and Bone Replacement Materials	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction	0.0	0	
+Elasticity	0.0	0	
+Elasticity	0.0	0	
+Elasticity	0.0	0	
+Elasticity in Engineering Mechanics	0.0	0	
+Elasticity Theory and Applications	0.0	0	
+Elasticity, Plasticity and Structure of Matter	0.0	0	
+Elasticity	0.0	0	
+Elasticity with Mathematica	0.0	0	
+ELASTICAL RESEARCHES	0.0	0	
+Elasticity of a Function	0.0	0	
+Elastical Researches	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction	0.0	0	
+Elasticity	0.0	0	
+Elasticity	0.0	0	
+Elasticity and Strength of Materials in Construction	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction ..	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction	0.0	0	
+Elasticity and Strength of Materials in Construction Volume 1	0.0	0	
+Elasticity	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction Volume 1	0.0	0	
+Elastical Researches;	0.0	0	
+Elasticity in Three Compositions with Flute by Boris Blacher .	0.0	0	
+Elasticity of Portland Cement	0.0	0	
+Elasticity	0.0	0	
+ELASTICITY	0.0	0	
+Elasticity	0.0	0	
+Elasticity	0.0	0	
+Elasticity Effects on Cavitation in a Squeeze Film Damper Undergoing Noncentered Circular Whirl	0.0	0	
+Elasticity Vol III	0.0	0	
+Elasticit T Und Festigkeit Der Knochen	0.0	0	
+Elasticity	0.0	0	
+Elasticity of Portland Cement	0.0	0	
+Elasticity	0.0	0	
+Elasticsearch for Hadoop	0.0	0	
+Elasticized Ecclesiology	0.0	0	
+Elasticity	0.0	0	
+Elasticity of Transversely Isotropic Materials	0.0	0	
+Elasticity and Plasticity of Large Deformations	0.0	0	
+Elasticity with Mathematica	0.0	0	
+Elasticity	0.0	0	
+Elasticity	0.0	0	
+Elasticity in Engineering Mechanics	0.0	0	
+Elastico	0.0	0	
+Elasticity, Plasticity and Structure of Matter	0.0	0	
+Elasticity of Taxable Income	0.0	0	
+Elastico-Viscous Fluid Flows	0.0	0	
+Elastichosts	0.0	0	
+ELASTICITY AND STRENGTH OF MATERIALS US	0.0	0	
+ELASTICITA T UND FESTIGKEIT DIE FU R TE	0.0	0	
+Elasticity	0.0	0	
+Elastichosts	0.0	0	
+Elastical Researches;	0.0	0	
+Elasticidad y Resistencia de Materiales	0.0	0	
+ELASTICITY AND STRENGTH OF MATERIALS IN	0.0	0	
+ELASTICITY AND STRENGTH OF MATERIALS US	0.0	0	
+Elasticsearch: A Complete Guide	0.0	0	
+Elasticsearch大数据搜索引擎	0.0	3	
+ELASTICITY	0.0	0	
+Elasticsearch集成Hadoop最佳实践	0.0	1	
+Elasticity and Strength of Materials Used in Engineering Construction ..	0.0	0	
+Elasticity	0.0	0	
+Elasticity	0.0	0	
+Elasticity for Geotechnicians: A Modern Exposition of Kelvin, Boussinesq, Flamant, Cerruti, Melan, and Mindlin Problems	0.0	0	
+Elasticity and Strength of Materials Used in Engineering Construction	0.0	0	
+Elasticsearch 7.0 Cookbook	0.0	0	

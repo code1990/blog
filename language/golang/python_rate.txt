@@ -1,0 +1,2100 @@
+Python编程	9.1	2375	
+Python深度学习	9.6	446	
+利用Python进行数据分析	8.5	1198	
+Python编程快速上手	9.0	621	
+Effective Python	9.0	219	
+流畅的Python	9.4	594	
+Python基础教程（第2版）	8.0	1767	
+父与子的编程之旅	8.6	214	
+Python源码剖析	8.7	761	
+Python核心编程（第二版）	7.7	1540	
+Python数据科学手册	9.3	158	
+Python Cookbook	8.6	364	
+Head First Python（中文版）	7.9	600	
+Python学习手册（第4版）	7.9	530	
+"笨办法"学Python	7.8	623	
+利用Python进行数据分析 原书第2版	8.2	173	
+Python学习手册	8.2	906	
+从Python开始学编程	8.3	153	
+贝叶斯思维	7.3	100	
+Fluent Python	9.6	294	
+Flask Web开发：基于Python的Web应用开发实战	8.6	567	
+Python网络编程基础	7.2	302	
+Python网络数据采集	7.7	409	
+Python金融大数据分析	7.6	110	
+python绝技：运用python成为顶级黑客	7.4	77	
+Python灰帽子	7.5	191	
+Python Cookbook 中文版，第 3 版	9.3	237	
+A Byte of Python	8.7	1174	
+编写高质量代码：改善Python程序的91个建议	7.4	354	
+Python自然语言处理	8.2	198	
+Python标准库	8.4	131	
+Python高级编程	7.6	240	
+Python核心编程（第3版）	7.9	182	
+Django Web开发指南	6.5	235	
+像计算机科学家一样思考Python	8.1	197	
+Python语言及其应用	8.5	200	
+Python数据分析与挖掘实战	7.6	133	
+Python Algorithms	8.9	78	
+Python科学计算	7.9	173	
+Python基础教程（第3版）	8.4	107	
+数据结构与算法：Python语言描述	7.5	95	
+python黑帽子	7.7	74	
+可爱的Python	7.4	726	
+Python for Data Analysis	8.4	214	
+Python网络编程（第3版）	8.9	59	
+用Python写网络爬虫	7.2	144	
+Data Structures and Algorithms in Python	9.5	70	
+Python Web开发实战	7.1	183	
+Python参考手册（第4版）	7.4	165	
+Python算法教程	7.8	73	
+Data Science from Scratch	8.1	40	
+Python高性能编程	7.3	37	
+深入浅出Python（影印版）	8.5	69	
+Deep Learning with Python	9.4	145	
+像计算机科学家一样思考Python (第2版)	8.4	113	
+Effective Python	8.5	80	
+python学习手册（原书第5版）	8.6	32	
+Python编程初学者指南	9.4	34	
+Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION	9.3	113	
+Python爬虫开发与项目实战	7.1	57	
+深入理解 Flask	8.4	62	
+Python高手之路	8.0	97	
+Automate the Boring Stuff with Python	9.0	115	
+数据结构与算法：python语言实现	6.2	35	
+OpenCV 3计算机视觉：Python语言实现（原书第2版）	7.1	45	
+Web Scraping with Python	8.3	118	
+Python Cookbook	9.3	120	
+Python Crash Course	8.6	72	
+趣学Python编程	8.2	91	
+python机器学习	7.7	42	
+Python数据挖掘入门与实践	7.6	55	
+编程导论	7.8	54	
+Python机器学习	6.7	29	
+量化交易之路	7.5	63	
+Python自动化运维	5.4	102	
+笨办法学Python 3	8.5	103	
+Python神经网络编程	9.2	360	
+Python极客项目编程	8.0	27	
+Python机器学习基础教程	8.4	100	
+零基础入门学习Python	8.8	91	
+教孩子学编程 python语言版	8.8	27	
+Python 3面向对象编程	8.8	59	
+强化学习：原理与Python实现	9.2	43	
+Python Data Science Handbook	9.1	93	
+Python机器学习及实践	7.2	122	
+零起点Python大数据与量化交易	3.8	31	
+Python编程入门经典	6.9	41	
+Python计算机视觉编程	7.7	52	
+精通Python网络爬虫：核心技术、框架与项目实战	4.5	72	
+Python高级编程（第二版）	7.2	29	
+Python金融衍生品大数据分析：建模、模拟、校准与对冲	9.0	14	
+Learning Python, 5th Edition	9.1	100	
+Introduction to Machine Learning with Python	9.1	46	
+Python Machine Learning	8.7	13	
+Web接口开发与自动化测试	6.3	35	
+Python编程导论（第2版）	8.2	31	
+Python数据分析	7.8	44	
+Python Linux系统管理与自动化运维	8.3	32	
+Python for Data Analysis	9.1	104	
+Python网络爬虫实战	6.4	31	
+Python编程之美：最佳实践指南	8.2	23	
+真实世界的Python仪器监控	8.6	27	
+A Byte of Python	8.0	34	
+Python网络爬虫从入门到实践	7.6	48	
+Python数据分析基础	7.0	38	
+Python语言程序设计	8.3	18	
+Python Essential Reference	8.6	48	
+深度学习入门	9.4	398	
+零基础学Python	7.8	39	
+Django企业开发实战	7.6	39	
+Python从入门到项目实践	0.0	8	
+流利的Python语言 (影印版)	9.8	13	
+The Hitchhiker's Guide to Python	7.8	47	
+Python入门经典	8.2	91	
+Python语言程序设计基础（第2版）	7.4	68	
+学习Python	8.2	129	
+Expert Python Programming	8.3	76	
+Python for Data Analysis	7.8	72	
+Flask Web Development	8.3	109	
+Dive Into Python	8.2	1105	
+从零开始学Python网络爬虫	7.2	39	
+Python语言入门	7.3	242	
+Gray Hat Python	7.7	34	
+Head First Programming	7.7	76	
+学习PYTHON 第三版(英文影印版)	8.6	58	
+Learn Python the Hard Way	8.4	376	
+Python Cookbook	8.3	230	
+Python计算与编程实践	7.0	24	
+Selenium 2自动化测试实战	8.2	87	
+Python 3网络爬虫开发实战	9.0	284	
+NumPy攻略	5.1	36	
+Learning Python	8.2	219	
+Think Python	8.4	232	
+Learn Python The Hard Way, 1st Edition	8.0	268	
+Foundations of Python Network Programming	7.1	30	
+Python	0.0	0	
+Python	0.0	5	
+Python编程（第三版·英文影印版）	8.3	168	
+Python Tutorial	8.7	198	
+Python UNIX和Linux系统管理指南	7.5	175	
+How to Think Like a Computer Scientist: Learning with Python	8.5	139	
+Python基础教程（第2版•修订版）	7.0	172	
+Natural Language Processing with Python	8.3	153	
+Hacking Secret Ciphers with Python	0.0	8	
+Python编程实战	7.6	73	
+Python	0.0	4	
+Python Web开发学习实录	5.7	33	
+Python编程实践	7.1	99	
+Python Tricks	7.5	20	
+Building Machine Learning Systems with Python	8.4	38	
+Core Python Programming	8.0	159	
+Python	0.0	4	
+Head First Python	8.0	240	
+Learning Python, 3rd Edition	8.4	202	
+爱上Python	7.4	31	
+Dive Into Python 3	8.5	183	
+Python Pocket Reference	8.2	18	
+机器学习系统设计	7.5	98	
+Python编程 第4版 影印版 上下册	7.6	17	
+Black Hat Python	0.0	6	
+Python	0.0	2	
+Cython	8.7	26	
+Python 编程金典	8.0	81	
+Maya Python for Games and Film	0.0	6	
+Programming in Python 3	7.2	14	
+Python	0.0	1	
+Programming Python	8.0	76	
+Python Testing: Beginner's Guide	6.7	11	
+High Performance Python	0.0	4	
+Python编程入门（第3版）	7.1	109	
+Python 3程序开发指南	6.4	104	
+Python自然语言处理	7.2	70	
+Learn Python the Hard Way	8.3	127	
+High Performance Python	8.7	46	
+PYTHON技术手册	7.7	133	
+Python	0.0	0	
+Python	0.0	0	
+Python for Finance	8.0	33	
+Data Crunching	0.0	1	
+Python数据分析	5.3	19	
+软件架构	6.8	11	
+Python High Performance Programming	0.0	7	
+Python in a Nutshell, Second Edition	8.4	52	
+Python Web开发：测试驱动方法	7.7	62	
+Python	0.0	3	
+Python	0.0	0	
+Python	0.0	2	
+Text Processing in Python	7.5	33	
+Beginning Python	8.8	49	
+征服Python	6.4	122	
+Python for Unix and Linux System Administration	7.8	57	
+Python for Informatics	8.7	106	
+Rapid GUI Programming with Python and Qt	8.4	65	
+SQLAlchemy	0.0	4	
+Pro Python	8.8	36	
+Python	0.0	1	
+Python	0.0	1	
+Python	0.0	1	
+Python	0.0	1	
+Python	0.0	1	
+Python	0.0	0	
+Practical Programming	7.3	13	
+Python面向对象编程指南	6.7	12	
+Python Algorithms 2nd edition	0.0	5	
+Problem Solving with Algorithms and Data Structures Using Python	9.0	35	
+Learn Python 3 the Hard Way	8.8	65	
+树莓派Python编程指南	7.0	23	
+程序设计导论	8.8	18	
+Python开发实战	6.6	44	
+Pro Android Python with SL4A	8.0	11	
+Python Machine Learning	8.1	59	
+数据科学实战手册	5.6	10	
+Python开发技术详解	6.8	73	
+Python Programming	8.0	28	
+Beginning Python	8.5	42	
+Flask Web开发	8.0	24	
+Python Programming	7.5	17	
+Python数据分析基础教程（第2版）	6.6	69	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+PYTHON	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	0.0	0	
+Python	8.0	32	
+Python	0.0	0	
+Beginning Game Development with Python and Pygame	8.1	28	
+机器学习——Python实践	7.3	16	
+Python网络编程攻略	6.0	45	
+Data Structures and Algorithms Using Python	7.1	49	
+算法图解	8.4	1430	
+精通Python设计模式	5.8	34	
+Python核心编程	7.4	43	
+Python高手之路 第3版	7.9	22	
+Python数据可视化编程实战	7.2	32	
+The Quick Python Book, Second Edition	7.7	55	
+Python数据结构与算法分析（第2版）	0.0	5	
+Test-Driven Development with Python	8.6	28	
+Invent Your Own Computer Games With Python	8.5	26	
+The Python Standard Library by Example	7.9	28	
+Programming in Python 3	0.0	4	
+Python机器学习实践指南	7.0	30	
+Introduction to Computation and Programming Using Python	8.5	34	
+Python技术手册(第2版)	6.9	26	
+Programming Python	8.0	26	
+Rapid Web Applications with TurboGears	0.0	6	
+Python性能分析与优化	7.5	18	
+Programming the Raspberry Pi	0.0	3	
+NLTK基础教程(用NLTK和Python库构建机器学习应用)	7.1	14	
+Learning Python, 4th Edition, Ebook	8.1	38	
+The Python 3 Standard Library by Example	0.0	4	
+量化投资：以Python为工具	6.7	38	
+跟老齐学Python	7.1	75	
+Python在Unix和Linux系统管理中的应用	7.3	20	
+Python技术参考大全	7.0	24	
+Think Python	8.6	32	
+数据科学导论	6.1	17	
+Python编程第4版	7.9	28	
+Learning scikit-learn: Machine Learning in Python	7.3	19	
+学习Python——做个有编程能力的设计师	6.9	15	
+机器学习实战	8.1	1086	
+Violent Python	6.0	14	
+MongoDB and Python	6.9	34	
+Beginning Python	0.0	3	
+Python for Kids	8.3	32	
+Python Text Processing with NLTK 2.0 Cookbook	7.4	11	
+Introducing Data Science	0.0	7	
+Programming Computer Vision with Python	8.7	21	
+Dive Into Python 3	8.9	29	
+学习Python(第5版)(影印版)	0.0	8	
+Python 3 Object Oriented Programming	8.5	18	
+计算机科学导论	7.5	11	
+Maya Python游戏与影视编程指南	0.0	4	
+Learning Python, 5th Edition	8.5	15	
+Core Python Applications Programming	8.0	14	
+Raspberry Pi Python编程入门	6.6	13	
+CherryPy Essentials	0.0	6	
+Python科学计算(第2版)	8.4	40	
+Mastering Python High Performance	0.0	5	
+Python for Finance	5.8	10	
+Python大战机器学习	5.5	23	
+Python Web Development with Django	7.4	17	
+Python for UNIX and Linux System Administration	0.0	0	
+Introduction to Computation and Programming Using Python	8.4	16	
+python 3标准库	0.0	9	
+Learn More Python 3 the Hard Way	0.0	3	
+Python Standard Library	7.6	23	
+Beginning Python Visualization	7.2	12	
+Python Programming on WIN32	0.0	8	
+Introducing Python	7.9	36	
+面向ArcGIS的Python脚本编程	8.8	22	
+Python数据分析实战	7.5	37	
+ArcPy and ArcGIS	0.0	1	
+Python Testing Cookbook	0.0	9	
+Python与Tkinter编程	5.6	15	
+Matplotlib for Python Developers	7.5	23	
+Python for Software Design	8.0	23	
+Learning Robotics using Python	0.0	3	
+Powerful Python	0.0	1	
+Practical Programming	0.0	7	
+Python高效开发实战	5.5	51	
+深入理解Python特性	8.5	17	
+Python数据科学入门	5.8	12	
+Invent Your Own Computer Games With Python	0.0	9	
+预测分析建模	0.0	5	
+An Introduction to Python	0.0	2	
+Diaries 1969-1979	0.0	3	
+Python数据可视化	0.0	9	
+The Hacker's Guide to Python	0.0	9	
+Python游戏编程入门	5.1	17	
+Learning OpenCV 3 Computer Vision with Python - Second Edition	0.0	6	
+程序设计导论	0.0	3	
+The Definitive Guide to Jython	0.0	5	
+Making Music with Computers	0.0	1	
+Statistics, Data Mining, and Machine Learning in Astronomy	0.0	4	
+Python Playground	0.0	2	
+Python in Practice	7.0	15	
+Python语言在Abaqus中的应用	8.9	22	
+Real World Instrumentation with Python	7.9	10	
+Python参考手册 第4版 修订版	8.0	10	
+Python for Everybody	9.3	40	
+Data Structures and Algorithms	0.0	2	
+PYTHON 2.6 and C or C++	0.0	1	
+Python密码学编程	8.9	15	
+Python测试驱动开发	0.0	6	
+Python项目开发实战（第2版）	6.7	15	
+Python 2.1宝典	7.6	13	
+Think Python	9.0	53	
+Financial Modelling in Python	0.0	6	
+Making Games with Python & Pygame	8.6	15	
+Python游戏编程快速上手	7.4	10	
+Python Data Visualization Cookbook	0.0	9	
+Python金融实战	0.0	9	
+疯狂Python讲义	7.3	19	
+Think DSP	0.0	2	
+Python网络爬虫权威指南（第2版）	0.0	9	
+Game Programming with Python, Lua, and Ruby (Game Development)	0.0	6	
+Bioinformatics Programming Using Python	0.0	9	
+Python数据分析与数据化运营	7.1	32	
+Python & XML	0.0	2	
+OpenCV Computer Vision with Python	6.6	12	
+基于Python的金融分析与风险管理	0.0	4	
+Python Cookbook	8.5	15	
+Python编程无师自通	7.6	51	
+Python编程基础	0.0	9	
+Dive Into Python	7.5	17	
+Learn Python in One Day and Learn It Well	0.0	6	
+Mastering Python Regular Expressions	7.6	18	
+对比Excel，轻松学习Python数据分析	7.6	61	
+Clean Code in Python	0.0	0	
+Python贝叶斯分析	0.0	7	
+Foundations of Agile Python Development	0.0	8	
+Test- Driven Python Development	0.0	3	
+Program Arcade Games	0.0	0	
+Data Visualization with Python and JavaScript	0.0	5	
+Python in a Nutshell	7.7	10	
+Python和Pygame游戏开发指南	7.7	12	
+Python项目开发实战	0.0	5	
+跟老齐学Python：Django实战	7.4	14	
+Python程序员指南	6.2	12	
+Pro Python System Administration	0.0	4	
+XML与Perl、Python和PHP编程指南	0.0	6	
+Python袖珍指南	5.8	13	
+Machine Learning in Python	0.0	3	
+Numerical Python: A Practical Techniques Approach for Industry	9.1	11	
+Python 2.6 Graphics Cookbook	0.0	1	
+Learning PySpark	6.9	12	
+Effective Python	0.0	9	
+Effective Python 中文版	0.0	2	
+Elegant SciPy	0.0	5	
+Data Science and Complex Networks	0.0	1	
+Python数据分析与数据化运营（第2版）	0.0	6	
+Foundations of Python Network Programming	7.6	10	
+Expert Python Programming - Second Edition	9.5	12	
+Mastering Python	0.0	2	
+深入浅出深度学习：原理剖析与Python实践	6.6	11	
+Introduction to Python Programming and Developing GUI Applications with PyQT	0.0	7	
+Python经典实例	0.0	3	
+Python爬虫开发 从入门到实战（微课版）	8.0	14	
+Thoughtful Machine Learning with Python	0.0	4	
+Python自然语言处理实战	6.3	34	
+Python Scripting for Computational Science	0.0	7	
+Building probabilistic graphical models with Python	0.0	2	
+Python与机器学习实战	7.5	16	
+Keras快速上手：基于Python的深度学习实战	4.6	38	
+深入学习：Python程序开发	0.0	8	
+Python Programming for the Absolute Beginner, 3rd Edition	7.5	10	
+Python数据科学与机器学习	0.0	3	
+Treading on Python Volume 2	0.0	1	
+Foundations of Data Science	0.0	2	
+Data Science from Scratch	0.0	3	
+Python and AWS Cookbook	0.0	7	
+Python Web Programming	0.0	1	
+Python Geospatial Development	0.0	6	
+Python数据处理	6.8	23	
+与孩子一起学编程	8.5	386	
+易学Python	7.2	15	
+Python统计分析	0.0	8	
+Expert Python Programming 3rd Edition	0.0	2	
+数据结构 Python语言描述	5.8	26	
+Web Scraping with Python	7.8	12	
+Python Network Programming Cookbook	0.0	6	
+Derivatives Analytics with Python	0.0	3	
+用Python学编程	7.5	10	
+Python游戏编程快速上手 第4版	0.0	9	
+Python程序设计开发宝典	0.0	4	
+Python硬件编程实战	4.8	15	
+Introduction to Numerical Programming	0.0	0	
+Learn to Program with Minecraft	0.0	2	
+Mastering Machine Learning with Python in Six Steps	0.0	2	
+机器学习系统设计	0.0	2	
+Using Asyncio in Python	0.0	0	
+机器学习系统设计：python语言实现	7.3	12	
+Python数字信号处理应用	0.0	8	
+Data Wrangling With Python	0.0	9	
+Python 2.6 Text Processing	0.0	7	
+计算机编程导论—Python程序设计	0.0	8	
+Python数据挖掘	6.3	12	
+趣学Python	8.2	10	
+MySQL for Python	0.0	7	
+Building Machine Learning Systems with Python - Second Edition	0.0	9	
+Python语言程序设计	7.5	31	
+Regular Expression Pocket Reference	7.6	11	
+Python Programming Language, including	0.0	0	
+Python数据科学实践指南	0.0	6	
+Python 语言构建机器学习系统 第2版（影印版）	0.0	1	
+21天学通Python	7.8	11	
+python入门经典	7.2	17	
+Python核心编程 第3版 英文版	7.8	10	
+高性能Python	0.0	2	
+Professional Python Frameworks	0.0	3	
+Python Qt GUI快速编程	0.0	6	
+Python程序员面试算法宝典	7.9	39	
+Python 3 And C Or C++	0.0	0	
+Modeling Creativity	0.0	1	
+Marketing Data Science	0.0	0	
+从问题到程序-用Python学编程和计算	0.0	2	
+Secret Recipes for the Python Ninja	0.0	0	
+Python For Dummies (For Dummies (Computer/Tech))	0.0	3	
+Python and HDF5	0.0	7	
+Functional Python Programming	0.0	8	
+Web Programming in Python	0.0	2	
+Game Programming With Python (Game Development Series)	0.0	1	
+Spark for Python Developers	0.0	7	
+Python机器学习经典实例	6.1	12	
+Python地理空间分析指南	7.6	11	
+Doing Math with Python	0.0	7	
+Math Adventures with Python	0.0	1	
+Python 3 技術手冊	0.0	1	
+Python 3学习笔记（上卷）	8.9	38	
+python 程序设计	6.8	21	
+Mastering Python for Finance	0.0	3	
+Python for Bioinformatics (Chapman & Hall/Crc Mathematical & Computational Biology)	0.0	4	
+Python宝典	6.7	12	
+精通Python自然语言处理	4.8	12	
+Essential Python for Corpus Linguistics	0.0	1	
+Testing Python	0.0	5	
+Parallel Programming with Python	0.0	4	
+Python Pocket Reference	0.0	8	
+Writing Idiomatic Python 2.7.3	0.0	8	
+A Primer on Scientific Programming with Python	0.0	4	
+Learning Python, Second Edition	0.0	9	
+Hello! Python	7.3	12	
+Python Web Penetration Testing Cookbook	0.0	0	
+Explorations in Computing	0.0	1	
+Python for Secret Agents - Second Edition	0.0	0	
+Programming Google App Engine with Python	0.0	1	
+Pandas for Everyone	0.0	2	
+PySpark实战指南	6.8	24	
+Programming and Mathematical Thinking	0.0	0	
+Hands-On Enterprise Automation with Python.	0.0	1	
+图解数据结构--使用Python	0.0	4	
+Learning Python Design Patterns	0.0	7	
+Mastering Python Design Patterns	0.0	6	
+Python Programming Patterns	0.0	0	
+A Primer on Scientific Programming with Python	0.0	1	
+Practical Python	0.0	2	
+Programming Python, Second Edition with CD	0.0	8	
+Python Scripting for ArcGIS	0.0	7	
+零基础学python图文版	7.4	20	
+Python Data Analysis	0.0	6	
+Python 编程指南	0.0	6	
+Python Parallel Programming Cookbook	8.2	14	
+Beginning Python	7.8	15	
+The Practice of Computing Using Python	0.0	7	
+Python数据科学指南	0.0	8	
+Python: 统计人的视角	7.4	10	
+自学是门手艺	8.8	111	
+Python新手使用Django架站的16堂课	6.4	17	
+Python科学计算基础教程	6.3	10	
+Software Architecture with Python	0.0	2	
+Starting Out with Python	7.8	11	
+FreeCAD	0.0	0	
+Python Unit Test Automation	0.0	1	
+Discovering Computer Science	0.0	0	
+Practical Web Scraping for Data Science	0.0	2	
+Django Design Patterns and Best Practices - Second Edition	0.0	1	
+学习编程第一步	0.0	1	
+Flask Web Development	0.0	7	
+Hands-On Data Analysis with NumPy and pandas	0.0	0	
+圖說演算法	0.0	1	
+Make Your Own Mandelbrot	0.0	1	
+Advanced Python Programming	0.0	0	
+Practical Programming	0.0	1	
+Mobile Python	0.0	2	
+Python Programming for the Absolute Beginner (Absolute Beginner)	0.0	3	
+Python and Tkinter Programming	0.0	5	
+Introduction to Computing Using Python	0.0	7	
+Python Machine Learning Blueprints	0.0	3	
+Introduction to Programming in Python	0.0	6	
+Introduction to Computing and Programming in Python, A Multimedia Approach (2nd Edition)	0.0	1	
+Python Scripting for Computational Science	0.0	2	
+Building Python Real-Time Applications with Storm	0.0	1	
+Foundations of Python Network Programming	0.0	5	
+Python地理数据处理	0.0	1	
+Hands-On Machine Learning with Scikit-Learn and TensorFlow	9.3	374	
+机器人Python极客编程入门与实战	0.0	5	
+Python程序设计（第3版）	7.1	16	
+Introduction to Computation and Programming Using Python	0.0	8	
+Data Structure and Algorithmic Thinking with Python	0.0	1	
+Python Data Science Essentials	0.0	2	
+Distributed Computing with Python	0.0	5	
+Python Pocket Reference	0.0	2	
+Understanding Network Hacks: Attack and Defense with Python	0.0	2	
+Learning Python	0.0	9	
+Mastering Object-Oriented Python	0.0	3	
+ArcGIS下的Python编程	0.0	1	
+Python Essential Reference (3rd Edition) (Developer's Library)	0.0	2	
+Python 3 for Absolute Beginners	0.0	2	
+Python高级编程	4.6	11	
+Python数据抓取技术与实战	5.3	10	
+Learning Data Mining with Python	0.0	5	
+Python 3 Web Development Beginner's Guide	0.0	2	
+Python Programming Fundamentals	0.0	7	
+你也能看得懂的Python算法书	6.5	23	
+The Practice of Computing using Python	0.0	6	
+Modeling Techniques in Predictive Analytics with Python and R	0.0	0	
+Mastering Probabilistic Graphical Models using Python	0.0	0	
+Python设计模式	0.0	7	
+Python 3 Text Processing with NLTK 3 Cookbook	0.0	4	
+Python for Probability, Statistics, and Machine Learning	0.0	2	
+Python For Bioinformatics	0.0	1	
+玩转Python网络爬虫	0.0	4	
+Pandas Cookbook	8.5	14	
+Python for Scientists	0.0	0	
+Python Crash Course, 2nd Edition	9.2	11	
+An Introduction to Statistics with Python	0.0	4	
+Programming ArcGIS 10.1 with Python Cookbook	0.0	3	
+Python Cookbook	0.0	2	
+Pro Python	0.0	3	
+Python全栈数据工程师养成攻略(视频讲解版)	0.0	7	
+Beginning Python (Programmer to Programmer)	0.0	2	
+Introduction to Programming Using Python	0.0	6	
+Next-Generation Web Frameworks in Python	0.0	1	
+Exploring Python	0.0	6	
+算法与程序设计基础（Python版）	0.0	4	
+Python和HDF 5大数据应用	7.1	10	
+Learning Selenium Testing Tools with Python	0.0	3	
+Python Requests Essentials	0.0	7	
+Writing Idiomatic Python 3.3	0.0	7	
+Python机器学习算法	6.6	14	
+语料库与python应用	0.0	3	
+Introduction to Computer Science Using Python	0.0	2	
+The Python Language Reference Manual	0.0	2	
+Python Data Science Cookbook	0.0	3	
+Python Geospatial Development - Second Edition	0.0	3	
+Python for Secret Agents	0.0	1	
+Deep Learning with Python	0.0	3	
+Data Structures and Algorithms with Python	0.0	2	
+Fundamentals of Python	0.0	3	
+Python设计模式（第2版）	6.2	15	
+Python Power!	0.0	2	
+Internet Programming with Python	0.0	0	
+Numerical Methods in Engineering with Python	0.0	3	
+Python 2.1 Bible	0.0	2	
+Monty Python's Spamalot	0.0	1	
+Python Programming In Context	0.0	5	
+The Complete Ball Python	0.0	0	
+Porting to Python 3	0.0	2	
+Annotated Algorithms in Python	0.0	1	
+Text Analytics with Python	0.0	4	
+Learning Geospatial Analysis with Python	0.0	1	
+Foundations for Analytics with Python	0.0	4	
+Geoprocessing with Python	0.0	0	
+Advanced Machine Learning with Python	0.0	0	
+Python for Everyone	0.0	3	
+Python 3程序开发指南	0.0	3	
+Python机器学习实践	0.0	4	
+Data Science Essentials in Python	0.0	5	
+Python Scripting for Computational Science	0.0	0	
+Exploring Python	0.0	1	
+Pyomo - Optimization Modeling in Python	0.0	1	
+Python可以这样学	0.0	7	
+Large Scale Machine Learning with Python	0.0	4	
+Python Data Visualization Cookbook - Second Edition	0.0	0	
+Mastering Natural Language Processing with Python	0.0	0	
+Designing Machine Learning Systems with Python	0.0	1	
+Python 3 Object-Oriented Programming - Second Edition	0.0	6	
+Learning Python Network Programming	0.0	3	
+ABAQUS Python二次开发攻略	0.0	5	
+Head First Python	0.0	8	
+Practical Maya Programming with Python	0.0	2	
+Applied Text Analysis with Python	0.0	3	
+Sams Teach Yourself Python in 24 Hours (Teach Yourself -- 24 Hours)	0.0	0	
+Pro Python Data Wrangling	0.0	0	
+Pro Python System Administration	0.0	2	
+Études for Python	0.0	0	
+卷积神经网络的Python实现	0.0	4	
+Python/C Api Manual - Python 3	0.0	0	
+PYTHON和QT快速GUI编程	0.0	0	
+A Primer on Scientific Programming with Python	0.0	2	
+Modern Python Cookbook	0.0	5	
+Python与数据科学	0.0	3	
+Managing Your Biological Data with Python	0.0	2	
+Raspberry Pi机器人制作实例:用Python、Linux和传感器搭建智能小车	0.0	2	
+How to Make Mistakes in Python	0.0	4	
+零起点Python足彩大数据与机器学习实盘分析	0.0	4	
+Advanced Python for Biologists	0.0	1	
+Python程序设计基础(第2版计算机系列教材)	0.0	0	
+精通Python 3程式設計 (第二版)	0.0	1	
+Bioinformatics Programming in Python	0.0	0	
+Python How to Program, 1/e	0.0	2	
+The Quick Python Book	0.0	3	
+Think Python	0.0	5	
+Python Scripts for Abaqus	0.0	2	
+Python for Signal Processing	0.0	0	
+Head First Python	0.0	8	
+Python for Biologists	0.0	5	
+Building RESTful Python Web Services	0.0	4	
+树莓派Python编程入门与实战	0.0	6	
+Python Machine Learning Cookbook	0.0	1	
+Professional Python	0.0	2	
+Python Unlocked	0.0	2	
+A collection of Advanced Data Science and Machine Learning Interview Questions Solved in Python and Spark	0.0	3	
+Python for Data Visualization	0.0	0	
+Learning Python Design Patterns - Second Edition	0.0	4	
+A Student's Guide to Python for Physical Modeling	0.0	6	
+Modular Programming with Python	0.0	5	
+Machine Learning with Python Cookbook	0.0	2	
+Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习	0.0	4	
+Python 3	0.0	0	
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition	9.9	36	
+Core Python Programming (Prentice Hall Ptr Core Series)	0.0	0	
+Learning with PYTHON	0.0	1	
+Mastering Data Mining with Python	0.0	0	
+Python Data Analytics	0.0	3	
+Spring Python 1.1	0.0	2	
+Numerical Methods in Engineering with Python	0.0	0	
+More Python Programming for the Absolute Beginner	0.0	1	
+零基础学Python（全彩版）	0.0	3	
+Learn to Program Using Python	0.0	0	
+Flask Web开发实战	9.0	117	
+Python入门（影印版 英文版）	0.0	6	
+Python 并行编程手册	0.0	8	
+Perl To Python Migration	0.0	2	
+Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications (Undergraduate Topics in Computer Science)	0.0	3	
+Bayesian Analysis with Python	0.0	2	
+OpenCV with Python Blueprints	0.0	0	
+Mastering Social Media Mining with Python	0.0	0	
+Mastering Python Data Analysis	0.0	0	
+Mastering Python for Data Science	0.0	3	
+Python GUI Programming Cookbook	0.0	4	
+Learn Python Visually	0.0	1	
+Making Use of Python	0.0	1	
+Gui Programming With Python	0.0	0	
+Object-Oriented Programming in Python	0.0	1	
+Python Microservices Development	0.0	4	
+Learning Python	0.0	5	
+Learning Geospatial Analysis with Python - Second Edition	0.0	1	
+基于Python的大数据分析基础及实战	6.5	12	
+从零开始学Python数据分析	7.5	13	
+青少年学Python	0.0	0	
+Python轻松学:爬虫、游戏与架站	0.0	1	
+Python带我起飞	0.0	8	
+Designer-Morphs, Volume One	0.0	2	
+Beginning GeoDjango	0.0	1	
+Natural Language Processing with TensorFlow	0.0	3	
+精通Python爬虫框架Scrapy	6.2	34	
+Python Swallowed Whole Core Developers Define Python	0.0	0	
+Python应用开发实践	0.0	5	
+Python快乐编程基础入门	0.0	7	
+A Smarter Way to Learn Python	0.0	1	
+Starting Out with Python (Starting Out With...)	0.0	1	
+Python for Software Design	0.0	0	
+Guide to Programming with Python	0.0	2	
+MongoDB and Python	0.0	1	
+Python on Symbian	0.0	2	
+A Concise Introduction to Programming in Python	0.0	1	
+The Python Quick Syntax Reference	0.0	2	
+A Whirlwind Tour of Python	0.0	8	
+Building Web Applications with Python and Neo4j	0.0	1	
+Learning Scientific Programming with Python	0.0	0	
+Python Game Programming by Example	0.0	0	
+Learning Python Testing	0.0	0	
+Mathematics and Python Programming	0.0	0	
+Learning Predictive Analytics with Python	0.0	1	
+Python GeoSpatial Analysis Essentials	0.0	0	
+Regression Analysis with Python	0.0	0	
+Python Programming In Context	0.0	0	
+Python Deep Learning	0.0	2	
+Python Penetration Testing Essentials	0.0	1	
+A Functional Start to Computing with Python	0.0	1	
+Starting Out with Python (3rd Edition)	0.0	4	
+Python Programming Blueprints	0.0	0	
+Learning Python with Raspberry Pi	0.0	1	
+Numerical Methods in Engineering with Python 3	0.0	2	
+Beginning Python Games Development, Second Edition	0.0	0	
+Python 3破冰人工智能 从入门到实战	0.0	4	
+Python人脸识别：从入门到工程实践	0.0	2	
+Python项目开发案例集锦（全彩版）	0.0	2	
+Python数据科学入门	0.0	3	
+Practices of the Python Pro	0.0	1	
+Teach Your Kids to Code	0.0	4	
+The Complete Python Training Course	0.0	0	
+Python Essential Reference	0.0	0	
+Introduction to Python	0.0	2	
+Python for Graph and Network Analysis (Advanced Information and Knowledge Processing)	0.0	0	
+A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences	0.0	0	
+Comparison Between Python and Lua in Gaming Industry	0.0	0	
+Python Data Analysis Cookbook	0.0	2	
+Python Hacking Essentials	0.0	0	
+Mastering Python Forensics	0.0	1	
+Python Projects for Kids	0.0	1	
+Python for Google App Engine	0.0	0	
+Python Business Intelligence Cookbook	0.0	0	
+Python For ArcGIS	0.0	0	
+Python Projects	0.0	3	
+Computer Vision with Python 3	0.0	1	
+Python Natural Language Processing	0.0	1	
+A Python Primer for ArcGIS®	0.0	0	
+GIS Tutorial for Python Scripting	0.0	0	
+从芯片到云端：Python物联网全栈开发实践	0.0	6	
+Python 3.5从零开始学	7.4	25	
+Python机器学习(影印版)(英文版)	0.0	2	
+Python for Experimental Psychologists	0.0	0	
+Python微服务开发	0.0	1	
+实战Python网络爬虫	0.0	3	
+Python3.0 科学计算指南	0.0	1	
+Python 新手学Django 2.0架站的16堂课（第2版）	0.0	3	
+Python金融编程：快速入门与项目实操	0.0	1	
+The Pythons	0.0	6	
+Web Standards Programmer's Reference	0.0	3	
+贝叶斯方法	8.5	55	
+The Guide to Owning a Ball Python	0.0	0	
+Fundamentals of Python	0.0	0	
+Python UNIX 和Linux 系统管理指南	0.0	0	
+Stackless Python	0.0	0	
+Python Text Processing with NLTK 2.0 Cookbook	0.0	0	
+Python Multimedia Beginner's Guide	0.0	1	
+Think Python	0.0	1	
+Python Data Analysis - Second Edition	0.0	0	
+Python Recipes Handbook	0.0	1	
+Python Recipes	0.0	0	
+Learn to Program with Python	0.0	0	
+Python 3 - Intensivkurs	0.0	0	
+Pythonチュートリアル	0.0	1	
+White Python	0.0	0	
+An Introduction to Python	0.0	1	
+Learning Python	0.0	0	
+Data Science and Analytics with Python	0.0	0	
+Python Web Scraping - Second Edition	0.0	0	
+Python程序设计与算法基础教程	0.0	3	
+Daniel Arbuckle's Mastering Python	0.0	1	
+Python Machine Learning Case Studies	0.0	2	
+Deep Learning for Business with Python	0.0	0	
+工业和信息化"十三五"人才培养规划教材:Python 3基础教程	0.0	1	
+Cloud Native Python	0.0	2	
+Digital Signal Processing  with Python Programming	0.0	0	
+Python: Real World Machine Learning	0.0	1	
+Python Testing with pytest	0.0	7	
+Data Science Fundamentals for Python and MongoDB	0.0	0	
+Python and Matplotlib Essentials for Scientists and Engineers (Iop Concise Physics)	0.0	1	
+利用Python开源工具分析恶意代码	0.0	4	
+Python Interviews	0.0	1	
+Python Artificial Intelligence Projects	0.0	0	
+Functional Python Programming - Second Edition	0.0	0	
+Serious Python	0.0	9	
+Frank Kane's Taming Big Data with Apache Spark and Python	0.0	1	
+Python机器学习入门(影印版)(英文版)	0.0	1	
+python程序设计与实践	0.0	1	
+Python编程从入门到精通	0.0	6	
+Python编程：从数据分析到数据科学	0.0	1	
+Building Serverless Applications with Python	0.0	0	
+pytest测试实战	9.8	10	
+Qt5 Python GUI Programming Cookbook	0.0	2	
+Hands-On Enterprise Application Development with Python	0.0	0	
+Python Data Mining Quick Start Guide	0.0	1	
+Python自动化开发实战	0.0	3	
+Python语言程序设计	0.0	0	
+Python编程锦囊（全彩版）	0.0	1	
+Introducing Python 2nd Edition	0.0	1	
+PowerShell and Python Together	0.0	1	
+Python 3 程序设计	0.0	2	
+Python数据挖掘方法及应用	0.0	0	
+从零开始学Python 第2版	0.0	0	
+Python程序设计基础教程（慕课版）	0.0	1	
+Python基础实例教程（微课版）	0.0	1	
+Python编程基础	0.0	1	
+Python Programming in Context 3rd Edition	0.0	0	
+Python Regular Expressions	0.0	0	
+Learning IPython for Interactive Computing and Data Visualization - Second Edition	0.0	2	
+Natural Language Processing in Action	0.0	4	
+机器学习即服务：将Python机器学习创意快速转变为云端Web应用程序	9.3	10	
+Pythonidae by Common Name	0.0	0	
+Pythonidae	0.0	0	
+Illustrated Guide to Python 3	0.0	0	
+深度学习与图像识别：原理与实践	8.9	33	
+OpenCV with Python By Example	0.0	2	
+Python程序设计基础	0.0	2	
+Deep Learning from Scratch	0.0	0	
+机器学习线性代数基础	0.0	0	
+Python访谈录	0.0	1	
+Machine Learning in Action	8.5	191	
+ゼロから作るDeep Learning	0.0	5	
+Methods in Medical Informatics	0.0	1	
+Python深度学习	7.0	14	
+Python数据科学	7.8	34	
+Python 3反爬虫原理与绕过实战	0.0	0	
+Biota of Brunei	0.0	0	
+ArcPy and ArcGIS - Second Edition	0.0	0	
+The Python Apprentice	0.0	0	
+How to Code 2.0	0.0	0	
+Python Libraries	0.0	0	
+Internet of Things with Python	0.0	0	
+Computational Physics(3rd.ed)	0.0	2	
+Kivy: Interactive Applications in Python - Second Edition	0.0	1	
+NumPy Cookbook - Second Edition	0.0	0	
+Learn Web Scraping With Python In A Day	0.0	0	
+Jesus and Brian	0.0	0	
+Scientific Computation	0.0	1	
+Advanced Apple Debugging & Reverse Engineering	0.0	4	
+Markov Models	0.0	0	
+Statistics for Machine Learning	0.0	3	
+Good Habits for Great Coding	0.0	0	
+深度实践OpenStack:基于Python的OpenStack组件开发	0.0	2	
+Practical Docker with Python	0.0	2	
+Clean Python	0.0	4	
+Python: Advanced Guide to Artificial Intelligence	0.0	0	
+Statistics, Data Mining, and Machine Learning in Astronomy	0.0	0	
+多元统计分析	0.0	0	
+Practical Deep Learning for Cloud and Mobile	0.0	0	
+Python与有限元	0.0	0	
+PySpark in Action	0.0	0	
+Python深度学习：基于PyTorch	9.0	15	
+Diaries 1969-1979	0.0	2	
+Introduction to Media Computation	0.0	0	
+Scripting With Objects	0.0	0	
+Computational Modeling and Complexity Science	0.0	0	
+Learn Python	0.0	0	
+OpenCV	0.0	0	
+Pandas for Everyone	0.0	2	
+Learning Python for Forensics	0.0	0	
+Guide To	0.0	0	
+Treading on Python Volume 1	0.0	1	
+Jesus and Brian	0.0	0	
+Learning Penetration Testing with Python	0.0	0	
+Python Geospatial Analysis Cookbook	0.0	1	
+Hello Raspberry Pi!	0.0	0	
+PYTHON 2.6	0.0	1	
+Sandman Mystery Theatre	0.0	1	
+Beginning Django	0.0	1	
+Markov Models	0.0	0	
+Terry Jones's War on the War on Terror	0.0	0	
+Reinforcement Learning	0.0	4	
+Python 3 物件導向程式設計(第二版)	0.0	1	
+Python for Bioinformatics, Second Edition (Chapman & Hall/CRC Mathematical and Computational Biology)	0.0	1	
+MicroPython for the Internet of Things	0.0	0	
+机器学习	0.0	0	
+Hands-On Machine Learning for Algorithmic Trading	0.0	1	
+TensorFlow機械学習クックブック	0.0	0	
+pytest Quick Start Guide	0.0	0	
+Deep Learning	0.0	2	
+Learning the Pandas Library	0.0	2	
+Equilibrium Statistical Physics	0.0	0	
+Deep Learning with TensorFlow - Second Edition	0.0	0	
+Pythonで学び直す高校数学	0.0	2	
+Monty Python's Flying Circus	0.0	1	
+Python真好玩：教孩子学编程	0.0	1	
+機械学習のための特徴量エンジニアリング	0.0	1	
+Trading Evolved	0.0	1	
+Matplotlib 3.0 Cookbook	0.0	0	
+Python for Data Analytics	0.0	0	
+Practical Statistics for Data Scientists, 2nd Edition	0.0	0	
+Essential Natural Language Processing	0.0	0	
+大数据数学基础	0.0	0	
+Effective Python: Second Edition	0.0	0	
+Effective Python: 2nd Edition	0.0	1	
+Probabilistic Deep Learning	0.0	0	
+Python Qt GUI与数据可视化编程	0.0	1	
+精通数据科学：从线性回归到深度学习	7.1	98	
+Pro Deep Learning with TensorFlow	0.0	1	
+Computer Science	0.0	0	
+Captain Hazzard	0.0	0	
+Diaries 1969-1979	0.0	0	
+Using Python 3	0.0	0	
+Dynamically-Typed Programming Languages	0.0	0	
+Boidae	0.0	0	
+Arthurian Film and Television	0.0	0	
+Class-Based Programming Languages	0.0	0	
+Object-Oriented Programming Languages	0.0	0	
+Revolvers	0.0	0	
+Fauna of Ghana	0.0	0	
+Data science	0.0	0	
+Make a Raspberry Pi-Controlled Robot	0.0	0	
+Complete Guide For Python Programming	0.0	0	
+Python Programming for Beginners	0.0	1	
+Nobody Expects the Spanish Inquisition	0.0	0	
+Scripting with Objects	0.0	0	
+Introduction To Python 3	0.0	0	
+Flask	0.0	0	
+Python Made Simple	0.0	0	
+Programming the Intel Edison	0.0	0	
+OpenCV 3 Computer Vision with Python Cookbook	0.0	0	
+Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS	0.0	0	
+Statistical Application Development with R and Python - Second Edition: Develop applications using data processing, statistical models, and CART	0.0	0	
+Tkinter GUI Application Development Cookbook	0.0	0	
+Make: Getting Started with Processing.py	0.0	1	
+Python for R Users: A Data Science Approach	0.0	0	
+Practical Network Automation	0.0	0	
+Python 测试之道	0.0	7	
+人工智能入门与实战	0.0	2	
+Python:The Ultimate Beginners Guide to Learn and Understand Python Programming (Volume 1)	0.0	0	
+营销数据科学	0.0	1	
+图解算法	0.0	0	
+Modern Python Standard Library Cookbook	0.0	1	
+Advanced Apple Debugging & Reverse Engineering	0.0	2	
+面向自然语言处理的深度学习	0.0	3	
+Python Fundamentals	0.0	0	
+Building Django 2.0 Web Applications	0.0	0	
+Block Trace Analysis and Storage System Optimization	0.0	0	
+Learn Keras for Deep Neural Networks	0.0	2	
+数据科学实战之网络爬取	0.0	2	
+Practical Time Series Analysis	0.0	2	
+SABR and SABR LIBOR Market Models in Practice	0.0	0	
+Listed Volatility and Variance Derivatives	0.0	1	
+Introduction to Computing and Programming in Python (4th Edition)	0.0	0	
+Expert Twisted	0.0	0	
+Pro Machine Learning Algorithms	0.0	0	
+Python Testing Cookbook.	0.0	0	
+Learn Python Programming	0.0	0	
+Deep Learning for Natural Language Processing	0.0	2	
+Spark数据分析:基于Python语言(英文版）	0.0	1	
+Hands-On Convolutional Neural Networks with TensorFlow	0.0	1	
+Mastering Machine Learning on AWS	0.0	0	
+Programming ArcGIS Pro with Python	0.0	1	
+实用卷积神经网络:运用Python实现高级深度学习模型	0.0	1	
+Python: Beginner's Guide to Artificial Intelligence	0.0	0	
+Hands-On Automated Machine Learning	0.0	2	
+Python网络爬虫从入门到精通/Python开发从入门到精通系列	0.0	3	
+Machine Learning Pocket Reference	0.0	0	
+Mastering Large Datasets	0.0	0	
+類神經網路實戰	0.0	0	
+はじめてのディープラーニング	0.0	0	
+Django for beginners	0.0	1	
+Big Data Processing with Apache Spark	0.0	1	
+Mastering Geospatial Development with QGIS 3.x Third Edition	0.0	0	
+Django 2 Web Development Cookbook	0.0	0	
+Monetizing Machine Learning	0.0	2	
+Python Programming	0.0	0	
+Mastering Python Networking	0.0	0	
+Hands-On Blockchain for Python Developers	0.0	1	
+网络数据采集技术：Java网络爬虫实战	0.0	1	
+Flask.Framework.Cookbook.2nd.Edition	0.0	0	
+Building.REST.APIs.with.Flask	0.0	0	
+Foundations of Deep Reinforcement Learning	0.0	0	
+国家软件与集成电路公共服务平台信息技术紧缺人才培养工程指定教材:Python程序开发案例教程	0.0	0	
+Python数据可视化：基于Bokeh的可视化绘图	9.8	12	
+Spark机器学习	7.5	82	
+集体智慧编程	8.7	85	
+零起点Python机器学习快速入门	0.0	8	
+The Complete Monty Python's Flying Circus	0.0	3	
+python生物信息数据管理	0.0	9	
+机器学习与优化	8.5	15	
+The Monty Python's Flying Circus: Complete and Annotated...All the Bits	0.0	3	
+统计思维	8.2	17	
+Functional Programming in Python	0.0	6	
+Complex Network Analysis in Python	0.0	3	
+Python自然语言处理	0.0	8	
+Monty Python and Philosophy	0.0	1	
+Monty Python Speaks	0.0	3	
+Python深度学习实战(75个有关神经网络建模强化学习与迁移学习的解决方案)/深度学习系	0.0	2	
+Python 树莓派编程	0.0	5	
+The Pythons' Autobiography By The Pythons	0.0	2	
+Fundamentals of Python	0.0	5	
+Monty Python's Big Red Book	0.0	1	
+数据科学入门	7.1	62	
+Monty Python's Flying Circus	0.0	0	
+A Python Primer for ArcGIS®	0.0	0	
+Everything I Ever Needed to Know About _____* I Learned from Monty Python: *History, Art, Poetry, Communism, Philosophy, the Media, Birth, Death, ... Mythology, Fish Slapping, and Many More!	0.0	0	
+Hands-On Unsupervised Learning Using Python	0.0	2	
+Python Programming	0.0	7	
+自然语言处理Python进阶	0.0	1	
+DK编程真好玩：9岁开始学Python	0.0	3	
+Scikit-Learn与TensorFlow机器学习实用指南（影印版）	9.6	75	
+The  Brand New Monty Python Papperbok (Methuen Humour)	0.0	0	
+Monty Python and the Holy Grail	0.0	1	
+Grey Hat Python Python Programming for Hackers	0.0	2	
+Python机器学习 第2版（影印版）	0.0	2	
+パーフェクトPython	0.0	0	
+Python人工智能项目实战	0.0	0	
+Python Geospatial Development Essentials	0.0	0	
+The Greedy Python	0.0	4	
+Selenium自动化测试——基于 Python 语言	0.0	2	
+Hands-On Reinforcement Learning with Python	0.0	3	
+21个项目玩转深度学习	5.8	39	
+Python Programming: 2 Books in 1- the Ultimate Beginner's Guide to Learn Python Programming Effectively & Tips and Tricks to Learn Python Programming Learn Coding Fast, Python Programming	0.0	0	
+Monty Python Holy Grail Screenplay	0.0	3	
+Python Library Reference (Open Source Library)	0.0	0	
+Introduction to Computing and Programming in Python	0.0	0	
+Learning Python Data Visualization	0.0	1	
+Python in a Nutshell	0.0	4	
+基于ArcGIS的Python编程秘笈	0.0	2	
+Parallel Programming with Python	0.0	0	
+Monty Python	0.0	0	
+Python for Finance - Second Edition	0.0	4	
+Programming with MicroPython: Embedded Programming with Microcontrollers and Python	0.0	1	
+Python从入门到精通	0.0	2	
+Python从菜鸟到高手	0.0	2	
+Pythonによるデータ分析入門	0.0	1	
+Python/C API Manual - PYTHON 2.6	0.0	0	
+PythonによるWebスクレイピング	0.0	2	
+Python物理建模初学者指南	0.0	4	
+Python测试驱动开发（影印版）	0.0	0	
+Python beyond Python	0.0	0	
+Python 2 and 3 Compatibility: With Six and Python-Future Libraries	0.0	1	
+Fundamentals of Python: Data Structures	0.0	0	
+Monty Python's the Meaning of Life	0.0	0	
+Python: Tips and Tricks to Programming Code with Python (Python, Java, JavaScript, Code, Programming Language, Programming, Computer Programming) (Volume 2)	0.0	0	
+Python 3 MCQ - Multiple Choice Questions n Answers for Tests, Quizzes - Python Students & Teachers: Python3 Programming Jobs QA (Python 3 Beginners Guide) (Volume 2)	0.0	0	
+Python Programming: 3 Books in 1- the Ultimate Beginner's Guide to Learn Python Programming Effectively + Tips and Tricks to Learn Python Programming+ Strategies	0.0	0	
+Python: Learn Python in 24 Hours or Less - a Beginner’s Guide to Learning Python Programming Now	0.0	0	
+Machine Learning Python: 2 Manuscripts - Artificial Intelligence Python and Reinforcement Learning With Python	0.0	0	
+Python: Python for Beginners and Python Advanced Strategies	0.0	0	
+Python: The No B.s. Python Crash Course for Newbies - Learn Python Programming in 8 Hours!	0.0	0	
+Python: Easy Python Programming for Beginners, Your Guide to Learning Python	0.0	0	
+Python机器学习（原书第2版)	0.0	1	
+Programming Collective Intelligence	8.9	423	
+Boas and Pythons of the World	0.0	2	
+The Complete Monty Python's Flying Circus; All the Words Volume One	0.0	0	
+Python Phrasebook: Essential Code and Commands	0.0	1	
+精通python	0.0	1	
+Ball Pythons in Captivity	0.0	1	
+If You Like Monty Python...Here are Over 200 Movies, Tv Shows and Other Oddities That You Will Love	0.0	0	
+Monty Python's Life of Brian	0.0	0	
+Artificial Intelligence with Python	0.0	4	
+Intermediate Python Programming	0.0	6	
+Kivy: Interactive Applications in Python	0.0	2	
+Python程序设计入门到实战	0.0	9	
+Python In A Day	0.0	2	
+QGIS Python Programming Cookbook	0.0	0	
+蟒蛇	0.0	2	
+Monty Python's Flying Circus	0.0	1	
+The Python Workbook	0.0	3	
+OpenCV算法精解：基于Python与C++	8.0	13	
+Python Data Structures and Algorithms	0.0	4	
+Data Analytics with Spark Using Python	0.0	2	
+Python物理学高效计算	0.0	6	
+Python High Performance	0.0	2	
+Beginning Python	0.0	1	
+零基础入门学习Python	0.0	5	
+Python for Linguists	0.0	0	
+Python 3.7编程快速入门	0.0	3	
+Numerical Python	0.0	2	
+Burmese Pythons	0.0	0	
+The General Care and Maintenance of Burmese Pythons	0.0	0	
+A Pocketful of Python	0.0	0	
+The Pythons	0.0	0	
+La Autobiografia de Monty Python	0.0	0	
+Monty Python Flying Circus - Just the Words	0.0	0	
+The Brand New &quot;Monty Python&quot;Papperbok	0.0	0	
+The &quot;Pythons&quot; Autobiography by the &quot;Pythons&quot;	0.0	0	
+The Complete Monty Python&#039;s Flying Circus	0.0	0	
+FUNDAMENTALS PYTHON PYTHON POWER	0.0	0	
+Monty Python's the Meaning of Life	0.0	0	
+Python: The No-Nonsense Guide: Learn Python Programming Within 12 Hours!	0.0	0	
+Lean Python: Learn Just Enough Python to Build Useful Tools	0.0	0	
+Programming for Computations - Python: A Gentle Introduction to Numerical Simulations with Python (Texts in Computational Science and Engineering)	0.0	1	
+Python 3.5 技術手冊	0.0	1	
+Monty Python's Big Red Book	0.0	0	
+Python para administracion de sistemas Unix y Linux/ Pythons for Management of Unix and Linux Sistems (Spanish Edition)	0.0	0	
+Monty Python's Flying Circus Greatest Skits	0.0	0	
+Python函式庫語法範例字典	0.0	0	
+Python: Cyber Security and Python Programming Step-by-Step Guides	0.0	0	
+Python Digital Forensics Cookbook: Effective Python recipes for digital investigations	0.0	0	
+OpenCV 3.x with Python By Example - Second Edition: Make the most of OpenCV and Python to build applications for object recognition and augmented reality	0.0	2	
+Python金融数据分析	0.0	5	
+Python绝技：运用Python成为顶级数据工程师	0.0	9	
+Python文本分析	0.0	5	
+Text Analytics with Python: A Brief Introduction to Text Analytics with Python	0.0	0	
+Python数据科学导论	0.0	1	
+Python: For Beginners: A Crash Course Guide To Learn Python	0.0	0	
+Python程式設計的樂趣	0.0	1	
+Python网络数据采集 第2版（影印版）	0.0	1	
+Python 自動化的樂趣	0.0	1	
+Pythonで動かして学ぶ 自然言語処理入門	0.0	0	
+Python社会媒体挖掘	0.0	0	
+Mission Python	0.0	0	
+Python数据分析	0.0	6	
+基于Python的Google App Engine编程	0.0	1	
+用 Python 写网络爬虫（第2版）	5.4	11	
+【预订】How to Code 2.0: Pushing Your Skills Further with Python: Learn How to Code with Python in 10 Easy Lessons	0.0	0	
+Python 实战编程：从零学Python	0.0	0	
+Python零基礎入門班(含MTA Python國際認證模擬試題)	0.0	0	
+Python: Learn Python in One Day	0.0	0	
+Simulating Nonlinear Circuits with Python Power Electronics: An Open-Source Simulator, Based on Python™	0.0	0	
+Python: Beginner’s Guide to Programming Code With Python	0.0	0	
+Python Programming: A Step by Step Beginner's Guide to Code With Python	0.0	0	
+Learn Python in One Day and Learn It Well: Python for Beginners With Hands-on Project	0.0	1	
+Python Programming Professional Made Easy: Expert Python Programming Language Success in a Day for Any Computer User!	0.0	0	
+Beginning Python Visualization: A Beginner’s Guide to Learn Python	0.0	0	
+Python the No-bullsh*t Guide: Learn Python Programming Within 12 Hours!	0.0	0	
+Python Programming: Getting Started Fast With Learning of Python Programming Basics in No Time	0.0	0	
+Python Programming: An Easy and Comprehensive Guide to Learn Python Programming Language	0.0	0	
+Python: Become a Master in Python	0.0	0	
+Python Programming for Beginners: The Ultimate Beginners Crash Course to Learn Python Programming Quickly and Easily	0.0	0	
+Python & Raspberry Pi 3: The No-nonsense Bundle; Learn Python & How to Program Your Raspberry Pi Within 24 Hours!	0.0	0	
+The Python Starter Kit: An In-depth and Practical Course for Beginners to Python Programming, Including Detailed Step-by-step Guides and Practical Demonstrations.	0.0	0	
+Python Programming: A Comprehensive Beginner's Guide to Learn and Understand Python Language	0.0	0	
+Python 3 / Programming in Python 3	0.0	0	
+Monty Python Vs the World: How Monty Python Accidentally Changed the World	0.0	0	
+Python: Learn Python Programming in One Week With Step-by-step Tutorials	0.0	0	
+Python: Best Practices to Programming Code With Python	0.0	0	
+Python Programming: A Complete Guide for Beginners to Master, Python Programming Language	0.0	0	
+Python: The Fundamentals of Python Programming	0.0	0	
+Python: Python Programming Beginner’s Guide	0.0	0	
+Hacking With Python: Beginner's Guide to Ethical Hacking, Basic Security, Penetration Testing, and Python Hacking	0.0	0	
+Selenium Webdriver Recipes in Python: The Problem Solving Guide to Selenium Webdriver in Python	0.0	0	
+Pythonの絵本 Pythonを楽しく学ぶ9つの扉 プログラミング初心者も楽しく入門	0.0	0	
+Python: The Ultimate Beginner's Guide for Becoming Fluent in Python Programming	0.0	0	
+Python Programming: Become an Expert at Python Today With Step by Step Instructions for Beginners	0.0	0	
+20 Python Libraries You Aren't Using (But Should)	0.0	0	
+Python和NLTK自然语言处理	0.0	0	
+Python自然语言处理	0.0	0	
+深度学习入门 基于Python的理论与实现+深度学习的数学+Python深度学习（套装共3册）	0.0	0	
+Python Programming: A Smarter And Faster Way To Learn Python	0.0	0	
+Python Programming For Beginners: Learn Python In 5 Days with Step-By-Step Guidance, Hands-On Exercises And Solution (Coding Made Easy)	0.0	0	
+Python Parallel Programming Cookbook: Over 70 recipes to solve challenges in multithreading and distributed system with Python 3, 2nd Edition	0.0	1	
+Python Data Analytics: The Ultimate Guide to Learn Python Data Analytics	0.0	0	
+PYTHON PROGRAMMING: The ultimate guide from a beginner to expert, all you need to know about python, tools, tricks, best practices, and advanced features	0.0	0	
+Python Machine Learning Is The Complete Guide To Everything You Need To Know About Python Machine Learning: Keras, Numpy, Scikit Learn, Tensorflow, With Useful Exercises and examples.	0.0	0	
+Python言語によるプログラミングイントロダクション	0.0	0	
+Life of Python	0.0	1	
+The Pythons	0.0	0	
+Monty Python's The Meaning of Life	0.0	0	
+Python Programming	0.0	2	
+Python Cookbook	0.0	0	
+The Implementation of a Python Class for Structuring Network Data Collected in a Test Bed	0.0	0	
+Python: Master the Art of Design Patterns	0.0	0	
+跟老齐学Python	0.0	8	
+Effective Python Penetration Testing	0.0	1	
+营销数据科学：用r和python进行预测分析的建模技术	0.0	0	
+QGIS Python Programming Cookbook - Second Edition	0.0	0	
+Python Data Science Essentials - Second Edition	0.0	1	
+python基础教程	0.0	1	
+Fundamentals of Python	0.0	1	
+Beginning Programming with Python For Dummies	0.0	1	
+Python Programming for Biology	0.0	0	
+XML Processing with Perl, Python, and PHP	0.0	2	
+预测分析：Python语言实现	0.0	2	
+Numerical Methods in Engineering with Python	0.0	0	
+Test-Driven Development with Python, 2nd Edition	0.0	3	
+深度学习-基于Python语言和TensorFlow平台	0.0	5	
+Python程序设计--从基础到开发(21世纪高等学校计算机应用技术规划教材)	0.0	1	
+Python Scripting for Computational Science 3e	0.0	1	
+Python+Spark 2.0+Hadoop机器学习与大数据实战	7.6	18	
+Python高级数据分析：机器学习、深度学习和NLP实例	0.0	1	
+小天才学Python（教学指导）	0.0	1	
+Python GUI设计：tkinter菜鸟编程	0.0	0	
+Python Docker实战	0.0	1	
+The Very Best of Monty Python	0.0	1	
+Pythons	0.0	0	
+Ball Pythons	0.0	0	
+The Ball Python (Herpetocultural Library)	0.0	0	
+Monty Python's Spamalot	0.0	0	
+Python Developer's Handbook	0.0	0	
+Monty Python Live!	0.0	0	
+Life Before and After Monty Python	0.0	0	
+Python Fundamentals (Video Training) (LiveLessons)	0.0	1	
+Monty Python's Flying Circus	0.0	1	
+Monty Python's Tunisian Holiday	0.0	0	
+Monty Python Speaks!	0.0	0	
+Numerical Methods in Engineering with Python 3	0.0	4	
+Monty Python's Tunisian Holiday	0.0	0	
+Python First	0.0	0	
+Python Programming with the Java(TM) Class Libraries	0.0	0	
+Python Play and Other Recipes for Fun	0.0	0	
+Ball Python Manual	0.0	0	
+Python Server Pages	0.0	0	
+X Python Newsreader	0.0	1	
+Python Service Objects	0.0	0	
+Monty Python The Case Against	0.0	0	
+A Python Book	0.0	1	
+3-D Numerical Simulation and Analysis of Complex Fiber Geometry Rafc Materials with High Volume Fraction and High Aspect Ratio Based on Abaqus Python.	0.0	0	
+Python Programming	0.0	1	
+Python 2.6 Reference Manual	0.0	0	
+Deep Learning in Python Prerequisites	0.0	1	
+Getting Started with Python Data Analysis	0.0	1	
+Pro Python Best Practices	0.0	2	
+My First Perceptron with python: Analyzed and Explained with a Practical Sense	0.0	1	
+Python 101	0.0	2	
+Python機械学習プログラミング 達人データサイエンティストによる理論と実践	0.0	1	
+Mastering Python Data Visualization	0.0	1	
+Image Processing and Acquisition using Python	0.0	1	
+Learn Python Visually	0.0	1	
+La programmation orientée objet. Cours et exercices UML 2 avec Java, C#, C++, Python, PHP et LINQ.	0.0	1	
+Learn Raspberry Pi Programming with Python	0.0	0	
+Python Essentials	0.0	0	
+python程序设计与实现	0.0	2	
+A Primer on Scientific Programming with Python	0.0	0	
+Introduction to Computational Models with Python	0.0	2	
+Monty Python Live!	0.0	0	
+Monty Python. Über den Sinn des Lebens.	0.0	0	
+Scientific Scripting with Python	0.0	0	
+Design, Logic, and Programming with Python	0.0	0	
+Python 3 Reference Manual	0.0	0	
+Pythons	0.0	0	
+The Book of Python	0.0	0	
+The Green Tree Python and Emerald Tree Boa	0.0	0	
+Pythonプロフェッショナルプログラミング	0.0	0	
+Coding Club Level 3 Python	0.0	0	
+Python in 24 Hours, Sams Teach Yourself	0.0	1	
+Raspberry Pi for Python Programmers Cookbook, Second Edition	0.0	0	
+Pythonクローリング&スクレイピング	0.0	2	
+Pythonからはじめる数学入門	0.0	2	
+科学技術計算のためのPython入門	0.0	0	
+More Complete Chondro, the bestselling manual for all Green Tree Python keepers	0.0	0	
+Python Machine Learning By Example	0.0	0	
+Python程序设计	0.0	2	
+Python数据分析实战	0.0	5	
+Coding Projects in Python	0.0	4	
+実践OpenCV 2.4 for Python―映像処理&解析	0.0	0	
+Mastering Predictive Analytics with Python	0.0	0	
+Practical Machine Learning with Python	0.0	3	
+Web Scraping with Python	8.5	12	
+Django: Web Development with Python	0.0	0	
+Python黑客攻防入门	0.0	6	
+Python编程基础与HTTP接口测试	0.0	3	
+Introduction to Programming Using Python, Student Value Edition	0.0	0	
+Kalman and Bayesian Filters in Python	0.0	6	
+Computer Coding Python Projects for Kids	0.0	1	
+Dynamical Systems with Applications using Python	0.0	0	
+Pythonによるクローラー&スクレイピング入門	0.0	0	
+Pythonプロフェッショナルプログラミング 第3版	0.0	0	
+Python言語によるビジネスアナリティクス	0.0	0	
+A Primer on Scientific Programming with Python	0.0	0	
+Python量化交易实战入门与技巧	0.0	4	
+みんなのPython	0.0	0	
+Clean Architectures in Python	0.0	1	
+人工智能在信用债投资领域的应用:Python语言实践	0.0	3	
+Python网络爬虫实例教程	0.0	2	
+量化投资与Python语言	0.0	8	
+python编程从零基础到项目实战（微课视频版）	0.0	6	
+Data Analysis and Visualization Using Python	0.0	1	
+Using Asyncio in Python 3	0.0	0	
+超圖解 Python 物聯網實作入門- 使用 ESP8266 與 MicroPython	0.0	0	
+Elements of Programming Interviews in Python	0.0	3	
+Applied Deep Learning with Python	0.0	0	
+Mastering Python	0.0	0	
+Python GUI Programming Cookbook - Second Edition	0.0	0	
+Python, PyGame and Raspberry Pi Game Development	0.0	0	
+数据馆员的Python简明手册	0.0	1	
+Building Machine Learning Systems with Python	0.0	0	
+The Spirit of Python	0.0	0	
+Python 接口自动化测试	0.0	2	
+Python in easy steps: 2nd Edition	0.0	2	
+Python量化交易	0.0	4	
+Python机器学习实战	0.0	2	
+Python大规模机器学习	0.0	0	
+Enterprise Architecture Patterns with Python	0.0	1	
+Building Chatbots with Python	0.0	1	
+Starting Out with Python (4th Edition)	0.0	0	
+Hands-on natural language processing with Python	0.0	0	
+いちばんやさしいPython機械学習の教本	0.0	0	
+Pythonスタートブック	0.0	0	
+Python Workout: 50 Essential Exercises	0.0	0	
+Algorithmic Trading with Interactive Brokers (Python and C++)	0.0	0	
+语料库语言学及Python实现	0.0	0	
+Python程序设计	0.0	1	
+増補改訂Pythonによるスクレイピング&機械学習 開発テクニック	0.0	0	
+Python数据分析实战	0.0	1	
+High Performance Python, 2nd Edition	0.0	0	
+3ステップでしっかり学ぶPython入門	0.0	0	
+Pythonクローリング&スクレイピング[増補改訂版]	0.0	1	
+Data.Science.with.Python.and.Dask	0.0	1	
+基于Python的智能文本分析	0.0	0	
+Hands-On Cryptography with Python	0.0	0	
+Practical.Cryptography.in.Python	0.0	0	
+Python数据分析与挖掘实战（第2版）	0.0	0	
+Getting Started with Python and Raspberry Pi	0.0	0	
+毫无障碍学Python(附光盘)	0.0	7	
+Python全栈开发实践入门	0.0	3	
+The Living Pythons (A Complete Guide)	0.0	0	
+The Guide to Owning Burmese Pythons	0.0	0	
+Monty Python's Life of Brian (Of Nazareth)	0.0	0	
+Pythons and Boas	0.0	0	
+The Guide to Owning Tree Boas and Tree Pythons	0.0	0	
+The Guide to Owning an Australian Python	0.0	0	
+Boas & Pythons and Other Friendly Snakes	0.0	0	
+Quick & Easy Ball Python Care	0.0	0	
+The Fairly Incomplete & Rather Badly Illustrated Monty Python Songbook	0.0	0	
+The Worst of Monty Python's Flying Circus (Canned Laughter)	0.0	0	
+African Rock Pythons	0.0	0	
+Pythons	0.0	0	
+Boas & Pythons	0.0	0	
+Essential Python for Corpus Linguistics	0.0	0	
+The Greedy Python	0.0	0	
+Pythons	0.0	0	
+Poisonous Pythons Paralyze Pennsylvania	0.0	0	
+Python Programming for the Absolute Beginner	0.0	0	
+Die Autobiografie von Monty Python	0.0	0	
+Book of Python	0.0	0	
+The Pythons	0.0	0	
+Monty Python's the Meaning of Life	0.0	0	
+Zope Python Cookbook	0.0	0	
+Monty Python 2007 Calendar	0.0	0	
+The Album of the Soundtrack of the Trailer of the Film of Monty Python and the Holy Grail (Virgin Chattering Classics)	0.0	0	
+A Million Little Pieces of Feces	0.0	0	
+The Life of Python	0.0	0	
+Asian Rock Pythons	0.0	0	
+Scrub Pythons	0.0	0	
+Python Scripting for Computational	0.0	0	
+First 20 Years of Monty Python	0.0	0	
+First 200 Years of Monty Python	0.0	0	
+The Pythons	0.0	0	
+最新Pythonエクスプローラ Django,TurboGears,Twisted,IronPython 完全攻略	0.0	0	
+Python's Party	0.0	0	
+Python Threads	0.0	0	
+Core Python Programming (Prentice Hall Ptr Core Series)	0.0	0	
+Complete Ball Python, A Comprehensive Guide to Care, Breeding, and Genetic Mutations	0.0	0	
+Python und GUI-Toolkits.	0.0	0	
+Ball Pythons	0.0	0	
+Monty Python's Tunisian Holiday	0.0	0	
+Monty Python's Tunisian Holiday	0.0	0	
+Monty Python's Tunisian Holiday	0.0	0	
+Python Reference Manual	0.0	0	
+Introduction to Computing and Programming in Python	0.0	0	
+Monty Python's the Meaning of Life	0.0	0	
+Pythons	0.0	0	
+Pythons	0.0	0	
+Pythons	0.0	0	
+Pythons	0.0	0	
+USING PYTHON 2.6	0.0	0	
+Pythons	0.0	0	
+Tales of Giant Snakes	0.0	0	
+Pythons	0.0	0	
+Monty Python, Shakespeare and English Renaissance Drama	0.0	0	
+Python How to Program	0.0	0	
+Playing With Python	0.0	0	
+Pete the Python	0.0	0	
+Boas and Pythons of the World	0.0	0	
+Reticulated Pythons	0.0	0	
+Python Und Zope ALS Unterrichtswerkzeuge	0.0	0	
+SAA-Ba Mini-Yang Baa the Mighty Python	0.0	0	
+Der Sinn Des Lebens - Analyse Der Komischen Darstellungsformen Bei Monty Python	0.0	0	
+Python/Piton	0.0	0	
+Scientific Database and Programming Examples Using PHP,MySQL,XML,MATLAB,PYTHON,PERL	0.0	0	
+Scientific Database and Programming Examples Using PHP,MySQL,XML,MATLAB,PYTHON,PERL	0.0	0	
+The Talon of the Python	0.0	0	
+Python-Scripted Video Games, Including	0.0	0	
+Monty Python's Flying Circus	0.0	0	
+Pythons	0.0	0	
+Boas and Pythons	0.0	0	
+Pythons	0.0	0	
+Invasive Pythons in the United States	0.0	0	
+The Greedy Python	0.0	0	
+Greedy Python	0.0	0	
+Zekeye Et Le Serpent Python	0.0	0	
+Pythons	0.0	0	
+Green Tree Pythons	0.0	0	
+Green Tree Pythons	0.0	0	
+Python for Rookies	0.0	0	
+Python Interview Questionsnswers, and Explanations	0.0	0	
+リバースエンジニアリング ―Pythonによるバイナリ解析技法	0.0	0	
+Pythons	0.0	0	
+The Uncoiling Python	0.0	0	
+The Uncoiling Python	0.0	0	
+Pythons	0.0	0	
+The Message Compact Bible Pink and Pink Python	0.0	0	
+The Message Compact Bible Teal and Brown Python	0.0	0	
+Reticulated Python	0.0	0	
+Ball Pythons	0.0	0	
+Starting Out With Python	0.0	0	
+The Greedy Python	0.0	0	
+Pythons	0.0	0	
+Pythons	0.0	0	
+The Python's Back	0.0	0	
+Python Programming & GUI's for Electronic Engineers	0.0	0	
+Burmese Pythons	0.0	0	
+Burmese Pythons	0.0	0	
+Python Software, Including	0.0	0	
+Introduction to Programming Concepts with Case Studies in Python	0.0	0	
+Saint-Python	0.0	0	
+13681 Monty Python	0.0	0	
+Python Service Objects	0.0	0	
+Python Package Manager	0.0	0	
+Monty Python's Flying Circus	0.0	0	
+Webware for Python	0.0	0	
+Monty Python's Contractual Obligation Album	0.0	0	
+Monty Python Live at the Hollywood Bowl	0.0	0	
+Python Server Pages	0.0	0	
+STACKLESS PYTHON	0.0	0	
+Green Tree Python	0.0	0	
+The Ultimate Ball Python	0.0	0	
+Python-Scripted Video Games	0.0	0	
+Monty Python and the Holy Grail	0.0	0	
+Monty Python Sketches	0.0	0	
+Python Programming Language	0.0	0	
+Monty Python	0.0	0	
+Monty Python Films	0.0	0	
+Monty Python	0.0	0	
+Python Software	0.0	0	
+Free Software Programmed in Python	0.0	0	
+Monty Python and the Holy Grail	0.0	0	
+Monty Python&#039;s Flying Circus	0.0	0	
+Monty Python Just the Words	0.0	0	
+Python 12-Copy Counterpack 2000	0.0	0	
+A Pocketful of Python	0.0	0	
+Just the Words -Promotional	0.0	0	
+Pythons and Boas	0.0	0	
+Pythons	0.0	0	
+Beyond Rails with Capistrano Managing Production Systems with Ruby, Python, Perl and More	0.0	0	
+The Greedy Python	0.0	0	
+Pythons	0.0	0	
+Pythons	0.0	0	
+Monty Python and the Holy Grail, Including	0.0	0	
+Pocket Python	0.0	0	
+And Now for Something Completely Trivial Monty Python Trivia and Quiz Book	0.0	0	
+Monty Python Live!	0.0	0	
+Monty Python	0.0	0	
+Monty Python	0.0	0	
+The 16-Ton Monty Python Megaset	0.0	0	
+Monty Python and the Holy Grail	0.0	0	
+Monty Python From the Flying Circus to Spamalot	0.0	0	
+Yao and the Python	0.0	0	
+Introduction to Computing and Programming in Python	0.0	0	
+The Python Killer	0.0	0	
+Poisonous Pythons of Pennsylvania	0.0	0	
+Computing Critical Points of Polynomial Systems Using Phcpack and Python.	0.0	0	
+Articles with Example Python Code	0.0	0	
+Monty Python	0.0	0	
+Monty Python	0.0	0	
+An Unauthorized Historical Survey of Monty Python	0.0	0	
+Svobodnoe Po, Napisannoe Na Python	0.0	0	
+To Amend Title 18, United States Code, to Include Constrictor Snakes of the Species Python Genera as an Injurious Animal	0.0	0	
+The Relative Territorial Status of the North and the South	0.0	0	
+To Amend Title 18, United States Code, to Include Constrictor Snakes of the Species Python Genera as an Injurious Animal	0.0	0	
+Monty Python	0.0	0	
+Biblioth Que Romane de La Suisse	0.0	0	
+Stat I S Primerami Koda Python	0.0	0	
+Python!. by Brian Moses	0.0	0	
+Non Inflatable Monty Python TV Companion	0.0	0	
+Python for the World Wide Web Visual QuickStart Guide	0.0	0	
+Introduction to Programming Using Python with 12-Month Student Access Code	0.0	0	
+Starting Out with Python Plus Myprogramminglab with Pearson Etext	0.0	0	
+The Practice of Computing Using Python, with Access Code	0.0	0	
+Fundamentals of Python	0.0	0	
+IRCD FUND OF PYTHON CS1 ED	0.0	0	
+Monty Python Encyclopedia	0.0	0	
+QI Boxset	0.0	0	
+Starting Out with Python International Version	0.0	0	
+Starting Out with Python, Student Value Edition	0.0	0	
+Python Libraries, Including	0.0	0	
+Python Web Application Frameworks, Including	0.0	0	
+Monty Python Members, Including	0.0	0	
+Monty Python, Including	0.0	0	
+Python Software, Including	0.0	0	
+Free Software Programmed in Python, Including	0.0	0	
+Student Value Edition for the Practice of Computing Using Python	0.0	0	
+Pygfc, a Python Extension to the C++ Geodesy Foundation Classes	0.0	0	
+Monty Python Characters	0.0	0	
+Boas and Pythons	0.0	0	
+Learning to Program Using Python	0.0	0	
+Monty Python's Flying Circus	0.0	0	
+Monty Python and Philosophy	0.0	0	
+Python Interview Questions You'll Most Likely Be Asked	0.0	0	
+Boas/Pythons Calendar	0.0	0	
+Monty Python's Flying Circus & Fawlty Towers	0.0	0	
+Python Programming with Oracle Database	0.0	0	
+Monty Python's Life of Brian	0.0	0	
+IR GUIDE T PROGRAMMING W PYTHON	0.0	0	
+Boa vs. Python	0.0	0	
+Monty Python and the Holy Grail	0.0	0	
+Monty Python and the Holy Grail	0.0	0	
+Studyguide for Object-Oriented Programming in Python by Michael H Goldwasser, ISBN 9780136150312	0.0	0	
+The Python Project A Rex Carver Mystery	0.0	0	
+Problems with a Python	0.0	0	
+Problems with a Python	0.0	0	
+With Pythons & Head-Hunters in Borneo	0.0	0	
+Boas and Pythons of the World	0.0	1	
+With Pythons & Head-Hunters in Borneo	0.0	0	
+Monty Python&#039;s &quot;Life of Brian&quot; Calendar	0.0	0	
+Bucolicos...	0.0	0	
+Studyguide for Fundamentals of Python	0.0	0	
+Studyguide for Introduction to Computing and Programming in Python, a Multimedia Approach by Mark J. Guzdial, ISBN 9780136060239	0.0	0	
+Distributed Programming with Python	0.0	0	
+Pythons of the World Australia	0.0	0	
+Captain Hazzard - Python Men of the Lost City	0.0	0	
+Problem Solving in Data Structures & Algorithms Using Python	0.0	0	
+Invent Your Own Computer Games with Python	0.0	2	
+Python For Kids For Dummies	0.0	0	
+Python即学即用	0.0	2	
+Maya Programming with Python Cookbook	0.0	1	
+Programming with Python	0.0	0	
+Introduction to Computing Using Python: An Application Development Focus	0.0	0	
+Deep Time Series Forecasting with Python: An Intuitive Introduction to Deep Learning for Applied Time Series Modeling	0.0	2	
+Scientific Computing with Python 3 - Second Edition	0.0	3	
+Integrating Python with Leading Computer Forensics Platforms	0.0	0	
+Beginning Ethical Hacking with Python	0.0	0	
+Learning Python Application Development	0.0	2	
+It’s Django：用Python迅速打造Web應用	0.0	0	
+Python编程基础	0.0	0	
+Raspberry Pi Cookbook for Python Programmers	0.0	0	
+Programmare con Python. Guida completa	0.0	0	
+Mastering Python Scientific Computing	0.0	0	
+Invent Your Own Computer Games with Python, 3rd Edition	0.0	1	
+Python Forensics: A workbench for inventing and sharing digital forensic technology	0.0	0	
+Coding Club Level 1 Python: Programming Art	0.0	0	
+Python短袖黑色	0.0	0	
+Starting Out with Python, Student Value Edition Plus Myprogramminglab with Pearson Etext	0.0	0	
+Student Value Edition for the Practice of Computing Using Python Plus Myprogramminglab with Pearson Etext	0.0	0	
+Python Pushing the Limits	0.0	0	
+The Greedy Python	0.0	0	
+Program Arcade Games: With Python and Pygame	0.0	0	
+Carpet Pythons	0.0	0	
+An Introduction to Python and Computer Programming	0.0	0	
+Geospatial Development By Example with Python	0.0	0	
+Biology of the Boas and Pythons	0.0	0	
+A Guide to Australian Pythons in Captivity	0.0	0	
+Giant Constrictors	0.0	0	
+Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours	0.0	0	
+Monty Python's Flying Circus, Episodes 1-26	0.0	0	
+Monty Python's Flying Circus, Episodes 27-45	0.0	0	
+Student Value Edition - Introduction to Programming Using Python Plus Myprogramminglab with Pearson Etext	0.0	0	
+Python of Pura Malai and Other Stories	0.0	0	
+Python regius	0.0	0	
+The Ball Python	0.0	0	
+Robot Wireless Control Made Simple with Python and C	0.0	0	
+Pythons	0.0	0	
+Studyguide for Fundamentals of Python	0.0	0	
+Studyguide for Introduction to Computing and Programming in Python, a Multimedia Approach by Guzdial, Mark J.	0.0	0	
+Python Programming Blueprints	0.0	0	
+Studyguide for Exploring Python by Budd, Timothy A.	0.0	0	
+Keeping and Breeding Australian Pythons	0.0	0	
+Beginning Python Visualization	0.0	0	
+Boas und Pythons der Welt	0.0	0	
+Nonlinear Digital Filtering with Python	0.0	0	
+Python Programming in Context	0.0	0	
+Participatory Geospatial Development Using Python	0.0	0	
+Conan and Treasure of Python (Tor Fantasy)	0.0	0	
+A Pocketful of Python	0.0	0	
+GREEDY PYTHON & THE FOOLISH TORTOISE, THE (Pixies, No 21)	0.0	0	
+Introduction to PYTHON 2.6	0.0	0	
+A Plague of Pythons	0.0	0	
+Pythons (Amazing Snakes Discovery Library)	0.0	0	
+The First 28 Years of Monty Python, Revised Edition	0.0	0	
+The Woman who Ate Python and Other Stories	0.0	0	
+Pythons	0.0	0	
+Good Morning, Little Python!	0.0	0	
+Monty Python and the Holy Grail 2010 Calendar	0.0	0	
+The Python Problem	0.0	0	
+The Pythons of Australia	0.0	0	
+Pythons	0.0	0	
+Bashful Ball Pythons	0.0	0	
+Bashful Ball Pythons	0.0	0	
+Learning Python, 3rd Edition, Ebook	0.0	0	
+Python in Easy Steps	0.0	0	
+Monty Python	0.0	0	
+Python Paste	0.0	0	
+Python Syntax and Semantics	0.0	0	
+Python-Ogre	0.0	0	
+Coding Club Level 2 Python	0.0	0	
+Princess Python	0.0	0	
+Bluff Downs Giant Python	0.0	0	
+The Guide to Owning a Python	0.0	0	
+Monty Python's Flying Circus 2014 Wall Calendar	0.0	0	
+Monty Python Fluxx	0.0	0	
+The Python Spirit and the Cross Becoming Christians in a Highland Community of Papua New Guinea	0.0	0	
+Python Pyinbya	0.0	0	
+On Green Pythons	0.0	0	
+The Python Language Reference Manual	0.0	1	
+Monty Python&#039;s Flying Circus 1999	0.0	0	
+X Python Newsreader	0.0	0	
+Hacking mit Python	0.0	0	
+Burmese Python	0.0	0	
+Water Python	0.0	0	
+X Python Newsreader	0.0	0	
+Python-Ogre	0.0	0	
+Python Package Index	0.0	0	
+Python Basics	0.0	0	
+Eric Python Ide	0.0	0	
+Python Reticulatus	0.0	0	
+La piton tigrina / The Burmese Python	0.0	0	
+Boas, pitones y anacondas/ Boa, Python and Anacondas	0.0	0	
+La Piton Real / Python regius	0.0	0	
+Armstrong Siddeley Python	0.0	0	
+Taller de matem&agrave;tiques. Pr&agrave;ctiques en Matlab/Octave, amb un ap&egrave;ndix en Python	0.0	0	
+Princess Python	0.0	0	
+Life Before and After Monty Python The Solo Flights of the Flying Circus	0.0	0	
+Studyguide for Exploring Python by Timothy A. Budd, ISBN 9780073523378	0.0	0	
+Stani's Python Editor	0.0	0	
+Python Geospatial Development - Third Edition	0.0	0	
+Learning Data Mining with Python - Second Edition	0.0	0	
+Python Programming with Raspberry Pi Zero	0.0	0	
+A Primer on Process Mining: Practical Skills with Python and Graphviz (SpringerBriefs in Information Systems)	0.0	0	
+图像处理与脉冲耦合神经网络--基于Python的实现(第3版)(精)/计算机视觉译丛	0.0	0	
+Python数据科学导论	0.0	6	
+Python数据分析基础(全国高等院校应用型创新规划教材)/计算机系列	0.0	3	
+Python Without Fear	0.0	0	
+Complete Carpet Python, A Comprehensive Guide to the Natural History, Care, and Breeding of the 'Morelia spilota' Complex	0.0	0	
+Numerical Methods in Engineering with Python	0.0	0	
+Numerical Methods in Engineering with Python	0.0	0	
+Python for Software Design	0.0	0	
+Python漫游指南(影印版)(英文版)	0.0	1	
+Python Deep Learning Cookbook	0.0	1	
+Learning Concurrency in Python	0.0	2	
+Python大学教程(普通高等教育十三五规划教材)	0.0	0	
+Python开发向导/云计算工程师系列	0.0	0	
+Mastering Python Networking	0.0	1	
+Rapid Python Programming	0.0	0	
+Python数据处理	0.0	1	
+Make Your Own Python Text Adventure	0.0	0	
+从零开始学Python程序设计	0.0	4	
+Python Social Media Analytics	0.0	0	
+Python Network Programming Cookbook - Second Edition	0.0	0	
+Markov Models: Definitive Guide to Understanding Unsupervised Machine Learning In Python	0.0	0	
+用Python學資料科學	0.0	0	
+Introduction to Modeling and Simulation with MATLAB® and Python	0.0	0	
+The Medieval Python	0.0	0	
+Introduction to Python for Engineers and Scientists	0.0	0	
+Python for the Busy Java Developer	0.0	0	
+Monty Python	0.0	0	
+自学Python	0.0	5	
+Advanced Data Analytics Using Python: With Machine Learning, Deep Learning and NLP Examples	0.0	1	
+Python Penetration Testing Cookbook	0.0	0	
+Natural Language Processing with Python Cookbook: Over 60 recipes to implement text analytics solutions using deep learning principles	0.0	0	
+Python程序设计(21世纪高等学校计算机基础实用规划教材)	0.0	1	
+物联网Python开发实战	0.0	2	
+Python End-to-end Data Analysis	0.0	1	
+Python与量化投资	6.9	26	
+Monty Python at Work	0.0	0	
+Python 3爬虫、数据清洗与可视化实战	4.0	11	
+Understanding Optics with Python (Multidisciplinary and Applied Optics)	0.0	1	
+Python程序设计教程	0.0	4	
+python与数据挖掘	6.6	11	
+Cracking Codes with Python: An Introduction to Building and Breaking Ciphers	0.0	0	
+scikit-learn Cookbook - Second Edition: Over 80 recipes for machine learning in Python with scikit-learn	0.0	1	
+TensorFlow 1.x Deep Learning Cookbook: Over 90 unique recipes to solve artificial-intelligence driven problems with Python	0.0	1	
+Learn Data Analysis with Python: Lessons in Coding	0.0	2	
+Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools	0.0	0	
+Hacking with Python: The Ultimate Beginners Guide	0.0	0	
+机器人Python青少年编程开发实例	0.0	0	
+Matplotlib 2.x By Example: Multi-dimensional charts, graphs, and plots in Python	0.0	2	
+Python数据分析入门：从数据获取到可视化	0.0	6	
+21天学通Python（第2版）	0.0	0	
+Python数据分析从入门到精通	0.0	7	
+CORE PYTHON APPLICATIONS PROGRAMMING, 3RD EDITION	0.0	0	
+Python快速编程入门	0.0	1	
+Python数据分析(影印版第2版)(英文版)	0.0	3	
+Python for Scientists	0.0	0	
+The Hacker's Guide to Scaling Python	0.0	2	
+Python数据分析与应用	0.0	1	
+Python程序设计基础实战教程	0.0	1	
+A Concise Introduction to Programming in Python, Second Edition	0.0	0	
+Physics of Oscillations and Waves: With use of Matlab and Python	0.0	0	
+Machine Learning with Python for Everyone	0.0	0	
+Blender Scripting with Python: Write Scripts to Build Your Own 3D Models	0.0	0	
+Python for Finance	0.0	6	
+head first python 第二版	0.0	7	
+零压力学Python	0.0	2	
+Mastering Geospatial Analysis with Python	0.0	0	
+11招玩转网络安全——用Python，更安全	0.0	4	
+python程序设计教程	0.0	3	
+Python数据分析：基于Plotly的动态可视化绘图	0.0	2	
+深度学习：基于Keras的Python实践	0.0	7	
+The Blender Python API: Precision 3D Modeling and Add-on Development	0.0	0	
+Introduction to Data Science for Social and Policy Research: Collecting and Organizing Data with R and Python	0.0	0	
+Python for Everyone, Binder Ready Version	0.0	0	
+中学生可以这样学Python	0.0	0	
+実践 コンピュータビジョン	0.0	0	
+hadoop with python	0.0	0	
+Python云原生：构建应对海量用户数据的高可扩展Web应用	0.0	7	
+跟老齐学Python：数据分析	0.0	7	
+Python Graphics	0.0	0	
+自动化平台测试开发：Python测试开发实战	4.4	13	
+程序员学Python	0.0	1	
+Python程序设计基础教程	0.0	0	
+Beginning Data Science with Python and Jupyter	0.0	0	
+Applied Natural Language Processing with Python	0.0	1	
+Python Artificial Intelligence Projects for Beginners	0.0	0	
+Python趣味编程入门	0.0	3	
+奇妙Python轻松学	0.0	0	
+Python数据科学手册(影印版)(英文版)	0.0	0	
+Cryptographic Algorithms with Python	0.0	0	
+Machine Learning Applications Using Python	0.0	0	
+Python Programming Illustrated for Beginners & Intermediates	0.0	0	
+Python for Beginners: 2018 Edition	0.0	0	
+我的Python世界	0.0	5	
+Python程序设计案例教程	0.0	1	
+Python数据可视化之matplotlib实践	7.8	12	
+Python大數據特訓班	0.0	0	
+Python数据可视化编程实战(第2版)	0.0	4	
+Classic Computer Science Problems in Python	0.0	2	
+Python微控制器编程从零开始	0.0	1	
+Python for Microcontrollers	0.0	0	
+Python量化交易实战	0.0	5	
+Python程序设计基础（原书第4版）	0.0	1	
+Python从小白到大牛	0.0	9	
+编程导论——以Python为舟	0.0	1	
+跟老齐学Python：Django实战（第2版）	0.0	2	
+python语言程序设计	0.0	0	
+Raspberry Pi编程指南·第2版 基于Python的游戏编程与机器人制作	0.0	0	
+少博士趣学Python	0.0	9	
+Python实用教程/高等院校信息技术规划教材	0.0	0	
+python 3.6 零基础入门与实践	0.0	3	
+从零开始学Python数据分析与挖掘	6.3	13	
+Python for Data Mining Quick Syntax Reference	0.0	0	
+Effective Python Development for Biologists	0.0	0	
+Python Continuous Integration and Delivery	0.0	0	
+Python高效开发实战——Django、Tornado、Flask、Twisted（第2版）	0.0	4	
+Python机器学习与量化投资	0.0	4	
+小小的Python编程故事	0.0	3	
+Who Would Win? Alligator vs. Python	0.0	0	
+玩转python轻松过二级	0.0	0	
+Core Python Programming, 2Ed	0.0	0	
+問題解決のPythonプログラミング	0.0	0	
+Python程序设计案例教程	0.0	0	
+Python数据分析基础(第2版十三五全国统计规划教材)	0.0	1	
+Python深度学习 基于TensorFlow	0.0	2	
+Python网络编程	0.0	0	
+Python程序设计案例课堂	0.0	1	
+REST APIs with Django: Build powerful web APIs with Python and Django	0.0	0	
+Python 3 Object Oriented Programming - Third Edition	0.0	0	
+Python科学计算最佳实践：SciPy指南	0.0	3	
+知识网络与合作网络的关系——基于Python编程	0.0	0	
+Core Python Language Fundamentals	0.0	0	
+Python数据爬取技术与实战手册	0.0	3	
+Impractical Python Projects	0.0	0	
+A Student's Guide to Python for Physical Modeling	0.0	0	
+Python Programming for Beginners	0.0	0	
+Python Programming Fundamentals	0.0	0	
+算法设计与分析(Python)	0.0	2	
+Comparative Approaches to Using R and Python for Statistical Data Analysis (Advances in Systems Analysis, Software Engineering, and High Performance Computing)	0.0	0	
+Python程序设计（原书第2版）	0.0	1	
+Python并行编程参考手册（影印版）	0.0	0	
+Python机器学习 5个数据科学家案例解析	0.0	3	
+Python语言程序设计/高等学校计算机专业规划教材	0.0	0	
+Python网络数据爬取及分析从入门到精通(分析篇)	0.0	1	
+Python网络数据爬取及分析从入门到精通(爬取篇)	0.0	2	
+Programming Experiments in Python	0.0	0	
+Programming Experiments in Python	0.0	0	
+零基础学编程：树莓派和Python	0.0	1	
+Begin to Code with Python	0.0	0	
+Python 3 面向对象编程（第2版）	8.7	16	
+虫术——Python绝技	0.0	7	
+Python程序设计入门(21世纪高等学校计算机基础实用规划教材)	0.0	1	
+Python编程与问题求解	0.0	1	
+Building Serverless Python Web Services with Zappa	0.0	0	
+Python高性能（第2版）	0.0	3	
+Data Analysis From Scratch With Python	0.0	0	
+金融数量分析--基于Python编程	0.0	1	
+Personal Finance with Python: Using pandas, Requests, and Recurrent	0.0	1	
+Python程序设计教程(大数据专业普通高等教育新工科人才培养规划教材)	0.0	0	
+深入浅出Python机器学习	0.0	7	
+Hands-On Data Science and Python Machine Learning	0.0	0	
+The Quick Python Book, 3E	0.0	4	
+Python与神经网络实战	0.0	4	
+Python程序设计习题解析/大学计算机基础教育规划教材	0.0	0	
+Python开发案例教程（高等教育质量工程信息技术系列示范教材）	0.0	0	
+中国高校创意创新创业教育系列丛书：Python学习从入门到实践	0.0	0	
+Python项目案例开发从入门到实战——爬虫、游戏和机器学习（从入门到实战·微课视频）	0.0	1	
+Python编程入门与案例详解/“十三五”应用型人才培养规划教材	0.0	0	
+Python 3.6从入门到精通（视频教学版）	0.0	1	
+Python程序设计教程	0.0	0	
+Python语言及其应用	0.0	0	
+PYTHON数据分析基础教程/王斌会	0.0	0	
+Python程序设计	0.0	0	
+Python网络爬虫实战（第2版）	0.0	0	
+Python程序设计	0.0	0	
+达人迷 Python趣味编程10例	0.0	2	
+Python算法与程序设计基础(第2版)（21世纪高等学校计算机基础实用规划教材）	0.0	0	
+Python语言程序设计基础	0.0	0	
+Python 3.7从零开始学	0.0	2	
+人工智能开发语言——Python	0.0	0	
+Python基础教程（附教学视频）	0.0	0	
+人工智能：Python实现（影印版 英文版）	0.0	1	
+Python渗透测试编程技术 方法与实践	0.0	1	
+Python语言程序设计	0.0	0	
+Python数据分析基础	0.0	0	
+Python大学教程/高等教育质量工程信息技术系列示范教材	0.0	0	
+Python程序设计教程/高等学校计算机专业规划教材	0.0	0	
+Python程序设计基础教程	0.0	0	
+Python程序设计实用教程	0.0	1	
+Python程序设计	0.0	0	
+高教版Python语言程序设计冲刺试卷(含线上题库)（第2版）	0.0	1	
+程序设计导论：Python计算与应用开发实践（原书第2版）	0.0	1	
+投资学及其Python应用	0.0	1	
+AI的幕后英雄：Python 中小学人工智能精品课程系列丛书	0.0	0	
+Python程序设计基础	0.0	0	
+Python基础实例教程（普通高等教育“十三五”规划教材（计算机专业群））	0.0	0	
+经济金融数据分析及其Python应用	0.0	2	
+高教版Python语言程序设计冲刺试卷(含线上题库)	0.0	1	
+Python程序设计（第2版）/高等院校信息技术规划教材	0.0	0	
+Python程序设计——计算思维视角（高等学校计算机类国家级特色专业系列规划教材）	0.0	0	
+金融科技创新与量化金融投资系列丛书：量化金融投资及其Python应用	0.0	0	
+The Greedy Python: Book & CD	0.0	0	
+Python程序设计与案例教程	0.0	0	
+Python基础教程	0.0	0	
+Python开发实践教程/高等职业教育“十三五”规划教材	0.0	0	
+人工智能实验教材/职业教育1 python“智龙X计划”指定用书	0.0	0	
+Python程序设计教程（21世纪高等学校计算机应用技术规划教材）	0.0	0	
+计算机科学导论 以Python为舟（第2版）/21世纪高等学校计算机专业实用规划教材	0.0	0	
+Python程序设计教程	0.0	0	
+Python Web自动化测试设计与实现	0.0	0	
+Python程序设计/普通高等教育“十三五”规划教材	0.0	0	
+Python程序设计基础	0.0	0	
+Python语言实用教程	0.0	0	
+【预订】The Boy and the Python: And Other Wisdom Tales	0.0	0	
+Python程序设计基础	0.0	0	
+Python程序设计第一课	0.0	0	
+金融工程及其Python应用/高等院校财政金融专业应用型教材	0.0	1	
+Python深度学习	0.0	1	
+R用户Python学习指南：数据科学方法	0.0	0	
+Python机器学习经典实例（影印版）	0.0	0	
+Head First 编程之旅（Python语言描述）	0.0	2	
+物联网应用设计与实战：基于AVR单片机和Python	0.0	0	
+Python程序设计/高等职业教育计算机类课程新形态一体化规划教材	0.0	0	
+数据结构——Python语言描述	0.0	1	
+Python程序设计	0.0	0	
+Python程序设计基础与应用	0.0	0	
+Python数据分析（影印版）	0.0	0	
+Python数据分析基础（影印版）	0.0	0	
+Python机器学习	0.0	0	
+全国计算机等级考试二级教程--Python语言程序设计(2019年版)	0.0	3	
+Python基础教程（第2版）	0.0	1	
+Python二维游戏编程/全国高等农林院校“十二五”规划教材	0.0	0	
+Python程序设计基础	0.0	1	
+ArcGIS地理之Python实战	0.0	0	
+Python程序设计任务驱动式教程	0.0	0	
+全国计算机等级考试二级教程——Python语言程序设计(2018年版)	0.0	1	
+Python程序设计应用教程	0.0	0	
+小天才学Python	0.0	0	
+人工智能基础教程：Python篇（青少版）	0.0	0	
+树莓派Python编程入门与实战	0.0	0	
+Python开发基础	0.0	0	
+Python基础编程与实践	0.0	0	
+Python程序设计/企业级卓越人才培养解决方案“十三五”规划教材	0.0	0	
+【预订】Monty Python's Book of Silly Walks	0.0	0	
+Python Programming Professional Made Easy & MySQL Programming Professional Made Easy	0.0	0	
+Python文法詳解	0.0	0	
+Python Programming in a Day & PHP Programming Professional Made Easy	0.0	0	
+Practical Video Game Bots: Automating Game Processes using C++, Python, and AutoIt	0.0	0	
+Hacking: 2 Books In 1 Bargain; The Complete Beginner's Guide to Learning Ethical Hacking with Python Along with Practical Examples / The Beginner's Complete Guide to Computer Hacking and Penetration Testing	0.0	0	
+Dance of the Reptiles: Rampaging Tourists, Marauding Pythons, Larcenous Legislators, Crazed Celebrities, and Tar-Balled Beaches: Selected Columns	0.0	0	
+Python: The Ultimate Beginners Guide	0.0	0	
+Squeeze Play: A Sultry Tale of Drugs, Drones, Jello Wrestling and Burmese Pythons in the Greater Everglades	0.0	0	
+【预订】Python: The Ultimate Beginners Guide: Start Coding Today	0.0	0	
+【预订】Reticulated Python	0.0	0	
+【预订】Python on Panola	0.0	0	
+【预订】I'm a Python Programmer	0.0	0	
+【预订】Code This Game!  Make Your Game Using Python, Then Break Your Game to Create a New One!	0.0	0	
+Python语言/大数据应用人才培养系列教材	0.0	0	
+Monty Python'S Flying Circus	0.0	0	
+电子数据取证与Python方法	0.0	0	
+みんなのPython Webアプリ編 (みんなのシリーズ)	0.0	0	
+Python: Learn the Easiest Program Coding for the Absolute Beginner	0.0	0	
+Practical Python Design Patterns: Pythonic Solutions to Common Problems	0.0	0	
+Python for Everyone	0.0	0	
+Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours (2nd Edition)	0.0	0	
+Monty Python's Flying Circus: Complete And Annotated...All The Bits	0.0	0	
+Starting Out with Python Plus MyLab Programming with Pearson eText -- Access Card Package (4th Edition)	0.0	1	
+Python Programming Professional Made Easy & Ruby Programming Professional Made Easy	0.0	0	
+解析Python网络爬虫：核心技术、Scrapy框架、分布式爬虫	0.0	1	
+云开发技术应用（Python）	0.0	0	
+Machine Learning with Spark and Python: Essential Techniques for Predictive Analytics	0.0	0	
+Monty Python's Big Red Book	0.0	0	
+Python Programming for Complete Novices	0.0	0	
+Introduction to Python for Science and Engineering	0.0	2	
+A Book about the Film Monty Python and the Holy Grail: All the References from African Swallows to Zoot	0.0	0	
+Python Programming and Visualization for Scientists	0.0	0	
+Python Programming in a Day & C Programming Success in a Day & C Programming Professional Made Easy	0.0	0	
+簡潔的Python:重構你的舊程式	0.0	0	
+Hacking University: Learn Python Computer Programming from Scratch & Precisely Learn How the Linux Operating Command Line Works	0.0	0	
+Python程序设计教程	0.0	0	
+Python Programming Professional Made Easy & Rails Programming Professional Made Easy	0.0	0	
+Python 零基礎最強入門之路：王者歸來	0.0	0	
+Learning to Program Using Python	0.0	0	
+Introduction to Python Programming	0.0	0	
+Anachronismus, Juxtaposition, Dekonstruktion. Der Humor Von Monty Python	0.0	0	
+特洛伊木馬病毒程式設計(加強版):使用Python	0.0	0	
+Raspberry Pi: Raspberry Pi Guide on Python & Projects Programming in Easy Steps	0.0	0	
+Hacking Math Class With Python: Exploring Math Through Computer Programming	0.0	0	
+Introduction to Python for Science and Engineering	0.0	0	
+Image Processing using Pulse-Coupled Neural Networks: Applications in Python	0.0	0	
+逆引きPython標準ライブラリ 目的別の基本レシピ180+!	0.0	0	
+Coding Manual: A step-by-step guide to programming in Python	0.0	0	
+Python 3: Pocket Primer	0.0	0	
+The Python Programming Language	0.0	0	
+Python Deep Learning Complete Self-assessment Guide	0.0	0	
+Image Processing using Pulse-Coupled Neural Networks: Applications in Python	0.0	0	
+Captain Hazzard-Python Men of the Lost City	0.0	0	
+Pyomo – Optimization Modeling in Python	0.0	0	
+Methods in Medical Informatics: Fundamentals of Healthcare Programming in Perl, Python, and Ruby	0.0	0	
+Mastering Python Lists	0.0	0	
+Python for Data Science For Dummies	0.0	1	
+Green Tree Python Notebook	0.0	0	
+Python Guide for Complete Beginners	0.0	0	
+An Introduction to Programming Using Python, Student Value Edition plus MyLab Programming with Pearson eText -- Access Card Package	0.0	0	
+Python: A True Beginner's Guide! Problem Solving, Code, Data Science, Data Structures & Algorithms	0.0	0	
+Python大学实用教程	0.0	0	
+Introduction to Computing and Programming in Python, Student Value Edition plus MyLab Programming with eText -- Access Card Package (4th Edition)	0.0	0	
+Python for Bizzies	0.0	0	
+Python輕鬆學:遊戲設計初體驗(暢銷回饋版)	0.0	0	
+Django - Agiles Web-Entwicklungsframework F r Python	0.0	0	
+Deep Learning with Applications Using Python: Chatbots and Face, Object, and Speech Recognition With TensorFlow and Keras	0.0	0	
+Rï¿½ponses Du Python de Birmanie Au Jeï¿½ne Et ï¿½ La Rï¿½alimentation	0.0	0	
+Python Essentials	0.0	0	
+Raspberry Pi Image Processing Programming: Develop Real-Life Examples with Python, Pillow, and SciPy	0.0	0	
+Classes, Making Your Own Data Structures and Algorithms by Using Python	0.0	0	
+Core Python Applications Complete Self-assessment Guide	0.0	0	
+Python Programming Professional Made Easy & HTML Professional Programming Made Easy	0.0	0	
+Python: What Every Beginner Needs to Know	0.0	0	
+Python for Experimental Psychologists	0.0	0	
+Python Programming Professional Made Easy & JavaScript Professional Programming Made Easy	0.0	0	
+Hacking: 3 Manuscripts - Bitcoin, Tor, Hacking With Python	0.0	0	
+Machine Learning With Clustering: A Visual Guide for Beginners With Examples in Python 3	0.0	0	
+Python: The Ultimate Beginner's Guide	0.0	0	
+Foundations of PyGTK Development: GUI Creation with Python	0.0	0	
+Python Programming	0.0	0	
+Python for Newbies	0.0	0	
+Divinity and the Python	0.0	0	
+Learning to Program Using Python	0.0	0	
+Adventures in Python	0.0	0	
+Aprende a Programar en Python	0.0	0	
+Python Scripting for ArcGIS	0.0	0	
+Chemical and Biomedical Engineering Calculations Using Python	0.0	0	
+Python Robotics: You, the Ultimate Authority	0.0	0	
+Game Development Using Python	0.0	0	
+Markov Models: Understanding Data Science, Markov Models and Unsupervised Machine Learning in Python	0.0	0	
+Coding for Kids - Python: Learn to Code With 50 Awesome Games and Activities	0.0	0	
+Pythonプログラミングのツボとコツが	0.0	0	
+Python Tales: World War II Memories of a Young Soldier	0.0	0	
+Python Programming in a Day & Ruby Programming Professional Made Easy	0.0	0	
+Making Music with Computers: Creative Programming in Python	0.0	0	
+Raspberry Pi Robot With Camera and Sound: For Windows and Debian-linux Using Python	0.0	0	
+MyLab Programming with Pearson eText -- Access Code Card -- for Starting Out with Python	0.0	0	
+Python编程基础与应用	0.0	0	
+Monty Python Day to Day 2005 Calendar	0.0	0	
+Python for Bioinformatics	0.0	0	
+Pythons on the Hunt	0.0	0	
+Python: The Ultimate Beginner's Guide!	0.0	0	
+Python Programming in a Day & C++ Programming Professional Made Easy	0.0	0	
+Python Programming in A Day	0.0	0	
+Soil Physics with Python: Transport in the Soil-Plant-Atmosphere System	0.0	0	
+Python Programming Techniques: The Art of Coding and Programming Explained	0.0	0	
+Python Programming for Biology: Bioinformatics and Beyond	0.0	0	
+Apache Solr入門 オープンソース全文検索エンジン RESTライク(HTTP/XML)なアプリケーション構築を実現 Java，PHP，Ruby，Python，Perl，JavaScript，VTL対応	0.0	0	
+Python 3.5 Setup and Usage Guide	0.0	0	
+PYTHoNで始めるプログラミング入門	0.0	0	
+Python程序设计 从编程基础到专业应用	0.0	0	
+Monty Python 2004 Calendar	0.0	0	
+Python Passive Network Mapping: P2NMAP	0.0	0	
+Pythons	0.0	0	
+Python High Performance Complete Self-assessment Guide	0.0	0	
+MONTY PYTHON THE LIFE OF BRIAN	0.0	0	
+Scientific Computation: Python Hacking for Math Junkies	0.0	0	
+Die Programmiersprache Python Und Die Programmierung Eines Web Crawlers	0.0	0	
+Gateway to Python Programming	0.0	0	
+Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python	0.0	0	
+数据分析技术--Python数据分析项目化教程	0.0	0	
+Python数据分析与应用：从数据获取到可视化	0.0	0	
+大学计算机实践教程(PYTHON语言版)	0.0	0	
+人人都懂设计模式：从生活中领悟设计模式：Python实现	0.0	4	
+Python实用教程（含典型案例视频分析）	0.0	0	
+基于python的web大数据爬取实战指南	0.0	0	
+Building Serverless Microservices in Python	0.0	0	
+大学计算机(PYTHON语言版)	0.0	0	
+Python快速入门精讲	0.0	0	
+Python程序设计与问题求解	0.0	3	
+Python网络爬虫从入门到实践	0.0	2	
+Python程序设计——从基础开发到数据分析	0.0	0	
+Python实用教程	0.0	0	
+大数据的Python基础	0.0	0	
+Python自动化运维快速入门	0.0	0	
+OpenCV轻松入门：面向Python	0.0	1	
+Deep Learning 2｜用Python進行自然語言處理的基礎理論實作	0.0	1	
+Python在机器学习中的应用	0.0	0	
+零基础轻松学Python	8.4	10	
+Python算法详解	0.0	3	
+大话Python机器学习	0.0	2	
+谁说菜鸟不会数据分析（Python篇）	0.0	7	
+深海管道试验的数值模拟理论及应用：ABAQUS参数化设计中的Python脚本	0.0	0	
+Python程序员面试宝典	0.0	1	
+Python王者归来	0.0	1	
+Amethystine Python	0.0	0	
+Python机器学习手册：从数据预处理到深度学习	0.0	3	
+Python编程及其在网络科学中的应用	0.0	0	
+Python数据可视化之matplotlib精进	0.0	1	
+神经网络与深度学习——基于TensorFlow框架和Python技术实现	0.0	2	
+Python自动化测试实战	0.0	7	
+数据结构（Python版）（21世纪高等学校计算机基础实用规划教材）	0.0	0	
+Python程序设计实验指导书	0.0	0	
+数据科学与分析：Python语言实现	0.0	0	
+Python深度学习实战：基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别	0.0	1	
+Python程序设计案例教程	0.0	0	
+Python网络爬虫技术	0.0	0	
+Beginning Python	0.0	0	
+Python编程基础与案例集锦（中学版）	0.0	0	
+Python编程与人工智能启蒙	0.0	0	
+Python程序设计	0.0	0	
+Python 3.x全栈开发从入门到精通	0.0	0	
+Python编程与应用实践	0.0	0	
+精通Python网络编程 第2版（影印版）	0.0	0	
+Python 3.x入门到应用实践	0.0	0	
+Python程序设计基础	0.0	0	
+Spark数据分析：基于Python语言	0.0	1	
+Python机器学习——数据分析与评分卡建模（微课版）（大数据与人工智能技术丛书）	0.0	0	
+实用数据科学和Python机器学习（影印版）	0.0	0	
+乐学Python编程-做个游戏很简单	0.0	0	
+人工智能极简编程入门（基于Python）	0.0	1	
+Python语言程序设计	0.0	0	
+Python程序设计	0.0	0	
+Python Deep Learning	0.0	0	
+Advanced Python 3 Programming Techniques	0.0	0	
+Odoo快速入门与实战：Python开发ERP指南	0.0	2	
+轻松掌握BBC micro:bit上Python编程	0.0	0	
+Python入门与实战	0.0	0	
+二级Python编程指南	0.0	0	
+用Python玩转树莓派和MegaPi（创客教育）	0.0	0	
+青少年Python编程入门	0.0	0	
+Python趣码快乐编程	0.0	0	
+Python语言程序设计基础	0.0	0	
+Python程序设计与应用/应用型高等院校改革创新示范教材	0.0	0	
+Python网络爬虫实战	0.0	0	
+Python基础案例教程	0.0	0	
+Python快速入门	0.0	1	
+Python量化交易：策略、技巧与实战	0.0	2	
+面向新工科的高等学校应用型人才培养规划教材：Python语言及其应用	0.0	1	
+给所有人的Python(第4版)	0.0	0	
+Python程序设计实例教程	0.0	0	
+Bayesian Analysis with Python - Second Edition	0.0	0	
+Hands-On Software Engineering with Python	0.0	0	
+神经网络与深度学习实战：Python+Keras+TensorFlow	0.0	1	
+Python for DevOps	0.0	3	
+Automate the Boring Stuff with Python, 2nd Edition	0.0	1	
+Python程序设计――从基础入门到实战应用	0.0	0	
+跟着“小微”学Python/初中信息技术校本教材	0.0	0	
+Python程序设计与科学计算	0.0	0	
+Python数据分析与实践（大数据与人工智能技术丛书）	0.0	0	
+新・明解Python入門	0.0	0	
+Hands-On Data Structures and Algorithms with Python - Second Edition	0.0	0	
+Hands-On Image Processing with Python	0.0	0	
+Python趣味编程入门与实战	0.0	0	
+Python机器学习	0.0	1	
+Python Flask Web开发入门与项目实战	0.0	0	
+Python程序设计/普通高等教育“十三五”规划教材	0.0	0	
+新概念Python程序设计	0.0	0	
+Hands-On Transfer Learning with Python	0.0	0	
+Supercharged Python	0.0	0	
+Python+Tensorflow机器学习实战	0.0	0	
+Python程序设计与算法基础教程-微课版	0.0	2	
+自己动手写Python虚拟机	0.0	1	
+Python程序设计教程	0.0	0	
+Python数据分析师修炼之道	0.0	1	
+Python编程从入门到实战的16堂课	0.0	0	
+图解Python--轻松快速掌握实力派脚本语言精华	0.0	1	
+Python与AI编程	0.0	0	
+给Python点颜色	0.0	0	
+Serverless架构应用开发：Python实现	0.0	1	
+Python语言程序设计（微课版）（高等院校信息技术规划教材）	0.0	0	
+Selenium3自动化测试实战——基于Python语言	0.0	1	
+Python趣味编程：从入门到人工智能	0.0	0	
+函数式Python编程 第2版(影印版）	0.0	3	
+Python基础教程	0.0	0	
+Python程序设计教程（第2版）（21世纪高等学校计算机类课程创新规划教材·微课版）	0.0	0	
+从AI模型到智能机器人：基于Python与TensorFlow	0.0	0	
+Python金融大数据挖掘与分析全流程详解	0.0	1	
+Python程序设计现代方法	0.0	0	
+PYTHON程序设计实战教程:零基础到精通/何静	0.0	0	
+实战深度学习算法：零起点通关神经网络模型（基于Python和NumPy实现）	0.0	4	
+Python编程与初级数学/青少年人工智能学习丛书	0.0	0	
+Python Deep Learning Projects	0.0	0	
+Python编程从0到1（视频教学版）	0.0	0	
+Python Django开发实战（视频讲解版）	0.0	1	
+人工智能原理与实践：基于Python语言和TensorFlow	0.0	0	
+Python科学计算（原书第2版）	0.0	0	
+跟着迪哥学Python数据分析与机器学习实战	0.0	1	
+Python基础教程	0.0	0	
+SQL Alchemy：Python数据库实战（第2版）	0.0	3	
+Python网络爬虫从入门到实践	0.0	0	
+Python金融大数据分析 第2版（影印版）	0.0	0	
+Python Django Web典型模块开发实战	0.0	0	
+Learn Python by Building Data Science Applications	0.0	0	

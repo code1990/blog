@@ -1,0 +1,94 @@
+Java 8实战	9.3	395	
+Java 8函数式编程	7.8	216	
+Mastering Concurrency Programming with Java 8	0.0	5	
+All About Java 8 Lambdas	0.0	1	
+Java 8 Lambdas	7.4	37	
+Java 8 in Action	8.3	61	
+Java8程序设计及实验/高等学校计算机类国家级特色专业系列规划教材	0.0	0	
+JavaFX&Java8プログラミング	0.0	0	
+Java 8编程入门官方教程	9.0	14	
+Java 8编程参考官方教程	9.3	27	
+Beginning Java 8 Fundamentals	0.0	6	
+Learning Reactive Programming With Java 8	8.1	10	
+Pro Java 8 Programming	0.0	3	
+On Java 8	9.6	17	
+Pragmatic Unit Testing in Java 8 with JUnit	0.0	6	
+Java 8 Pocket Guide	0.0	9	
+Beginning Java 8 Language Features	0.0	3	
+Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9	0.0	8	
+Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond	0.0	0	
+Functional Programming in Java	9.2	15	
+Java 8 基础应用与开发	0.0	1	
+Java 8 Exception Handling	0.0	1	
+Java 8高级应用与开发	0.0	0	
+What's New in Java 8	0.0	1	
+Java 8基础应用与开发（第2版）-微课版（“在实践中成长”丛书）	0.0	0	
+Java 8: A Step by Step Guide for Beginners - Fast and Simple Learning of Java Programming	0.0	0	
+Java攻略	0.0	6	
+Learn Java 8 in a Week: A Beginner's Guide to Java Programming	0.0	0	
+Beginning Java 8 APIs	0.0	0	
+网络程序设计：基于Java 8	0.0	0	
+Java语言规范	0.0	6	
+Java: A Beginner’s Tutorial, 4th Edition	0.0	3	
+Programmieren lernen mit Java	0.0	0	
+Intro Progrmmg	0.0	0	
+Architecting Modern Java EE Applications: Designing lightweight, business-oriented enterprise applications in the age of cloud, containers, and Java EE 8	0.0	0	
+Java语言导学（英文版第6版）	0.0	1	
+写给大忙人看的Java核心技术	7.1	32	
+Java虚拟机规范（Java SE 8版）	7.7	34	
+Java SE 8 for the Really Impatient	7.6	14	
+写给大忙人看的Java SE 8	8.1	110	
+Mastering Lambdas	0.0	2	
+Java Cookbook	0.0	2	
+Java Lambdas and Parallel Streams	0.0	1	
+Learning Java Lambdas	0.0	1	
+Java Closures and Lambda	0.0	2	
+Java: A Beginner's Guide, Sixth Edition	0.0	3	
+Java完全参考手册	0.0	3	
+The Java Virtual Machine Specification, Java SE 8 Edition	0.0	5	
+Java虚拟机规范	0.0	2	
+The Java Language Specification, Java SE 8 Edition	0.0	4	
+Big Java For Java 7 and 8	9.4	10	
+Introduction to Java Programming, Brief (8th Edition)	0.0	4	
+Java The Complete Reference, 8th Edition	0.0	0	
+Big Java for Java 7 and 8 with WileyPLUS Set	0.0	0	
+Java Concepts 6/E for Java 7 and 8 International Student Version	0.0	0	
+Java Concepts for Java 7 and 8	0.0	0	
+Java Java& Codewarr 8 Pk	0.0	0	
+Java程序设计概念:对象先行(原书第8版)	0.0	1	
+Practical JSF in Java EE 8: Web Applications ​in Java for the Enterprise	0.0	0	
+Oracle8i Java组件编程	0.0	0	
+Algorithms In Java, 3rd Edition	0.0	0	
+Java SE8 程序设计（第3版）英文版	0.0	0	
+Oracle8i Java Component Programming With EJB, CORBA AND JSP	0.0	0	
+Professional Oracle 8i Application Programming with Java, PL/SQL and XML	0.0	0	
+OCA: Oracle Certified Associate Java SE 8 Programmer I Study	0.0	3	
+Pro JPA 2 in Java EE 8	0.0	1	
+OCA / OCP Java SE 8 Programmer Practice Tests	0.0	1	
+Java EE 8 Design Patterns and Best Practices	0.0	1	
+Java: A Beginner's Guide, Eighth Edition, 8th Edition	0.0	2	
+Oracle 8i. Java- Komponenten programmieren mit EJB, CORBA und JSP. Ab Version 8.1.5.	0.0	0	
+Oracle8i - Programacion de Componentes Java	0.0	0	
+Intro Java W/Bldr8&Lab/M	0.0	0	
+Handelingen Van Het ... Congress ..., Volume 8	0.0	0	
+Java Softwr Soltns& Borland Jbuildr8 Pers Pk	0.0	0	
+Absolute Java & Borland Jbuilder8 Persnl Pk	0.0	0	
+Prob Solvg with Java Upd& Borland Jbuilder8	0.0	0	
+Java Intro Problm Solvg & CodeWarrior 8 Pkg	0.0	0	
+Bijdrage No. 1-13 Tot de Kennis Der Boomsoorten Op Java, Issue 8...	0.0	0	
+OCA Java SE 8 Programmer I Certification Guide	0.0	0	
+徹底攻略 Java SE 8 Silver 問題集対応	0.0	0	
+徹底攻略 Java SE 7/8 Bronze 問題集対応	0.0	0	
+OCA Java SE 8 Programmer I Exam Guide	0.0	2	
+Java Software Solutions (8th Edition)	0.0	0	
+OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide	0.0	1	
+Java EE 8 Application Development: Develop Enterprise applications using the latest versions of CDI, JAX-RS, JSON-B, JPA, Security, and more	0.0	0	
+Java EE 8 High Performance: Master techniques such as memory optimization, caching, concurrency, and multithreading to achieve maximum performance from your enterprise applications.	0.0	0	
+The Definitive Guide to JSF in Java EE 8	0.0	0	
+Java EE 8 Recipes	0.0	0	
+OCA Java SE 8 程序员认证考试指南(Exam 1Z0-808)	0.0	1	
+Java 2 Sdk for Solaris Developer's Guide: Solaris 8	0.0	0	
+Java程序设计与问题求解（原书第8版）	0.0	0	
+網站與資料庫程式開發解析-Java SE8+JSP+SQL Server 2014	0.0	0	
+Java 11官方入门教程(第8版)	0.0	1	
+Java EE 8 Microservices	0.0	0	

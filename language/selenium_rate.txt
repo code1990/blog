@@ -1,0 +1,249 @@
+Selenium 2自动化测试实战	8.2	87	
+零成本实现Web自动化测试	6.5	11	
+Test-Driven Development with Python	8.6	28	
+Selenium自动化测试指南	5.6	19	
+Selenium	0.0	0	
+Selenium	0.0	0	
+Selenium	0.0	0	
+Selenium	0.0	0	
+Selenium	0.0	0	
+Selenium	0.0	0	
+Selenium	0.0	0	
+Selenium	0.0	0	
+SELENIUM	0.0	0	
+Selenium	0.0	0	
+Learning Selenium Testing Tools - Third Edition	0.0	1	
+Selenium Framework Design in Data-Driven Testing	0.0	0	
+精通Selenium WebDriver 3.0 第2版	0.0	1	
+Python测试驱动开发	0.0	6	
+Selenium 2 Testing Tools	0.0	5	
+Selenium Testing Tools Cookbook	0.0	8	
+零成本实现Web 自动化测试	0.0	5	
+Learning Selenium Testing Tools with Python	0.0	3	
+Selenium 1.0 Testing Tools	0.0	3	
+Selenium WebDriver实战宝典	0.0	4	
+Selenium WebDriver Practical Guide	0.0	2	
+Testing Java Microservice	0.0	1	
+基于Selenium 2的自动化测试	8.5	49	
+Test-Driven Development with Python, 2nd Edition	0.0	3	
+Nonmetals	0.0	0	
+A   Workshop Investigating the Potential for the Application of Decision Analysis Principles and Processes to Geoenvironmental Situations	0.0	0	
+Selenium Essentials	0.0	0	
+Python Testing Cookbook.	0.0	0	
+Selenium测试实践	4.1	14	
+Selenium自动化测试——基于 Python 语言	0.0	2	
+Selenium Design Patterns and Best Practices	0.0	0	
+Some Experiments on the Physical Properties of Selenium Withsome Experiments on the Physical Properties of Selenium with a Theoretical Discussion Base	0.0	0	
+Selenium Cells Selenium Cells	0.0	0	
+Selenium in Nutrition	0.0	0	
+Total Selenium and Selenium Species in Irrigation Drain Inflows to the Salton Sea, California, April and July 2007	0.0	0	
+Total Selenium and Selenium Species in Irrigation Drain Inflows to the Salton Sea, California, October 2008 and January 2009	0.0	0	
+Action of Sulphuryl and Thionyl Chlorides on Selenium and Selenium Dioxide...	0.0	0	
+Selenium WebDriver Recipes in Ruby: The problem solving guide to Selenium WebDriver in Ruby (Test Recipes Series) (Volume 2)	0.0	0	
+Total Selenium and Selenium Species in Irrigation Drain Inflows to the Salton Sea, California, April and July 2008	0.0	0	
+Total Selenium and Selenium Species in Irrigation Drain Inflows to the Salton Sea, California, April and July 2007	0.0	0	
+Total Selenium and Selenium Species in Irrigation Drain Inflows to the Salton Sea, California, October 2007 and January 2008	0.0	0	
+Selenium Webdriver Recipes in Java: The Problem Solving Guide to Selenium Webdriver in Java	0.0	0	
+Selenium by Example - Volume I: Selenium Ide	0.0	0	
+Selenium Cells: The Construction, Care and Use of Selenium Cells with Special Reference to the Fritts Cell (Classic Reprint)	0.0	0	
+Selenium Webdriver Recipes in Python: The Problem Solving Guide to Selenium Webdriver in Python	0.0	0	
+硒的Selenium神秘療效	0.0	0	
+Selenium Simplified	0.0	0	
+Web前端测试与集成(Jasmine\Selenium\Protractor\Jenkins的最佳实践)	0.0	1	
+Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoids	0.0	0	
+Instant Selenium Testing Tools Starter	0.0	1	
+Selenium自动化测试之道	0.0	5	
+Selenium in Food and Health	0.0	0	
+Selenium In Nutrition And Health	0.0	0	
+Selenium Against Cancer and Aids	0.0	0	
+Current Advances In Selenium Research And Applications	0.0	0	
+Some Experiments on the Physical Properties of Selenium with a Theoretical Discussion Based on the Electron Theory	0.0	0	
+Selenium Simplified	0.0	0	
+Some Experiments on the Physical Properties of Selenium with a Theoretical Discussion Based on the Electron Theory	0.0	0	
+An Introduction to Testing Web Applications with twill and Selenium	0.0	0	
+Organic Compounds of Sulphur, Selenium, and Tellurium	0.0	0	
+Effects of Iodine and Selenium Depletion on the Bone Quality of Rats	0.0	0	
+The Physics of Selenium and Tellurium	0.0	0	
+Chemical Shifts and Coupling Constants for Selenium-77	0.0	0	
+Selenium and Tellurium Chemistry	0.0	0	
+Vapor Pressure and Antoine Constants for Hydroncarbons, and Sulfur, Selenium, Tellurium, and Halogen Containing Organic Compounds	0.0	0	
+Some Experiments on the Physical Properties of Selenium with a Theoretical Discussion Based on the Electron Theory	0.0	0	
+Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium and Carotenoids	0.0	0	
+Some Aziridines, N-, S- and O-Mustards and Selenium	0.0	0	
+Organic Compounds of Sulphur, Selenium and Tellurium	0.0	0	
+Organic Compounds of Sulphur, Selenium, and Tellurium	0.0	0	
+Organic Compounds of Sulphur, Selenium, and Tellurium	0.0	0	
+Organic Compounds of Sulphur, Selenium and Tellurium	0.0	0	
+Organic Compounds of Sulphur, Selenium and Tellurium	0.0	0	
+Selenium Cells	0.0	0	
+Selenium Cells	0.0	0	
+Radium, and Other Radio-active Substances; Polonium, Actinium, and Thorium. With a Consideration of Phosphorescent and Fluorescent Substances, the Properties and Applications of Selenium, and the Treatment of Disease by the Ultra-violet Light	0.0	0	
+Selenium, Including	0.0	0	
+Selenium in Biology and Medicine	0.0	0	
+Selenium in Biology and Human Health	0.0	0	
+The Physics of Selenium and Tellurium	0.0	0	
+Selenium Hexafluoride	0.0	0	
+Selenium Oxybromide	0.0	0	
+Selenium Pollution	0.0	0	
+Selenium Rectifier	0.0	0	
+Selenium Deficiency	0.0	0	
+Selenium Meter	0.0	0	
+Selenium Tetrachloride	0.0	0	
+Selenium Yeast	0.0	0	
+Occurrence of Selenium in Sulfides from Some Sedimentary Rocks of the Western United States	0.0	0	
+Selenium Dioxide	0.0	0	
+Selenium Oxydichloride	0.0	0	
+Selenium- 79	0.0	0	
+Selenium-79	0.0	0	
+Biochemistry of Selenium	0.0	0	
+Selenium Cells	0.0	0	
+Isotopes of Selenium	0.0	0	
+Selenium Compounds	0.0	0	
+Relation of Salinity and Selenium in Shallow Ground Water to Hydrologic and Geochemical Processes, Western San Joaquin Valley, California	0.0	0	
+Sources and Concentrations of Dissolved Solids and Selenium in the San Joaquin River and Its Tributaries, California, October 1985 to March 1987	0.0	0	
+Selenium Selectivity in Ion Exchange Resins	0.0	0	
+Microbial Volatilization of Selenium at Kesterson Reservoir	0.0	0	
+Selenium Cells	0.0	0	
+Selenium Assessment in Aquatic Ecosystems	0.0	0	
+Environmental Chemistry of Selenium	0.0	0	
+Selenium in the Environment	0.0	0	
+The System Selenium Oxychloride Barium Sulphate	0.0	0	
+The System Selenium Oxychloride Barium Sulphate	0.0	0	
+Selenium Cells	0.0	0	
+A Study of the Reactions of Selenium Oxychloride with Chlorides of Potassium and Sodium	0.0	0	
+The Chemistry of Organic Selenium and Tellurium Compounds	0.0	0	
+Selenium Compounds, Including	0.0	0	
+The Role of Serine Acetyltransferase in Nickel and Selenium Assimilation and Tolerance in Metal Hyperaccumulators.	0.0	0	
+Irrigation and Climate Effects on Selenium in the Kendrick Irrigation District, WY, and a Bioremediation Strategy.	0.0	0	
+A Text Book of Inorganic Chemistry Volume VII Part II Sulphur Selenium and Tellurium	0.0	0	
+An  Exploration of the Inorganic, Organometallic and Catalytic Potential of Rhenium-Selenium Core-Containing Cluster Derivatives	0.0	0	
+The Influence of Speciation on Selenium Uptake by a Benthic Euryhaline Polychaete, Neanthes Succinea.	0.0	0	
+Characterization of Ionic Transport in Polymer and Electronic Transport in Disordered Selenium and Ceramic Materials.	0.0	0	
+Redox Regulation of the Nf-Kappab Pathway by Selenium in Macrophages	0.0	0	
+Study of Bromium-69 Ground State Proton Emission and Effects on the Rp-Process Selenium-68 Waiting Point.	0.0	0	
+An Evaluation of Vitamin E and Selenium as a Treatment for Capture Myopathy in Rio Grande Wild Turkeys	0.0	0	
+Pulsed Laser Deposition and Thin Film Properties of P-Type Barium Copper Sulfur Fluoride, Barium Copper Selenium Fluoride, Barium Copper Tellurium Flu	0.0	0	
+Dissipation of Soil Selenium by Microbial Volatilization at Kesterson Reservoir	0.0	0	
+Removal of Selenium from Water by Ion Exchange	0.0	0	
+Selenium and Sediment Loads in Storm Runoff in Panoche Creek, California, February 1998	0.0	0	
+Effects of Piping Irrigation Laterals on Selenium and Salt Loads, Montrose Arroyo Basin, Western Colorado	0.0	0	
+Characterization of Selenium in the Lower Gunnison River Basin, Colorado, 1988-2000	0.0	0	
+The Role of Cpnifs in Selenium and Sulfur Plant Metabolism	0.0	0	
+Understanding the Antioxidant Mechanism of Inorganic Selenium, Oxo-Sulfur, and Polyphenol Compounds, and the Biological Implications of Functionalized	0.0	0	
+Investigation of Post-Synthesis Heat Treatment of Strontium Gallium Selenium	0.0	0	
+A Comparative Study of the Light Sensibility of Selenium and Stibnite at 20	0.0	0	
+Preliminary Assessment of Sources, Distribution, and Mobility of Selenium in the San Joaquin Valley, Calfornia	0.0	0	
+The System Selenium Oxychloride Barium Sulphate	0.0	0	
+Study of a Selenium Cell	0.0	0	
+Selenium & Health	0.0	0	
+Selenium Testing Tools Interview Questions You'll Most Likely Be Asked	0.0	0	
+Light Sensitivity of Cuprous Oxide and of Selenium ..	0.0	0	
+Light Sensitivity of Cuprous Oxide and of Selenium ..	0.0	0	
+Selenium - A Medical Dictionary, Bibliography, and Annotated Research Guide to Internet References	0.0	0	
+Selenium Cells	0.0	0	
+Preliminary Results of Sequential Extraction Experiments for Selenium on Mine Waste and Stream Sediments from Vermont, Maine, and New Zealand	0.0	0	
+Selenium Concentrations in Irrigation Drain Inflows to the Salton Sea, California, October 2006 and January 2007	0.0	0	
+Selenium Cells;	0.0	0	
+Modeling of Selenium for the San Diego Creek Watershed and Newport Bay, California	0.0	0	
+Concentrations and Loads of Selenium in Selected Tributaries to the Colorado River in the Grand Valley, Western Colorado, 2004-2006	0.0	0	
+In Situ Volatilization of Selenium	0.0	0	
+A Study of the Reactions of Selenium Oxychloride with Chlorides of Potassium and Sodium...	0.0	0	
+Fundamental Aspects of Selenium Removal by Harza Process	0.0	0	
+New Synthetic and Structural Chemistry Supported by Rhenium-Selenium Clusters.	0.0	0	
+Analysis of Dissolved Selenium Loading for Selected Sites in the Lower Gunnison River Basin, Colorado, 1978-2005	0.0	0	
+Forecasting Selenium Discharges to the San Francisco Bay-Delta Estuary	0.0	0	
+Selenium Process Testing Report	0.0	0	
+Selenium Concentrations in Middle Pennsylvanian Coal-Bearing Strata in the Central Appalachian Basin	0.0	0	
+A Study of the Electrolysis of Selenium Containing Solutions	0.0	0	
+Separation of Certain Acidic Oxides with Selenium Oxychloride	0.0	0	
+Selenium Cells	0.0	0	
+Selenium Treatment/Removal Alternatives Demonstration Project	0.0	0	
+Analysis of Dissolved Selenium Loading from Surface Water and Groundwater to Sweitzer Lake, Colorado, 2006-07	0.0	0	
+Action of Tellurium and Selenium on Gold and Silver Salts	0.0	0	
+Selenium Cells;	0.0	0	
+The Preparation of Selenium Trioxide...	0.0	0	
+The Action of Selenium Chloride on the Different Coals...	0.0	0	
+The Conductivity of Selenium Oxychloride Solutions...	0.0	0	
+The Solubility of Certain Metllic Chlorides in Selenium Oxychloride...	0.0	0	
+A Study of the Dispersion and Absorption of Selenium...	0.0	0	
+The Action of Selenium Oxychloride on Various Metals and Metallic Oxides...	0.0	0	
+The Atomic Mass and Derivatives of Selenium ......	0.0	0	
+Role of Selenium in Mitigating Mercury Toxicity	0.0	0	
+The Action of Selenium Oxchloride on the Metals and Oxides of the Second Group...	0.0	0	
+Selenium in Food and Health	0.0	0	
+Selenium in Soils and Plants from Native and Irrigated Lands at the Kendrick Reclamation Project Area, Wyoming	0.0	0	
+Automated Determination of Total Selenium in Rocks, Soils, and Plants	0.0	0	
+Statistical Relations of Salt and Selenium Loads to Geospatial Characteristics of Corresponding Subbasins of the Colorado and Gunnison Rivers in Color	0.0	0	
+Uptake and Physiological Antagonism of Selenium and Sulfur in Alfalfa and Wheat Under Field Conditions, San Joaquin Valley, California	0.0	0	
+Flow-Adjusted Trends in Dissolved Selenium Load and Concentration in the Gunnison and Colorado Rivers Near Grand Junction, Colorado, Water Years 1986-	0.0	0	
+Characterization of Streamflow, Water Quality, and Instantaneous Dissolved Solids, Selenium, and Uranium Loads in Selected Reaches of the Arkansas Riv	0.0	0	
+Air Pollution Aspects of Selenium and Its Compounds	0.0	0	
+Ambient Water Quality Criteria for Selenium	0.0	0	
+Selenium WebDriver Recipes in C#: Second Edition	0.0	0	
+Preliminary Results of Sequential Extraction Experiments for Selenium on Mine Waste and Stream Sediments from Vermont, Maine, and New Zealand	0.0	0	
+Annotated Bibliography of the Geology of Selenium, 1958-74	0.0	0	
+Ambient Aquatic Life Water Quality Criteria for Selenium Draft	0.0	0	
+Ambient Water Quality Criteria for Selenium, 1987	0.0	0	
+Health Effects Assessment for Selenium and Compounds	0.0	0	
+Best Demonstrated Available Technology Background Document for K031, K084, K101, K102, Characteristic Arsenic Wastes, Characteristic Selenium Wastes,	0.0	0	
+Layer by Layer Nanoassembly of Copper Indium Gallium Selenium	0.0	0	
+Determination of Antimony, Arsenic, Beryllium, Cadmium, Lead, Selenium, Silver and Tellurium in Environmental Water Samples by Flameless Atomic Absorp	0.0	0	
+Ecological Assessment of Selenium in the Aquatic Environment	0.0	0	
+Summary Statistics for Selenium in Vegetation Calculated from U.S. Geological Survey Data (U.S. Geological Survey Bulletin, 16-2117)	0.0	0	
+Selenium in Natural Products Synthesis	0.0	0	
+Chemical Thermodynamics of Selenium	0.0	0	
+Selenium in Biology and Human Health / Ed.	0.0	0	
+Selenium and Cancer	0.0	0	
+Molecular Phylogeny and Increases of Yield and the Antioxidants Selenium and Ergothioneine in Basidiomata of Pleurotus Eryngii.	0.0	0	
+Novel Selenium-Mediated Rearrangements and Cyclisations	0.0	0	
+Selenium in Biology	0.0	0	
+Effect of Selenium on Juvenile Bluegill Sunfish at Reduced Temperature	0.0	0	
+Draft Aquatic Life Water Quality Criteria for Selenium, 2004	0.0	0	
+Development of Sampling Method for Total Atmospheric Selenium	0.0	0	
+Speciation Analysis of Arsenic, Chromium and Selenium in Aquatic Media Proceedings of a Final Research Coordination Meeting Held in Vienna, 26-29 April 2004	0.0	0	
+The Action of Selenium Oxychloride Upon Pyrite Marcasite and Other Sulphides	0.0	0	
+Biosorptive Remediation of Arsenic and Selenium	0.0	0	
+Peculiarities in the Reactivity of Telluriumorganic Compounds in Comparison with Their Sulfur and Selenium Analogs	0.0	0	
+Studies on Effects of Selenium on Reproductive Organs in Male Rats	0.0	0	
+Deportment of Copper, Silver, Bismuth and Selenium During Solvent Extraction of Gold	0.0	0	
+Dietary Selenium and Some Trace Elements in Dairy Cows Nutrition	0.0	0	
+SELENIUM CELLS	0.0	0	
+Arsenic, Selenium, Antimony Ultra-Trace Analysis	0.0	0	
+Selenium Monochloride	0.0	0	
+Selenium Cycle	0.0	0	
+Selenium Hexasulfide	0.0	0	
+Selenium Responsive Protein	0.0	0	
+Selenium Tetrafluoride	0.0	0	
+Selenium Trioxide	0.0	0	
+L-Seryl-Trnasec Selenium Transferase	0.0	0	
+Occurence & Distribution of Selenium	0.0	0	
+THE SYSTEM SELENIUM OXYCHLORIDE BARIUM	0.0	0	
+Selenium Disulfide	0.0	0	
+Selenium Concentrations in Middle Pennsylvanian Coal-Bearing Strata in the Central Appalachian Basin	0.0	0	
+Spatial Trends in Ash Yield, Sulfur, Selenium, and Other Selected Trace Element Concentrations in Coal Beds of the Appalachian Plateau Region, U.S.A.	0.0	0	
+The Chemistry of Organic Selenium and Tellurium Compounds	0.0	0	
+Modeling of Selenium for the San Diego Creek Watershed and Newport Bay, California	0.0	0	
+Preliminary Mineralogical and Chemical Studies Related to the Potential Mobility of Selenium and Associated Elements in Phosphoria Formation Strata, S	0.0	0	
+Methods of Analysis by the U.S. Geological Survey National Water Quality Laboratory Determination of Arsenic and Selenium in Water and Sediment by Gra	0.0	0	
+Occurrence and Distribution of Dissolved Solids, Selenium, and Uranium in Groundwater and Surface Water in the Arkansas River Basin from the Headwater	0.0	0	
+The Phosphoria Formation at the Hot Springs Mine in Southeast Idaho; A Source of Selenium and Other Trace Elements to Surface Water, Ground Water, Veg	0.0	0	
+Bioaccumulation and Toxicity of Selenium During a Life-Cycle Exposure with Desert Pupfish, Cyprinodon Macularius	0.0	0	
+Characterization of Salinity and Selenium Loading and Land-Use Change in Montrose Arroyo, Western Colorado, from 1992 to 2010	0.0	0	
+软件测试技术实战教程 敏捷、Selenium与Jmeter（微课版）	0.0	0	
+【预订】Test Automation Using Selenium Webdriver with Java: Step by Step Guide	0.0	0	
+Selenium WebDriver 3.0 自动化测试框架实战指南	0.0	0	
+Selenium: Its Molecular Biology and Role in Human Health	0.0	0	
+Effect of Selenium and Vitamin E on the Production of Broiler	0.0	0	
+Selenium, Selenoprotein Coding Genes and Chek2-Dependent Cancers	0.0	0	
+Selenium in plants: Molecular, Physiological, Ecological and Evolutionary Aspects	0.0	0	
+Selenium Webdriver in Vb.net: Learn With Examples	0.0	0	
+Selenium Testing Tools Complete Self-assessment Guide	0.0	0	
+Final Report: Baseline Selenium Monitoring of Agricultural Drains Operated by the Imperial Irrigation District in the Salton Sea Basin, California	0.0	0	
+Removal of Selenium from Water by Ion Exchange: Review of Literature and Brief Analysis (Classic Reprint)	0.0	0	
+Selenium Assessment in Aquatic Ecosystems: A Guide for Hazard Evaluation and Water Quality Criteria	0.0	0	
+Selenium as a Natural Antioxidant in Japanese Quail Diets	0.0	0	
+Selenium in Medicine and Biology: Proceedings of the Second International Congress on Trace Elements in Medicine and Biology March 1988, Avoriaz, Fr	0.0	0	
+Java微服务测试：基于Arquillian、Hoverfly、AssertJ、JUnit、Selenium与Mocki	0.0	1	
+Selenium WebDriver 3 实战宝典（Java版）	0.0	1	
+Selenium 3+Python 3自动化测试项目实战	0.0	0	
+Selenium3自动化测试实战——基于Python语言	0.0	1	

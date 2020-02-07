@@ -1,0 +1,701 @@
+Redis设计与实现	8.5	853	
+Redis开发与运维	8.9	244	
+Redis实战	8.0	358	
+Java EE互联网轻量级框架整合开发	7.6	63	
+Redis使用手册	0.0	8	
+Redis	7.2	12	
+Spring Boot实战派	9.4	12	
+Redis入门指南	7.8	257	
+Redis in Action	8.2	55	
+Redis Cookbook	6.7	95	
+Redis 深度历险：核心原理与应用实践	9.0	151	
+Redis入门指南（第2版）	7.5	121	
+Redis	0.0	0	
+Netty、Redis、Zookeeper高并发实战	0.0	4	
+Structured Storage	0.0	0	
+左手MongoDB，右手Redis——从入门到商业实战	8.3	19	
+Redis Essentials	7.7	11	
+Building Scalable Apps with Redis and Node.js	0.0	1	
+深入理解Redis	0.0	9	
+Redis 4.x Cookbook	0.0	3	
+Spring Data	0.0	2	
+Mastering Redis	0.0	2	
+Redis Applied Design Patterns	0.0	1	
+Redis5设计与源码分析	0.0	2	
+Raccolta Delle Poesie Di Francesco Redi.	0.0	0	
+Learning Redis	0.0	1	
+Lettere Di Francesco Redi	0.0	0	
+Bacco in Toscana Di Francesco Redi, Con Le Sue Annotazioni Con Laggiunta Di Minto	0.0	0	
+Gli Autografi Di Fracesco Redi	0.0	0	
+Elogio Di Francesco Redi	0.0	0	
+Gli Autografi Di Fracesco Redi	0.0	0	
+Gli Autografi Di Fracesco Redi	0.0	0	
+Elogio Di Francesco Redi	0.0	0	
+Bacco in Toscana Di Francesco Redi ...	0.0	0	
+Gli Autografi Di Fracesco Redi	0.0	0	
+Elogio Di Francesco Redi	0.0	0	
+Elogio Di Francesco Redi	0.0	0	
+Bacco in Toscana Di Francesco Redi, Con Le Sue Annotazioni Con Laggiunta Di Minto	0.0	0	
+Raccolta Delle Poesie Di Francesco Redi...	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Gli Autografi Di Fracesco Redi	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Bacco in Toscana Di Francesco Redi, Con Le Sue Annotazioni. Con L'Aggiunta Du CL. Brindisi Di Minto Accademico Filopono. E Delle Viti, E del Vino, Tr.	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere Di Francesco Redi, Volume 2	0.0	0	
+Opere de Francesco Redi, Volume 2	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere Di Francesco Redi ..., Volume 3	0.0	0	
+Opere Di Francesco Redi ..., Volume 1	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Poesie Toscane Di Francesco Redi Aretino	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Opere Di Francesco Redi, Volume 3	0.0	0	
+Opere Di Francesco Redi	0.0	0	
+Opere de Francesco Redi, Volume 4	0.0	0	
+I Salmi Di David Esposti in Versi Toscani Nel Senso Letterale Da Gregorio Redi	0.0	0	
+The Life of Sister Teresa Margaret Redi	0.0	0	
+The Life of Sister Teresa Margaret Redi	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Consulti E Opuscoli Minori Di Francesco Redi...	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Poesie Di Francesco Redi	0.0	0	
+Opere Di Francesco Redi ..., Volume 2...	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere de Francesco Redi, Volume 5...	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere Di Francesco Redi ...	0.0	0	
+Opere de Francesco Redi, Volume 6...	0.0	0	
+Opere Di Francesco Redi ..., Volume 6...	0.0	0	
+Opere Di Francesco Redi ... ...	0.0	0	
+Opere Di Francesco Redi, Volume 1...	0.0	0	
+Opere Di Francesco Redi ......	0.0	0	
+Endings & Beginnings	0.0	0	
+I Salmi Di David Esposti in Versi Toscani Nel Senso Letterale Da Gregorio Redi, Volume 1	0.0	0	
+Esperienze Intorno a Diverse Cose Naturali, e Particolarmente a Quelle, Che Ci Son Portate dall'Indie	0.0	0	
+Young Redi/el Joven Redi: Friendship!/amistad!	0.0	0	
+Rapid Redis	0.0	1	
+Francesco Redi: Un protagonista della scienza moderna	0.0	0	
+Redi Fox	0.0	0	
+Eritrea's External Relations	0.0	0	
+Eritrea's External Relations	0.0	0	
+Opuscoli Di Storia Naturale	0.0	0	
+Opere, Volume 9	0.0	0	
+Opuscoli Di Storia Naturale	0.0	0	
+La Coltivazione, Le API, Bacco in Toscana	0.0	0	
+Opere, Volume 3	0.0	0	
+A   Letter of Francesco Redi Concerning Some Objections Made Upon His Observations about Vipers Written to Monsieur Bourdelot ... and Monsieur Alexand	0.0	0	
+La Coltivazione, Le API, Bacco in Toscana	0.0	0	
+Opere, Volume 8	0.0	0	
+Opere, Volume 1	0.0	0	
+Bacco in Toscana Di Francesco Redi, Con Le Sue Annotazioni Con Laggiunta Di Minto	0.0	0	
+La Coltivazione, Le API, Bacco in Toscana	0.0	0	
+Fixateur-Externe-Osteosynthese	0.0	0	
+Opere, Volume 8	0.0	0	
+Chromosomes Today	0.0	0	
+La Coltivazione, Le API, Bacco in Toscana	0.0	0	
+Opuscoli Di Storia Naturale	0.0	0	
+Opuscoli Di Storia Naturale	0.0	0	
+Bacco in Toscana	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Voci, Maniere Di Dire, E Osservazioni Di Toscani Scrittori E Per La Maggior Parte del Redi, Volume 1	0.0	0	
+Lettere Di Francesco Redi ...	0.0	0	
+Lettere Di Giovanni Pagni	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Lexikon Der Deutschen Nationallitteratur	0.0	0	
+Voci, Maniere Di Dire, E Osservazioni Di Toscani Scrittori E Per La Maggior Parte del Redi	0.0	0	
+Opuscoli Di Storia Naturale	0.0	0	
+Experiments On the Generation of Insects	0.0	0	
+Bacco in Toscana, Elogio del Medesimo E La Svinatura	0.0	0	
+Lettere Di Giovanni Pagni	0.0	0	
+Lettere Di Giovanni Pagni	0.0	0	
+Bacco in Toscana Di Francesco Redi, Con Le Sue Annotazioni Con Laggiunta Di Minto	0.0	0	
+Voci Maniere Di Dire E Osservazioni Di Toscani Scrittori E Per La Maggior Parte del Redi, Volume 1	0.0	0	
+Opere, Volume 9...	0.0	0	
+Opere, Volume 3...	0.0	0	
+Opere, Volume 1...	0.0	0	
+Opere, Volume 3...	0.0	0	
+Opere, Volume 1...	0.0	0	
+Il Bacco in Toscana Di Francesco Redi E La Poesia Ditirambica, Con Un Appendice de Rime Inedite del Medesimo	0.0	0	
+Opere. in Questa Nuova Ed. Accresciute	0.0	0	
+POESIE TOSCANE DI FRANCESCO REDI ARETIN	0.0	0	
+OPERE DI FRANCESCO REDI ITALIAN EDITION	0.0	0	
+GLI AUTOGRAFI DI FRACESCO REDI ITALIAN	0.0	0	
+LETTERE DI FRANCESCO REDI ITALIAN EDITI	0.0	0	
+BACCO IN TOSCANA DI FRANCESCO REDI CON	0.0	0	
+Redi Jupi	0.0	0	
+FRANCISCI REDI NOBILIS ARETINI EXPERIME	0.0	0	
+Lettere Di Giovanni Pagni	0.0	0	
+Bacco in Toscana, Elogio del Medesimo E La Svinatura	0.0	0	
+Prose Scelte	0.0	0	
+Consulti Medici. in Questa Nuova Ed. Accresciute	0.0	0	
+Scelta Di Lettere Familiari ... Precedute Da Un Cenno Intorno Allo Studio Della Lingui Italiani ...	0.0	0	
+Riflessioni Sul Perdimento Della Specie E Discorso Sui Progressi Dello Studio Della Conchiologia Fossile Italiana	0.0	0	
+Your Home. Redi-Cut	0.0	0	
+1626 Births	0.0	0	
+Bacchus in Tuscany; A Dithyrambic Poem	0.0	0	
+Florentina Beatificationis Et Canonizationis V. S. D. Soror. Theresiae Margaritae Redi a Corde Jesu Ord. Carmel	0.0	0	
+Opere. in Questa Nuova Ed. Accresciute	0.0	0	
+An  Introduction to the Italian Languaje; Containing Specimens Both of Prose and Verse, Selectes from Francesco Redi, Galileo Galilei,	0.0	0	
+Experiments on the Generation of Insects	0.0	0	
+The Life of Sister Teresa Margaret Redi. Tr. from the Ital.	0.0	0	
+Opere. in Questa Nuova Ed. Accresciute	0.0	0	
+La Coltivazione Di Luigi Alamanni	0.0	0	
+Esperienzie Intorno a Diverse Cose Naturali, E Particolarmente a Quelle, Che CI Son Portate Dall'indie	0.0	0	
+Francisci Redi, Nobilis Aretini, Experimenta Circa Res Diversas Naturales, Speciatim Illas, Quae Ex Indiis Adferuntur. Ex Italico Latinitate Donata	0.0	0	
+A   Collection of Treatises Relating to the City and Waters of Bath. ... All Written by the Learned Thomas Guidott, ... to Which Is Added, Therm] Redi	0.0	0	
+Opere, Volume 3	0.0	0	
+Raccolta Delle Poesie	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Xpress Redi Set Go Recipes Anyone Can Learn	0.0	0	
+Ortografia Moderna Italiana Per USO del Seminario Di Padova...	0.0	0	
+Consulti Medici...	0.0	0	
+SEI Odi Inedite	0.0	0	
+San Francisco Redi-Vivus! an Open Letter to All San Franciscans and All Californians	0.0	0	
+Opere Di Francesco Redi Gentiluomo Aretino X Accademico Della Crusca...	0.0	0	
+Opere, Volume 4	0.0	0	
+Opere Varie	0.0	0	
+Opere, Volume 2	0.0	0	
+Florentina Beatificationis Et Canonizationis V. S. D. Soror. Theresiae Margaritae Redi a Corde Jesu Ord. Carmel ......	0.0	0	
+Experiments on the Generation of Insects	0.0	0	
+Opere, Volume 6...	0.0	0	
+Opere	0.0	0	
+Opere, Volume 5...	0.0	0	
+Elogio Di Francesco Redi...	0.0	0	
+Abr G de La Vie de La Servante de Dieu, Soeur Th R Se-Marguerite Redi Du Coeur de J Sus......	0.0	0	
+Opere	0.0	0	
+Opere	0.0	0	
+Opere, Volume 4...	0.0	0	
+Opere, Volume 4...	0.0	0	
+Opere	0.0	0	
+Opere, Volume 2...	0.0	0	
+Opere, Volume 6...	0.0	0	
+Opere, Volume 7...	0.0	0	
+Opere, Volume 2...	0.0	0	
+Opere, Volume 5...	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Opere, Volume 7...	0.0	0	
+Opere. in Questa Nuova Ed. Accresciute...	0.0	0	
+Opere, Volume 5...	0.0	0	
+Opere, Volume 6...	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Opere, Volume 2...	0.0	0	
+Lettere Di Giovanni Pagni	0.0	0	
+Opere	0.0	0	
+Histoire de La Domination Des Arabes Et Des Maures En Espagne Et En Portugal, Depuis L'Invasion de Ces Peuples Jusqu'a Leur Expulsion Definitive. Redi	0.0	0	
+Il Ritorno Di Tobia	0.0	0	
+Il Bacco in Toscana Di Francesco Redi E La Poesia Ditirambica, Con Un Appendice de Rime Inedite del Medesimo	0.0	0	
+Bacchus in Tuscany. a Dithyrambic Poem, from the Italian of Francesco Redi, with Notes Original and Select	0.0	0	
+Scelte Poesie E Prose...	0.0	0	
+Bacchus in Tuscany - Dithyrambic Poem, from the Italian of Francesco Redi, with Notes Original and Select	0.0	0	
+Defensa y ocupaciï¿½n del espacio 1807-1821	0.0	0	
+Redi, Connecting Colorado's Renewable Resources to the Markets in a Carbon-Constrained Electricity Sector	0.0	0	
+Renewable Energy Development Infrastructure, Redi, Project Regulatory and Economic Analysis	0.0	0	
+Histoire de La Domination Des Arabes Et Des Maures En Espagne Et En Portugal, Depuis L'Invasion de Ces Peuples Jusqu'a Leur Expulsion Definitive. Redi	0.0	0	
+Histoire de La Domination Des Arabes Et Des Maures En Espagne Et En Portugal, Depuis L'Invasion de Ces Peuples Jusqu'a Leur Expulsion Definitive. Redi	0.0	0	
+Histoire de La Domination Des Arabes Et Des Maures En Espagne Et En Portugal, Depuis L'Invasion de Ces Peuples Jusqu'a Leur Expulsion Definitive. Redi	0.0	0	
+Assessment of Teachers' Turnover	0.0	0	
+Florentina Beatificationis Et Canonizationis V. S. D. Soror. Theresiae Margaritae Redi a Corde Jesu Ord. Carmel ......	0.0	0	
+Opere Varie	0.0	0	
+FRANCISCI REDI NOBILIS ARETINI EXPERIME	0.0	0	
+LETTERE DI FRANCESCO REDI	0.0	0	
+Tommaso Redi	0.0	0	
+F Redi Randev	0.0	0	
+Biologia della riproduzione. Tecnica ed etica	0.0	0	
+Biologia delle cellule staminali. Opportunit&agrave; e limiti di impiego	0.0	0	
+PARNASO ITALIANO REDI SOLDANI ROSA MENZ	0.0	0	
+IL BACCO IN TOSCANA DI FRANCESCO REDI E	0.0	0	
+Pro Java Clustering and Scalability: Building Real-Time Apps with Spring, Cassandra, Redis, WebSocket and RabbitMQ	0.0	0	
+Redis 4.x Cookbook中文版	7.2	19	
+Bacco in Toscana	0.0	0	
+Osservazioni intorno alle vipere	0.0	0	
+Bacco in Toscana	0.0	0	
+Bacchus in Tuscany	0.0	0	
+Experiments on the Generation of Insects	0.0	0	
+Scelta di Curiosità Letterarie Inedite o Rare dal Secolo XIII al XVII	0.0	0	
+NoSQL数据库入门与实践（基于MongoDB、Redis）	0.0	2	
+【预订】An Introduction to the Italian Language: Containing Specimens Both of Prose and Verse; Selected from Francesco Redi, Galileo Galilei, Eustachio Manfre	0.0	0	
+Guido Redi	0.0	0	
+Young Redi: Friendship!	0.0	0	
+Redi Fox: Friendship	0.0	0	
+从零开始学Redis	0.0	0	
+From the Sacred Heart to the Trinity	0.0	0	
+NoSQL数据库技术实战	5.4	16	
+重新发现制度	7.9	43	
+再分配，还是承认？	7.8	21	
+重寻圣洁	9.2	23	
+Redistribution or Recognition?	0.0	6	
+Rediscoveries in Art (Wrightsman Lectures)	0.0	0	
+Rediscovering China	0.0	3	
+Rediscover Grammar	0.0	6	
+Rediscovering Mathematics	0.0	0	
+Rediscovering Aesthetics	0.0	0	
+Rediscovering Empathy	0.0	2	
+Red is Not the Only Color	0.0	2	
+Rediscovering Geography	0.0	1	
+Rediscovering Dharavi	0.0	1	
+Rediscovering Phenomenology	0.0	0	
+Rediscovering Architecture	0.0	1	
+Rediscovering the Social Group	0.0	1	
+Red Is a Dragon	0.0	3	
+Rediscovering Japanese Space	0.0	1	
+Rediscovering Americanism	0.0	0	
+Rediscovering JavaScript	0.0	0	
+Rediscovering Stanislavsky	0.0	1	
+Rediscovering Interlanguage	0.0	0	
+Rediscovery of Awe	0.0	1	
+Rediscovering Wen Tingyun	0.0	0	
+Redistribution or Recognition?	0.0	0	
+Rediscovering Rikyu	0.0	1	
+Red Is Best	0.0	2	
+Rediscovering Russia in Asia	0.0	0	
+Rediscovering Fuller	0.0	0	
+Red Is for Remembrance	0.0	1	
+Rediscovering America	0.0	0	
+Rediscovering a Lost Freedom	0.0	0	
+Rediscovering the World	0.0	0	
+Redistributing Happiness	0.0	1	
+Rediscovering America	0.0	0	
+Redisplaying Museum Collections	0.0	0	
+Rediscovery Of Shamanic Heritage	0.0	0	
+Rediscovering Magical Realism in the Americas	0.0	0	
+Rediscovering Old Takkaido	0.0	1	
+Rediscovering the Parables	0.0	0	
+Rediscoveries in art	0.0	0	
+Rediscovering the Natural Law in Reformed Theological Ethics	0.0	0	
+Rediscovering Slobodkina	0.0	1	
+Rediscovering Value	0.0	1	
+Rediscovering Lafcadio Hearn	0.0	0	
+Rediscovering Church	0.0	1	
+Rediscovering Apprenticeship	0.0	0	
+Rediscovery of North America	0.0	0	
+Rediscovering Masculinity	0.0	0	
+Rediscovering Forgotten Radicals	0.0	0	
+Rediscovering Fernande Decruck's Sonate En UT# Pour Saxophone Alto	0.0	1	
+Rediscovering the Traditions of Israel, Third Edition	0.0	0	
+Redistribution or Recognition?	0.0	0	
+Rediscovering Pastoral Ministry	0.0	1	
+Rediscovering Armenia	0.0	0	
+Rediscovering the Ancient World on the Bay of Naples, 1710-1890	0.0	1	
+Rediscovering Black Conservatism	0.0	0	
+Rediscovering Art Deco U.S.A.	0.0	0	
+Rediscovering Holiness	0.0	0	
+Rediscovering the Buddha	0.0	0	
+Rediscovered masterpieces of Mesoamerica	0.0	6	
+Rediscovering Apprenticeship	0.0	0	
+Rediscovering Religious Human Rights in Myanmar	0.0	0	
+Rediscovering Natsume Soseki	0.0	0	
+Rediscovering the Umma	0.0	0	
+Rediscovering Phenomenology	0.0	0	
+Rediscovering Confucianism	0.0	0	
+原來如此(1)：還原聖經希伯來脈絡，重現基督教信仰精義	0.0	1	
+Rediscovering Hellenism	0.0	0	
+Rediscovering Colors - A Study in Pollyanna Realism (PHILOSOPHICAL STUDIES SERIES Volume 88) (Philosophical Studies Series)	0.0	0	
+Rediscovering Homer	0.0	0	
+Rediscovering Homer	0.0	0	
+Rediscovering the British World	0.0	0	
+Rediscovery of the Ordinary	0.0	0	
+Rediscovering a Lost Freedom	0.0	0	
+Red Is for Remembrance (Blue Is for Nightmares)	0.0	0	
+Rediscovering The Golden State	0.0	0	
+Rediscovering Basho	0.0	0	
+Rediscovering the Missing Jewel	0.0	0	
+Rediscovering Women Philosophers	0.0	0	
+Rediscovering Jesus	0.0	0	
+Red Is the Color of My True Love's Neck	0.0	0	
+Redistricting	0.0	0	
+Rediscovering the West	0.0	0	
+Rediscovering The South's Celtic Heritage	0.0	0	
+Red is Best	0.0	0	
+Rediscovering the Jewish Holidays	0.0	0	
+Rediscovering Abundance	0.0	0	
+Rediscovering Cuba	0.0	0	
+Rediscovering Mixed-Use Streets	0.0	0	
+Rediscovering God in America	0.0	0	
+REDISCOVERY OF THE BODY - A Psychomatic View of Life and Death	0.0	0	
+Redistricting in Comparative Perspective	0.0	0	
+Red Is a Dragon	0.0	1	
+Rediscover Your Heart	0.0	0	
+Rediscovering Love	0.0	0	
+Re-Discovering Schumpeter	0.0	0	
+Rediseno Y Desarrollo De Sitios Web/redesign And Development of Websites (Diseno Y Creatividad) (Spanish Edition)	0.0	0	
+Rediscovery of Pre-Columbian Textiles	0.0	0	
+Rediscovering Mordecai Gorelik	0.0	0	
+Rediscovering God in America	0.0	0	
+Rediscovering the Past in the Present	0.0	0	
+Rediscovering Hope	0.0	0	
+Rediscovering America's Sacred Ground	0.0	0	
+Rediscovering Easter Island	0.0	0	
+Rediscovering Astronomy	0.0	0	
+Rediscovering S. P. Rolt Triscott	0.0	0	
+Rediscovering Catholicism	0.0	0	
+Rediscovering Art Deco USA	0.0	0	
+Rediscovering Art Deco U.S.A	0.0	0	
+Rediscovering the Religious Factor in American Politics	0.0	0	
+Rediscovering Judaism	0.0	0	
+Rediscovering the History of Psychology	0.0	0	
+Rediscovered Lewis Carroll Puzzles	0.0	0	
+Rediscovering Japanese Business Leadership	0.0	0	
+Rediscovering Japan, Reintroducing Christendom	0.0	0	
+Rediscovering Values	0.0	0	
+Rediscovering Sacred Science	0.0	0	
+Rediscovery of Hakim Omar Khayyam	0.0	0	
+Rediscovering Our Spiritual Gifts	0.0	0	
+Rediscovered Duke Ellington	0.0	0	
+Rediscovering Vardis Fisher	0.0	0	
+Rediscovering Fra Angelico	0.0	0	
+Rediscovering the Moral Life	0.0	0	
+Rediscovering Values	0.0	0	
+Rediscovering the Law of Negligence	0.0	0	
+Redistricting and Minority Representation	0.0	0	
+Rediscovering Vinland	0.0	0	
+Rediscover Yourself	0.0	0	
+Rediscovering Budo	0.0	0	
+Rediscovering Groups	0.0	0	
+Rediscovering Phenomenology	0.0	0	
+Rediscovering Volcanoes Including Plate Tectonics, Hotspots, Features, Erupted Materials, Maritime Impacts of Volcanic Eruptions, and More	0.0	0	
+Rediscovering Various Types of Transportation Including Its History, Economic Impact, Other Functions Such as Containerization, Shipping, and More	0.0	0	
+Rediscovering the Other America	0.0	0	
+Rediscovering Thomas Adams	0.0	0	
+Rediscovering the Philosophical Importance of Jose Ingenieros - A Bridge Between Two Worlds- Jose Ingenieros and His Impact	0.0	0	
+Red is the Royal Blood	0.0	0	
+Red is the Royal Blood	0.0	0	
+Red is for Murder	0.0	0	
+Rediscovering the Words of Faith	0.0	0	
+Rediscoveries in Children's Literature	0.0	0	
+Rediscovering Life	0.0	0	
+Rediscovering Mrs. Murphy	0.0	0	
+Rediscovering Mrs. Murphy	0.0	0	
+Rediscovering Values	0.0	0	
+Rediscovering Values	0.0	0	
+Rediscovering the Kingdom	0.0	0	
+Rediscovering Values	0.0	0	
+Redistricting, Including	0.0	0	
+Rediscovered Treasures Outdoors	0.0	0	
+(re)Discover the Joy of Creative Writing	0.0	0	
+Red is the Rose	0.0	0	
+Rediscovering Birth	0.0	0	
+Redistricting, Including	0.0	0	
+Redistricting, Including	0.0	0	
+Redistricting, Including	0.0	0	
+Rediscover the Power of Your Identity	0.0	0	
+Rediscovery of the Earth/13824	0.0	0	
+Rediscovering the Words of Faith	0.0	0	
+Rediscovering American Values	0.0	0	
+Rediscovering Aquinas and the Sacraments	0.0	0	
+Rediscovering Our Spiritual Gifts	0.0	0	
+Rediscovered Treasures	0.0	0	
+Rediscounting with the Federal Reserve Bank of St. Louis	0.0	0	
+Rediscovering Hemingway in Bangladesh and India, 1971-2006	0.0	0	
+Rediscovering Social Identity	0.0	0	
+Rediscovering Social Identity	0.0	0	
+Rediscovering Empathy	0.0	0	
+Rediscovering Your Happily Ever After	0.0	0	
+Rediscovering Masterpieces	0.0	0	
+Rediscovering the Kingdom	0.0	0	
+Rediscovery	0.0	0	
+Red is Best	0.0	0	
+Rediscovering Collective Bargaining	0.0	0	
+Redisena Tu Vida	0.0	0	
+Rediscovering Antiquity	0.0	0	
+Rediscovering the New World	0.0	0	
+Rediscovering Catechism	0.0	0	
+Rediscoveries and Reformulations	0.0	0	
+Rediscovering Prophecy	0.0	0	
+Rediscovering Passover	0.0	0	
+Rediscovery	0.0	0	
+Rediscovery	0.0	0	
+Re-discovering America	0.0	0	
+Re-discovering America	0.0	0	
+Rediscovering the Mystic Stonehenge of Wiltshire	0.0	0	
+Rediscovering Palestine	0.0	1	
+Rediscovering Northwest Denver	0.0	0	
+Red Is the Color Of...	0.0	0	
+Rediscovering the Lord's Prayer	0.0	0	
+Rediscovery of Apocalyptic	0.0	0	
+Rediscovering Daily Graces	0.0	0	
+Rediscovered Treasures for Violin, Cello and Piano	0.0	0	
+Redistricting	0.0	0	
+Rediscovering Sarah Grand's 'The Heavenly Twins'	0.0	0	
+Rediscoveries	0.0	0	
+Rediscoveries	0.0	0	
+Redistricting	0.0	0	
+Rediscovering the Adolescent; A Study of Personality Development in Adolescent Boys	0.0	0	
+Rediscovering_inida_a_sketch_of_the_religious_sects_of_the_h	0.0	0	
+Rediscovering the Adolescent; A Study of Personality Development in Adolescent Boys	0.0	0	
+Rediscovering the Eucharist	0.0	0	
+Rediscovering the Past at Mexico's Periphery	0.0	0	
+Rediscover I Ching	0.0	0	
+Rediscovering Geography	0.0	0	
+Rediscovering the Parables	0.0	0	
+Rediscovery of Creation A Bibliographic Study of the Church's Response to the Environmental Crisis	0.0	0	
+Rediscovering the Lord's Prayer	0.0	0	
+Rediscovering God with Transcendental Argument	0.0	0	
+Rediscovering America's Sacre CB	0.0	0	
+Rediscovering the Philosophical Roots of Educational Psychology	0.0	0	
+Rediscovering the Church	0.0	0	
+Redistribution A Silent Counter-revolution	0.0	0	
+Redistribution How Can it Work in South Africa?	0.0	0	
+Rediscovering South Africa The Unreliable Guide	0.0	0	
+Rediscovering Paul	0.0	1	
+Rediscovering History	0.0	0	
+Rediscovering History	0.0	0	
+Rediscovery of Glastonbury	0.0	0	
+Rediscovering Faith	0.0	0	
+Rediscovering Kingdom Worship	0.0	0	
+Rediscovering the Kingdom Personal Development Kit	0.0	0	
+Rediscovering the Kingdom Volume 3	0.0	0	
+Rediscovering the Kingdom Volume 4	0.0	0	
+Rediscovering the Kingdom Volume 5	0.0	0	
+Rediscovering the Ethnic Trails Untold	0.0	0	
+Rediscovery of America	0.0	0	
+Rediscovery of America	0.0	0	
+Re-distribution of Authority	0.0	0	
+Redistricting and Minority Representation	0.0	0	
+Rediscovering Friendship	0.0	0	
+Rediscovering Thomas Adams	0.0	0	
+Rediscovering the Forgotten Vienna Circle	0.0	0	
+Rediscovering Birth	0.0	0	
+Rediscovering the Other America	0.0	0	
+Rediscovering Reverence	0.0	0	
+Rediscovering Political Economy	0.0	0	
+Rediscovering Political Economy	0.0	0	
+Redistricting in the New Millennium	0.0	0	
+Rediscovering the Role of the State	0.0	0	
+Redistribution of Blood Volume During the Onset of Deoxycorticosterone Acetate-Salt Hypertension.	0.0	0	
+Redistribution of Blood Flow Following a Branch Retinal Artery Occlusion.	0.0	0	
+Rediscovering the New Testament Church	0.0	0	
+Re-Dis-Covering Identity	0.0	0	
+Rediscovering_inida_a_sketch_of_the_religious_sects_of_the_h	0.0	0	
+Redistricting Litigation	0.0	0	
+Re Di Sardegna	0.0	0	
+Re Di Scozia	0.0	0	
+Re Di Sicilia	0.0	0	
+Re Di Spagna	0.0	0	
+Re Di Svezia	0.0	0	
+Rediscovering Gods Love	0.0	0	
+Rediscovering Family	0.0	0	
+Rediscovering My Inner Bitch	0.0	0	
+Rediscovering the American Republic	0.0	0	
+Rediscovery of the Old Testament	0.0	0	
+Rediscovering Hope in the Heart	0.0	0	
+Re-discovering Medieval Realms Britain, 1066-1500 Students' Book	0.0	0	
+Re-discovering Medieval Realms Britain, 1066-1500 Teacher's Book	0.0	0	
+Re-discovering the Making of the UK Britain, 1500-1750 Students' Book	0.0	0	
+Re-discovering the Making of the UK Britain, 1500-1750 Teacher's Book	0.0	0	
+Re-discovering Britain, 1750-1900  Students' Book	0.0	0	
+Re-discovering the Twentieth Century World A World Study After 1900 Students' Book	0.0	0	
+Re-discovering the Twentieth Century World A World Study After 1900 Teacher's Book	0.0	0	
+Rediscovering the Democratic Purposes of Education	0.0	0	
+Rediscovering the Democratic Purposes of Education	0.0	0	
+Rediscovering My Inner Bitch	0.0	0	
+Rediscovering Your Divine Music	0.0	0	
+(re)Discover the Joy of Creative Writing	0.0	0	
+Rediscovering Family Worship	0.0	0	
+Rediscover Catholicism	0.0	0	
+Rediscovering the Divine Art of Kingdom Conception and Manifestation	0.0	0	
+Redistribution Effect of Introducing Census 2000 Data Into the Cdbg Formula	0.0	0	
+Rediscovering Jesus	0.0	0	
+Rediscovering the Church	0.0	0	
+Rediscovering Jesus	0.0	0	
+Redistribution of Particulates on a Payload During Flight Ascent	0.0	0	
+Rediscovering Faith	0.0	0	
+Rediscovering Various Types of Aircrafts Including Its History, Methods for Lifting, Uses of Aircrafts and More	0.0	0	
+Rediscovering Kingdom Healing	0.0	0	
+Rediscovering India - The Garuda Purana	0.0	0	
+Red Is Best	0.0	0	
+Rediscovering the Soul of Leadership	0.0	0	
+Re-Discovering Holiness	0.0	0	
+Rediscovering the Master and Discipleship	0.0	0	
+Re-Discovering Holiness	0.0	0	
+Rediscovering the Rosary	0.0	0	
+Red Is the Room	0.0	0	
+Rediscovering Rawlings, a River and Time	0.0	0	
+Rediscovering a Pearl of Great Price	0.0	0	
+Rediscovering Revelation	0.0	0	
+Rediscovering Revelation	0.0	0	
+Rediscover America! Growing Up in the 40's	0.0	0	
+Rediscovering the British Empire	0.0	0	
+Rediscounting with the Federal Reserve Bank of St. Louis...	0.0	0	
+Rediscovering the Muses Women's Musical Traditions	0.0	0	
+Rediscovering Russia in Asia	0.0	0	
+Rediscovering God in America	0.0	0	
+Rediscovering Paul	0.0	0	
+Rediscovering Hope in Reality Jaded	0.0	0	
+Rediscovering God in America	0.0	0	
+Rediscovering God in America II	0.0	0	
+Rediscovering Identity	0.0	0	
+Rediscovering God in America	0.0	0	
+Rediscovering the Apostle Paul	0.0	0	
+Rediscovering the Lord's Supper	0.0	0	
+Rediscovering America	0.0	0	
+Re-Discovering Glass Forming Techniques Including Ancient Glass Trade, Commercial, Artistic, and Historic Methods	0.0	0	
+Rediscovering the Blight of the Titanic	0.0	0	
+Rediscovering the Antarctica Including History, Demographics, and Tourism	0.0	0	
+Red Is a Dragon	0.0	0	
+Rediscovering Prayer in the Light of Scripture	0.0	0	
+Rediscovering the Church Fathers	0.0	1	
+Rediscovering Paul An Introduction to His World, Letters and Theology	0.0	0	
+Rediscover Your Heart 12 Keys to Help You Survive the Modern World	0.0	0	
+REDISCOVER YOUR HEART	0.0	0	
+REDISCOVERING GROUPS	0.0	0	
+Rediscovering Public Library Management	0.0	0	
+Rediscovering Rhetoric	0.0	0	
+Rediscover Advent	0.0	0	
+Rediscover Lent	0.0	0	
+Rediscover Lent	0.0	0	
+Rediscovering the American Dream	0.0	0	
+Rediscovering Life	0.0	0	
+Rediscovering Life	0.0	0	
+Rediscovering the Trinity in the Local Congregation	0.0	0	
+Rediscovering Art	0.0	0	
+Rediscovery	0.0	0	
+Rediscovering the Khmers	0.0	0	
+Rediscovering Revernce, the Path to Intimacy	0.0	0	
+Rediscover Church	0.0	0	
+Rediscovering Armenia	0.0	0	
+Rediscovering Wen Tingyun	0.0	0	
+Rediscovering Oscar Wilde	0.0	0	
+Redistribution Effect of Introducing Census 2000 Data Into the Cdbg Formula	0.0	0	
+Rediscovering America's Values	0.0	0	
+Rediscovering Swami Vivekananda in the 21st Century Discourse	0.0	0	
+Rediscovering Sustainability Economics of the Finite Earth	0.0	0	
+Rediscovering Holiness	0.0	0	
+Rediscovering the Impact of Jesus' Death Clues from the Gospel Audiences	0.0	0	
+Rediscovery of a Saibante Papyrus, Princeton University Library, Garrett Dep. 1454	0.0	0	
+Rediscovering the Hindu Temple	0.0	0	
+Rediscovering the Hidden World	0.0	0	
+Rediscovering the Hidden World	0.0	0	
+Rediscoveries and Reformulations	0.0	0	
+Rediscovering Pastoral Care	0.0	0	
+Rediscovering Aesthetics	0.0	0	
+REDISCOVERING AMERICA PA	0.0	0	
+Rediscovering Psychoanalysis	0.0	0	
+Rediscovering Psychoanalysis	0.0	0	
+Rediscovering American Values	0.0	0	
+Rediscovering Mary	0.0	0	
+Rediscovering Nancy Drew	0.0	0	
+Rediscovering the Triune God	0.0	0	
+Rediscovering the Power of Repentance & Forgiveness	0.0	0	
+Rediscovering the Kingdom Volume 1	0.0	0	
+Rediscovering the Kingdom	0.0	0	
+Rediscovering Europe in the Netherlands	0.0	0	
+Redistricting and Representation	0.0	0	
+Rediscovering Faith	0.0	0	
+Redistricting and Representation	0.0	0	
+Rediscovering God in America	0.0	0	
+Rediscovering the Kingdom	0.0	0	
+Rediscovering God's Church	0.0	0	
+Rediscovering Lone Pine	0.0	0	
+Rediscovering Traces of Memory	0.0	0	
+Rediscovering the Harlem Renaissance	0.0	0	
+Rediscovering the Law of Negligence	0.0	0	
+Rediscovering God With Transcendental Argument	0.0	0	
+Rediscovering the Religious Factor in American Politics	0.0	0	
+Red is the Color	0.0	0	
+Rediscovering Emotion	0.0	0	
+Rediscovering Confession	0.0	0	
+Rediscovering Hurricanes	0.0	0	
+Rediscovering New Testament Prayer	0.0	0	
+Red Is for Remembrance	0.0	0	
+Rediscovering Paul	0.0	0	
+Rediscovering the Spirit of Education After Scientific Management	0.0	0	
+Rediscovering the Spirit of Education After Scientific Management	0.0	0	
+Re-discovering Charity	0.0	0	
+Rediscovering America	0.0	0	
+Redistribution of Seats ACT 1885	0.0	0	
+Re-distribution from Above	0.0	0	
+Rediscovering Antiquity Karl Weber and the Excavation of Herculaneum, Pompeii and Stabiae	0.0	0	
+Rediscovering Eve	0.0	0	
+Rediscovering Eve	0.0	0	
+Rediscovering the Gospel	0.0	0	
+Rediscovering Japanese Motherhood	0.0	0	
+Redise O de Un Filtro de Mallas Giratorio Para Tratamientos de Aguas	0.0	0	
+Re-Dise Ando Las Pymes	0.0	0	
+Rediscovering a Forgotten Voice	0.0	0	
+Rediscovering Bradford	0.0	0	
+Rediscovering the Properties of Hydrogen Including Its Properties, Productions, Biological Reactions, Applications, and Its Handling	0.0	0	
+Redise O de La Red de Monitoreo En Zona Metropolitana de Guadalajara	0.0	0	
+Rediscovering Europe	0.0	0	
+Rediscovering Traces of Memory	0.0	0	
+Rediscovering Values A Moral Compass For the New Economy	0.0	0	
+Rediscovering Values In The City, Our Towns and Your Community	0.0	0	
+Rediscovering Prayer	0.0	0	
+Rediscovering Genesis	0.0	0	
+Rediscovering Genesis	0.0	0	
+Rediscovering the Prairies Journeys by Dog, Horse and Canoe	0.0	0	
+RE-DISCOVERY OF THE OLD TESTAMENT	0.0	0	
+Redistribution Des Revenus	0.0	0	
+Redistribution Des Richesses	0.0	0	
+REDISCOVERING THE ADOLESCENT A STUDY OF	0.0	0	
+Redistricting	0.0	0	
+Rediscovering Swami Vivekananda	0.0	0	
+Rediscovering Rural Development	0.0	0	
+REDISCOVERIES	0.0	0	
+Redistribuzione o riconoscimento? Una controversia politico-filosofica	0.0	0	
+Rediscovering the Principle of Kingdom Citizenship	0.0	0	
+Rediscovering Margiad Evans	0.0	0	
+Redisham	0.0	0	
+Redistribution	0.0	0	
+Rediscovering the Forgotten Vienna Circle	0.0	0	
+Rediscovering the Umma	0.0	0	
+Rediscovering the Roots of Chinese Thought	0.0	0	
+Rediscovering... the Orpington Car The Definitive Guide	0.0	0	
+Rediscoving African-American Poetry	0.0	0	
+Rediscovering African American Poetry	0.0	0	
+Rediscovering Friendship	0.0	0	
+Rediscovering the Kingdom	0.0	0	
+Red Is Good	0.0	0	
+Rediscounting with the Federal Reserve Bank of St. Louis	0.0	0	
+Rediscovering the West	0.0	0	
+Redistribution or Recognition?	0.0	0	
+Rediscovering the Integral Cosmos: Physics, Metaphysics, and Vertical Causality	0.0	0	
+Redistricting	0.0	0	
+Redistricting	0.0	0	
+REDISTRIBUCION O RECONOCIMIENTO	0.0	0	
+Rediscovering Voluntary Action: The Beat of a Different Drum	0.0	0	
+(Re)Discovering University Autonomy: The Global Market Paradox of Stakeholder and Educational Values in Higher Education	0.0	0	
+Rediscovering the History of Psychology: Essays Inspired by the Work of Kurt Danziger	0.0	0	
+Red Is Beautiful	0.0	0	
+Redisenando el futuro/ Redesining the Future	0.0	0	
+Rediscovering the Immune System as an Integrated Organ	0.0	0	
+Rediscovering the Immune System as an Integrated Organ	0.0	0	
+(Re)Discovering 'America': Road Movies and Other Travel Narratives in North America = (Re)Descubriendo 'America': Road Movie y Otras Narrativas de Viaje En America del Norte	0.0	0	
+Rediscovering Hope: A Step-by-Step Guide to Using Flat Cloth Diapers	0.0	0	
+Rediscover the Hidden New Jersey	0.0	0	
+Rediscover Island of Puerto Rico	0.0	0	
+Rediscovering Masculinity: Reason, Language and Sexuality	0.0	0	
+Rediscovering Heritage through Artefacts, Sites, and Landscapes: Translating a 3500-year Record at Ritidian, Guam	0.0	0	
+Re-discover Yourself: Bounce Back After Divorce	0.0	0	
+Rediscovering Genetics: A Laboratory Manual	0.0	0	
+Rediscovering Grounded Theory	0.0	0	
+(Re)Discovering University Autonomy: The Global Market Paradox of Stakeholder and Educational Values in Higher Education	0.0	0	
+Rediscovering Charlie	0.0	0	
+Rediscovering Gold in the 21st Century: The Complete Guide to the Next Gold Rush	0.0	0	
+Rediscovering Colors: A Study in Pollyanna Realism	0.0	0	
+Rediscovering National Parks in the Spirit of John Muir	0.0	0	
+Re-Distributionsmanagement. M glichkeiten, Chancen Und Probleme	0.0	0	
+Rediscovering Identity	0.0	0	
+Rediscovering Confession: The Practice of Forgiveness and Where it Leads	0.0	0	
+Rediscover Redefine Redesign: Creating Sanctuaries in Your Mind and Home	0.0	0	
+Rediscovering Social Economics: Beyond the Neoclassical Paradigm	0.0	0	
+Rediscovering God in America: Reflections on the Role of Faith in Our Nation's History and Future	0.0	0	
+Rediscovering the Prophetic	0.0	0	
+Rediscover the Lost Gita	0.0	0	
+Rediscovered Bean	0.0	0	
+Rediscovering Travel: A Guide for the Globally Curious	0.0	0	
+Red Is Good: Transformational Changes for Us Air Force Aircraft Maintenance: Maxwell Paper No. 46	0.0	0	
+Rediscovering Jacob Riis	0.0	0	
+Rediscovering Jacob Riis	0.0	0	
+Rediscovering Lenin	0.0	0	
+Rediscovering Political Friendship	0.0	0	
+Rediscovering the Sacred	0.0	0	
+Rediscovering Korean Cinema	0.0	0	
+Rediscovering Korean Cinema	0.0	0	

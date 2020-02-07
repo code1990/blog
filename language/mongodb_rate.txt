@@ -1,0 +1,91 @@
+MongoDB权威指南	7.6	623	
+MongoDB权威指南（第2版）	8.1	125	
+MongoDB实战	8.0	134	
+MongoDB	8.0	127	
+深入学习MongoDB	7.3	104	
+MongoDB	0.0	7	
+MongoDB管理与开发精要	7.1	28	
+Scaling MongoDB	8.5	35	
+50 Tips and Tricks for MongoDB Developers	6.8	28	
+Mongodb	0.0	0	
+MongoDB in Action	7.5	23	
+MongoDB and Python	6.9	34	
+The Definitive Guide to MongoDB	7.6	18	
+MongoDB管理与开发实战详解-深入云计算	0.0	2	
+MongoDB Applied Design Patterns	7.1	15	
+MongoDB in Action	8.3	10	
+MongoDB实战(第二版)	6.2	14	
+Node.js+MongoDB+AngularJS Web开发	5.8	15	
+大数据存储MongoDB实战指南	5.4	22	
+Building Node Applications with MongoDB and Backbone	0.0	9	
+MongoDB应用设计模式	6.0	12	
+MongoDB管理与开发精要	0.0	2	
+MongoDB大数据处理权威指南（第2版）	6.4	14	
+MongoDB for Web Development	0.0	0	
+The Definitive Guide to MongoDB	0.0	3	
+Node.js, MongoDB, and AngularJS Web Development	0.0	7	
+全栈开发之道	5.5	26	
+MongoDB权威指南（第二版）	0.0	9	
+Document Design for MongoDB	0.0	0	
+Mastering MongoDB 4.x - Second Edition	0.0	1	
+MongoDB and PHP	0.0	2	
+Ruby and MongoDB Web Development Beginner's Guide	0.0	4	
+左手MongoDB，右手Redis——从入门到商业实战	8.3	19	
+Web Development with MongoDB and Node.js	0.0	2	
+The Little MongoDB Book	0.0	6	
+MongoDB实战 架构、开发与管理	0.0	2	
+MongoDB入门经典	0.0	7	
+MongoDB大数据处理权威指南（第3版）	0.0	2	
+Node应用程序构建	0.0	6	
+Practical MongoDB: Architecting, Developing, and Administering MongoDB	0.0	1	
+MongoDB and Python	0.0	1	
+MongoDB Sag ja zu NoSQL	0.0	0	
+PHP and Mongodb Web Development Beginner's Guide	0.0	1	
+MongoDB for Java Developers	0.0	2	
+Web Development with MongoDB and NodeJS	0.0	3	
+MongoDB Basics	0.0	2	
+MongoDB data modeling	0.0	1	
+Data Science Fundamentals for Python and MongoDB	0.0	0	
+The Definitive Guide to MongoDB: A complete guide to dealing with Big Data using MongoDB	0.0	1	
+MongoDB Cookbook - Second Edition	0.0	0	
+Full-Stack React Projects	0.0	1	
+Open Source Database Management Systems	0.0	0	
+Pentaho Analytics for MongoDB Cookbook	0.0	0	
+MERN Quick Start Guide	0.0	0	
+Data Wrangling	0.0	0	
+MongoDB管理与开发精要	0.0	3	
+Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB	0.0	1	
+MongoDB Cookbook	0.0	3	
+MongoDB权威指南	0.0	3	
+MongoDB High Availability	0.0	1	
+MongoDB参考手册	0.0	0	
+Mongodb: Master Mongodb With Simple Steps and Clear Instructions	0.0	0	
+MongoDB设计模式	0.0	2	
+Pro Hibernate and MongoDB	0.0	0	
+MongoDB: The Definitive Guide, 3rd Edition	0.0	0	
+Node.js, MongoDB, React, React Native Full-Stack Fundamentals and Beyond	0.0	0	
+はじめてのMongoDB	0.0	0	
+Pro MongoDB Development	0.0	0	
+Data Modeling for MongoDB	0.0	0	
+Big Data NoSQL Architecting MongoDB	0.0	0	
+mongoDB游记	0.0	3	
+MongoDB Administrator's Guide	0.0	0	
+Node.js+MongoDB+Angular Web开发	0.0	2	
+MongoDB运维实战	0.0	6	
+Node.js, MongoDB and Angular Web Development: The definitive guide to using the MEAN stack to build web applications (2nd Edition) (Developer's Library)	0.0	1	
+7天学会大数据资料处理NoSQL：MongoDB入门与活用	0.0	0	
+NoSQL数据库入门与实践（基于MongoDB、Redis）	0.0	2	
+MongoDB设计与应用实践	0.0	0	
+Mongodb Complete Self-assessment Guide	0.0	0	
+Learn Meteor - Node.Js and MongoDB JavaScript Platform	0.0	0	
+精通MongoDB 3.x	0.0	0	
+MongoDB从入门到商业实战	0.0	3	
+MongoDB数据库实战	0.0	0	
+MEAN Web Development	8.5	14	
+Mongo Db for Bizzies	0.0	0	
+Mongo Db for Newbies	0.0	0	
+Mongo Db for It Students	0.0	0	
+Mongo Db for Starters	0.0	0	
+Mongo Db for Techies	0.0	0	
+Mongo Db for Newbies	0.0	0	
+Mongo Db Winner	0.0	0	

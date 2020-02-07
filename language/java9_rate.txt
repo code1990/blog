@@ -1,0 +1,51 @@
+精通Java并发编程（第2版）	7.8	19	
+Java 9 Dependency Injection	0.0	2	
+Java 9 Modularity	0.0	6	
+Java 9模块化开发	6.0	10	
+實戰Java 9個別具特色的實作經驗(The Art	0.0	0	
+Java 9 Concurrency Cookbook - Second Edition	0.0	3	
+Java 9 High Performance	0.0	2	
+Java 9 with JShell	0.0	0	
+Java 9 Revealed: For Early Adoption and Migration	0.0	1	
+Java 9 Modularity Revealed	0.0	2	
+Java 9 Programming By Example	0.0	3	
+Java 9 Programming Blueprints	0.0	0	
+Java 9 Regular Expressions	0.0	2	
+Java 9 Recipes: A Problem-Solution Approach	0.0	1	
+Distributed Computing in Java 9	0.0	2	
+Exploring Java 9: Build Modularized Applications in Java	0.0	0	
+Modular Programming in Java 9: Build large scale applications using Java modularity and Project Jigsaw	0.0	1	
+Java 9 Data Structures and Algorithms	0.0	0	
+Java 9 for Programmers	0.0	0	
+Java 9 口袋指南（第4版）	0.0	5	
+Java 9 并发编程实战	0.0	0	
+Mastering Java 9	0.0	0	
+Reactive Programming With Java 9	0.0	0	
+Beginning Java 9 Fundamentals: Arrays, Objects, Modules, JShell, and Regular Expressions	0.0	0	
+Mastering Microservices with Java 9 - Second Edition	0.0	0	
+精通Java 9（影印版）	0.0	0	
+Java核心技术·卷1：基础知识（原书第9版）	8.3	512	
+Java核心技术（卷2）：高级特性（原书第9版）	8.4	151	
+Core Java, Volume I (9th Edition)	8.5	70	
+Java核心技术卷I：(第9版·英文版)	8.1	15	
+Java 8编程参考官方教程	9.3	27	
+Java核心技术 卷II(第9版·英文版)	0.0	6	
+Java How to Program (9th Edition)	8.6	11	
+Core Java, Volume II (9th Edition)	0.0	2	
+Java the Complete Reference 9/E	0.0	3	
+Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9	0.0	8	
+Core Java SE 9 for the Impatient	0.0	4	
+Oracle 9i Java Programming	0.0	1	
+Java攻略	0.0	6	
+Mededeelingen Van Het Proefstation Voor de Java-Suikerindustrie Volume Deel.9 1919	0.0	0	
+Oracle 9i Java程序设计	0.0	0	
+Inside Java SE 9 (Developer's Library)	0.0	0	
+Prin Databs Sys W/Int& Java& Oracle9i Prog Pk	0.0	0	
+JUST JAVA 2 & ORACLE 9I MOD SYS ANALYSIS PK	0.0	0	
+2011下半年9月计算机等级考试二级Access、C++、Java模拟软件	0.0	0	
+Java大学教程(第9版英文版)/国外计算机科学教材系列	0.0	0	
+Java JDK 9学习笔记	0.0	2	
+写给大忙人的Java SE 9核心技术	0.0	5	
+Java核心技术 卷I：基础知识（第9版 英文版）	0.0	2	
+Java核心技术 卷II：高级特性（第9版 英文版）（套装上下册）	0.0	1	
+Java SE11與Android 9.x程式設計範例教本	0.0	0	
