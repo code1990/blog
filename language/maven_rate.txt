@@ -1,0 +1,64 @@
+Maven实战	8.2	761	
+Maven	8.1	64	
+Maven	0.0	2	
+Apache Maven 2 Effective Implementation	0.0	5	
+Maven	0.0	0	
+Maven	0.0	0	
+Maven	0.0	0	
+Apache Maven 3 Cookbook	6.7	14	
+Maven by Example	0.0	7	
+Apache Maven Dependency Management	0.0	1	
+Apache Maven Cookbook	0.0	1	
+Compiling Tools	0.0	0	
+Introducing Maven	0.0	3	
+Professional Java Tools for Extreme Programming	0.0	0	
+Beginning Java and Flex	0.0	1	
+Web应用开发——基于Spring MVC+MyBatis+Maven	0.0	0	
+Java EE开发简明教程	0.0	0	
+基于SSH+Maven+Extjs4+MySQL技术实战开发CRM客户关系管理系统	0.0	1	
+Quoth the Maven	0.0	0	
+Max Maven's Book of Fortunetelling	0.0	0	
+Verbatim	0.0	0	
+The Marketing Mavens	0.0	0	
+Pro Apache Maven	0.0	0	
+Maven Essentials	0.0	2	
+Maven应用实战	0.0	1	
+Careers for Financial Mavens&Other Money Movers	0.0	0	
+Careers for Financial Mavens&Other Money Movers	0.0	0	
+Careers for Financial Mavens and Other Money Movers	0.0	0	
+Maven in Blue Jeans (Shofar Supplements in Jewish Studies)	0.0	0	
+Max Mavens Book Fortunetel'g	0.0	0	
+Language Maven Strikes Again	0.0	0	
+THE MAVENS'WORD OF THE DAY COLLECTION	0.0	0	
+Quilt Mavens	0.0	0	
+The Jewish MAVEN On EVERYTHING A To Z! "Let Me Tell You A Story!"	0.0	0	
+Queens and Mavens!	0.0	0	
+The Jewish Maven Cookbook	0.0	0	
+Maven 2	0.0	0	
+Moshe Mendel the Mitzva Maven and His Amazing Mitzva Quest	0.0	0	
+Apache Maven	0.0	0	
+Apache Maven	0.0	0	
+The Sirens	0.0	0	
+Ewom Via Mavens, Buzz Agents, and Followers.	0.0	0	
+Ant & Maven Interview Questions You'll Most Likely be Asked	0.0	0	
+Maven's Fractured Fairy Tales	0.0	0	
+Maven Build Customization	0.0	0	
+Maven Fairy Godmother	0.0	0	
+Maven 3	0.0	0	
+Maven's Crown	0.0	0	
+Konfigurationsmanagement mit Subversion, Maven und Redmine	0.0	0	
+Mastering Apache Maven 3	0.0	2	
+How We Win	0.0	0	
+How We Win	0.0	0	
+Misfit to Maven: The Story of ARGH to AHHH	0.0	0	
+Maven for Eclipse	0.0	0	
+Apache Maven Complete Self-assessment Guide	0.0	0	
+How We Win: How Cutting-Edge Entrepreneurs, Political Visionaries, Enlightened Business Leaders, and Social Media Mavens Can Defeat the Extremist Threat	0.0	0	
+Pumpkineater: Maven Fairy Godmother Short Stories	0.0	0	
+The Maven Trap	0.0	0	
+The Little Blue Reasoning Book	0.0	6	
+The Little Gold Grammar Book	0.0	6	
+The Little Red Writing Book	0.0	0	
+Fit Matters	0.0	0	
+Running the Edge	0.0	0	
+How to Be a Financial Grownup	0.0	0	

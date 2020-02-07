@@ -1,0 +1,736 @@
+高性能MySQL	9.3	622	
+MySQL必知必会	8.4	1186	
+PHP和MySQL Web开发(原书第4版)	8.4	790	
+高性能MySQL（第二版）	8.8	418	
+MySQL技术内幕	8.6	311	
+MYSQL User's Guide	0.0	1	
+MySQL性能调优与架构设计	8.1	543	
+PHP和MySQL Web开发	8.6	471	
+Head First PHP & MySQL（中文版）	8.5	191	
+深入浅出MySQL	7.5	98	
+MySQL技术内幕	8.1	249	
+深入浅出MySQL数据库开发、优化与管理维护	7.7	169	
+MySQL内核：InnoDB存储引擎 卷1	8.2	43	
+深入理解MySQL核心技术	6.8	45	
+Head First PHP & MySQL	8.6	82	
+MySQL入门很简单	7.4	67	
+MySQL技术内幕（第5版）	8.1	25	
+高性能MySQL	0.0	6	
+PHP与MySQL程序设计	7.2	102	
+PHP与MySQL 5程序设计（第2版）	7.8	327	
+MySQL	0.0	0	
+高可用MySQL	7.8	99	
+MySQL 5 权威指南-(第3版)	7.9	154	
+涂抹MySQL	8.3	13	
+High Performance MySQL	9.3	132	
+深入浅出PHP & MySQL	8.5	13	
+PHP和MySQL Web应用开发核心技术	8.1	89	
+Understanding MySQL Internals	7.9	49	
+PHP与MySQL基础教程	8.4	74	
+MySQL入门经典	6.8	14	
+PHP & MySQL Web数据库应用开发指南	7.6	55	
+High Performance MySQL Second Edition	9.2	104	
+MySQL权威指南	7.5	51	
+深入理解MySQL	7.5	21	
+MySQL运维内参	8.7	13	
+MySQL技术内幕	7.3	92	
+MySQL技术内幕（第4版）	7.0	47	
+MySQL Stored Procedure Programming	0.0	3	
+PHP与MySQL程序设计（第4版）	8.1	64	
+MySQL	0.0	1	
+PHP+MySQL八大动态Web应用实战	7.3	46	
+MySQL实用教程	7.0	11	
+PHP&MySQL Web数据库应用开发指南	7.1	31	
+MySQL	0.0	0	
+Effective MySQL之SQL语句最优化	6.4	36	
+MySQL Admin Cookbook	0.0	4	
+MySQL开发者SQL权威指南	7.8	32	
+MySQL Cookbook（中文版）	6.9	25	
+Learning PHP & MySQL中文版	7.1	63	
+PHP 6与MySQL 5基础教程	8.5	29	
+MySQL核心技术手册 第2版	6.6	25	
+High Performance MySQL	9.5	35	
+MySQL	0.0	0	
+mysql	0.0	0	
+MySQL	0.0	0	
+MySQL	0.0	0	
+MySQL	0.0	0	
+MySQL	0.0	0	
+MySQL	0.0	0	
+MySQL	0.0	0	
+高性能MySQL	8.1	19	
+Learning MySQL and MariaDB	0.0	7	
+PHP and MySQL Web Development	8.8	29	
+PHP与MySQL动态网站开发	8.1	24	
+MySQL快速入门	0.0	2	
+学习MySQL	7.8	18	
+MySQL排错指南	7.0	16	
+MySQL权威指南(原书第2版)	7.6	21	
+MySQL Cookbook	8.5	26	
+mysql管理之道：性能调优、高可用与监控	7.3	20	
+2013年版·全国计算机等级考试二级教程	0.0	5	
+学习PHP和MySQL	7.1	46	
+Expert Mysql	7.9	15	
+MySQL High Availability	0.0	9	
+PHP与MySQL权威指南	6.6	12	
+JSP+MySQL+Dreamweaver动态网站开发实例教程	0.0	0	
+网络数据库技术PHP+MySQL	0.0	2	
+Learning PHP, MySQL, and JavaScript	7.2	22	
+MySQL完全手册	7.8	15	
+精通PHP+MySQL应用开发	5.6	26	
+Apache+MySQL+memcached+Perl开发高速开源网站	0.0	6	
+Learning MySQL	0.0	7	
+Learning PHP, MySQL, JavaScript, and CSS	7.3	10	
+MySQL数据库应用从入门到精通	6.8	25	
+MySQL Crash Course	8.6	14	
+PHP、MySQL和Apache编程导学	7.2	20	
+MySQL Troubleshooting	0.0	6	
+高可用MySQL（第2版）	0.0	6	
+MySQL 5管理员标准指南及语言参考	0.0	9	
+MySQL Replication	0.0	0	
+PHP和MySQL Web开发(原书第5版)	7.0	17	
+SQL基础教程	8.8	215	
+PostgreSQL查询引擎源码技术探析	0.0	6	
+高可用性MySQL	0.0	5	
+PHP and MySQL Web Development (3rd Edition) (Developer's Library)	0.0	7	
+Web Database Applications with PHP & MySQL, 2nd Edition	0.0	4	
+MYSQL 5.5从零开始学	6.8	13	
+Effective MySQL之备份与恢复	0.0	3	
+PHP与MySQL Web开发权威指南	7.2	12	
+跟老男孩学Linux运维：MySQL入门与提高实践	0.0	1	
+PHP&MySQL范例精解	6.3	20	
+Beginning PHP and MySQL 5	0.0	8	
+Learning PHP & MySQL	7.4	13	
+PHP、MySQL和Apache入门经典	0.0	6	
+深入理解MariaDB与MySQL	0.0	7	
+Linux下的MySQL数据库编程	0.0	8	
+Web Programming in Python	0.0	2	
+MySQL核心编程	0.0	6	
+PHP+MySQL专家编程	0.0	9	
+Effective MySQL Optimizing SQL Statements	0.0	4	
+Building Bioinformatics Solutions	0.0	5	
+PHP+MySQL完全学习手册	0.0	2	
+The Definitive Guide to MySQL 5, Third Edition	0.0	6	
+PHP+MySQL+Dreamweaver8动态网站开发从基础到实践-(含光盘1张)	0.0	4	
+Pro MySQL (Expert's Voice in Open Source)	0.0	5	
+php和mysql web开发	0.0	6	
+MySQL管理之道（第2版）	0.0	9	
+新一代PHP+MySQL+Dreamweaver网站建设典型案例	0.0	8	
+MySQL高效编程	5.3	12	
+PHP5+MySQL网页系统开发设计	6.6	12	
+MySQL Cookbook	0.0	6	
+PHP 6 and MySQL 5 for Dynamic Web Sites	0.0	7	
+PHP5 and MySQL Bible	0.0	9	
+Drupal	0.0	2	
+Pentaho Solutions	0.0	3	
+PHP、MySQL与JavaScript学习手册(第4版)	0.0	6	
+零基础学PHP+MYSQL	0.0	6	
+MySQL DBA修炼之道	7.2	11	
+Learning PHP and MySQL	0.0	6	
+Professional LAMP	0.0	2	
+Beginning PHP5, Apache, and MySQL Web Development	0.0	6	
+PHP&MySQL Web数据库应用开发指南	0.0	5	
+PHP and MySQL for Dynamic Web Sites	0.0	7	
+PHP、MySQL和Apache编程导学	0.0	8	
+PHP+MySQL动态网站开发	0.0	6	
+Beginning PHP and MySQL	0.0	4	
+MySQL 4从入门到精通	0.0	5	
+PHP5+MySQL网站开发实例精讲	0.0	4	
+Effective MySQL Replication Techniques in Depth	0.0	3	
+MySQL 5.6从零开始学	0.0	4	
+MySQL High Availability	0.0	5	
+MySQL Cookbook	0.0	3	
+MySQL in a Nutshell (In a Nutshell)	0.0	1	
+MySQL与MariaDB学习指南	7.7	10	
+Learning PHP, MySQL & JavaScript	0.0	6	
+MySQL Reference Manual	0.0	2	
+学习PHP&MySQL	0.0	1	
+MySQL (4th Edition)	0.0	7	
+MySQL 5.1 Plugin Development	0.0	0	
+千金良方——MySQL性能优化金字塔法则	0.0	2	
+Dimensional Data Warehousing with MySQL	0.0	4	
+MySQL (3rd Edition) (Developer's Library)	0.0	1	
+PHP 5&MySQL 5基础与实例教程	0.0	5	
+MySQL数据库应用从入门到精通	0.0	4	
+PHP+MySQL全能权威指南	0.0	3	
+PHP and MySQL for Dynamic Web Sites : Visual QuickPro Guide	0.0	5	
+SQL for MySQL Developers	0.0	3	
+MySQL Database Design and Tuning	0.0	1	
+Developing Web Applications with Apache, MySQL, Memcached, and Perl	0.0	3	
+Effective MySQL Backup and Recovery	0.0	2	
+MySQL技术精粹---架构、高级特性、性能优化与集群实战	0.0	2	
+Expert MySQL	0.0	2	
+数据库索引设计与优化	8.4	79	
+MySQL in a Nutshell	0.0	1	
+MySQL 5.0 Certification Study Guide	0.0	4	
+Beginning PHP and MySQL E-Commerce	0.0	2	
+Beginning PHP and MySQL	0.0	3	
+PHP and MySQL Web Development	0.0	2	
+PHP+MySQL开发实战	0.0	1	
+PHP & MySQL	0.0	1	
+Build Your Own Database Driven Website Using PHP and MySQL	0.0	1	
+Practical PHP and MySQL	0.0	3	
+PHP5+MySQL网站开发基础与应用	0.0	2	
+MySQL经典实例（第三版）	0.0	2	
+MySQL and JSP Web Applications	0.0	0	
+Computational Biology	0.0	2	
+PHP and MySQL Novice to Ninja	0.0	6	
+High Availability MySQL Cookbook	0.0	2	
+MySQL核心技术与最佳实践	0.0	4	
+High Performance MySQL	0.0	2	
+PHP+MySQL动态网站开发从基础到实践	0.0	3	
+PHP+MySQL网站开发技术与典型案例导航	0.0	2	
+Beginning PHP 5 and MySQL	0.0	1	
+MySQL/PHP数据库应用开发指南	0.0	0	
+Teach Yourself PHP, MySQL and Apache All in One	0.0	3	
+MySQL 5.1 Cluster DBA Certification Study Guide	0.0	1	
+MySQL Administrator's Bible (Bible (Wiley))	0.0	1	
+Intrusion Detection with SNORT	0.0	1	
+Managing & Using MySQL	0.0	3	
+Data Warehousing with MySQL	0.0	0	
+PHP 4+MySQL 完整自学方案	0.0	1	
+Mastering MySQL 4	0.0	2	
+MySQL Bible with CDROM	0.0	1	
+MySQL參考手冊.	0.0	1	
+PHP & MySQL For Dummies, 3rd edition	0.0	1	
+MySQL Clustering	0.0	0	
+Mastering phpMyAdmin 3.4 for Effective MySQL Management	0.0	1	
+Expert PHP and MySQL	0.0	1	
+MySQL 王者晋级之路	7.1	11	
+Setting Up LAMP	0.0	0	
+PHP+MySQL+Dreamweaver动态网站开发实例教程	0.0	1	
+全国计算机等级考试二级教程	0.0	2	
+MySQL Phrasebook (Developer's Library)	0.0	1	
+How to Do Everything with PHP and MySQL	0.0	1	
+MySQL Transactions and Replication Handbook	0.0	0	
+Oca/Ocp MySQL Database Administrator All-In-One Exam Guide	0.0	0	
+PHP and MySQL for Beginners	0.0	0	
+PHP+MySQL开发技术详解	0.0	2	
+Jump Start MySQL	0.0	2	
+mysql数据库基础与实例教程	0.0	2	
+JDBC Metadata, MySQL, and Oracle Recipes	0.0	1	
+mysql从入门到精通	0.0	7	
+MySQL Workbench数据建模与开发	0.0	1	
+MySQL 5.7从入门到精通（视频教学版）（第2版）	0.0	1	
+零基础轻松学MySQL 5.7	0.0	3	
+深入浅出MySQL 第3版	0.0	0	
+Professional ADO.NET 2	0.0	0	
+Sun Microsystems Software	0.0	0	
+Developing a Java Web Application in a Day	0.0	0	
+Introducing InnoDB Cluster	0.0	1	
+网站设计与制作	0.0	0	
+MySQL & PHP from Scratch	0.0	2	
+MySQL Basics In Pictures	0.0	1	
+Sams Teach Yourself PHP, MySQL and Apache All in One	0.0	1	
+PHP & MySQL Web Development All-In-One Desk Reference for Dummies	0.0	0	
+MySQL 5	0.0	0	
+Learning PHP, MySQL & JavaScript	0.0	3	
+MySQL数据库从入门到精通	0.0	6	
+MySQL Tutorial	0.0	0	
+MySQL数据库技术与实验指导	0.0	0	
+Mac-OS-Software	0.0	0	
+Open Source Database Management Systems	0.0	0	
+PHP和MySQL Web应用开发	0.0	0	
+Open Source Development with LAMP	0.0	0	
+全国计算机等级考试二级教程	0.0	1	
+MySQL 8 for Big Data: Effective data processing with MySQL 8, Hadoop, NoSQL APIs, and other Big Data tools	0.0	1	
+PHP MySQL动态网站开发案例课堂 配光盘  网站开发案例课堂	0.0	0	
+Building.REST.APIs.with.Flask	0.0	0	
+Web开发入门经典	7.7	16	
+数据库查询优化器的艺术	8.3	42	
+MySQL for Python	0.0	7	
+LAMP网站开发黄金组合Linux+Apache+MySQL+PHP	0.0	7	
+PHP+MySQL动态网站开发与全程实例	0.0	3	
+细说PHP	7.7	125	
+Linux环境下Qt4图形界面与MySQL编程	0.0	4	
+深入浅出SQL	8.9	71	
+PHP与MySQL案例剖析	0.0	3	
+Learning PHP,MySQL,JavaScript,and CSS(第2版)	0.0	4	
+MySQL网络数据库指南	0.0	5	
+PHP+MySQL+Dreamweaver动态网站建设从入门到精通	0.0	2	
+PHP+MySQL网站开发全程实例	0.0	5	
+SQL学习指南	7.9	104	
+PHP+MySQL网络开发从入门到精通	0.0	5	
+实例精通Dreamweaver与PHP&MySQL整合应用	0.0	3	
+php与mysql高性能应用开发	5.1	15	
+PHP+MySQL网站开发应用从入门到精通	0.0	4	
+PHP&MySQL实战手册	0.0	5	
+PHP & MySQL程序设计实例讲座	0.0	4	
+基于SSH+Maven+Extjs4+MySQL技术实战开发CRM客户关系管理系统	0.0	1	
+零点起飞学MySQL	0.0	2	
+PHP 5与MySQL 5网络程序开发原理与实践教程	0.0	1	
+PHP and MySQL	0.0	3	
+精通 PHP&MySQL 網頁開發 (第五版)	0.0	0	
+PHP和MySQL	0.0	0	
+PHP 5+MySQL动态网站开发指南	0.0	1	
+MySQL Pocket Reference	0.0	1	
+Creating your MySQL Database: Practical Design Tips and Techniques (Paperback)	0.0	1	
+MySQL & mSQL	0.0	1	
+Linux+PHP+MySQL 案例教程	0.0	2	
+Core Web Application Development with PHP and MySQL (Core Series)	0.0	1	
+PHP & MySQL	0.0	4	
+PHP+MySQL+AJAX Web开发给力起飞	0.0	2	
+Oracle Database 11g & MySQL 5.6开发手册	0.0	1	
+PHP+MySQL编程实例	0.0	1	
+MySQL程序设计与数据库管理	0.0	0	
+Sams Teach Yourself PHP, MySQL and Apache All in One (4th Edition)	0.0	0	
+MySQL and Java Developer's Guide	0.0	1	
+PHP and MySQL 24-Hour Trainer	0.0	3	
+Murach's MySQL	0.0	1	
+Learning PHP, MySQL, JavaScript, CSS & HTML5	0.0	0	
+MySQL原理与Web系统开发	0.0	2	
+PHP & MySQL	0.0	2	
+PHP, MySQL, JavaScript & HTML5 All-in-One For Dummies	0.0	3	
+Beginning MySql Database Design and Optimization	0.0	1	
+MySQL Avanzado/ High Performance MySQL	0.0	0	
+MySQL管理者手札-跟MySQL AB徹底研究	0.0	0	
+PHP4&MySQL完全实例教程――网站建设尖峰之旅丛书	0.0	0	
+MySQL 网络数据库开发  含盘	0.0	1	
+网络数据库技术PHP+MySQL	0.0	1	
+PHP and MySQL by Example	0.0	0	
+PHP and MySQL for Dynamic Web Sites	0.0	0	
+Dreamweaver/PHP/MySQL动态网站建设实务	0.0	1	
+PHP&MySQL网站建设宝典	0.0	1	
+Perl&MySQL Web编程	0.0	1	
+Beginning PHP 6, Apache, MySQL 6 Web Development	0.0	1	
+Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition	0.0	1	
+Effortless E-commerce with PHP and MySQL	0.0	0	
+PHP+MySQL项目开发权威指南	0.0	0	
+精通PHP+MySQL动态网站开发	0.0	0	
+PHP与MySQL网站开发全接触	0.0	1	
+MySQL数据库入门	0.0	1	
+MySQL数据库管理实战	0.0	1	
+Desarrollo Web Con Php Y Mysql / PHP and MYSQL Web Development (Programacion / Programming) (Spanish Edition)	0.0	0	
+Desarrollo Web con PHP y MySQL/ Web Development with PHP and MySQL (Spanish Edition)	0.0	0	
+MySQL Administrator's Guide and Language Reference	0.0	0	
+Desarrollo web con PHP y MYSQL / Web Development with PHP and MYSQL (Programacion) (Spanish Edition)	0.0	0	
+Desarrollo Web con PHP, Apache y MySQL/ Beginning  PHP, Apache and MySQL Web Development (Spanish Edition)	0.0	0	
+PHP & MySQL: Novice to Ninja, 6th Edition	0.0	2	
+MySQL从入门到精通中公数据库深度开发指南MySQL数据库理论与实战	0.0	0	
+Desarrollo web con PHP 5 y MySQL/Web Development With PHP 5 And MySQL	0.0	0	
+Desarrollo Web con PHP 6 y MySQL 5.1/ Web Development with PHP 6 and MySQL 5.1	0.0	0	
+Make an Iphone App With Mysql and Wordpress: Iphone App With Sample Code Using Wordpress & Mysql	0.0	0	
+PHP, MySQL y Apache / Sams Teach Yourself. PHP, MySQL and Apache All in One	0.0	0	
+Programacion con PHP 6 y MySQL/ Programming with PHP 6 and MySQL	0.0	0	
+Beginning MySQL	0.0	1	
+MySQL/PHP Database Applications	0.0	1	
+MySQL Pocket Reference	0.0	0	
+PHP and MySQL Web Development, Second Edition	0.0	1	
+PHP与MySQL彻底研究――网页数据库设计	0.0	0	
+SQL Server 2005 Oracle与MySQL基于ADO.NET 2的高级编程	0.0	1	
+LINUX网页制作高级教程 使用PHP&MYSQL(1CD)	0.0	0	
+JSP、Servlets与MySQL开发指南	0.0	0	
+PHP 4.0与MySQL动态网站编程	0.0	0	
+MySQL网络数据库技术精粹	0.0	1	
+MYSQL徹底研究（2ND EDITION）.	0.0	1	
+PHP6 and mysql bible	0.0	0	
+Beginning PHP 5 and MySQL E-Commerce	0.0	0	
+PHP+MySQL开发实例教程	0.0	0	
+MySQL Cluster構築・運用バイブル ～仕組みからわかる基礎と実践のノウハウ	0.0	0	
+MySQL 从入门到精通（视频教学版）	0.0	1	
+Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL	0.0	0	
+MySQL自学视频教程	0.0	0	
+PHP+MySQL开发实战	0.0	1	
+PHP & MySQL For Dummies, 4th Edition	0.0	2	
+MySQL Database Usage & Administration	0.0	1	
+MySQL Management and Administration with Navicat	0.0	0	
+赢在电子商务：PHP+MySQL 电商网站设计与制作	0.0	1	
+Sam's Teach Yourself Php, Mysql and Apache in 24 Hours	0.0	0	
+Murach's PHP & MySQL	0.0	0	
+最新PHP及MySQL进阶教程	0.0	0	
+PHP&MySQL无需编程轻松创建数据库网站-Dreamweaver的高级使用	0.0	0	
+(赠品)PHP与MySQL应用实务	0.0	0	
+Mastering phpMyAdmin for Effective MySQL Management 2e	0.0	0	
+PHP 5/MySql Programming for the Absolute Beginner	0.0	1	
+MySQL, Second Edition (Visual QuickStart Guide)	0.0	1	
+徹底剖析PHP & MYSQL.	0.0	0	
+PHP5+MYSQL入門與實務應用.	0.0	0	
+視覺化PHP與MYSQL快速學習指南.	0.0	0	
+MySQL Tutorial	0.0	0	
+精通PHP 4.0与MySQL架构Web数据库实务	0.0	1	
+MySQL数据库大进击	0.0	0	
+MySQL网站架设高手	0.0	0	
+MySQL&PHP快速入门	0.0	0	
+MySQL编程技巧	0.0	0	
+PHP MySQL Apache超强组合	0.0	1	
+PHP+MySQL网络开发技术	0.0	1	
+PHP&MySQL完全架站攻略第二版	0.0	1	
+PHP 5與MySQL動態網頁實務	0.0	0	
+PHP 5與MYSQL 4入門學習指南	0.0	0	
+PHP&MySQL商业网站架设实务（1CD）	0.0	0	
+PHP+MySQL完全学习手册	0.0	0	
+PHP and MySQL Web Development	0.0	0	
+Web Database Applications with PHP & MySQL	0.0	0	
+エキスパートのためのMySQLトラブルシューティングガイド	0.0	0	
+PHP & MYSQL in Easy Steps	0.0	0	
+Pratique de MySQL et PHP	0.0	0	
+MySQL Security Handbook	0.0	0	
+Twitter API Engagement Programming with PHP and MySQL	0.0	0	
+PHP＋MySQL开发项目教程	0.0	0	
+从零开始学PHP+MySQL+AJAX网页程序设计	0.0	2	
+Apprendre à développer un site web avec PHP et MySQL -	0.0	0	
+Effortless E-Commerce with PHP and MySQL	0.0	0	
+PHP&MySQL 案例開發實戰手冊	0.0	0	
+Expert PHP and MySQL	0.0	0	
+Just Enough Web Programming with XHTML, PHP, and MySQL	0.0	1	
+Beginning PHP, Apache, MySQL Web Development	0.0	1	
+用多媒体学PHP+MySQL+Dreamweaver（简体中文版）	0.0	0	
+PHP+MySQL网站开发技术	0.0	0	
+Web Database Applications with PHP & MySQL	0.0	0	
+MySQL数据库应用教程	0.0	1	
+MySQL数据库应用从入门到精通	0.0	3	
+MySQL Explained: Your Step By Step Guide	0.0	0	
+MySQL数据库管理与开发实践教程	0.0	0	
+MySQL从入门到精通(附光盘)/软件开发视频大讲堂	0.0	1	
+Oracle Database 11g and MySQL 5.6 Developer Handbook	0.0	1	
+MySQL  and JSON	0.0	2	
+Web编程技术：PHP+MySQL动态网页设计/“十二五”职业教育国家规划教材·计算机专业系列	0.0	1	
+PHP 4.0/MySQL 开发基础与范例	0.0	0	
+网站建设尖峰之旅丛书――PHP4 & MYSQL完全实例教程	0.0	0	
+Professional ADO. Net2 Programming with SQL Server 2005 Oracla & MYSQL	0.0	0	
+Mysql Performance Handbook	0.0	0	
+MySQL(Programacion/Programming)	0.0	0	
+Php And Mysql at Work	0.0	0	
+PHP Programming with MySQL	0.0	0	
+Sams Teach Yourself PHP, MySQL and Apache All in One	0.0	0	
+PHP5&MySQL資料庫網站輕鬆架	0.0	0	
+PHP and MySQL Developer's Projects	0.0	0	
+PHP & MYSQL 4徹底研究WEB資料庫設計	0.0	0	
+PHP & MYSQL架站實務.	0.0	0	
+Professional MySQL	0.0	0	
+最新PHP及MYSQL入門與應用	0.0	1	
+MySQL 設計與管理之奧秘探索	0.0	0	
+MySQL學習手札.	0.0	0	
+PHP 5 & MYSQL 程式設計.	0.0	0	
+Flash, Php Y Mysql	0.0	0	
+精通PHP 5 & MYSQL程式設計.	0.0	0	
+MySQL与电子商务	0.0	0	
+活用PHP MySQL结构Web世界	0.0	0	
+MySQL与电子商务实战	0.0	0	
+精通PHP&MySQL动态网页入门实务	0.0	0	
+跨平台的PHP+MySQL	0.0	0	
+PHP5&MYSQL架站教學.	0.0	0	
+MYSQL資料庫教學.	0.0	0	
+MYSQL 5 FOR WINDOWS 視覺化資料庫管理及.發經典	0.0	0	
+PHP&MYSQL 建立動態資料庫網站.	0.0	0	
+PHP&MySQL网站建设/网页制作梦想剧场	0.0	3	
+Professional Perl and Mysql	0.0	0	
+PHP and MySQL LiveLessons	0.0	0	
+PHP 5 und MySQL 5 Kompendium	0.0	0	
+Beginning Databases with MySQL	0.0	0	
+PHP/MySQL Programming for the Absolute Beginner	0.0	0	
+PHP 6/MySQL Programming for the Absolute Beginner	0.0	0	
+Mysql Developer's Guide	0.0	0	
+Mysql Tutorial	0.0	0	
+Sams Teach Yourself MySQL in 10 Minutes	0.0	0	
+Teach Yourself Php With Mysql	0.0	0	
+PHP & MySQL Everyday Apps For Dummies	0.0	0	
+MySQL Enterprise Solutions	0.0	0	
+PHP & MySQL	0.0	0	
+PHP und MySQL	0.0	0	
+Apache, MySQL, and PHP Web Development All-in-one Desk Reference for Dummies	0.0	0	
+MySQL and Perl for the Web	0.0	0	
+Sams Teach Yourself Mysql in 10 Minutes	0.0	0	
+Using MySQL on Linux	0.0	0	
+The Definitive Guide to MySQL	0.0	0	
+Créer un site e-commerce avec Dreamweaver CS4 et PHP/MySQL	0.0	0	
+Sams Teach Yourself MySQL in 24 Hours	0.0	0	
+Entwicklung Einer Online-Shopping-Losung Auf Der Basis Von PHP Und MySQL	0.0	0	
+Vergleich Von MS Access Und MySQL ALS Datenbanksystem Innerhalb Einer Website	0.0	0	
+Scientific Database and Programming Examples Using PHP,MySQL,XML,MATLAB,PYTHON,PERL	0.0	0	
+Scientific Database and Programming Examples Using PHP,MySQL,XML,MATLAB,PYTHON,PERL	0.0	0	
+Dynamart - Erstellung Eines Dynamischen Shop-Portals Auf Basis Von PHP Und MySQL	0.0	0	
+PHP and MySQL Phrasebook	0.0	0	
+Dynamic Web Application Development Using PHP and MySQL	0.0	0	
+PHP und MySQL für Kids	0.0	0	
+Sams Teach Yourself MySQL in 21 Days	0.0	0	
+Sams Teach Yourself PHP and MySQL	0.0	0	
+Pro PHP 5 and MySQL	0.0	0	
+A Guide to MySQL, Including Its Background, Applications, Related Developments, Supported Platforms, and More	0.0	0	
+MySQL Workbench	0.0	0	
+D Veloppement Web Pour Un Site Dynamique Interne Avec PHP/MySQL/Oracle	0.0	0	
+PHP5+MySQL动态网站开发指南	0.0	0	
+Brilliant MySQL and PHP	0.0	0	
+Special Edition Using Mysql 4.X	0.0	0	
+Php Programming With Mysql	0.0	0	
+MySQL Windows Development and Administration	0.0	0	
+MySQL Pocket Reference	0.0	0	
+Sams Teach Yourself MySQL in 21 Days	0.0	0	
+Mysql Developer&#039;s Handbook	0.0	0	
+Ess Desgn Javascrpt1& PHP& MySQL Dyn Website	0.0	0	
+IE A GUIDE TO MYSQL	0.0	0	
+A Guide to MySQL	0.0	0	
+A Guide to MySQL	0.0	0	
+Create Dynamic Webpages Using PHP and MySQL	0.0	0	
+Core Servlts& Javaserv 1& Web Pub& MySQL Tutr	0.0	0	
+MySQL Workbench Data Modeling and Development	0.0	0	
+PHP MySQL Website Programming	0.0	0	
+Mysql Transactions & Replication	0.0	0	
+*IR Mysql	0.0	0	
+MySQL Interview Questions You'll Most Likely be Asked	0.0	0	
+Mysql Reference	0.0	0	
+Mastering Phpmyadmin 3.1 for Effective MySQL Management	0.0	0	
+Mastering Phpmyadmin 2.11 for Effective MySQL Management	0.0	0	
+MySQL Admin Cookbook Lite	0.0	0	
+MySQL Admin Cookbook Lite	0.0	0	
+PHP and MySQL Manual	0.0	0	
+Mastering Phpmyadmin 3.3.X for Effective MySQL Management	0.0	0	
+Mysql Replication Handbook	0.0	0	
+MySQL Database Programming Interview Questions, Answers, and Explanations	0.0	0	
+PHP MySQL Web Programming Interview Questions, Answers, and Explanations	0.0	0	
+PHP+MySQL网站开发全程实例（第2版）	0.0	1	
+深入MySQL核心技术应用	0.0	0	
+PHP and MySQL Recipes: A Problem-Solution Approach	0.0	0	
+徹底研究PHP+MySQL全能權威指南	0.0	0	
+精通Dreamweaver CS4與PHP & MySQL實例整合應用經典	0.0	0	
+Head First PHP & MySQL	0.0	0	
+Practical PHP and MySQL Website Databases	0.0	0	
+PHP与MySQL权威指南	0.0	0	
+Studyguide for PHP Programming with MySQL	0.0	0	
+PHP 5.6 und MySQL 5.7	0.0	0	
+MySQL for the Internet of Things	0.0	0	
+MySQL Avanzado (Spanish Edition)	0.0	0	
+PHP y MySQL	0.0	0	
+The PHP Programming with MySQL	0.0	0	
+Desarrollo Web con PHP 6, Apache y MySQL/ Web Development with PHP 6, Apache and My SQL (Wrox) (Spanish Edition)	0.0	0	
+Building the Perfect Website with PHP and MySQL	0.0	0	
+Teach Yourself PHP with MySQL	0.0	0	
+Sams Teach Yourself PHP and MySQL	0.0	0	
+実践ハイパフォーマンスMySQL 第2版	0.0	0	
+基礎からのMySQL [基礎からのシリーズ] (プログラマの種シリーズ)	0.0	0	
+Aprendiendo MySQL En 21 Dias (Spanish Edition)	0.0	0	
+Apache, MySQL, and PHP Weekend Crash Course	0.0	0	
+MySQL & PHP 4	0.0	0	
+PHP y MySQL (Spanish Edition)	0.0	0	
+A Guide to Mysql	0.0	0	
+MySQL AB	0.0	0	
+MySQL Fur Dummies	0.0	0	
+挑戰PHP5/MySQL程式設計樂活學	0.0	0	
+PHP+MySQL 與Dreamweaver 互動網站程式設計	0.0	0	
+MySQL Federated	0.0	0	
+Java mit Oracle Database XE und MySQL	0.0	0	
+Applikationen Mit PHP Und MySQL Fur Dummies	0.0	0	
+Dominar Phpmyadmin Para Una Administracin Efectiva de MySQL	0.0	0	
+MySQL Workbench	0.0	0	
+MYSQL 5.0	0.0	0	
+Using Linux, Apache, MYSQL,PHP and PERL on Linux	0.0	0	
+MySQL 5.0	0.0	0	
+MySQL. Guida avanzata	0.0	0	
+Corso rapido di MySQL. 30 lezioni rapide ed efficaci	0.0	0	
+PHP e MySQL	0.0	0	
+MySQL. Guida pocket	0.0	0	
+MySQL 4	0.0	0	
+Programmare con MYSQL. Manuale di riferimento per Windows e Linux	0.0	0	
+MySQL Archive	0.0	0	
+MySQL Federated	0.0	0	
+Studyguide for PHP Programming with MySQL	0.0	0	
+MySQL Manager	0.0	0	
+MySQL数据库应用与设计任务驱动教程(高等职业院校教学改革创新示范教材)/软件开发系列	0.0	0	
+MySQL数据库项目式教程(高职高专国家示范性院校十三五规划教材)	0.0	0	
+MySQL数据库技术与应用	0.0	0	
+MySQL数据库管理与开发(慕课版)	0.0	3	
+MySQL数据库教程(必知必会+快速进阶+实战应用视频指导版)	0.0	1	
+MySQL数据库任务驱动式教程	0.0	0	
+PHP7&MySQL跨设备网站开发	0.0	0	
+MySQL数据库基础实例教程(微课版工业和信息化十三五高职高专人才培养规划教材)	0.0	0	
+An Introduction to MySQL	0.0	0	
+PHP, MySQL, & JavaScript All-in-One For Dummies	0.0	0	
+MySQL数据库开发实战	0.0	2	
+PHP+MySQL Web开发技术教程	0.0	0	
+Pro MySQL NDB Cluster	0.0	0	
+MySQL 数据库理实一体化教程	0.0	0	
+Introducing the MySQL 8 Document Store	0.0	0	
+网页好设计！PHP+MySQL动态网站设计实战精讲	0.0	0	
+Effective MySQL之深入解析复制技术	0.0	0	
+MySQL开发与实践	0.0	0	
+MySQL数据库技术	0.0	0	
+PHP & MySQL	0.0	0	
+MYSQL/PHP Database Applic 2e w/CD	0.0	0	
+Murach's PHP and MySQL  Joel Murach, Ray Harris	0.0	1	
+Murach’s MySQL	0.0	0	
+Query Answers with MySQL	0.0	0	
+Query Answers with MySQL	0.0	0	
+MySQL 8 Cookbook（中文版）	0.0	9	
+PHP、MySQL和JavaScript入门经典(第6版)	0.0	0	
+MariaDB and MySQL Common Table Expressions and Window Functions Revealed	0.0	0	
+MySQL 数据库应用案例课堂（附光盘）	0.0	0	
+MySQL数据库应用与实践教程（21世纪高等学校计算机教育实用规划教材）	0.0	1	
+PHP+MySQL程序设计及项目开发	0.0	0	
+响应式动态网站项目开发（jQuery+PHP+MySQL+Apache）	0.0	0	
+MySQL数据库应用教程	0.0	0	
+PHP+MySQL+Dreamweaver动态网站开发从入门到精通（第2版）	0.0	0	
+高可用性MySQL（第2版 影印版）	0.0	0	
+PHP7.0+MySQL网站开发全程实例	0.0	0	
+MySQL数据库应用技术及实战	0.0	0	
+MySQL 从入门到项目实践（超值版）（软件开发魔典）	0.0	0	
+PHP和MySQL Web开发学习指南	0.0	0	
+MySQL实用教程（第3版 含视频教学）/高等学校计算机教材	0.0	0	
+MySQL数据库应用项目教程/高职高专“工作过程导向”新理念教材·计算机系列	0.0	0	
+PHP+MySQL网站开发项目式教程	0.0	0	
+PHP+MySQL动态网站开发实例教程/高等学校计算机应用规划教材	0.0	0	
+PHP+MySQL Web应用开发教程	0.0	0	
+PHP+MySQL+Dreamweaver动态网站开发实例教程（第2版）	0.0	0	
+MySQL实用教程（第2版）	0.0	0	
+PHP+MySQL动态网页设计	0.0	0	
+MySQL数据库程序设计实验教程	0.0	0	
+MySQL数据库实用教程	0.0	0	
+PHP+MySQL项目实例开发/21世纪计算机科学与技术实践型教程	0.0	0	
+PHP+MySQL项目开发与实践	0.0	0	
+MySQL数据库基础与实践	0.0	2	
+MySQL网络数据库设计与开发（第2版）	0.0	0	
+PHP+MySQL网站开发从零开始学（视频教学版）（附光盘）	0.0	0	
+云数据库应用（MySQL）	0.0	0	
+MySQL数据库技术应用教程	0.0	0	
+软件入门与提高丛书：PHP+MySQL网站开发入门与提高（附DVD光盘1张）	0.0	0	
+电子商务网站建设：PHP+MySQL项目开发教程	0.0	0	
+PHP+Mysql+Dreamweaver网站开发与实践	0.0	0	
+Dreamweaver + PHP + MySQL 动态网站开发案例课堂（附光盘）/网站开发案例课堂	0.0	0	
+PHP & MySQL跨设备网站开发实例精粹	0.0	0	
+动态网站开发教程 Dreamweaver+MySQL+PHP/21世纪高等学校规划教材·计算机科学与技术	0.0	0	
+MySQL数据库项目化教程	0.0	0	
+MySQL教程	0.0	0	
+2019计算机二级 2019年全国计算机等级考试二级教程：MySQL数据库程序设计（2019年版）	0.0	0	
+MySQL数据库应用与开发习题解答与上机指导（21世纪高等学校计算机类课程创新规划教材·微课版）	0.0	0	
+Visual Basic与MySQL 程序设计及应用（高等学校计算机专业规划教材）	0.0	0	
+MySQL数据库原理及应用/高职高专“十三五”规划教材	0.0	1	
+PHP+MySQL+Dreamweaver网站建设全程揭秘（附光盘）	0.0	0	
+项目驱动式信息系统开发实训教程（PHP+MySQL+jQuery）	0.0	0	
+PHP+MySQL动态网站设计实用教程/高等学校应用型特色规划教材	0.0	0	
+MySQL网络数据库设计与开发	0.0	0	
+2018全国计算机等级考试教程：二级MySQL数据库程序设计(附光盘软件）	0.0	0	
+MySQL数据库应用与开发（21世纪高等学校计算机类课程创新规划教材·微课版）	0.0	0	
+MySQL数据库技术与应用	0.0	0	
+MySQL数据库技术与项目应用教程	0.0	0	
+全国高等职业教育“十二五”计算机类专业规划教材：PHP+MySQL项目开发实例教程	0.0	0	
+全国计算机等级考试二级教程：MySQL数据库程序设计（2015年版）	0.0	0	
+项目驱动式PHP+MYSQL企业网站开发教程	0.0	0	
+数据库技术与应用（MySQL版）/高等学校计算机专业规划教材	0.0	0	
+PHP+MySQL动态网站开发基础教程/高等学校计算机应用规划教材	0.0	0	
+MySQL 5.7从入门到实战（视频教学版）（数据库技术丛书）	0.0	0	
+MySQL数据库原理及应用（第2版）（微课版）	0.0	0	
+PHP+MySQL动态网站开发实训教程/“互联网+”新形态教材高等职业教育“十三五”规划教材	0.0	0	
+MySQL数据库实用教程	0.0	0	
+PHP+MySQL动态网站开发从入门到精通（视频教学版）	0.0	0	
+PHP+MySQL动态网站开发案例课堂（第2版）	0.0	0	
+PHP+MySQL+Dreamweaver网站建设	0.0	0	
+MySQL 5.7从零开始学（视频教学版）	0.0	0	
+数据库系统原理及MySQL应用教程	0.0	0	
+数据库原理与应用（MySQL版）	0.0	0	
+PHP+MySQL企业项目开发案例教程	0.0	0	
+精通Dreamweaver CC與PHP & MySQL實例整合應用經典	0.0	0	
+Python Programming Professional Made Easy & MySQL Programming Professional Made Easy	0.0	0	
+Grundkurs MySQL und PHP: So entwickeln Sie Datenbanken mit Open Source Software	0.0	0	
+Introducción a PHP y MySQL	0.0	0	
+全国计算机等级考试二级教程 MySQL数据库程序设计(2018年版)	0.0	0	
+PHP+MySQL网站开发技术项目式教程（第2版）	0.0	0	
+Using IBM DB2 for I As a Storage Engine of Mysql	0.0	0	
+Build Your Own Database Driven Website Using PHP & MySQL	0.0	0	
+PHP+MySQL网站开发项目式教程	0.0	0	
+Mastering PhpMyAdmin for Effective MySQL Management	0.0	0	
+Complete, Responsive Mobile App Design Using Visual Studio: Integrating Mysql Database into Your Web Page	0.0	0	
+Programmation Web En Jquery, Ajax Et PHP MySQL Tome 2	0.0	0	
+PHP+MySQL網站系統開發講座(第二版)(附CD)	0.0	0	
+工业和信息化人才培养规划教材·高职高专计算机系列:MySQL数据库原理及应用	0.0	0	
+全方位學習 PHP & MySQL(附範例VCD)	0.0	0	
+All of Iot Starting With the Latest Raspberry Pi from Beginner to Advanced: Mastering the Internet of Things (Iot) at a Stretch, Starting from Raspberry Pi Introduction, Going Through Linux, Apache, Mysql, and Php, and Reaching to Interface and Sensor	0.0	0	
+PHP與MySQL網站規劃管理應用(第二版)(附光碟)	0.0	0	
+Flash CS3, PHP y MySQL: Contenidos Dinamicos	0.0	0	
+Web Programming With Html, Css, Bootstrap, Javascript, Jquery, Php, and Mysql	0.0	0	
+Benutzerverwaltung Und Rechtevergabe in MySQL	0.0	0	
+Desarrollo de Páginas Web Dinámicas con PHP y MySQL	0.0	0	
+專家教你用PHP建構一個全能的網站:SEO+CSS+MySQL+AJAX	0.0	0	
+Beginning PHP and MySQL: From Novice to Professional	0.0	0	
+挑戰PHP/MySQL程式設計與超強專題特訓班(第三版)(適用PHP5~PHP6)	0.0	0	
+Entwicklung Eines Portals Zur Onlinebefragung Mit Ajax, PHP Und MySQL	0.0	0	
+There is No Ajax - the Art of Blending DHTML, PHP and MySQL	0.0	0	
+Learn SQL by Examples: Examples of SQL Queries and Stored Procedures for Mysql and Oracle	0.0	0	
+PHP 6 & MySQL 6 網頁資料庫程式設計演繹(附光碟)	0.0	0	
+PHP&MySQL跨裝置網站開發:超威範例集	0.0	0	
+新觀念PHP+MySQL+AJAX網頁設計範例教本第四版	0.0	0	
+PHP and MySQL Web Development: A Beginner’s Guide	0.0	0	
+MySQL Programming Professional Made Easy	0.0	0	
+MySQL数据库原理、设计与应用	0.0	0	
+MySQL数据库应用与实例教程	0.0	0	
+MySQL数据库开发技术	0.0	0	
+MySQL数据库项目化教程（高等职业教育“十三五”规划教材（软件技术专业））	0.0	0	
+MySQL数据库实用教程	0.0	0	
+MySQL数据库应用与项目开发教程	0.0	0	
+MySQL 8从入门到精通（视频教学版）	0.0	0	
+PHP+MySQL+Dreamweaver动态网站开发从入门到精通 第3版	0.0	0	
+MYSQL数据库应用教程/董国钢	0.0	0	
+MySQL数据库应用与管理	0.0	0	
+PHP+MySQL	0.0	0	
+MySQL数据库教程	0.0	0	
+MySQL数据库应用实战教程（慕课版）	0.0	0	
+数据库原理与应用基础（MySQL）	0.0	0	
+MySQL数据库技术（第2版）	0.0	0	
+JSP+MySQL+Dreamweaver动态网站建设全程揭秘（网页设计与开发殿堂之路）	0.0	0	
+PHP+MySQL+Dreamweaver动态网站建设全程揭秘（第2版）（网页设计与开发殿堂之路）	0.0	0	
+PHP+MySQL网站开发项目教程	0.0	0	
+PHP+MySQL网站开发与实践教程（21世纪高等学校计算机类课程创新规划教材·微课版）	0.0	0	
+数据库原理及应用（MySQL版 微课视频版）/21世纪高等学校计算机类课程创新规划教材·微课版	0.0	0	
+MySQL 8从零开始学（视频教学版）（数据库技术丛书）	0.0	0	
+MySQL数据库技术	0.0	0	
+数据库系统原理及MySQL应用教程 第2版	0.0	0	
+MySQL数据库项目式教程	0.0	0	
+MySQL DBA工作笔记：数据库管理、架构优化与运维开发	0.0	1	
+网络数据库技术PHP+MySQL（第三版）	0.0	0	
+普通高等院校应用型人才培养“十三五”规划教材:数据库原理及应用（MySQL）	0.0	0	
+PHP+MySQL动态网站设计基础入门与实战（微课版）（新起点电脑教程）	0.0	0	
+用微课学●MySQL数据库技术	0.0	0	
+MySQL基础教程	0.0	0	
+MySQL数据库基础实例教程	0.0	0	
+My SQL核心内幕	6.6	24	
+Python Linux系统管理与自动化运维	8.3	32	
+PHP5与MySQL5 Web开发技术详解	7.1	51	
+SQL入门经典	7.7	52	
+SQL Cookbook中文版	7.9	108	
+PHP5+MySQL5 Web应用开发宝典	0.0	5	
+Java Web开发详解	7.0	91	
+碼上學會PHP5&MySQL5	0.0	0	
+My SQL 实验指导	0.0	1	
+细说PHP	8.1	36	
+Relational Database Index Design and the Optimizers	0.0	7	
+DBA修炼之道：数据库管理员的第一本书（原书第2版）	0.0	3	
+Sams Teach Yourself SQL in 10 Minutes	8.7	31	
+Advanced PHP Programming	8.4	16	
+PHP Cookbook	8.0	21	
+精通PHP5应用开发	7.2	18	
+完全手册PHP网络开发详解	7.1	11	
+PHP从入门到精通	6.0	19	
+MariaDB原理与实现	7.5	11	
+Pro PHP Security	0.0	5	
+PHP项目开发全程实录	0.0	9	
+AJAX and PHP	7.2	10	
+PHP网络编程从入门到精通	6.8	13	
+HikariCP数据库连接池实战	7.7	62	
+PHP+Ajax完全自学手册	6.7	11	
+NoSQL数据库技术实战	5.4	16	
+Sams Teach Yourself SQL in 10 Minutes	8.2	19	
+PHP5应用实例详解	0.0	7	
+Oracle Database 10g PL/SQL 入门教程	0.0	3	
+挑战网站开发专家Dreamweaver8+PHP动态网站开发实务	0.0	2	
+Power Builder 7.0从入门到精通	0.0	0	
+PHP程序开发范例宝典	0.0	3	
+Instant InnoDB	0.0	3	
+PHP+MY SQL经典案例剖析	0.0	4	
+MariaDB High Performance	0.0	3	
+Professional Development with Web APIs	0.0	1	
+MariaDB Crash Course	0.0	4	
+Beginning Microsoft SQL Server 2008 Programming	0.0	4	
+Power Designer 数据库建模技术	0.0	1	
+JSP网络编程	0.0	2	
+PHP 4网页编程实例解析	0.0	1	
+Database Design Using Entity-Relationship Diagrams (Foundations of Database Design, 1)	0.0	2	
+Developer's Guide to Multiplayer Games (Wordware Game Developer's Library)	0.0	1	
+MySQL5.7从入门到精通	0.0	9	
+MY SQL 高级配置和管理	0.0	1	
+PHP5与MySQL5从入门到精通	0.0	2	
+My SQL/PHP Database Applications	0.0	0	
+My SQL Language Reference	0.0	0	
+My SQL Certification Study Guide	0.0	0	
+Mysqli	0.0	0	
+Mysqli	0.0	0	
+MySQL5 数据库应用入门与提高（配光盘）（软件入门与提高丛书）	0.0	0	
+實戰PHP 5 & MySQL5	0.0	0	
+PHP5.0+MySQL5.0で構築する最速Webシステム 導入効果バツグン!!	0.0	0	

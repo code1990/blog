@@ -1,0 +1,2100 @@
+Effective Java: Second Edition	9.3	273	
+Java编程思想 （第4版）	9.1	3651	
+Java并发编程实战	9.0	1158	
+数据结构与算法分析	8.4	254	
+Java性能优化权威指南	8.2	172	
+深入理解Java虚拟机（第2版）	8.9	1556	
+Effective java 中文版（第2版）	9.1	1606	
+Head First Java（第二版·中文版）	8.7	1183	
+Java核心技术·卷 I（原书第10版）	8.3	367	
+深入理解Java虚拟机	8.6	760	
+Java语言程序设计	8.7	254	
+JAVA核心技术（卷1）	9.0	598	
+深入Java虚拟机(原书第2版)	8.7	574	
+Java核心技术·卷1：基础知识（原书第9版）	8.3	511	
+大型网站系统与Java中间件开发实践	7.9	536	
+Java多线程编程核心技术	5.0	181	
+深入理解Java虚拟机（第3版）	9.7	55	
+Effective Java 中文版	8.9	767	
+疯狂Java讲义	8.0	459	
+Java 8实战	9.3	393	
+JAVA并发编程实践	8.9	342	
+分布式Java应用	7.8	431	
+Java编程思想	9.0	622	
+How Tomcat Works	9.2	84	
+Java并发编程的艺术	7.4	371	
+实战Java高并发程序设计	8.3	198	
+Java性能权威指南	8.2	114	
+深入剖析Tomcat	8.3	182	
+数据结构与算法分析	8.6	56	
+深入分析Java Web技术内幕（修订版）	7.5	235	
+Thinking in Java	9.0	527	
+架构探险――从零开始写Java Web框架	6.4	112	
+Java语言程序设计（基础篇 原书第10版）	8.8	77	
+Java Concurrency in Practice	9.5	313	
+Effective Java中文版（第3版）	10.0	85	
+Java与模式	7.9	439	
+深入浅出Java	8.6	86	
+数据结构与算法	8.8	54	
+Java核心技术（卷2）：高级特性（原书第9版）	8.4	150	
+Java编程思想(第2版)	8.6	649	
+软件框架设计的艺术	7.8	130	
+自己动手写Java虚拟机	8.2	76	
+JAVA 2核心技术 卷Ⅰ	8.7	737	
+Java 8函数式编程	7.8	215	
+Java程序员修炼之道	7.4	109	
+Java核心技术·卷 II（原书第10版）	7.7	56	
+Java入门1•2•3	9.1	85	
+Java解惑	9.1	73	
+Java编程思想	9.3	157	
+深入分析Java Web技术内幕	7.3	143	
+Java虚拟机规范（Java SE 8版）	7.7	34	
+Java Web高级编程	8.7	75	
+实战Java虚拟机	8.2	77	
+Tomcat与Java Web开发技术详解（第2版）	8.1	87	
+图解Java多线程设计模式	8.7	81	
+Java网络编程	7.6	51	
+A Little Java, A Few Patterns	8.2	66	
+Java核心技术·卷 I（原书第11版）	9.5	30	
+数据结构与算法经典问题解析	8.6	27	
+JAVA核心技术卷2	8.7	271	
+Head First Java	8.8	296	
+Effective Java	9.8	95	
+轻量级Java EE企业应用实战	7.3	264	
+写给大忙人看的Java SE 8	8.1	109	
+Java TCP/IP Socket编程	8.0	104	
+Java Persistence with Hibernate	9.5	84	
+Java加密与解密的艺术	7.1	103	
+疯狂Java讲义	8.0	122	
+On Java 8	9.6	16	
+Java学习笔记	8.2	27	
+Java多线程编程实战指南（核心篇）	8.7	90	
+Java EE互联网轻量级框架整合开发	7.6	63	
+实战Java高并发程序设计（第2版）	7.9	17	
+Java多线程编程实战指南（设计模式篇）	8.3	42	
+Java数据结构和算法	8.3	164	
+Java Nio	7.5	132	
+Effective Java	9.3	100	
+Scala程序设计	7.8	194	
+Java程序性能优化	8.1	162	
+Clojure编程	8.5	93	
+Modern Java in Action, 2nd Edition	9.2	13	
+Thinking in Java (3rd Edition)	9.0	127	
+Effective Java	9.1	147	
+编写高质量代码	6.5	133	
+明解Java	8.4	25	
+精通Hibernate	7.5	149	
+面向对象程序设计-Java	0.0	3	
+Java从入门到精通(第4版）	5.8	24	
+Java	0.0	7	
+Practical API Design	7.9	33	
+微服务架构设计模式	9.2	127	
+爪哇夜未眠（第二版）	7.8	119	
+项目自动化之道	7.4	40	
+Java Generics and Collections	8.2	40	
+Java语言规范	0.0	6	
+面向对象程序设计	0.0	2	
+Java	6.9	12	
+Java编程思想	6.8	19	
+Java	0.0	9	
+Java异步编程实战	9.2	25	
+Java技术手册（第6版）	8.0	49	
+精通Hibernate（第2版）	7.5	47	
+Java	0.0	0	
+Concurrent Programming in Java(TM)	9.1	17	
+工程化程序设计	0.0	0	
+SCJP学习指南	8.8	42	
+The Well-Grounded Java Developer	7.5	31	
+Java网络编程(中文版 第三版)(O＇Reilly Java系列)	7.6	165	
+OSGi in Action	7.6	18	
+Java解惑	8.5	265	
+数据挖掘	7.3	11	
+Java夜未眠	7.3	531	
+操作系统概念——Java 实现（第七版）	8.4	28	
+Getting Started with Google Guava	7.4	19	
+Concurrent Programming in Java	0.0	7	
+全端Web开发	6.5	21	
+Agile Java 中文版	8.4	133	
+Java并发编程	8.4	52	
+Java Performance	8.8	63	
+Java	0.0	2	
+设计模式	8.2	26	
+Java程序员，上班那点事儿	6.7	230	
+Java入门经典	6.8	24	
+Struts in Action: Building Web Applications with the Leading Java Framework	7.7	23	
+Pragmatic Project Automation	7.5	24	
+数据结构与算法分析	7.4	23	
+单元测试之道Java版	7.4	151	
+Java 2核心技术（卷Ⅱ）	8.8	171	
+Robust Java 中文版	0.0	9	
+JAVA多线程设计模式	8.5	123	
+面向对象编程C++和Java比较教程	0.0	9	
+Java面向对象编程	7.6	125	
+Java虚拟机规范(Java SE 7版)	8.9	33	
+Java	0.0	3	
+Java	0.0	1	
+Practical Java中文版	7.9	102	
+Java线程	7.1	67	
+Java加密与解密的艺术(第2版)	0.0	9	
+Java语言程序设计基础篇	8.0	121	
+OSGi and Equinox	0.0	7	
+Java(TM) Native Interface	7.4	15	
+Spring+MyBatis企业应用实战	7.3	33	
+Java编程思想	8.9	105	
+Java设计模式	6.9	86	
+Java2核心技术<卷Ⅰ>基础知识(第6版)	8.5	113	
+MWSS	0.0	5	
+SCJP Sun Certified Programmer for Java 6 Exam 310-065	8.6	24	
+Effective Unit Testing	0.0	7	
+Programming Android	7.4	15	
+Functional Programming in Java	9.2	15	
+算法（第4版）	9.4	1110	
+Core Java	8.7	95	
+Java消息服务	8.1	48	
+测试驱动开发的艺术	7.8	83	
+Java	0.0	2	
+Java	0.0	0	
+Java	0.0	1	
+Java	0.0	1	
+Java	0.0	3	
+Java	0.0	0	
+Java	0.0	0	
+Java Puzzlers	9.1	57	
+Java程序设计语言	8.6	53	
+How to Think Like a Computer Scientist	7.5	16	
+深入体验Java Web开发内幕	8.1	62	
+超越 Java	7.7	89	
+Java Web开发详解	7.0	91	
+Java JDK6学习笔记	8.5	95	
+Restlet in Action	0.0	6	
+Head First 设计模式（中文版）	9.2	2977	
+Head First Java, 2nd Edition	9.0	147	
+RxJava Essentials	6.3	23	
+使用Java Web服务构建SOA	8.5	33	
+Java虚拟机并发编程	7.3	52	
+Java开发实战经典	8.4	103	
+Java大学简明教程	8.8	30	
+精通Eclipse Web开发	0.0	8	
+Pro JPA2中文版	7.8	13	
+数据结构	7.8	10	
+Java	0.0	1	
+Java	0.0	1	
+Java	0.0	1	
+Java	0.0	0	
+Java	0.0	1	
+Java	0.0	1	
+Java	0.0	0	
+Tomcat与Java Web开发技术详解	6.6	91	
+Java特种兵（上册）	7.5	65	
+算法	9.3	640	
+Learn Java for Android Development	0.0	8	
+Java与XML	0.0	8	
+Java Web整合开发王者归来	7.6	74	
+Groovy Recipes	7.7	17	
+数字图像处理	0.0	7	
+疯狂Java讲义	8.1	70	
+Java语言程序设计	8.2	47	
+分形算法与程序设计	0.0	6	
+Java JDK 7学习笔记	7.9	44	
+Filthy Rich Clients	0.0	7	
+Java设计模式	8.3	29	
+Java 2 参考大全	0.0	7	
+Java程序员面试笔试宝典	7.5	36	
+The Art and Science of Java	9.0	62	
+Java	0.0	0	
+java	0.0	0	
+java	0.0	0	
+JAVA	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java 9编程参考官方大全（第10版）	0.0	2	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java	0.0	0	
+Java程序员职场全攻略	7.2	78	
+Java语言精粹	7.3	39	
+Java网络编程精解	7.5	42	
+Killer Game Programming in Java	0.0	7	
+菜鸟成长之路	7.2	13	
+Java从入门到精通	6.1	88	
+Eclipse Rich Client Platform	0.0	9	
+阿里巴巴Java开发手册	8.4	142	
+轻量级Java EE企业应用实战	7.0	53	
+Java程序设计习题集	0.0	7	
+Java 7基础教程	6.4	11	
+Groovy for Domain-Specific Languages	0.0	6	
+码出高效：Java开发手册	8.4	284	
+数据结构与抽象（原书第4版）	0.0	2	
+Hibernate实战	8.2	67	
+OSGi与Equinox	0.0	2	
+Java程序员面试宝典	6.0	67	
+Java虚拟机精讲	8.0	38	
+Java深度历险	8.1	40	
+Eclipse in Action	0.0	8	
+Core Java, Volume I--Fundamentals	9.2	57	
+Java in a Nutshell	0.0	1	
+Pro JPA 2	0.0	6	
+UML :Java程序员指南(双语版)	8.2	37	
+Java语言程序设计基础篇	8.8	36	
+Java语言的科学与艺术	6.8	22	
+Java深入解析	0.0	7	
+精通lambda表达式：Java多核编程	0.0	7	
+Inside the Java 2 Virtual Machine	8.2	15	
+Java 高手真经（网络开发卷）	0.0	7	
+Java并发编程之美	8.6	35	
+Java测试新技术TestNG和高级概念	8.4	22	
+Java 7并发编程实战手册	6.4	40	
+Java编程思想	8.2	51	
+Eclipse	0.0	3	
+Learn Objective-C for Java Developers (Learn Series)	0.0	1	
+The Java EE 6 Tutorial	0.0	5	
+Java Web开发实战经典（基础篇）	7.6	60	
+Concurrency	0.0	3	
+网络机器人Java编程指南	7.8	20	
+Java Performance Tuning (2nd Edition)	7.3	14	
+Java就业培训教程	8.2	53	
+Java语言程序设计进阶篇	7.7	40	
+Java Performance	9.2	27	
+Java编程思想 Thinking in Java	8.6	34	
+Core Java, Volume I (9th Edition)	8.5	70	
+现代编译器的Java实现(第2版)	6.9	22	
+JAVA技术手册	7.3	46	
+Java与XML	0.0	5	
+Java5国际认证SCJP试题精解	0.0	8	
+Using JRuby	0.0	8	
+Java 8 in Action	8.3	61	
+Java解惑	7.8	15	
+Head First Java (2nd Edition)	9.2	59	
+Java语言与面向对象程序设计	0.0	6	
+Java数据库系统开发案例精选	0.0	2	
+Beginning Java Objects中文版从概念到代码	8.7	41	
+使用Ant进行Java开发	7.6	29	
+Java应用架构设计	6.9	30	
+Java编程语言	8.2	32	
+Practical JRuby on Rails Web 2.0 Projects	0.0	5	
+数据结构Java语言描述	0.0	8	
+Concurrent Programming in Java	0.0	0	
+Java开发超级工具集	7.7	16	
+Java从入门到精通	6.6	60	
+Pro Java EE Spring Patterns	0.0	3	
+核心Java	0.0	6	
+Java RESTful Web Service实战	5.8	29	
+The Java™ Virtual Machine Specification	7.9	25	
+Java项目开发案例全程实录	5.8	12	
+Java编程规范	7.7	13	
+Java Servlet编程	7.4	20	
+数据结构与问题求解Java语言描述	8.2	32	
+Java Enterprise最佳实践	0.0	6	
+疯狂Java	7.5	40	
+Java并发编程从入门到精通	0.0	5	
+Karel J Robot	0.0	6	
+数据结构与算法分析	0.0	7	
+Java动画、图形和极富客户端效果开发	8.7	27	
+The Java Virtual Machine Specification, Java SE 7 Edition	8.2	11	
+Java 8编程入门官方教程	9.0	14	
+深入浅出	0.0	8	
+Java Card(TM) Technology for Smart Cards	0.0	1	
+Java Web服务：构建与运行	7.8	13	
+Professional Java Development with the Spring Framework	8.1	13	
+Java Reflection in Action	7.6	27	
+Introduction to Java Programming	8.7	42	
+Java EE设计模式	7.3	10	
+经典Java EE企业应用实战	8.2	20	
+Concurrent Programming in Java	0.0	2	
+Java编程基础、应用与实例	7.5	23	
+项目实践精解	0.0	3	
+图解数据结构	0.0	5	
+Android系统下Java编程详解	0.0	3	
+Think Data Structures	0.0	6	
+轻快的Java	7.4	20	
+Java 7入门经典	7.6	14	
+Java 7 Concurrency Cookbook	6.6	23	
+Java Persistence with MyBatis 3	7.8	49	
+Java算法	7.8	20	
+Java I/O	7.7	22	
+Pro Java 6 3D Game Development	0.0	3	
+Groovy Programming	0.0	5	
+The Definitive Guide to Jython	0.0	5	
+写给大忙人看的Java核心技术	7.1	32	
+Cloud Native Java	0.0	9	
+The Java Language Specification, 3rd Edition	8.5	17	
+JavaEE开发的颠覆者: Spring Boot实战	6.2	158	
+Java 8 Lambdas	7.4	37	
+Agile Java™	8.3	25	
+Optimizing Java	0.0	6	
+数据结构	0.0	4	
+Beginning Java Google App Engine	0.0	4	
+Functional Programming for Java Developers	7.6	26	
+从零开始学JAVA	0.0	2	
+全国计算机等级考试二级教程	0.0	0	
+Java技术及其应用	0.0	8	
+Pro JavaFX™ Platform	0.0	3	
+Java Web入门经典	6.8	10	
+Data Structures and Algorithm Analysis in Java	7.7	30	
+Java 经典实例	7.8	13	
+重构	9.0	2060	
+Fundamental Networking in Java	0.0	4	
+Core Java, Vol. 2	8.4	16	
+Introduction to Programming in Java	8.8	24	
+Java Servlet&JSP经典实例	7.2	11	
+Java Swing	7.8	22	
+Java SE实践教程	0.0	9	
+Modern Compiler Implementation in Java	8.3	15	
+Data Structures and Algorithms in Java	8.7	24	
+Java编程风格	7.6	15	
+Data Structures and Algorithm Analysis in Java	8.9	22	
+Java核心技术卷1	8.7	20	
+深入嵌入式Java虚拟机	7.8	10	
+Thinking in Java 4/e中文版	8.7	10	
+深入体验Java Web开发内幕	7.3	15	
+Java Network Programming	7.4	23	
+Spring揭秘	9.1	289	
+第一行代码 Java 视频讲解版	9.0	28	
+Java游戏编程原理与实践教程	0.0	4	
+Java语言程序设计	0.0	4	
+Java in a Nutshell	0.0	1	
+轻量级Java EE企业应用实战（第4版）	7.1	28	
+Java 编程思想	8.2	28	
+Java程序设计教程	7.7	22	
+Java JDK 5.0学习笔记	7.9	34	
+Java核心技术卷I：(第9版·英文版)	8.1	15	
+Java How to Program (6th Edition) (How to Program (Deitel))	8.0	18	
+Java Threads	7.2	11	
+数字图像处理	0.0	1	
+Java面向对象程序设计	0.0	3	
+SCWCD Exam Study Kit Second Edition	0.0	5	
+Ivor Horton's Beginning Java	0.0	1	
+轻松学Java	0.0	5	
+The Java Language Specification, Java SE 7 Edition	0.0	7	
+Java基础入门	7.1	21	
+Pro Java 7 NIO.2	6.8	11	
+Offer来了：Java面试核心知识点精讲（原理篇）	0.0	4	
+The Java Programming Language, 4th Edition	7.8	13	
+Scala与Clojure函数式编程模式	7.2	22	
+BITTER JAVA中文版	7.2	20	
+Java程序员面试宝典	6.1	22	
+Java 企业设计模式	0.0	6	
+Java I/O (O'Reilly Java)	0.0	6	
+Java in a Nutshell, 6th Edition	9.4	20	
+Java安全编码标准	0.0	5	
+数据结构与算法(Java语言版)	7.7	10	
+JAVA敏捷开发	6.1	28	
+Java程序设计教程实验手册	0.0	1	
+JAVA语言规范(英文版,第3版)	7.8	10	
+Java2程序设计基础	0.0	6	
+Ant极限编程	0.0	0	
+Android开发关键技术之旅	0.0	4	
+Essential App Engine	0.0	3	
+Mastering Lambdas	0.0	2	
+Effective Enterprise Java中文版	8.4	10	
+Java开发实战1200例（第I卷）	0.0	6	
+Java微服务	5.5	24	
+解析Java虚拟机开发	2.6	34	
+Java从入门到精通	5.6	31	
+Core Java(TM) 2, Volume II--Advanced Features (7th Edition)	7.9	18	
+Spring实战（第4版）	8.2	485	
+Java 语言导学	8.0	24	
+轻量级Java EE企业应用实战	7.8	24	
+Java程序设计教程	8.0	26	
+Java Swing图形界面开发与案例详解	6.7	18	
+Programming Scala	7.4	27	
+Better, Faster, Lighter Java	7.6	11	
+Java大学基础教程	8.2	16	
+像计算机科学家一样思考Java	7.0	23	
+Jess in Action	0.0	2	
+Service Oriented Architecture with Java	0.0	1	
+Enterprise J2ME	0.0	1	
+Java程序设计与案例	0.0	1	
+Java程序设计精编教程实验指导与习题解答	0.0	0	
+Java大学实用教程	0.0	3	
+Java程序设计教程	0.0	7	
+你必须知道的261个Java语言问题	8.1	15	
+Java 8编程参考官方教程	9.3	27	
+Java In A Nutshell, 5th Edition	7.8	13	
+Java基础教程	0.0	7	
+Java程序员面试宝典（第三版）	6.0	32	
+Java开放源码编程	7.0	14	
+Java核心技术	7.6	13	
+Java高并发编程详解	7.9	21	
+Java程序员面试宝典	7.3	19	
+Java经典实例-第二版	7.5	14	
+Java游戏编程	0.0	8	
+The Java Tutorial	9.1	19	
+Java邮件开发详解	0.0	9	
+大话Java	7.5	23	
+Java编程的逻辑	8.9	94	
+Java线程	7.3	14	
+Karel The Robot Learns Java	8.8	17	
+JBoss Seam	0.0	2	
+JXTA	0.0	0	
+编程大讲坛	0.0	2	
+Tapestry 5	0.0	3	
+The Java Tutorial	0.0	1	
+Pro JavaFX 2	0.0	2	
+Introduction to Programming with Greenfoot	0.0	2	
+Real-Time Java Programming	0.0	0	
+Java编程入门经典	6.9	17	
+Java语言艺术与科学	8.0	13	
+Java编程那些事儿	7.3	25	
+设计模式Java手册	6.4	19	
+Inside the Java Virtual Machine	0.0	6	
+Java Web开发技术大全	0.0	8	
+Pragmatic Unit Testing in Java with JUnit	7.7	18	
+Java安全	0.0	7	
+疯狂Java	7.4	12	
+Java程序设计	0.0	6	
+Java核心技术 卷II(第9版·英文版)	0.0	6	
+JNDI API Tutorial and Reference	0.0	2	
+Mastering JXTA	0.0	1	
+Java基础与实例精解	0.0	3	
+Java程序员教程	0.0	3	
+World Wind Java三维地理信息系统开发技术指南	0.0	2	
+Java程序设计与问题解决	0.0	3	
+Mastering Concurrency Programming with Java 8	0.0	5	
+Natural Language Processing with Java	0.0	0	
+Java语言入门	0.0	5	
+Java 2图形设计――卷Ⅱ：SWING（附CD）	0.0	5	
+透视JAVA	7.2	10	
+Java教程(第4版)	7.5	13	
+Java EE 6权威指南	0.0	9	
+Java应用程序设计接口(下册)--窗口工具箱和applet	0.0	2	
+Java编码规范(英文版)	7.6	10	
+Introduction to Compiler Construction in a Java World	0.0	4	
+Java核心技术 卷Ⅱ	0.0	7	
+Building Java Programs	10.0	17	
+Learning Java	0.0	8	
+细说Java	7.2	16	
+Maven实战	8.2	761	
+Effective Java(影印版) (平装)	7.8	12	
+Java SE 8 for the Really Impatient	7.6	14	
+大话Java性能优化	4.4	13	
+Core Java for the Impatient	7.4	13	
+Java 7编程高级进阶	0.0	9	
+Java Web从入门到精通	5.4	24	
+Regular Expression Pocket Reference	7.6	11	
+Java Message Service	8.0	13	
+Java 5.0 Tiger	7.0	20	
+Data Crunching	0.0	1	
+Beyond Java	7.4	11	
+Java参考大全	7.5	13	
+Java EE 5权威指南-(原书第3版)(附光盘)	0.0	9	
+Java Web服务：构建与运行（第2版）	7.3	12	
+Java for C/C++ Programmers	0.0	1	
+项目实践精解	0.0	0	
+Beginning Java and Flex	0.0	1	
+Stripes	0.0	3	
+SCJP	0.0	1	
+Java Programming Language Handbook	0.0	1	
+Pro Java ME Apps	0.0	1	
+Java EE项目开发教程	0.0	2	
+Professional Java EE Design Patterns	0.0	1	
+Java消息服务	0.0	0	
+Java Concepts	0.0	0	
+Java 9 High Performance	0.0	2	
+Java Application Architecture	0.0	6	
+Thinking in Java	8.1	15	
+Java Servlet & JSP Cookbook	0.0	8	
+Core Java, Volume II (10th Edition)	0.0	7	
+Big Java	8.0	12	
+TCP/IP Sockets in Java, Second Edition	0.0	9	
+疯狂Java程序员的基本修养	7.8	18	
+Core Java, Volume I (10th Edition)	9.4	33	
+Java程序设计语言	0.0	6	
+Java Virtual Machine (Java Series)	0.0	1	
+揭秘Java虚拟机	7.5	28	
+Program Development in Java	9.3	13	
+Java Rules中文版	0.0	7	
+Java核心技术 卷I 基础知识 第10版 英文版	8.8	21	
+Java高手真经（应用框架卷）	6.7	13	
+Java Power Tools	7.5	12	
+Core Java 2 - Volumen I - Fundamentos	0.0	8	
+Java设计模式	8.2	14	
+程序开发原理	0.0	8	
+Java Web开发实战1200例（第Ⅱ卷）	0.0	4	
+Java经典编程300例	0.0	6	
+Java优化编程	7.1	11	
+Java Pitfalls 中文版 (平装)	0.0	7	
+Java编程艺术	5.6	14	
+Java Web Services	6.8	15	
+Learning Reactive Programming With Java 8	8.1	10	
+Data Structures and Algorithms in Java	8.2	11	
+Next Generation Java Testing	7.3	11	
+Java程序员生存手册	7.0	11	
+Java程序设计	0.0	1	
+Eclipse Web Tools Platform	0.0	0	
+.NET程序设计	0.0	1	
+SCJP Exam for J2SE 5	0.0	1	
+The Java Class Libraries	0.0	0	
+Java程序设计	0.0	0	
+国外计算机科学教材系列	0.0	1	
+国外计算机科学教材系列	0.0	1	
+Java程序设计教程	0.0	0	
+Start Concurrent	0.0	1	
+JDBC Metadata, MySQL, and Oracle Recipes	0.0	1	
+Building Parallel Programs	0.0	1	
+Java大学教程	0.0	0	
+Java SOA Cookbook	0.0	6	
+Java完全参考手册	0.0	3	
+Java语言与面向对象程序设计	6.8	11	
+实用Java教程	0.0	9	
+轻快的好Java	0.0	8	
+代码不朽：编写可维护软件的10大要则（Java版）	6.9	26	
+Java脚本编程	0.0	9	
+云原生Java	0.0	9	
+解密搜索引擎技术实战：Lucene &Java精华版(第2版)	0.0	5	
+Java程序设计导论	7.7	15	
+Java大学基础教程	0.0	5	
+RESTful Java with JAX-RS	0.0	8	
+Java 实时编程	0.0	6	
+Java/J2EE Job Interview Companion	7.6	14	
+Java I/O, NIO and NIO.2	0.0	5	
+Java, A Beginner's Guide, 5th Edition	0.0	8	
+Java SE 6.0编程指南	0.0	6	
+Spring Boot实战	7.1	312	
+UML for Java¿ Programmers	0.0	9	
+JAVA与XML	0.0	8	
+Big Java	8.7	16	
+数据结构和Java集合框架	0.0	5	
+Java Cookbook, Second Edition	0.0	9	
+21天学通Java	6.0	13	
+Java Thread Programming	0.0	7	
+Compiler Construction Using Java, JavaCC, and Yacc	0.0	1	
+RESTful Java Web Services	0.0	6	
+JDBC TM与Java TM数据库编程(第2版) (平装)	0.0	6	
+Programming Language Processors in Java	0.0	4	
+Java Web整合开发实战	5.5	13	
+Java 2编程指南	0.0	5	
+Java软件体系结构设计模式标准指南	0.0	7	
+Java P2P技术内幕	0.0	9	
+Java SOA Cookbook中文版	0.0	9	
+The Java Virtual Machine Specification, Java SE 8 Edition	0.0	5	
+Java虚拟机规范	0.0	2	
+Extreme Programming with Ant	0.0	0	
+Java EE大学教程	0.0	0	
+Kids Can Program Too!	0.0	0	
+Java 8 Exception Handling	0.0	1	
+Professionelle Rich-Client-Lösungen mit Flex und Java	0.0	0	
+Learning Java Lambdas	0.0	1	
+All About Java 8 Lambdas	0.0	1	
+Spock	0.0	1	
+Java 9 Modularity Revealed	0.0	2	
+Java: A Beginner's Guide, Sixth Edition	0.0	3	
+Java程序设计教程	0.0	0	
+Programming Google App Engine with Java	0.0	0	
+Java语言程序设计	0.0	1	
+Java语言程序设计实践教程	0.0	1	
+Programming Groovy	8.0	18	
+Java高级编程	0.0	4	
+Java线程编程	0.0	6	
+Software Architecture Design Patterns in Java	0.0	2	
+The Elements of Java Style	0.0	6	
+Professional Java for Web Applications	0.0	9	
+Java算法	0.0	5	
+Java Performance and Scalability	0.0	0	
+解密搜索引擎技术实战	0.0	8	
+Java/Java EE软件工程师就业求职手册	0.0	8	
+Java 2图形设计――卷Ⅰ：AWT（附CD）	0.0	3	
+Java实用系统开发指南	0.0	3	
+Java Web典型模块与项目实战大全	0.0	5	
+Java性能调优指南	7.2	12	
+Java就该这样学	8.4	16	
+Java从入门到精通	6.6	14	
+Java深度歷險	0.0	7	
+计算机科学丛书·Java语言程序设计进阶篇	0.0	9	
+Java极限编程	0.0	7	
+Java How to Program	0.0	8	
+Building Parsers With Java	0.0	0	
+Java就该这样学	0.0	5	
+最新Java 2核心技术卷I:原理（原书第5版）	0.0	7	
+Java大学教程	7.0	11	
+Java程序设计教程	0.0	6	
+Pragmatic Unit Testing in Java 8 with JUnit	0.0	6	
+Java Network Programming (Java (O'Reilly))	0.0	5	
+21天学通Java	6.2	11	
+More Java Pitfalls中文版	7.4	10	
+Thinking in Java 2E 中文版	0.0	9	
+Java Data Mining	0.0	1	
+Java设计模式	0.0	8	
+Effective Enterprise Java	0.0	5	
+JAVA技术手册（影印版 第四版）	7.6	10	
+精通Java Web整合开发	0.0	7	
+Exploring Java	0.0	2	
+Design Patterns in Java	0.0	7	
+Java Web Services教程	0.0	3	
+Java数据结构与算法分析	0.0	8	
+Java完全自学手册	0.0	6	
+疯狂Java讲义精粹（第2版）	0.0	9	
+疯狂Java实战演义	0.0	9	
+数据结构与算法分析（Java版）（英文原版）	0.0	3	
+Java EE 7权威指南：卷1	0.0	2	
+Java 实例技术手册	0.0	7	
+Java Transaction Processing	0.0	2	
+Hardcore Java	0.0	9	
+Java高级编程	7.3	10	
+Effective Java（第3版）（英文版）	9.2	21	
+Java高手真经（高级编程卷）	0.0	3	
+Java Web整合开发完全自学手册	0.0	4	
+Java完美编程	7.1	10	
+Java实例技术手册	0.0	6	
+Concurrent and Distributed Computing in Java	0.0	1	
+高质量Java程序设计	0.0	6	
+Java与分布式系统	0.0	2	
+AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java	0.0	3	
+Java程序员面试指南	6.3	13	
+Java Network Programming	0.0	8	
+Java Web 2.0架构开发与项目实战	0.0	7	
+Java Web项目开发案例精粹	0.0	2	
+Java项目开发案例精粹	0.0	1	
+Play for Java	0.0	6	
+Object-Oriented Software Engineering	0.0	7	
+Java 2 核心技术 卷Ⅰ--基础知识	0.0	4	
+Restful Java with Jax-RS 2.0	0.0	6	
+JAVA SE6全方位学习	0.0	9	
+Java Programming Interviews Exposed	0.0	7	
+Java语言与XML处理教程	0.0	8	
+Java项目开发实例自学手册	0.0	3	
+Java网络编程	0.0	6	
+Java编程艺术	0.0	5	
+JAVA无难事	0.0	4	
+Java Puzzler中文版	0.0	2	
+Java信息管理系统开发实例导航	0.0	3	
+Algorithms in Java, Part 5	0.0	9	
+Java程序设计	0.0	3	
+Think Java	0.0	4	
+Java Web开发实战宝典	0.0	1	
+Eclipse3高级编程	0.0	4	
+Java Web开发实战1200例（第Ⅰ卷）	0.0	2	
+Java程序设计与问题解决	8.6	10	
+The Java Language Specification, Java SE 8 Edition	0.0	4	
+Java核心技术(卷Ⅱ高级特性上下第10版英文版)	0.0	5	
+Microservice Patterns	8.6	16	
+Java高级编程	0.0	8	
+零基础学Java Web开发	6.9	10	
+Java程序设计	7.1	11	
+Java程序设计教程（上册 基础篇）	0.0	4	
+Java Open Source Programming	0.0	6	
+Java Development with Ant	0.0	9	
+J2EE&Java黑客大曝光	0.0	2	
+Java数据结构和算法	0.0	6	
+Introduction to Java Programming, Comprehensive Version	0.0	6	
+Java Transaction Design Strategies	0.0	7	
+从Java走向Java EE	0.0	5	
+Test Driven	0.0	9	
+Java EE 7精粹	0.0	2	
+JAVA 2游戏编程	0.0	5	
+Objects First With Java	7.1	11	
+Java 2入门经典	0.0	1	
+Ivor Horton's Beginning Java 2, JDK 5 Edition	0.0	7	
+Java How to Program (7th Edition)	0.0	6	
+Java入门很简单	0.0	5	
+Java 8 Pocket Guide	0.0	9	
+Java程序设计经典300例	0.0	4	
+Java编程语言	0.0	5	
+设计模式Java手册	0.0	7	
+Java 2从入门到精通	0.0	3	
+Java语言程序设计	0.0	8	
+Java网络编程与分布式计算	0.0	8	
+Java高手真经（编程基础卷）	0.0	8	
+Java程序设计教程	7.7	12	
+Java How to Program (9th Edition)	8.6	11	
+Java 7程序设计	0.0	9	
+Making Java Groovy	0.0	3	
+从Paxos到Zookeeper	7.7	376	
+Java Web开发从初学到精通	0.0	2	
+编译器构造	0.0	4	
+Java EE 6开发手册•高级篇（第4版）	7.2	10	
+Java EE设计模式解析与应用	0.0	3	
+Big Java For Java 7 and 8	9.4	10	
+JavaScript高级程序设计（第3版）	9.3	2238	
+Wicked Cool Java	0.0	5	
+Ajax与Java高级程序设计	0.0	6	
+Java网络程序设计与分布式计算	0.0	3	
+Java程序设计	0.0	8	
+Java数据库编程实例	0.0	1	
+Java 2D Graphics	0.0	6	
+Java面向对象程序设计图形化方法	0.0	8	
+Java EE WEB开发与项目实战	0.0	4	
+Learning Java	0.0	3	
+Java Web技术整合应用与项目实战	0.0	7	
+Effective Java（第2版）英文版	8.9	14	
+Java趣味编程100例	0.0	2	
+Enterprise Java with UML中文版	0.0	1	
+企业级JAVA开发与架构专业程序员在实战中的蜕变	7.2	10	
+Java RMI	0.0	2	
+探秘Java	0.0	4	
+21天学通Java Web开发	7.0	15	
+SOA与Java：用Java技术实现面向服务	0.0	0	
+The Java Programming Language	0.0	0	
+Java Distributed Computing (O'Reilly Java)	0.0	2	
+大规模Java平台虚拟化与调优	0.0	2	
+Modern Multithreading	0.0	1	
+21天学通Java 2 (第二版)	0.0	8	
+Java Servlet Programming	0.0	2	
+Java Examples in a Nutshell, 3rd Edition	0.0	5	
+JAVA手机游戏实例手册	0.0	4	
+Java设计模式	0.0	7	
+SCJP Sun Certified Programmer for Java 5 Study Guide	0.0	9	
+From Java to Ruby	0.0	7	
+Instant Messaging in Java	0.0	6	
+Java Web Service教程	0.0	2	
+Java for Flash动态网站开发手札	0.0	3	
+Understanding Java Virtual Machine	0.0	0	
+Java软件结构与数据结构	8.1	10	
+Java程序设计与问题解决	0.0	5	
+Java语言程序设计	0.0	8	
+Java 2核心技术卷II	0.0	5	
+深入体验Java项目开发	0.0	2	
+Java ME基础教程	0.0	2	
+Wicked Cool Java中文版	0.0	4	
+Building Java Programs	0.0	5	
+Java项目开发全程实录	0.0	3	
+Java程序设计与数据结构导论	7.4	10	
+Practical Java Programming Language Guide	0.0	4	
+Programming for the Java™ Virtual Machine	0.0	4	
+Java网络编程指南	0.0	2	
+Java手机/PDA程序设计入门	0.0	7	
+Java Web开发典型模块大全	0.0	1	
+Modular Java	0.0	5	
+深入体验Java Web项目开发	0.0	1	
+深度解析Java游戏服务器开发	3.0	12	
+Building Maintainable Software, Java Edition	0.0	7	
+Java程序员面试宝典(第4版)	4.8	17	
+Thinking Recursively with Java	0.0	2	
+The Java(TM) Tutorial	0.0	4	
+Algorithms in Java, Parts 1-4	0.0	2	
+精通Java Swing程序设计	0.0	5	
+JAVA WEB整合开发实例精通	0.0	5	
+Sams Teach Yourself Java in 24 Hours	0.0	5	
+Java学习指南(第4版)(上下册)	0.0	7	
+Programming Android	0.0	7	
+Java 2 参考大全	0.0	8	
+Sams Teach Yourself Java 6 in 21 Days (5th Edition)	0.0	4	
+精通Java网络编程	0.0	4	
+JAVA与UML协同应用开发	0.0	4	
+Java服务器高级编程	0.0	3	
+Agile Java Development with Spring, Hibernate and Eclipse	0.0	5	
+Java Security (2nd Edition)	0.0	2	
+Java and XML	0.0	5	
+Java轻松入门	0.0	7	
+Java编程思维	6.8	17	
+Java EE 核心技术与应用	7.2	10	
+Java测试与设计	0.0	1	
+Java开发实战宝典	0.0	7	
+Java, Java, Java, Object-Oriented Problem Solving (3rd Edition)	0.0	7	
+Java多线程编程核心技术（第2版）	0.0	2	
+JAVA 2实用教程（第二版）	0.0	3	
+Java逍遥游记	0.0	5	
+修炼Java开发技术	0.0	4	
+Java改错学习法	0.0	6	
+Java and the Java Virtual Machine	0.0	1	
+计算机图形学	0.0	4	
+Programming Groovy 2	0.0	7	
+Java程序设计教程	0.0	4	
+Java Message Service	0.0	0	
+Java数值计算算法编程	0.0	1	
+Java 虚拟机规范	0.0	1	
+JAVA编程习题与解答	0.0	1	
+零起点Java应用编程	0.0	6	
+Java高效编程指南	0.0	4	
+Java语言学习手册	0.0	3	
+Java Precisely	0.0	8	
+JAVA实例精通	0.0	9	
+Java组件设计	0.0	4	
+Java第一步	0.0	6	
+Java常用算法手册	0.0	8	
+Java Web开发详解	0.0	3	
+Java Web从入门到精通	0.0	5	
+Object-Oriented Software Engineering Using UML, Patterns, and Java (3rd Edition)	0.0	4	
+其实你应该这样学Java	0.0	3	
+Java Web应用开发	0.0	3	
+程序员代码面试指南：IT名企算法与数据结构题目最优解	8.8	120	
+Java platform performance	0.0	1	
+Java EE编程技术	0.0	5	
+Java SE应用程序设计	0.0	5	
+Beginning Java Objects	0.0	2	
+Java Web开发与实战	0.0	5	
+Java Web应用开发给力起飞	0.0	3	
+Java Web开发实战	0.0	2	
+JXTA-Java P2P网络编程技术	0.0	1	
+Java 2编程详解	0.0	2	
+Java 傻瓜书 Java For Dummies	0.0	6	
+Java典型应用彻查1000例.Java入门	0.0	2	
+Java 2 Primer Plus中文版	0.0	0	
+Java智能卡原理与应用开发	0.0	2	
+Java面向对象程序设计	0.0	2	
+Enterprise Java with UML中文版	0.0	2	
+Java完美编程	7.2	10	
+JAVA大学教程	0.0	3	
+深入浅出Java Swing程序设计	0.0	4	
+Google Web Toolkit GWT Java AJAX Programming	0.0	5	
+Java JDK实例宝典	0.0	6	
+Java Web服务	0.0	7	
+JAVA5游戏编程	0.0	3	
+电玩游戏Java实战DIY	0.0	4	
+Inside Web Dynpro for Java	0.0	1	
+Absolute Java	0.0	5	
+疯狂Java讲义精粹	0.0	6	
+Java Web程序设计与项目实践	0.0	2	
+Core Java, Volume II (9th Edition)	0.0	2	
+Java编码指南	0.0	4	
+Java程序员成功面试秘籍	0.0	7	
+Java完全自学手册	0.0	4	
+Java报表开发技术深入解析	0.0	1	
+Java Web设计模式之道	0.0	7	
+Absolute Java (3rd Edition)	0.0	5	
+Java Swing	0.0	5	
+Java for Everyone	0.0	9	
+算法设计、分析与实现	0.0	5	
+Java Bug模式详解	0.0	4	
+Java求职宝典	0.0	4	
+Data Structures and Algorithms in Java	9.5	18	
+The Java Virtual Machine Specification	0.0	1	
+深入淺出 Java 程式設計 第二版	0.0	3	
+Java How to Program (4th Edition)	0.0	3	
+Java SOAP编程指南	0.0	1	
+JAVA技术手册	0.0	7	
+Java实用教程	0.0	9	
+Java Web开发之道	0.0	5	
+Java并发编程：核心方法与框架	4.6	21	
+Java开发手册	0.0	6	
+Java the Complete Reference 9/E	0.0	3	
+Java Persistence with MyBatis 3	0.0	2	
+零基础学Java	0.0	5	
+Swarm for Java 仿真及编程实现	0.0	3	
+Java Web编程从入门到实践	0.0	7	
+Java 7 Pocket Guide	0.0	8	
+Java 9 Modularity	0.0	6	
+Java语言程序设计	0.0	1	
+Java程序设计题解与上机指导	0.0	2	
+Java大学教程	0.0	6	
+Functional Programming in Java: How functional techniques improve your Java programs	0.0	4	
+Refracted Visions	0.0	6	
+Java学习手册	0.0	4	
+Java程序设计完全自学手册	0.0	3	
+JavaScript语言精粹	9.1	1817	
+Java TCP/IP应用开发详解	0.0	1	
+Java面向对象编程指南	0.0	3	
+Java 2编程21天自学通	0.0	4	
+Java程序调试实用手册	0.0	2	
+Hibernate 3和Java Persistence API 程序开发从入门到精通	0.0	6	
+Decompiling Java	0.0	0	
+Java程序设计	0.0	6	
+Introduction to Computing and Programming with Java	0.0	5	
+精通轻量级Java EE框架整合方案	0.0	2	
+Professional Java Server Programming	0.0	3	
+Java Enterprise in a Nutshell (In a Nutshell (O'Reilly))	0.0	5	
+精通Java Web动态图表编程	0.0	1	
+Developing Games in Java	0.0	2	
+Big Java中文版	0.0	4	
+数据结构Java语言描述	0.0	4	
+Java程序设计	0.0	6	
+C/C++/Java 程序设计经典教程	0.0	8	
+Java程序设计基础	0.0	2	
+Java 语言程序设计	0.0	3	
+Java语言导学	0.0	6	
+Component Development for the Java Platform	0.0	2	
+Java程序设计与问题解决	0.0	4	
+Java程序设计教程	0.0	8	
+学通Java的24堂课	0.0	5	
+21天学通Java	0.0	5	
+Fundamental Networking in Java	0.0	0	
+Java Performance Companion	0.0	2	
+Java Web 开发就该这样学	0.0	8	
+Introduction to Java Programming, Brief (8th Edition)	0.0	4	
+Java基础与案例开发详解	0.0	5	
+Java从入门到实践	0.0	7	
+Learn Java for Android Development	0.0	4	
+Java Coding Guidelines	0.0	0	
+Beginning Java 8 Language Features	0.0	2	
+Java架构师指南	3.4	11	
+测试驱动开发	8.2	501	
+The Definitive Guide to Grails	7.7	10	
+Java Virtual Machine	0.0	0	
+Java编码指南	0.0	0	
+Java性能权威指南 (影印版)	0.0	2	
+Java EE 7权威指南：卷2	0.0	3	
+Java EE开发指南	0.0	5	
+Database Programming with JDBC & Java	0.0	1	
+Java数据库编程宝典	0.0	2	
+Java Servlet 开发人员指南	0.0	2	
+Java Servlets 2.3编程指南	0.0	3	
+Data Structures and Problem Solving Using Java	0.0	3	
+Java开发技术大全	0.0	3	
+Java宝典	0.0	6	
+Java Web开发实例大全（基础卷）	0.0	4	
+Java从入门到精通	0.0	5	
+Appcelerator Titanium Smartphone App Development Cookbook	0.0	5	
+设计模式之禅	7.5	376	
+用J2EE和UML开发Java企业级应用程序	0.0	4	
+Java安全性编程指南	0.0	1	
+软件工程--Java语言实现	0.0	0	
+SOA Using Java(TM)  Web Services	0.0	5	
+Java大学实用教程	0.0	8	
+Java开源项目	0.0	1	
+Beginning Programming with Java For Dummies (For Dummies (Computer/Tech))	0.0	7	
+Java EE Web编程	0.0	5	
+Robust Java	0.0	3	
+Core Java Server Faces	0.0	4	
+Computer Graphics Using Java 2D and 3D	0.0	2	
+Java优化编程	0.0	7	
+Java课程设计	0.0	1	
+Java面向对象程序设计	0.0	2	
+Java平台组件开发	0.0	2	
+JAVA算法(影印版第3版第1卷)/算法经典丛书	0.0	1	
+Java国际认证（中文版）	0.0	4	
+Java 2 Web开发认证学习指南	0.0	3	
+Java Design Patterns	0.0	4	
+Java Game Programming－建立遊戲的演算法與框架	0.0	0	
+Java基础教程	0.0	3	
+Java课程设计	0.0	2	
+Patterns in Java	0.0	1	
+The CERT® Oracle® Secure Coding Standard for Java	0.0	1	
+java web 程序开发入门	0.0	8	
+Building Hybrid Android Apps with Java and JavaScript	0.0	3	
+零基础学Java 第4版	0.0	4	
+Java编程指南	0.0	4	
+Introduction to Java Programming, Comprehensive Version (10th Edition)	9.0	10	
+Big Java	0.0	6	
+面向对象软件工程	0.0	3	
+面向对象软件工程	0.0	5	
+Java应用程序设计接口(上册)--核心包	0.0	0	
+Java EE 5开发指南	0.0	3	
+Java自然语言处理	0.0	4	
+Java虚拟机规范	0.0	0	
+Modern Java Recipes: Simple Solutions to Difficult Problems in Java 8 and 9	0.0	8	
+Java GUI 程序设计	0.0	0	
+Java与SOAP	0.0	2	
+Java程序设计与数据结构	0.0	3	
+Java程序设计专家门诊	0.0	2	
+Java Web服务高级教程	0.0	1	
+Java Servlets by Example	0.0	0	
+Java测试驱动开发	7.1	20	
+亮剑Java项目开发案例导航	0.0	4	
+VRML与Java编程技术	0.0	2	
+Rails for Java Developers	0.0	2	
+Java语言导学(第4版)(英文版)	0.0	3	
+Professional Java JDK 6 Edition	0.0	2	
+Bitter Java	0.0	2	
+Bundle of Algorithms in Java	0.0	1	
+Java宝典	0.0	2	
+Java Cookbook	0.0	1	
+Java Extreme Programming Cookbook	0.0	1	
+Java设计模式	0.0	0	
+Java国际认证	0.0	1	
+Java与UML面向对象设计与编程	0.0	2	
+Java程序设计教程	0.0	7	
+Java与UML面向对象程序设计	0.0	4	
+Design Patterns Java Workbook	0.0	2	
+JAVA程序员指南/国外经典教材.计算机科学与技术	0.0	6	
+SAP应用服务器的JAVA编程	0.0	1	
+Beginning Java™ EE 6 Platform with GlassFish™ 3	0.0	1	
+Java面向对象程序设计	0.0	6	
+Introduction to Neural Networks for Java, 2nd Edition	0.0	1	
+Java Web轻量级开发全体验	0.0	2	
+Java开发实战1200例（第Ⅱ卷）	0.0	4	
+Java 7 New Features Cookbook	0.0	3	
+亮剑Java Web项目开发案例导航	0.0	0	
+Building Mobile Applications with Java	0.0	2	
+Distributed, Embedded and Real-time Java Systems	0.0	1	
+Big Java: COMPATIBLE WITH JAVE 5, 6 AND 7	0.0	3	
+21天学通Java Web开发	0.0	3	
+OCA/OCP Java SE 7 Programmer I & II Study Guide	0.0	1	
+Absolute Java	0.0	8	
+直達Java虛擬機器	0.0	1	
+Java Web编程实战宝典	0.0	5	
+Java网络编程实用精解	0.0	3	
+2nd Java Virtual Machine Reasearch and Technology Symposium (JVM '02)	0.0	0	
+Data Structures and Algorithms with Object-Oriented Design Patterns in Java (Worldwide Series in Computer Science)	0.0	1	
+Tomcat原理与Java Web系统开发	0.0	1	
+Java面向对象程序设计基础教程	0.0	4	
+Big Java Late Objects	0.0	4	
+Data Structures and Abstractions with Java	0.0	1	
+福尔摩斯电脑探案	0.0	4	
+C++	0.0	0	
+疯狂Java讲义（第4版）	8.1	13	
+Java语言程序设计	0.0	3	
+Java Web开发技术方案宝典	0.0	1	
+Elements of Programming Interviews in Java	0.0	9	
+Java与XML数据绑定	0.0	1	
+Java教程	0.0	1	
+从头学XML和Java编程一例通	0.0	0	
+Java毕业设计指南与项目实践	0.0	3	
+Java语言程序设计	0.0	7	
+Java语言基础教程	0.0	0	
+Pro Java Ee 5 Performance Management And Optimization	0.0	2	
+Java网络编程技术与实践	0.0	1	
+Ajax on Java	0.0	2	
+Objects First With Java	0.0	3	
+Java程序设计入门	0.0	3	
+Java程序设计之网络编程	0.0	1	
+深入浅出Java 2面向对象程序设计	0.0	3	
+Professional Eclipse 3 for Java Developers	0.0	1	
+Java游戏编程导学	0.0	1	
+J2ME 无线 Java 应用开发	0.0	1	
+Java数值方法	0.0	1	
+Java与XSLT	0.0	5	
+Java大学教程	0.0	4	
+用Java构建Web服务	0.0	3	
+Java算法	0.0	1	
+LDAP Programming with Java(TM)	0.0	1	
+Java P2P Unleashed	0.0	1	
+Java项目开发实践	0.0	0	
+Java课程设计案例精编	0.0	3	
+Beginning Cryptography with Java	0.0	2	
+Sun Certified Enterprise Architect for Java EE Study Guide	0.0	1	
+Taming Java Threads	0.0	0	
+Java程序员教程	0.0	3	
+从零开始学Java	0.0	4	
+Inside Java 2 Platform Security	0.0	1	
+Data Structures and Algorithms in Java	0.0	6	
+Data Structures and the Java Collections Framework	0.0	4	
+从零开始学Java	0.0	1	
+Introduction to Java Programming, Comprehensive Version	0.0	3	
+企业级Java EE架构设计精深实践	0.0	3	
+Java开发实例大全（基础卷）	0.0	1	
+Java EE 7 & HTML5应用开发	0.0	0	
+Java EE核心框架实战	0.0	5	
+Beginning Java 8 Fundamentals	0.0	6	
+Java全能速查宝典	0.0	3	
+Java ME游戏开发技术大全	0.0	2	
+视频学Java Web	0.0	4	
+Java范例完全自学手册	0.0	4	
+Data Structures and Problem Solving Using Java	0.0	4	
+Java机器学习	0.0	3	
+Java常用算法手册(附光盘)	0.0	3	
+Java程序设计大学教程	0.0	3	
+Java完全手册	0.0	7	
+Java经典问答	0.0	2	
+Essential Jni: Java Native Interface	0.0	0	
+java语言袖珍指南	0.0	4	
+Java函数式编程	8.2	16	
+Designing Web Services with the J2EE(TM) 1.4 Platform	0.0	1	
+Kinect Open Source Programming Secrets	0.0	0	
+Concurrent Programming Languages	0.0	0	
+Spring源码深度解析	6.5	108	
+Expert One-on-One J2EE Development without EJB中文版	8.9	300	
+Head First Servlets & JSP（中文版）	8.8	323	
+J2EE开源编程精要15讲	0.0	2	
+数据结构	0.0	6	
+Data Mining	0.0	4	
+Java Web应用开发与实践	0.0	4	
+Pro Amazon EC2 and WS	0.0	0	
+Of Palm Wine, Women and War	0.0	0	
+解密搜索引擎技术实战	0.0	1	
+Java常用数值算法集（含CD-ROM光盘一张）——常用数值算法丛书	0.0	1	
+Java 模式	0.0	1	
+Java数据库应用程序编程指南	0.0	0	
+Java专业编程指南	0.0	1	
+Java 2实用教程	0.0	4	
+Java实用教程	0.0	6	
+Java大学教程	0.0	2	
+贯通Java Web轻量级应用开发	0.0	1	
+Java数据库高级编程宝典	0.0	2	
+Java 3D Programming	0.0	2	
+Java函数实用手册	0.0	1	
+面向对象的Java网络编程	0.0	1	
+Java游戏高级编程	0.0	3	
+Sams Teach Yourself Programming with Java in 24 Hours (4th Edition) (Sams Teach Yourself)	0.0	4	
+Data Structures and Algorithms in Java, Second Edition	0.0	3	
+精通Java	0.0	5	
+JAVA图形用户界面设计与实例	0.0	0	
+Java Web服务开发	0.0	1	
+Java 2游戏设计	0.0	1	
+Java程序开发教程	0.0	1	
+妙用Java及VRML开发三维图形	0.0	0	
+XML与JAVA程序设计大全	0.0	1	
+The Art of Java	0.0	1	
+Java语言程序设计	0.0	1	
+JBoss平台上的Java EE程序开发指南	0.0	1	
+Java Pitfalls	0.0	2	
+Java程序设计与问题解决	0.0	4	
+Java Web整合开发全程指南	0.0	4	
+Java ME游戏编程	0.0	0	
+面向对象与Java程序设计	0.0	2	
+TCP/IP Sockets in Java	0.0	3	
+精通Java EE	0.0	1	
+The Java Tutorial	0.0	2	
+Objects First with Java	0.0	1	
+Java必须知道的300个问题	0.0	1	
+Java Performance and Scalability	0.0	0	
+java 7程序设计入门经典	0.0	5	
+Java EE 7	0.0	0	
+Java Web Services	0.0	2	
+Java Web 服务	0.0	1	
+Java ME移动开发实例精讲	0.0	3	
+Java程序设计标准教程	0.0	5	
+Java数据库技术详解	0.0	1	
+Java程序开发大全	0.0	1	
+OCA Java SE 7 Certificate Guide	0.0	3	
+Client-Server Web Apps with JavaScript and Java	0.0	2	
+Java Threads and the Concurrency Utilities	0.0	8	
+Introduction to Programming in Java	0.0	3	
+Java Web程序开发范例宝典	0.0	2	
+Java Concepts	0.0	2	
+Java 2 Performance and Idiom Guide	0.0	0	
+Java SE程序设计基础教程	0.0	1	
+01OCA Java SE 7 Programmer I认证学习指南	0.0	1	
+Java语言程序设计（进阶篇）（原书第10版）	9.0	13	
+第一行代码：Android（第2版）	8.6	369	
+七周七并发模型	7.7	279	
+java语言导学（原书第5版）	0.0	2	
+Ajax on Java	0.0	2	
+Hadoop权威指南:大数据的存储与分析(第4版)(修订版)(升级版)	8.4	81	
+Java 小程序设计从入门到精通	0.0	0	
+Rich Internet Applications with Adobe Flex & Java	0.0	1	
+Java For Artists	0.0	0	
+Java in a Nutshell, Fourth Edition	0.0	3	
+Java How to Program	0.0	1	
+Java面向对象程序设计	0.0	4	
+从零开始学Java ME手机开发	0.0	0	
+AJAX Programming with Java	0.0	0	
+Java语言	0.0	4	
+Java实用教程	0.0	3	
+基于JAVA的计算机图形学	0.0	1	
+实时Java	0.0	2	
+实时Java平台编程	0.0	1	
+Java技术内幕	0.0	1	
+Beginning Java 2	0.0	2	
+Introduction to Java Programming (4th Edition)	0.0	4	
+Java中间件开发技术	0.0	2	
+Java Server Pages. Deutsche Ausgabe	0.0	1	
+Concurrent and Real-time Programming in Java	0.0	1	
+Applied Java Patterns	0.0	1	
+精通Spring 2.x Java Web开发	0.0	4	
+Java Web程序设计	0.0	0	
+Java开发宝典	0.0	0	
+JAVA编程	0.0	0	
+Java全能速查宝典	0.0	3	
+零基础学Java	0.0	3	
+Java 7 Recipes	0.0	1	
+Java Web开发学习手册	0.0	3	
+Java开发之道	0.0	1	
+Java从入门到精通	0.0	1	
+持续轻量级Java EE开发	0.0	2	
+Pro Java 8 Programming	0.0	3	
+The Java EE 7 Tutorial	0.0	1	
+Java Web程序设计教程	0.0	2	
+Operating System Concepts with Java	0.0	1	
+Effective Java 第2版	0.0	3	
+Real World Java EE Patterns Rethinking Best Practices	0.0	1	
+Java程序设计学习指导与习题解答	0.0	1	
+视频学Java	0.0	1	
+Java程序设计实用教程	0.0	4	
+全国计算机等级考试二级教程--Java语言程序设计(2010年版)	0.0	1	
+精通Java开发技术	0.0	3	
+What's New in Java 7?	0.0	3	
+Java编程原理与实践	0.0	0	
+Java开发技术全程指南	0.0	5	
+Beginning Programming with Java For Dummies	0.0	2	
+Java设计模式	0.0	6	
+Java从小白到大牛	0.0	9	
+Java Pocket Guide (Pocket Guides)	0.0	3	
+Java Database Programming Bible	0.0	1	
+Java面向对象程序设计教程	0.0	4	
+Java Collections	0.0	4	
+An Introduction to Programming and Object-oriented Design Using Java	0.0	0	
+Java案例开发集锦	0.0	3	
+Java¿ Language Specification	0.0	2	
+Java Database Best Practices	0.0	0	
+Asian Style Hotels	0.0	2	
+精通 Hibernate 3.0	0.0	1	
+Head First Java Code Magnets	0.0	2	
+算法与数据结构	0.0	3	
+Java编程手记	0.0	2	
+Core Java/Java应用程序编程案例	0.0	0	
+Core Java/Java应用程序设计教程	0.0	0	
+Learning Java (Java Series)	0.0	1	
+Algorithms	9.3	248	
+Beginning POJOs	0.0	1	
+JAVA实例技术手册(影印版)	0.0	2	
+Java XML编程指南	0.0	2	
+Sun认证Java 2程序员考试辅导.上册	0.0	3	
+Sun认证Java 2程序员考试辅导.下册	0.0	2	
+Java Web程序设计基础教程	0.0	0	
+Professional Java Tools for Extreme Programming	0.0	0	
+Java EE Web开发实例精解	0.0	0	
+Java编程技术全接触	0.0	2	
+Tomcat与Java Web开发技术详解	0.0	1	
+Java Enterprise Best Practices	0.0	1	
+JAVA编程Cookbook	0.0	1	
+Java完全自学宝典	0.0	3	
+實戰Java 9個別具特色的實作經驗(The Art	0.0	0	
+輕快的好Java	0.0	2	
+Java案例开发集锦	0.0	1	
+Advanced Java(TM) 2 Platform How to Program	0.0	2	
+The Java(TM) Developers Almanac 1.4, Volume 1	0.0	2	
+Java 6 Platform Revealed	0.0	2	
+Java语言程序设计基础	0.0	1	
+Java软件开发	0.0	2	
+JAVA PITFALLS中文版.	0.0	3	
+JAVA 5.0 TIGER: 程式高手秘笈.	0.0	1	
+Java 实用编程100例	0.0	0	
+无线Java入门	0.0	3	
+Java企业级应用开发指南	0.0	1	
+Java解析教程	0.0	3	
+Java技术教程（中级篇）	0.0	1	
+精通Java 2	0.0	0	
+Java程序设计导论	0.0	1	
+Java编程模式与范例	0.0	0	
+Java网络程序设计	0.0	0	
+Processing XML with Java	0.0	1	
+Pro Ajax and Java Frameworks	0.0	1	
+Java程序设计应用基础教程	0.0	1	
+Java Web整合开发与项目实战	0.0	1	
+Java典型应用彻查1000例.图形与网络游戏开发	0.0	1	
+Java基础教程	0.0	1	
+A Programmer's Guide to Java SCJP Certification	0.0	2	
+Professional Google App Engine Programming with Java	0.0	0	
+The Java(TM) Language Specification	0.0	0	
+Object-oriented Data Structures Using Java	0.0	3	
+Java面向对象程序设计	0.0	3	
+Sprechen Sie Java ?	0.0	1	
+Java Programming 24-Hour Trainer	0.0	4	
+増補改訂版 Java言語で学ぶデザインパターン入門 マルチスレッド編	0.0	1	
+Java语言程序设计	0.0	3	
+Java程序设计实例教程	0.0	2	
+Google App Engine Java and GWT Application Development	0.0	1	
+The Java EE 6 Tutorial	0.0	0	
+学通Java Web的24堂课	0.0	3	
+由浅入深学Java	0.0	2	
+Java EE实用开发指南	0.0	1	
+Starting Out with Java	0.0	1	
+Java典型模块与项目实战大全	0.0	1	
+Programming Finite Elements in Java	0.0	0	
+C++ for Java Programmers	0.0	0	
+Java EE 6 Pocket Guide	0.0	2	
+Java Design Pattern Essentials	0.0	0	
+Enterprise Java Applications Architecture on VMware	0.0	0	
+Introduction to Java Programming, Brief Version	0.0	3	
+java游戏程序设计教程	0.0	2	
+网站开发非常之旅Java Web开发技术详解	0.0	3	
+Java编程兵书	0.0	3	
+Java WebSocket编程	0.0	1	
+Java面向对象B/S后台开发精粹	0.0	0	
+Java Web编程技术	0.0	2	
+Java程序设计与应用开发	0.0	4	
+Java The Complete Reference, 8th Edition	0.0	0	
+Java编程的Web Dynpro	0.0	1	
+Undocumented Secrets of MATLAB-Java Programming	0.0	3	
+Java RESTful Web Service实战 (第2版)	0.0	7	
+Java How To Program	0.0	3	
+Deep Learning with Java	0.0	1	
+JAVA程序设计语言	0.0	1	
+Java EE企业级编程开发实例详解	0.0	1	
+Reactive Streams in Java	0.0	1	
+JavaScript权威指南(第6版)	8.8	665	
+Java and SOAP	0.0	2	
+Java设计	0.0	2	
+Introduction to Programming Using Java	0.0	0	
+Java Web开发入门很简单	0.0	1	
+项目实践精解	0.0	1	
+Core LEGO MINDSTORMS Programming	0.0	1	
+Pro Google Web Toolkit	0.0	0	
+JasperReports	0.0	3	
+Hibernate Made Easy	0.0	0	
+Java基础教程	0.0	4	
+Java EE教程	0.0	0	
+Introduction to Computer Graphics	0.0	1	
+Java2实用教程	0.0	7	
+The Java EE Architect's Handbook, Second Edition	0.0	1	
+Factory Daughters	0.0	0	
+JavaFX Script	0.0	1	
+深入理解Android	9.4	13	
+JavaScript DOM编程艺术 （第2版）	8.7	1548	
+Spring in Action中文版	7.5	260	
+Spring技术内幕（第2版）	5.9	134	
+Thinking in Java. 4th Edition / Filosofiya Java. Biblioteka programmista	0.0	0	
+Java 7并发编程实战手册	0.0	1	
+Advanced Topics In Java	0.0	1	
+Building Reactive Microservices in Java	0.0	2	
+Java基础编程贯通教程(附光盘)	0.0	1	
+Java After Hours	0.0	2	
+2008全国计算机等级考试考点分析、题解与模拟:二级Java (平装)	0.0	1	
+Java程序设计实验与习题解答	0.0	2	
+Practical DWR 2 Projects (Expert's Voice in Java)	0.0	0	
+Pragmatic Unit Testing in Java with JUnit	0.0	1	
+Herb Schildt's Java Programming Cookbook	0.0	0	
+Java Software Solutions: Foundations of Program Design	0.0	2	
+Java程序设计	0.0	3	
+Java Software Solutions	0.0	2	
+Java语言计算机科学与程序设计	0.0	1	
+Java EE和.NET互操作性	0.0	0	
+Java实用教程	0.0	1	
+EFFECTIVE JAVA PROGRAMMING LANGUAGE GUI.中文版	0.0	0	
+Professional Java Servlets 2.3	0.0	0	
+Java程序设计课程设计	0.0	0	
+高级Java 2大学教程	0.0	1	
+Java数据库高级教程	0.0	1	
+JAVA安全解决方案	0.0	1	
+Java 2 入门与提高	0.0	1	
+Java程序设计大全	0.0	0	
+Java 安全手册	0.0	1	
+Java 2编程起步	0.0	1	
+Java与XML	0.0	1	
+精通XMI－使用XMI、XML和UML进行Java编程	0.0	1	
+Java语言学习利器	0.0	1	
+JAVA Servlet Programming	0.0	1	
+全国计算机等级考试二级Java典型题汇与解析	0.0	0	
+Java Script实例精通	0.0	2	
+Java开发入行真功夫	0.0	3	
+精通Java网络编程	0.0	2	
+Object-Oriented Programming in Java	0.0	1	
+Java课程设计	0.0	0	
+Java for the Web with Servlets, JSP, and EJB	0.0	1	
+Beginning Database-Driven Application Development in Java EE	0.0	1	
+Java ME手机游戏开发从入门到精通	0.0	0	
+Java Web2.0	0.0	2	
+Java Foundations	0.0	2	
+Java Programming	0.0	2	
+Java Web编程宝典	0.0	2	
+Java手机游戏设计基础实验指导	0.0	0	
+JAVA手机应用程序设计	0.0	0	
+Java程序员面试笔试真题库	0.0	5	
+Java 9 Concurrency Cookbook - Second Edition	0.0	3	
+Java ７从入门到精通	0.0	0	
+Java代码与架构之完美优化	0.0	0	
+Java JDK 7实例宝典	0.0	0	
+Java Cookbook	0.0	2	
+Beginning Java Programming	0.0	0	
+Building Java Programs	0.0	2	
+The Java EE 7 Tutorial	0.0	1	
+Java程序设计基础教程	0.0	2	
+Sams Teach Yourself Java in 24 Hours (5th Edition)	0.0	3	
+Java从初学到精通	0.0	4	
+3D User Interfaces with Java 3D	0.0	0	
+Java 7 Programming	0.0	0	
+Beginning JSF™ 2 APIs and JBoss® Seam (Expert's Voice in Java)	0.0	1	
+Core Java SE 9 for the Impatient	0.0	4	
+Java For Dummies	0.0	1	
+Efficient Java	0.0	0	
+Java语言程序设计	0.0	3	
+Java精彩编程200例（全彩版）	0.0	2	
+Java (programming language)	0.0	0	
+Digital Image Processing	0.0	2	
+Oracle Database 10g XML & SQL	0.0	2	
+由浅入深	0.0	1	
+Grails 1.1 Web Application Development	0.0	2	
+Seam Framework	0.0	3	
+Java开发入门及项目实战	0.0	1	
+解密搜索引擎技术实战(第二版)	0.0	0	
+Pro Drools	0.0	1	
+The Nonlinear Workbook	0.0	0	
+计算机科学导论	0.0	0	
+Java编程方法论：响应式RxJava与代码设计实战	0.0	6	
+Java All-In-One Desk Reference For Dummies (For Dummies (Computers))	0.0	1	
+Java Programming with CORBA	0.0	0	
+Java问答式教程	0.0	1	
+Spring Cloud微服务实战	7.8	194	
+The Java Class Libraries, Volume 1	0.0	0	
+Java Specification Requests	0.0	0	
+Programmiersprache Java	0.0	0	
+Pro EJB 3	0.0	1	
+Java Regular Expressions	0.0	1	
+败戒	0.0	1	
+Foundations of 3D Graphics Programming	0.0	1	
+Java How to Program	0.0	3	
+Intelligence Unleashed	0.0	0	
+Java项目案例分析	0.0	1	
+java for kids	0.0	1	
+Java程序设计方法与实例	0.0	1	
+从 C++、Java 到 C#	0.0	0	
+Great Ideas in Computer Science with Java	0.0	2	
+Object-Oriented Programming and Java	0.0	0	
+Grundkurs Java	0.0	2	
+Java and XML Data binding	0.0	0	
+Wireless Java Programming for Enterprise Applications	0.0	0	
+Java语言实用教程	0.0	1	
+Java程序设计实用案例教程	0.0	2	
+Java Messaging	0.0	0	
+Java项目开发与毕业设计指导	0.0	1	
+Beginning Java 5 Game Programming	0.0	1	
+Murach's Java SE 6	0.0	1	
+Lightweight Java Web Application Development	0.0	0	
+Java Foundations	0.0	0	
+Professional Java Custom UI Components	0.0	0	
+Thinking In Java & Eval Online Resrces P	0.0	0	
+Desktop Java Live	0.0	1	
+Java Web Services in a Nutshell	0.0	0	
+Java Web开发之Struts编程基础与实例精讲	0.0	2	
+Data Structures in Java	0.0	1	
+Java 2实用培训教程	0.0	0	
+Active Java	0.0	0	
+Java语言最新实用案例教程	0.0	2	
+JAVA十大经典案例	0.0	0	
+MORE JAVA PITFALLS中文版.	0.0	0	
+Java面向事件编程	0.0	1	
+面向对象程序设计与Java语言	0.0	1	
+Java面向对象程序设计	0.0	2	
+精通Java 2程序设计	0.0	1	
+Java开发人员年鉴.第1卷	0.0	1	
+Java网络程序设计	0.0	0	
+Java编程习题与解答(英文版）	0.0	2	
+Professional Java Native Interfaces with SWT/JFace (Programmer to Programmer)	0.0	0	
+Java Security 全方位解決方案.	0.0	0	
+Java编程基础	0.0	0	
+Distributed Programming With Java	0.0	0	
+Constructing Intelligent Agents Using Java	0.0	1	
+Java语言程序设计百问百例	0.0	0	
+An Introduction to Object-oriented Programming with Java	0.0	1	
+Essential Java 3D Fast	0.0	0	
+Bug Patterns in Java	0.0	0	
+Pro Apache Struts with Ajax (Expert's Voice in Java)	0.0	1	
+Java网络编程基础	0.0	2	
+Java Web开发技术教程	0.0	1	
+Java程序设计案例教程	0.0	4	
+Java程序设计案例教程	0.0	1	
+Introduction to Java Programming (3rd Edition)	0.0	1	
+Java 程序设计	0.0	1	
+Java EE实用教程	0.0	0	
+Java SE7 技術手冊	0.0	0	
+Java软件工程与项目案例教程	0.0	0	
+Practical Database Programming with Java	0.0	0	
+Guide to Web Development with Java	0.0	1	
+Real World Java Ee Night Hacks Dissecting the Business Tier	0.0	0	
+Java程序设计精编教程	0.0	2	
+Java语言程序设计	0.0	0	
+JaVa程序设计	0.0	3	
+Java程序设计教程	0.0	0	
+Java编程网络大讲堂	0.0	1	
+OCA Java SE 7 Programmer I Study Guide	0.0	1	
+Java EE实用教程	0.0	0	
+Java EE 6 Cookbook for Securing, Tuning, and Extending Enterprise Applications	0.0	1	
+Java: An Introduction to Problem Solving and Programming (7th Edition)	0.0	1	
+Java项目开发全程实录（第3版）	0.0	1	
+Iron-Clad Java	0.0	1	
+Genetic Algorithms in Java Basics	0.0	1	
+Oracle Certified Professional Java Se 7 Programmer Exams 1z0-804 and 1z0-805	0.0	0	
+Beginning Java EE 7	0.0	1	
+Introducing Java EE 7	0.0	0	
+Introduction to Java Programming	0.0	1	
+Java CAPS基础、应用与案例	0.0	0	
+Java面向对象程序设计教程	0.0	0	
+Java 2	0.0	2	
+Java学习宝典	0.0	1	
+JAVA网络程序设计	0.0	0	
+Java程序设计实例教程	0.0	0	
+SOAP Programming with Java	0.0	0	
+Java Network Programming and Distributed Computing	0.0	1	
+Java程序设计与应用	0.0	1	
+Java程序设计实践教程	0.0	3	
+Java Bytecode	0.0	0	
+Java语言程序设计(21世纪高等学校计算机专业实用规划教材)/好程序员成长丛书	0.0	1	
+软件是这样“炼”成的——Java学习全演练	0.0	1	
+Grote Atlas van de Verenigde Oost-Indische Compagnie Comprehensive Atlas of the Dutch United East India Company II	0.0	0	
+The Java(TM) Class Libraries, Volume 2	0.0	0	
+网络数据采集技术：Java网络爬虫实战	0.0	1	
+Netty实战	7.7	200	
+Head First Design Patterns	9.1	620	
+Java Structures	0.0	0	
+项目实践精解	0.0	0	
+DHTML 網頁自學手冊(2)	0.0	2	
+Pro JMX	0.0	0	
+Pro Liferay	0.0	1	
+OSWorkflow	0.0	1	
+War, Nationalism and Peasants	0.0	0	
+面向对象编程基础	0.0	1	
+Java面试关键与综合软件项目开发全程实战	0.0	2	
+Java语言程序设计	0.0	4	
+Java Web编程新手自学手册	0.0	2	
+spring mvc cookbook	0.0	2	
+Java: A Beginner’s Tutorial, 4th Edition	0.0	3	
+Grails入门指南（第二版）	0.0	2	
+Database Systems	0.0	0	
+Requirements Analysis and System Design	0.0	1	
+Introduction to Computer Graphics	0.0	0	
+Programming with Objects	0.0	0	
+Programming for Corpus Linguistics	0.0	0	
+Gamelan Stories	0.0	0	
+The Nonlinear Workbook	0.0	1	
+双语版Java程序设计	0.0	2	
+ZooKeeper:分布式过程协同技术详解	7.1	124	
+函数式编程思维	7.3	138	
+Java数据编程指南	0.0	0	
+Java Server Pages技术参考	0.0	0	
+Java面向对象程序设计	0.0	1	
+Java for Students	0.0	0	
+Real-Time Java Platform Programming	0.0	0	
+Advanced Java Game Programming	0.0	0	
+Java The Complete Reference, Seventh Edition	0.0	1	
+An Introduction to Network Programming with Java	0.0	1	
+Java程序设计与网络编程	0.0	1	
+Java程序设计基础与应用	0.0	0	
+Sun Certified Programmer & Developer for Java 2 Study Guide	0.0	1	
+Java Design	0.0	0	
+Java语言实用教程	0.0	0	
+UML FOR JAVA PROGRAMMERS中文版.	0.0	0	
+Professional Java E-Commerce	0.0	0	
+Java程序设计实用教程	0.0	1	
+Beginning Java 2	0.0	1	
+Java语言调试技术	0.0	1	
+JAVA智能卡原理与技术	0.0	0	
+C# for Java Developers	0.0	0	
+Java编程及应用	0.0	0	
+Java程序设计导学	0.0	1	
+UML与Java面向对象开发	0.0	0	
+Java实用教程/全新计算机应用技术丛书	0.0	0	
+Java编程原理	0.0	2	
+Java 2API大全（上、下）	0.0	0	
+Oracle 9i Java程序设计	0.0	0	
+Java程序设计教程	0.0	1	
+全国计算机等级考试考点分析、题解与模拟（二级Java）	0.0	1	
+Java程序设计与应用技术教程	0.0	1	
+Java Beans 使用手册	0.0	0	
+Java 2 认证考试指南	0.0	1	
+JAVA实用编程技术	0.0	0	
+JAVA 2高级开发指南	0.0	0	
+Java How to Program, Fifth Edition	0.0	1	
+Java 2学习指南	0.0	0	
+Java 2程序设计	0.0	1	
+Java开发指南	0.0	1	
+Java 2 高级编程	0.0	1	
+Java完全探索 第2版	0.0	1	
+反编译 Java 程序	0.0	0	
+Java大学实用教程实验指导	0.0	1	
+Java Foundations	0.0	0	
+Java基础教程	0.0	1	
+Java程序设计	0.0	1	
+Java语言程序设计	0.0	1	
+Java语言程序设计课程实践	0.0	1	
+JAVA POWER TOOLS（上下）	0.0	0	
+Java ME程序设计案例教程	0.0	0	
+Interactive Web-Based Virtual Reality with Java 3D	0.0	0	
+Java程序设计	0.0	1	
+C# for Java Programmers	0.0	0	
+Java Web开发权威经典	0.0	1	
+Java 2 for Dummies	0.0	0	
+Professional Java	0.0	0	
+Pro Java Programming	0.0	0	
+Foundations of Java for ABAP Programmers (Foundations)	0.0	1	
+Beginning Java Game Programming	0.0	1	
+Java and Mac OS X	0.0	0	
+Java Programming	0.0	0	
+OCP Java SE 6 Programmer认证试题解析	0.0	0	
+South by Java Head	0.0	0	
+Programming Neural Networks With Encog2 in Java	0.0	0	
+Java基础教程	0.0	0	
+Programmieren in Java	0.0	0	
+Java程序设计教程	0.0	1	
+Java语言程序设计实验指导与习题解答	0.0	0	
+Java程序设计	0.0	1	
+Java EE企业级架构开发技术与案例教程	0.0	0	
+Java程序设计与项目实践	0.0	0	
+Android Application Development for Java Programmers	0.0	1	
+Java Head	0.0	0	
+Jdbc Database Access with Java	0.0	0	
+Oracle Certified Associate, Java SE 7 Programmer Study Guide	0.0	0	
+Developing a Java Web Application in a Day	0.0	0	
+Java Lambdas and Parallel Streams	0.0	1	
+Java 2D游戏编程入门	0.0	1	
+Java Server Side Programming: The Conceptual Foundation	0.0	1	
+Java程序设计与问题求解	0.0	1	
+Introduction to Programming Using Java, Seventh Edition	0.0	0	
+Puzzles in Java	0.0	0	
+Java Foundations	0.0	1	
+Fundamental 2D Game Programming with Java	0.0	0	
+Java an object-oriented language	0.0	1	
+LDAP Programming with Java (paperback)	0.0	0	
+Java程序设计习题解析与实验教程	0.0	0	
+TCP/IP Sockets in Java Bundle	0.0	1	
+Java编程全能词典	0.0	0	
+Server-Side Java Power Guide	0.0	0	
+Java程序设计	0.0	0	
+Java Web应用开发项目教程	0.0	0	
+Java程序设计教程	0.0	1	
+Java Garage	0.0	1	
+基于Java的Web应用开发	0.0	0	
+Java ME程序设计	0.0	0	
+Java Cryptography Architecture	0.0	0	
+Thinking in Java	0.0	0	
+OCA: Oracle Certified Associate Java SE 8 Programmer I Study	0.0	3	
+Learning Modular Java Programming	0.0	1	
+Java Closures and Lambda	0.0	2	
+Java面向对象编程 (第2版)	0.0	8	
+Modern Compiler Implementation in Java	0.0	0	
+数据结构与抽象（Java版）第三版	0.0	1	
+Java in 21 Days, Sams Teach Yourself	0.0	1	
+Java Language Features	0.0	1	
+Build Web Applications With Java	0.0	1	
+Java核心技术及面试指南	0.0	6	
+Java in a Nutshell 7e	0.0	2	
+Java Web开发实践教程	0.0	1	
+Java Programming	0.0	0	
+Distributed Computing in Java 9	0.0	2	
+Java基础案例教程	0.0	0	
+Instant Web Scraping with Java	0.0	0	
+Inside Java SE 9 (Developer's Library)	0.0	0	
+Java语言程序设计	0.0	0	
+Java基础入门（第2版）	0.0	2	
+企业应用架构模式	8.7	396	
+The Garbage Collection Handbook	9.8	26	
+Oak (programming language)	0.0	0	
+Wiley Plus Stand-Alone To Accompany Objects, Abstraction, Data Structures And Design	0.0	0	
+Java EE 8 Application Development: Develop Enterprise applications using the latest versions of CDI, JAX-RS, JSON-B, JPA, Security, and more	0.0	0	
+Java Modeling In Color With UML	0.0	9	
+Java面向对象程序设计	0.0	0	
+Mastering AspectJ	0.0	1	
+Java面向对象程序设计习题解答与实验	0.0	0	
+数据抽象和问题求解	0.0	1	
+Sun Performance and Tuning	0.0	1	
+2007-二级Java语言程序设计-全国计算机等级考试上机考试习题集(赠送模拟环境全新光盘)	0.0	1	
+A Shadow Falls	0.0	1	
+Programming Languages	0.0	1	
+Java EE 5 Development with NetBeans 6	0.0	0	
+Pro J2ME Polish	0.0	2	
+Principles of Computer Organization and Assembly Language	0.0	1	
+全国计算机等级考试考点解析、例题精解与实战练习	0.0	1	
+Java EE企业应用开发技术	0.0	0	
+Java语言程序设计	0.0	1	
+Java语言程序设计教程	0.0	0	
+Java程序设计任务驱动式实训教程	0.0	1	
+Java程序设计	0.0	1	
+Java典型模块精解	0.0	1	
+Java程序设计实用教程	0.0	1	
+A Short Course in Computational Science and Engineering	0.0	0	
+The Art of Southeast Asia	0.0	0	
+DATA STRUCTURES	0.0	2	
+Java语言程序设计实训教程	0.0	0	
+Programming	0.0	0	
+An Age in Motion	0.0	0	
+世界著名计算机教材精选	0.0	2	
+Java程序设计习题精析与实验指导	0.0	1	
+Learn to Program with Minecraft Plugins	0.0	2	
+Gamelan	0.0	1	
+Oracle 9i Java Programming	0.0	1	
+Android (Operating System)	0.0	0	
+Java实用教程	0.0	1	
+Programming for Linguists	0.0	2	
+The Nonlinear Workbook	0.0	0	
+Netty权威指南（第2版）	6.8	127	
+图解设计模式	8.7	116	
+垃圾回收算法手册：自动内存管理的艺术	7.9	21	
+Data Structures and Algorithms in Java	8.0	16	
+Java面向对象程序设计教程	0.0	1	
+Java Number Cruncher	0.0	2	
+Javaでなぜつくるのか	0.0	0	
+Data Structures in Java	0.0	0	
+Mammals of South-East Asia	0.0	0	
+Java Web应用开发技术实用教程习题解答与实验指导	0.0	0	
+Java语言程序设计	0.0	0	
+2007笔试考试习题集	0.0	1	
+SCBCD Exam Study Kit	0.0	0	
+Java语言程序设计	0.0	0	
+Java程序设计实用教程	0.0	0	
+Apache Jakarta and Beyond	0.0	0	
+Java程序设计	0.0	0	
+Cryptography for Internet and Database Applications	0.0	1	
+Java程序设计	0.0	0	
+Distributed Object-Oriented Architectures	0.0	0	
+an introduction to graphical user interfaces with java swing	0.0	0	
+Pascin	0.0	1	
+Professional BlazeDS	0.0	0	
+Creating Mobile Games	0.0	1	
+2009上半年版全国计算机等级考试超级模拟软件	0.0	0	
+Beginning Jsp 2.0	0.0	0	
+J2EE Best Practices	0.0	0	
+Globus Toolkit 4	0.0	0	
+Invisible Palace	0.0	0	
+AdvancED Flash Lite	0.0	0	
+Up to Speed with Swing	0.0	0	
+打通经脉	0.0	1	
+The Power of Prophecy	0.0	0	
+The JR Programming Language	0.0	0	
+Java程序开发基础教程与实验指导	0.0	0	
+轻松学编程	0.0	1	
+Java ME移动开发教程	0.0	1	
+IBM WebSphere Application Server v7.0 Security	0.0	0	
+Java ME嵌入式程序设计	0.0	0	
+Practical API Design	0.0	0	
+Java程序设计与项目实训教程	0.0	0	
+Essential Visual J++ 6.0 fast	0.0	0	
+Java面向对象程序设计	0.0	1	
+Java Web项目开发教程	0.0	0	
+Java程序设计学习指导与习题解答	0.0	0	
+Java程序设计实验指导与习题测试	0.0	0	
+Maximum LEGO EV3	0.0	0	
+Modern Programming Made Easy	0.0	1	
+Jogjakarta Under Sultan Mangkubumi, 1749-92	0.0	0	
+Java by Dissection	0.0	1	
+Digital Image Processing	0.0	0	
+Minecraft Modding with Forge	0.0	1	
+Java程序设计	0.0	2	
+ScalaCheck: The Definitive Guide	0.0	1	
+Java Ee Applications on the Oracle Java Cloud	0.0	0	
+Shipping and Trade in the Java Sea Region, 1870-1940	0.0	0	
+Eclipse完全攻略	0.0	1	
+全国计算机等级考试二级教程	0.0	0	
+Pro JavaFX 8	0.0	1	
+Programmieren lernen mit Java	0.0	0	
+Jfc	0.0	0	
+Virtual Reality Transfer Protocol (VRTP)	0.0	0	
+JavaFX Special Effects	0.0	0	
+Aspects of Indonesian Culture	0.0	0	
+Understanding Object-Oriented Programming With Java	0.0	0	
+Introductory Programming with Simple Games	0.0	0	
+Java语言程序设计	0.0	0	
+Objects Unencapsulated	0.0	0	
+Java组件技术	0.0	0	
+Java案例开发入门	0.0	0	
+Java语言程序设计	0.0	1	
+Java程序设计及实验	0.0	1	
+数据结构实例解析与实验指导	0.0	1	
+Beginning JSP, JSF and Tomcat	0.0	0	
+全国计算机等级考试专用辅导教程	0.0	1	
+Java应用开发与实践	0.0	1	
+Struggling for the Umma	0.0	0	
+程序员专业开发资源库	0.0	0	
+Learning RxJava	0.0	7	
+Pro JPA 2 in Java EE 8	0.0	1	
+Riding the Dutch Tiger	0.0	0	
+Indonesian Killings 1965-1966	0.0	0	
+Javanese Peasants and the colonial sugar industry	0.0	1	
+The Nonlinear Workbook	0.0	0	
+Java Web开发案例课堂	0.0	2	
+Unmarked Graves	0.0	0	
+Invitation to Computer Science	0.0	1	
+Learn Java for Web Development	0.0	1	
+Java程序设计	0.0	0	
+Erotic Triangles	0.0	0	
+Design Patterns and Best Practices in Java	0.0	1	
+Selenium Framework Design in Data-Driven Testing	0.0	0	
+神经网络算法与实现	0.0	3	
+Lagom: The Definitive Guide	0.0	0	
+Real-World Software Development	0.0	0	
+The Java Module System	0.0	0	
+Practical Microservices Architectural Patterns	0.0	0	
+gRPC: Up and Running	0.0	0	
+Java Cookbook, 4th Edition	0.0	0	
+Worshipping Siva and Buddha	0.0	0	
+Tantric Temples	0.0	0	
+Programming AWS Lambda	0.0	0	
+Hands-On Microservices with Spring Boot and Spring Cloud	0.0	1	
+HotSpot实战	7.1	52	
+Organising under the Revolution	0.0	0	
+Java语言程序设计	0.0	1	
+Javascript Developer's Resource	0.0	0	
+Java程序设计教程	0.0	0	
+Java程序设计	0.0	0	
+高等院校计算机教育规划教材	0.0	0	
+计算机等级考试考点分析、题解与模拟	0.0	0	
+Stripes	0.0	0	
+Early Adopter JXTA	0.0	0	
+Java程序设计简明教程	0.0	0	
+L'Orienté Objet	0.0	0	
+Web Database Primer Plus	0.0	0	
+WAP Servlets	0.0	0	
+Developing Scalable Series 40 Applications	0.0	0	
+软件项目开发综合实训	0.0	0	
+Understanding Programming	0.0	0	
+Java程序设计习题与解答	0.0	0	
+NetBeans IDE 4.1	0.0	0	
+Java程序设计	0.0	0	
+Java程序设计	0.0	0	
+Java程序设计教程	0.0	0	
+Cafe Programming FrontRunner	0.0	0	
+Professional Oracle 8i	0.0	0	
+IBM Rational(R) ClearCase(R), Ant, and CruiseControl	0.0	0	
+Java程序设计教程	0.0	0	
+Acoustic Echo and Noise Control	0.0	0	
+Classical and Quantum Computing	0.0	0	
+Java程序设计案例汇编	0.0	0	
+Java程序设计实例教程	0.0	0	
+JAVA程序设计教程	0.0	0	
+Java程序设计项目教程	0.0	0	
+Enterprise Java Development on a Budget	0.0	0	
+Hacking Java	0.0	0	
+Tropical Houses	0.0	0	
+Integration-Ready Architecture and Design	0.0	0	
+Java程序设计例题解析与实验指导	0.0	0	
+Developing Java Web Services	0.0	0	
+Web Services Patterns	0.0	0	
+Programming Cameras and Pan-Tilts	0.0	0	
+Java语言程序设计	0.0	0	
+Mobile 3D Graphics	0.0	0	
+软件开发综合训练教程	0.0	0	
+Java语言程序设计	0.0	0	
+Java语言程序设计	0.0	0	
+DB2 Express-c	0.0	0	
+Java面向对象程序设计实训与考试指导	0.0	0	
+Java程序设计	0.0	0	
+Java语言程序设计	0.0	0	
+Java面向对象程序设计实验指导与习题解答	0.0	0	
+Cracking Sjpp	0.0	0	
+Java EE项目应用开发	0.0	0	
+Jit'99	0.0	0	
+Java程序设计项目化教程	0.0	0	
+Java EE Web应用开发基础	0.0	0	
+Java语言程序设计	0.0	0	
+Java语言程序设计	0.0	0	
+Java面向对象程序设计	0.0	0	
+Java面向对象程序设计	0.0	0	
+Java程序设计	0.0	0	
+Java面向对象程序设计与应用	0.0	0	
+Digitale Bildverarbeitung	0.0	0	
+Java for Practitioners	0.0	0	
+数据库技术及应用	0.0	0	
+The Nonlinear Workbook	0.0	0	
+Java面向对象程序设计	0.0	0	
+Coffee with Pleasure	0.0	0	
+Java语言实用教程	0.0	0	
+Java语言程序设计教程	0.0	0	
+The Politics of Religion in Indonesia	0.0	0	
+Java in Easy Steps	0.0	0	
+Java Web应用开发	0.0	0	
+Java语言程序设计实用教程	0.0	1	
+Java编程与实践	0.0	1	
+Java程序设计	0.0	0	
+全国计算机等级考试专用辅导教程	0.0	0	
+Java程序设计基础与实训	0.0	0	
+Java语言课程设计指导	0.0	0	
+Java Web程序设计	0.0	1	
+JAVA大学教程	0.0	0	
+Java Web应用技术与案例教程	0.0	0	
+二级Java语言	0.0	0	
+Java Web技术及应用	0.0	0	
+Java项目教程	0.0	0	
+Java Web应用基础	0.0	0	
+Java程序设计与实践教程	0.0	0	
+Java程序设计实训教程	0.0	0	
+Java程序设计	0.0	0	
+全国计算机等级考试笔试+上机全真模拟	0.0	0	
+JavaScript语言与Ajax应用	0.0	0	
+Java程序设计案例教程与实训	0.0	0	
+Java面向对象程序设计习题解答与实验	0.0	0	
+Divine Gold	0.0	0	
+Java程序设计	0.0	0	
+Java程序设计	0.0	0	
+Java SE 程序设计	0.0	0	
+Java语言程序设计	0.0	0	
+Grundkurs Computergrafik Mit Java	0.0	0	
+Peeps at Many Lands	0.0	0	
+Free Virtualization Software	0.0	0	
+Wileyplus V5 Card for Java for Everyone	0.0	0	
+Military History of Indonesia	0.0	0	
+Java大学实用教程学习指导	0.0	0	
+Java程序设计	0.0	0	
+Java程序设计教程	0.0	0	
+Java面向对象程序设计	0.0	0	
+Java EE框架开发技术与设计教程	0.0	0	
+Java应用案例分析	0.0	1	
+Japanese Occupation of Indonesia	0.0	0	
+Java程序设计	0.0	0	
+Java简明教程	0.0	0	
+Java程序设计习题与上机实践	0.0	0	
+Shipwrecks in the Java Sea	0.0	0	
+Ne Rlands-Oost-Indi	0.0	0	
+Board Game Introduction	0.0	0	
+Voyage Autour Du Monde	0.0	0	
+The Eastern Seas	0.0	0	
+Islands of the Southern Seas	0.0	0	
+Programmiersprache	0.0	0	
+de Zieke Reiziger	0.0	0	
+Class-Based Programming Languages	0.0	0	
+The Hidden Force	0.0	0	
+Object-Oriented Programming Languages	0.0	0	
+Die Inseln Des Indischen Und Stillen Meeres	0.0	0	
+Bataille Navale Du Japon	0.0	0	
+Sidin En Ik	0.0	0	
+Marginal Seas of the Indian Ocean	0.0	0	
+Computer Science	0.0	0	
+Startg Out with Java	0.0	0	
+Computer Algorithms	0.0	0	
+Intro Progrmmg	0.0	0	
+Java程序设计实用教程	0.0	0	
+Simply C#&Simply Java Pk	0.0	0	
+Religion in Indonesia, Including	0.0	0	
+Supplement	0.0	0	
+Supplement	0.0	0	
+Supplement	0.0	0	
+Ucertify Guide for Oracle Java Exam CX-310-083	0.0	0	
+A Photographic Guide to Mammals of South-East Asia	0.0	0	
+Java Data Objects	0.0	0	
+数据结构与算法分析	0.0	0	
+Java 程序设计	0.0	0	
+Handbook of Java Syntax	0.0	0	
+Architektur- Und Entwurfsmuster Der Softwaretechnik	0.0	0	
+Java与C#数据结构案例教材	0.0	0	
+软件测试人员	0.0	0	
+全国计算机等级考试2级教程	0.0	0	
+爪哇夜未眠	0.0	0	
+Java语言程序设计	0.0	0	
+Isles of the East	0.0	0	
+TeenCoder	0.0	0	
+Java Programming for Kids	0.0	0	
+Java语言程序设计	0.0	0	
+全国计算机等级考试新版无纸化上机考试题库及临考冲刺模拟实战一本通关	0.0	0	
+A Photographic Guide to Mammals of South East Asia	0.0	0	
+Component-Oriented Development and Assembly	0.0	0	
+Studyguide for Introduction to Programming with Greenfoot	0.0	0	
+Java(tm) in Practice	0.0	0	
+Java语言程序设计	0.0	0	
+IBM WebSphere MQ	0.0	0	
+Java(TM) Look and Feel Design Guidelines	0.0	0	
+Affinity	0.0	0	
+Visualage for Java Enterprise Version 2	0.0	0	
+Java ist auch eine Insel	0.0	1	
+Bundle	0.0	0	
+Kublai Khan	0.0	0	
+Essence of Java	0.0	0	
+The Java 1.1 Programmer's Reference	0.0	0	
+Informatik kompakt	0.0	0	
+Service Oriented Java Business Integration	0.0	0	
+Barnes	0.0	0	
+Exploring Wonderland	0.0	0	
+Java Primer Plus	0.0	0	
+Kursbuch Informatik	0.0	0	
+Java elements	0.0	0	
+Java Structures	0.0	0	
+Computer Organization and Architecture	0.0	0	
+MWSS	0.0	0	
+Java程序设计习题解析与实验指导	0.0	0	
+Mastering AI Programming	0.0	0	
+Cocoon 2 Programming	0.0	0	
+Einführung in Java. Objektorientiertes Programmieren mit der Java 2-Plattform	0.0	0	
+ANT Java Notes	0.0	0	
+Java程序设计教程与实训	0.0	0	
+Java面向对象程序设计实验实践教程	0.0	0	
+Java程序设计基础与应用	0.0	0	
+全国高等教育自学考试标准预测试卷·计算机及应用专业·独立本段科	0.0	0	
+Java程序设计教程	0.0	0	
+Java程序设计基础教程	0.0	0	
+Java 与面向对象程序设计实验教程	0.0	1	
+Java语言上机指导与习题解析	0.0	0	
+普通高等教育农业部"十二五"规划教材·全国高等农林院校"十二五"规划教材	0.0	0	
+J	0.0	0	
+A Naturalist's Guide to the Snakes of Southeast Asia	0.0	0	
+A Naturalist's Guide to the Mammals of Southeast Asia	0.0	0	
+Indonesia	0.0	0	
+面向对象Java技术教程	0.0	0	
+程序员专业开发资源库	0.0	0	
+Java程序设计之网络编程基础教程	0.0	0	
+Java网络程序设计	0.0	0	
+Spring Data	0.0	0	
+Java EE Development with Eclipse - Second Edition	0.0	1	
+Raspberry Pi 3 Projects for Java Programmers	0.0	0	
+Deep Learning: Practical Neural Networks with Java	0.0	0	
+Pro JavaFX 9	0.0	1	
+Mastering Java EE Development with WildFly 10	0.0	0	
+Java Web开发教程	0.0	0	
+Learning Java Functional Programming	0.0	0	
+Cloud Native Applications in Java	0.0	1	
+Java Projects	0.0	0	
+Entangled Pieties	0.0	0	
+The Politics of Colonial Exploitation	0.0	0	
+Soul Catcher	0.0	0	
+Jaranan	0.0	0	
+Law and Religion in Indonesia	0.0	0	
+Java程序设计实践教程	0.0	0	
+Unmarked Graves	0.0	0	
+Mobilizing Labour for the Global Coffee Market	0.0	0	
+Hands-On Full Stack Development with Spring Boot 2.0  and React	0.0	0	
+Reactive Programming With Java 9	0.0	0	
+Architecting Modern Java EE Applications: Designing lightweight, business-oriented enterprise applications in the age of cloud, containers, and Java EE 8	0.0	0	
+Java程序设计教程	0.0	0	
+Java程序设计教程	0.0	0	
+Java程序设计	0.0	0	
+Java程序设计案例教程	0.0	0	
+Java攻略	0.0	6	
+漫画面向对象编程	0.0	4	
+Java语言导学（英文版第6版）	0.0	1	
+新编Java程序设计教程	0.0	0	
+自考教材 JAVA语言程序设计一（2017年版）自学考试教材	0.0	1	
+Witch-Hunt and Conspiracy	0.0	0	
+数据结构与抽象	0.0	0	
+Developing Open Cloud Native Microservices	0.0	0	
+尽在双11：阿里巴巴技术演进与超越	7.1	143	
+Java完全自学手册	0.0	9	
+研磨设计模式	8.5	118	
+看透Spring MVC	7.1	69	
+深入浅出面向对象分析与设计（中文版）	8.8	104	
+RabbitMQ实战	7.2	90	
+ZooKeeper	8.1	109	
+Scala编程	8.1	163	
+Modern Compiler Implementation in Java	7.7	10	
+The Religion of Java	0.0	5	
+分布式服务框架：原理与实践	6.8	143	
+架构真经	7.5	68	
+零基础学Java	2.2	12	
+JSP & Servlet学习笔记	8.6	86	
+JavaScript高级程序设计	8.6	982	
+精通Spring 4.x	8.2	102	
+Java Persistence with Hibernate	0.0	8	

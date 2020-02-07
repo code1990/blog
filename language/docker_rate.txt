@@ -1,0 +1,188 @@
+第一本Docker书	7.3	387	
+Kubernetes权威指南	7.2	94	
+第一本Docker书 修订版	8.3	212	
+Docker——容器与容器云（第2版）	8.5	89	
+自己动手写Docker	7.2	52	
+Docker——容器与容器云	8.2	126	
+Docker 技术入门与实战	5.9	241	
+Spring Cloud与Docker微服务架构实战	6.2	90	
+Docker	6.5	13	
+Docker开发指南	8.4	19	
+Kubernetes权威指南	7.2	44	
+每天5分钟玩转Docker容器技术	8.6	33	
+Build Your Own PaaS with Docker	6.3	10	
+PaaS实现与运维管理	6.1	16	
+Docker进阶与实战	6.9	76	
+Docker源码分析	6.4	42	
+The Docker Book	8.2	57	
+Docker	0.0	0	
+深入浅出Docker	8.2	44	
+Docker开发实践	7.5	28	
+Docker in Action	8.4	39	
+Spring Cloud与Docker微服务架构实战（第2版）	0.0	5	
+Getting Started with Kubernetes	0.0	5	
+Kubernetes权威指南：从Docker到Kubernetes实践全接触（第4版）	6.8	10	
+Monitoring Docker	0.0	3	
+docker cookbook	0.0	4	
+Using docker	8.1	18	
+Docker生产环境实践指南	7.3	17	
+Mesos：大数据资源调度与大规模容器运行最佳实践	5.3	16	
+Practical Docker with Python	0.0	2	
+Docker经典实例	7.1	19	
+Docker实战	6.8	31	
+高性能Docker	7.2	17	
+Docker in Practice	0.0	8	
+Docker Cookbook	7.6	10	
+Docker从入门到实战	7.6	10	
+Spring Microservices	0.0	6	
+Docker即学即用	5.8	11	
+如何启动黄金圈思维	0.0	3	
+Docker in the Trenches	0.0	2	
+Orchestrating Docker	0.0	4	
+Docker容器实战：原理、架构与应用	0.0	8	
+Docker Networking and Service Discovery	0.0	2	
+Docker Networking Cookbook	0.0	2	
+Docker基础与实战	0.0	8	
+Kubernetes Microservices with Docker	0.0	3	
+Learning Docker	0.0	6	
+Learning Docker Networking	0.0	7	
+Pro Docker	0.0	3	
+Docker全攻略	0.0	4	
+后现代与大众文化	7.2	37	
+Kubernetes Management Design Patterns: With Docker, CoreOS Linux, and Other Platforms	0.0	1	
+Docker for Data Science	0.0	2	
+Kubernetes权威指南	7.3	45	
+Docker技术入门与实战 第3版	7.2	37	
+Learn Docker	0.0	2	
+微服务架构实战	0.0	2	
+gRPC	0.0	0	
+My Weird School #10	0.0	0	
+Docker on Windows	0.0	0	
+Mastering Docker - Second Edition	0.0	1	
+Building Enterprise JavaScript Applications	0.0	0	
+Bootstrapping Microservices	0.0	0	
+循序渐进学Docker	5.9	14	
+Is History Fiction?	0.0	0	
+微服务架构与实践	5.0	126	
+The Docker Book	0.0	4	
+Docker Deep Dive	8.2	19	
+Docker实践	6.9	14	
+Postmodernism and Popular Culture	0.0	1	
+Docker High Performance	0.0	2	
+Mastering Docker	0.0	2	
+Memoir of Mark Docker	0.0	0	
+Memoir of Mark Docker	0.0	0	
+Memoir of Mark Docker	0.0	0	
+Memoir of Mark Docker	0.0	0	
+Memoir of ... Mark Docker, with Selections from His Papers and Hymns	0.0	0	
+The DevOps 2.1 Toolkit: Docker Swarm: Building, testing, deploying, and monitoring services inside Docker Swarm clusters (The DevOps Toolkit Series) (Volume 2)	0.0	0	
+Deployment with Docker: Apply continuous integration models, deploy applications quicker, and scale at large by putting Docker to work	0.0	0	
+Docker: Docker Guide for Production Environment	0.0	0	
+Docker: Everything You Need to Know to Master Docker	0.0	0	
+Docker: Best Practices to Excel While Learning Docker Programming	0.0	0	
+Docker: Tips and Tricks to Learn Docker Programming Quickly and Efficiently	0.0	0	
+Docker: The Ultimate Beginner's Guide to Learn Docker Programming	0.0	0	
+Essential Docker for ASP.NET Core MVC	0.0	2	
+The Origins of Violence	0.0	0	
+Learning Docker - Second Edition	0.0	3	
+Swarm容器编排与Docker原生集群	0.0	3	
+Python Docker实战	0.0	1	
+Is History Fiction?	0.0	0	
+Le Docker Noir	0.0	1	
+Docker Orchestration	0.0	0	
+Troubleshooting Docker	0.0	0	
+Securing Docker	0.0	1	
+Docker容器	0.0	0	
+Docker技术入门与实战（第2版）	7.7	44	
+Dockerによるアプリケーション開発環境構築ガイド	0.0	0	
+微服务架构基础:Spring Boot+Spring Cloud+Docker	0.0	7	
+Docker in Practice	0.0	2	
+Docker容器技术与应用(云计算技术与应用专业校企合作系列教材)	0.0	1	
+Find Your Why	0.0	0	
+Docker Management Design Patterns: Swarm Mode on Amazon Web Services	0.0	2	
+Docker for Rails Developers, 1st Edition	0.0	2	
+Docker: Up & Running	0.0	1	
+Citizen Docker	0.0	0	
+Citizen Docker	0.0	0	
+Someone Else's Country	0.0	0	
+Mr. Docker Is Off His Rocker!	0.0	0	
+The Painters & Dockers Holiday Lodge	0.0	0	
+The Waterboys	0.0	0	
+Mr. Docker Is Off His Rocker!	0.0	0	
+Dudley Docker	0.0	0	
+The Safe Use of Diagnostic Ultrasound	0.0	0	
+Roller Docker	0.0	0	
+Dudley Docker	0.0	0	
+Jesus Wears Dockers	0.0	0	
+Memoir of Mark Docker, with Selections from His Papers and Hymns	0.0	0	
+The 1492	0.0	0	
+1492	0.0	0	
+English Country Lady&#039;s Book of Dried Flo	0.0	0	
+Race, Colour and Identity in Australia and New Zealand	0.0	0	
+Dockers' Stories from the Second World War	0.0	0	
+The Whole Scripture Worthy of General Circulation. a Letter to Dr. Maltby, Lord Bishop of Chichester, on the Difference Between His Lordship's Views o	0.0	0	
+How to Pass the MRCS OSCE	0.0	0	
+Bradman and the Bodyline Series	0.0	0	
+Is History Fiction?	0.0	0	
+Docker's Umbrella History of Liverpool Overhead Railway	0.0	0	
+Rogue Docker A Life of Crime in Birkenhead Docks	0.0	0	
+Deploying Rails with Docker, Kubernetes and ECS	0.0	0	
+Native Docker Clustering with Swarm	0.0	0	
+Is History Fiction?	0.0	0	
+Developing with Docker	0.0	0	
+Extending Docker	0.0	2	
+Five Last Acts - The Exit Path	0.0	0	
+Richard Docker (1894-1968)	0.0	0	
+Richard Docker	0.0	0	
+The Origins of Violence	0.0	0	
+Docker Goes to war!	0.0	0	
+Mr. Docker Is Off His Rocker!	0.0	0	
+National Amalgamated Stevedores and Dockers	0.0	0	
+Ludford Docker	0.0	0	
+Postmodernism and Popular Culture A Cultural History	0.0	0	
+Five Last Acts	0.0	0	
+Dockers and Detectives	0.0	0	
+PAINTERS AND DOCKERS	0.0	0	
+Ralph Docker	0.0	0	
+Microservices with Docker on Microsoft Azure	0.0	0	
+Docker Bootcamp	0.0	0	
+Adam Docker	0.0	0	
+Dudley Docker The Life and Times of a Trade Warrior	0.0	0	
+Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS	0.0	0	
+Real-Time Web Application Development: With ASP.NET Core, SignalR, Docker, and Azure	0.0	0	
+Docker容器与虚拟化技术	0.0	1	
+Docker Containers (includes Content Update Program): Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic (Negus Live Linux Series)	0.0	0	
+Docker for Serverless Applications	0.0	0	
+Spring Cloud与Docker高并发微服务架构设计实施	0.0	8	
+找到你的為什麼	0.0	3	
+Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用	0.0	9	
+容器云运维实战——Docker与Kubernetes集群	0.0	6	
+Generic Pipelines Using Docker	0.0	0	
+Docker微服务架构实战	0.0	7	
+Continuous Delivery with Docker and Jenkins: Delivering software at scale	0.0	0	
+Docker and Kubernetes for Java Developers: Scale, deploy, and monitor multi-container applications	0.0	0	
+没什么难的Docker入门与开发实战	0.0	2	
+Docker经典实例（影印版 英文版）	0.0	0	
+Docker使用手册（影印版）	0.0	0	
+Allan Sekula: Ship of Fools/The Dockers' Museum	0.0	0	
+Docker Complete Guide: Easy Start: from Zero to Professional User	0.0	0	
+微服务实战（Dubbox +Spring Boot+Docker）	0.0	0	
+Docker's Daughter	0.0	0	
+Docker in Action, 2nd Edition	0.0	3	
+Docker容器技术与高可用实战	0.0	0	
+微服务运维实战（第二卷）	0.0	4	
+Docker即学即用（第二版）	0.0	0	
+从Docker到Kubernetes入门与实战	0.0	0	
+Docker虚拟化技术入门与实战	0.0	0	
+Docker数据中心及其内核技术	0.0	0	
+Bekennen Sie sich schuldig?	0.0	0	
+The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices	7.5	17	
+Kubernetes	8.0	20	
+每天5分钟玩转openstack	8.3	14	
+Kubernetes实战	6.5	27	
+用Mesos框架构建分布式应用	0.0	8	
+Kubernetes Cookbook	0.0	2	
+Microservices and Containers	0.0	0	
+微服务运维实战（第一卷）	0.0	7	
+云计算与虚拟化技术	0.0	1	
+Cloud2.0 时代容器技术一本通	0.0	1	
