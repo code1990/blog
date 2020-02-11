@@ -319,39 +319,6 @@
 12.4 获取通知 390
 12.5 本章小结 393
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>精通Elastic Stack
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>钱伟长博士学位论文
-1.Introduction and summary
-PART Ⅰ GENERAL THEORY
-2.Calculation of macroscopic tensors in terms of microscopic quantities
-3.Derivation of macroscopic equations of equilibrium from microscopic considerations
-4.The macroscopic tensors in terms of the six quantities pαβ and qαβ
-5.Equations of equilibrium and compatibility in terms of the six unknowns pαβ and qαβ
-6.The equations of equilibrium and compatibility referred to the middle surface in the natural state
-PART Ⅱ APPLICATION TO THIN PLATES
-7.Classification of all thin plate problems
-8.Problems of finite deflection （ q = 0）， Types P1—P3
-9.Problems of small deflection （q≥1， p = 1；q = 1， p = 2；q ≥ 1；p ＞ 2q）， Types P4—P8
-10.Problems of very small deflection （q ≥ 2， 2q ≥ p ≥ 2）， Types P9 —P11， and problems of zero deflection （q = ∞）， Type P12
-PART Ⅱ APPLICATION TO THIN SHELLS
-11.Classification of all thin shell problems
-12.Problems of thin shells with finite curvature （b = 0）， Types SF1—SF8
-13.Problems of thin shells with small curvature （b ≥ 1） ：
-Problems effectively equivalent to thin plate problems （q ＜ b），
-Types SS1—SS11 Problems of critical deflection （q = b）， Types SS12—SS18
-14.Problems of thin shells with small curvature （b ≥ 1）： （continued）
-Problems in which the deflection is small compared with the initial
-curvature （q ＞ b）， Types SS19—SS27
-15.Certain practical applications
-（ⅰ） Type SF4： The case of a developable shell
-（ⅱ） Type SS12 and the von Karman—Tsien theory of buckling of thin shells
-Acknowledgement
-Appendices
-（ⅰ） Table Ⅰ： Table of the more frequent notations
-（ⅱ） Table Ⅱ： Table of the equations of equilibrium and compatibility of thin shell and plate problems
-（ⅲ） Table Ⅱ： Table of the external force system and the macroscopic tensors
-Bibliography
-后记
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>钱伟长博士学位论文
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Elastic Stack应用宝典
 前言
 第1章  初识Elastic Stack
